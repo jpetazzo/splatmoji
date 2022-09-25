@@ -1,3 +1,117 @@
+_	garis, garis ngisor, tandha garis, tandha pisah, tandha pisah ngisor
+-	minus, tandha garis, tandha sambung, tandha sambung-minus
+‐	tandha garis, tandha sambung
+–	en, en setrip, setrip
+—	em, em setrip, setrip
+―	garis, palang, palang mlumah, tandha garis
+・	interpunct, katakana, okeh titik, titik tengah, titik tengah katakana
+,	pada lingsa
+،	arab, pada lingsa, pada lingsa arab
+、	nduweni sifat gambar, pada lingsa, pada lingsa nduweni sifat gambar
+;	pada lungsi pada lingsa
+؛	arab, pada lingsa pada lungsi, pada lingsa pada lungsi arab
+:	pada lungsi loro
+!	sero, tandha penthung, tembung sero
+¡	kewalik, sero, tandha penthung, tandha sero, tandha sero kewalik, tembung sero
+?	pitakon, tandha pitakon
+¿	kewalik, pitakon, tandha pitakon, tandha pitakon kewalik
+؟	arab, pitakon, tandha pitakon, tandha pitakon arab
+.	bintek, mandhek dek, titik
+…	klalen, okeh titik, tandha ganti
+。	mandhek dek, nduweni sifat gambar, titik, titik nduweni sifat gambar
+·	mudhuk, tengah, titik, titik cilek
+'	apostrof, apostrof mesin tik, kutip, kutip siji
+‘	apostrof, apostrof kiwa, kutip, kutip pinter, kutip siji
+’	apostrof, apostrof tengen, kutip, kutip pinter, kutip siji
+‚	apostrof, apostrof tengen ngisor, kutip, kutip ngisor
+“	kutip, kutip loro, kutipan, kutipan pinter, tandha kutipan kiwo
+”	kutip, kutip loro, kutipan, kutipan pinter, tandha kutipan tengen
+„	kutip, kutip loro, kutipan, kutipan ngisor, kutipan pinter, tandha kutipan tengen ngisor
+«	amba, kiwa, kurung, kurung lancip kiwa, nggulung, ngutip, v kualik
+»	amba, kurung, kurung lancip tengen, nggulung, ngutip, tengen, v kualik
+)	induk, indukan, kurung, kurung bunder, tandha kurung
+[	khayal, kurung, kurung kothak, kurung kothak mbukak
+]	khayal, kurung, kurung kothak, kurung kothak nutup
+{	jepit, jepit kriwil, kurung, kurung kriwil, kurung kriwil mbukak, swiwi manuk
+}	jepit, jepit kriwil, kurung, kurung kriwil, kurung kriwil nutup, swiwi manuk
+〈	kurung, kurung panunjuk, kurung permata, kurung sudut, kurung sudut mbukak, tuple, v kewalik
+〉	kurung, kurung panunjuk, kurung permata, kurung sudut, kurung sudut nutup, tuple, v kewalik
+《	kurung, kurung sudut loro, kurung sudut loro mbukak
+》	kurung, kurung sudut loro, kurung sudut loro nutup
+「	kurung, kurung panjuru, kurung panjuru mbukak
+」	kurung, kurung panjuru, kurung panjuru nutup
+『	kurung, kurung panjuru bolong, kurung panjuru bolong mbukak
+』	kurung, kurung panjuru bolong, kurung panjuru bolong nutup
+【	kurung, kurung kantha, kurung kantha bengkok, kurung kantha ireng mbukak
+】	kurung, kurung kantha, kurung kantha bengkok, kurung kantha ireng nutup
+〔	kurung, kurung tempurung bulus, kurung tempurung bulus mbukak, tempurung bulus
+〕	kurung, kurung tempurung bulus, kurung tempurung bulus nutup, tempurung bulus
+〖	kurung, kurung kantha bengkok bolong, kurung kantha bolong, kurung kantha bolong mbukak
+〗	kurung, kurung kantha bengkok bolong, kurung kantha bolong, kurung kantha bolong nutup
+§	bagean, bagean cilik, gugus ukara, tanda bagean
+¶	alinea, pilcrow, tandha ukara, tembung, ukoro
+@	ampersat, arobase, arroba, at, at komersial, strudel, tandha at
+*️	lintang, tandha lintang, wildcard
+/	garis mireng, oblique, solidus, stroke, virgule, whack
+\	mbalik, solidus, tandha mireng kewalik, whack
+&	et, lan, tandha lan
+#️	angka, lb, ngiris, pound, tandha pager
+%	per sen, per-sen, persen
+‰	per mil, permil, permill
+†	lading, obelisk, obelus, tanda lading
+‡	lading, obelisk, obelus, pindo, tanda lading pindo
+•	pluru, titik
+‧	tandha garis, tandha sambung, titik, titik tandha sambung
+′	tandha kuthip
+″	tandha kuthip loro, tandha kutip loro
+‴	tandha kutip telu
+※	tandha referensi
+`	abot, aksen, aksen abot, gendhing
+´	aksen, aksen alus, alus, gendhing
+^	aksen, aksen sirkomflek, dhaya, kontrol, panunjuk, pathok, tandha sisipan, topi
+¨	diaeresis, tréma, umlaut
+°	bukti, drajat, jam
+℗	hak cipta, hak cipta rekaman swara, rekaman, swara
+←	kiwo, panah, panah nuding ngiwo
+→	panah, panah nuding nengen, tengen
+↑	ndhuwur, panah, panah nuding ndhuwur
+↓	ngisor, panah, panah nuding ngisor
+⇅	ndhuwur, ngisor, panah, panah nuding ndhuwur lan nuding ngisor
+⇆	kiwo, panah, panah nuding ngiwo lewat sisih tengen, tengen
+∆	mundhak, pesagi telu
+∇	mlorot, pesagi telu
+∈	kaanggotaan, ngamot, set, unsur, unsur saka
++	ditambahi, tambah, tandha tambah
+±	kurang luwih
+÷	dipara, obelus, para, tandha para
+×	dipingke, kaping, ping-pingan, tandha ping-pingan
+<	luwih cilik, tandha, tandha mbuka
+=	pada karo
+≠	ora imbang, ora podho, ora roto
+>	luwih gedhe, tandha, tandha tutup
+¬	nolak, ora
+|	coretan, garis, garis tegak lurus, lembing, palang, palang tegak lurus, pipo, tongkat
+~	garis kriwil
+−	dikurangi, kurang, tandha kurang
+⁻	kurang, tandha kurang ing dhuwur, tika ngisor
+√	oyod, oyod peng loro, peng loro, radikal, radix, surd
+∞	tandha tanpa wates, tanpa wates
+∩	set, simpangan
+∪	koleksi, sarekat, set
+≈	kiro-kiro, meh pada, prakiroan
+≡	peng telu, persis, podho, podho karo
+≤	luwih cilik, luwih cilik utowo podho, ora podho, podho, podho karo
+≥	luwih gedhe, luwih gedhe utowo podho, ora podho, podho, podho karo
+⊂	set, subset, subset saka
+▲	kapenuhan, ndhuwur, panah, pesagi telu, pesagi telu kapenuhan pucuke ing ndhuwur
+▼	kapenuhan, ngisor, panah, pesagi telu, pesagi telu kapenuhan pucuke ing ngisor
+◊	kupatan, pesagi papat kupatan, sigaran kupatan
+○	binderan, bunderan kothong, cincen
+●	bundera kapenuhan, bunderan, bunderan kapenuhan
+◯	bunderan, bunderan kothong gedhe, cincen
+♪	gendhing, gendhing wolu, karawitan, wolu
+♭	bemolle, gendhing, karawitan, warata
+♯	diesis, dièse, gendhing, karawitan, landep
 😀	guyu, rai, rai ngguyu
 😃	cangkem, menga, mesem, rai, rai ngguyu matane mblalak
 😄	cangkem, mata, menga, mesem, rai, rai ngguyu nganti merem-merem
@@ -8,6 +122,7 @@
 😂	bungah, guyu, luh, rai, rai ngguyu nganti luhen saking bungahe
 🙂	mesem, rai, rai mesem
 🙃	kuwalik, rai, rai kuwalik
+🫠	cairan, ilang, larut, lebur, rai lebur
 😉	kedhèp, rai, rai ngedhèpi
 😊	abang pipine, mata, mesem, rai, rai mesem matane merem
 😇	fantasi, rai, rai mesem mawa tandha santo ing sirahe, suci, tandha santo
@@ -19,6 +134,7 @@
 ☺️	anteng, gambar sketsa, mesem, rai, rai lagi mesem
 😚	ambung, mata, merem, rai, rai ngambung karo matane merem
 😙	ambung, mata, mesem, rai, rai ngambung matane merem bungah
+🥲	bangga, luh, matur nuwun, mesem, nguculake, nyentuh, rai mesem nanging mripat luhen
 😋	enak, mesem, rai, rai themal-themel mangan, sedhep, themal-themel
 😛	ilat, rai, rai melet
 😜	guyon, kedhep, mata, melet, rai, rai kedhep karo melet
@@ -27,17 +143,23 @@
 🤑	dhuwit, ijo, rai, rai mata dhuwiten
 🤗	nyikep, rai, rai nyikep, sikep
 🤭	rai mawa tangan nutupi cangkem, waduh
+🫢	gumun, kaget, nggumun, ngisin-isini, ora percaya, rai mawa mata melek lan tangan nutupi cangkem, wedi
+🫣	kepincut, mentheleng, ngintip, rai mawa mripat ngintip
 🤫	hus, meneng, rai ngaba-aba akon meneng, rai ngaba-aba hus
 🤔	mikir, rai, rai mikir
+🫡	cerah, hormat, iyo, rai hormat, wadya bala, yoh
 🤐	cangkem, leregan, rai, rai sing leregan lambene ditutup
 🤨	ora percaya, rai alise siji kaangkat, skeptis
 😐️	anteng, luweh, rai, rai anteng, tanpa ekspresi
 😑	luweh, rai, rai tanpa ekspresi, tanpa ekspresi
 😶	anteng, cangkem, meneng, rai, rai tanpa cangkem
+🫥	ilang, introvet, nandang shungkowo, ndelik, ora ketok, rai garis strip
+😶‍🌫	lalenan, rai ora dong, rai ora mudeng, sirah ora dong
 😏	ngenyek, rai, rai mesem ngenyek
 😒	anyel, rai, rai wegah ngguyu, wegah ngguyu
 🙄	mata, mlerok, rai, rai matane mlerok
 😬	mbatek, rai, rai mringis mbatek
+😮‍💨	ambegan, lega, mbisiki, megap-megap, nglenguh, rai ambegan lego, singsot
 🤥	ngapusi, pinokio, rai, rai ngapusi
 😌	lega, rai, rai lega
 😔	kesel ati, mikir, rai, rai sedhih anggone mikir
@@ -54,13 +176,16 @@
 🥶	atis, kadhemen, mati rasa amarga kadhemen, rai biru katisen, rai katisen
 🥴	cangkem mlethat-mlethot, mata ora pakra, mendem, mlaku ora jejeg, mumet, rai mendem
 😵	mumet, rai, rai mumet
+😵‍💫	alangan, hipnotis, kodisek, ngelu, ngluwer, rai ngelu
 🤯	njeblug ndhase, rai ndhase njeblug, tratapan
 🤠	koboi lanang, koboi wadon, rai, rai nganggo topi koboi, topi
 🥳	pista, rai pista, seneng-seneng, topi, trompet
+🥸	irung, kaca mripat, nyamarake, nyamarke, rai, rai disamarno
 😎	blereng, kacamata ireng, nggaya, rai, rai mesem nganggo kacamata ireng, srengenge
 🤓	kutu buku, kutu komputer, rai, rai kutu buku
 🧐	kolot, rai nganggo kacamata lensa tunggal
 😕	bingung, owalah, rai, rai bingung
+🫤	kuciwo, mamang, owalah, ra yakin, rai lambene menjeb
 😟	kuwatir, rai, rai kuwatir
 🙁	rai, rai susah, susah
 ☹️	nelangsa, rai, rai nelangsa
@@ -69,6 +194,7 @@
 😲	babar pisan, gumun, kaget, rai, rai gumun
 😳	isin, kaget, rai, rai isin
 🥺	mata ngarep-arep, ngarep-arep, rai ngarep-arep welas, welas
+🥹	bangga, nangis, nesu, nolak, rai mbrambangi, sedhih
 😦	cangkem, menga, rai, rai sedhih karo mlongo, sedhih
 😧	kaget lan kuciwa, rai, rai kaget lan kuciwa
 😨	keweden, kuwatir, rai, rai keweden, wedi
@@ -112,7 +238,6 @@
 🙈	aja ndelengake sing ala, ala, larangan, munyuk, munyuk aja ndelengake sing ala, rai, weruh
 🙉	aja ngrungokake sing ala, ala, krungu, larangan, munyuk, munyuk aja ngrungokake sing ala, rai
 🙊	aja omong sing ala, ala, larangan, munyuk, munyuk aja omong sing ala, omong, rai
-💋	ambung, lambe, tandha ambung
 💌	ati, katresnan, layang, layang katresnan, surat
 💘	ati katuncep panah, kupid, panah
 💝	ati ditaleni pita, pita, valentin
@@ -124,6 +249,8 @@
 💟	ati, dhekorasi ati
 ❣️	mbangetake, tandha, tandha penthung wujude ati, tandha wacan
 💔	kelaran, lara, lara ati
+❤‍🔥	ati, ati kasmaran, ati resik, kobong, pepinginan, tresna
+❤‍🩹	luwih waras, mbalekake, mulehake awak, ndandani, ndandani ati, ningkatake, waras
 ❤️	ati, ati abang
 🧡	ati kunir, kunir
 💛	ati kuning, kuning
@@ -133,6 +260,7 @@
 🤎	ati, ati soklat, soklat
 🖤	ala, ati ireng, culika, ireng
 🤍	ati, ati putih, putih
+💋	ambung, lambe, tandha ambung
 💯	100, biji satus, kebak, satus, sekor
 💢	komik, muring, nesu, simbol nesu
 💥	komik, mak brak, tabrakan
@@ -140,7 +268,6 @@
 💦	komik, kringet, nyiprat, tesing kringet
 💨	geblas, komik, mlayu, nggeblas
 🕳️	bolongan
-💣️	bom, komik
 💬	balon, balon omongan, dhiyalog, komik, omongan, plendhungan
 👁‍🗨	balon omongan, mata, mata ing njero balon omongan, seksi
 🗨️	balon omongan sisih kiwa, dhiyalog, omongan
@@ -177,12 +304,62 @@
 🖖🏽	driji, kulit kuning, ngurmat cara bangsa vulcan, ngurmat cara bangsa vulcan: kulit kuning, spock, tangan, vulcan
 🖖🏾	driji, kulit sawo mateng, ngurmat cara bangsa vulcan, ngurmat cara bangsa vulcan: kulit sawo mateng, spock, tangan, vulcan
 🖖🏿	driji, kulit ireng, ngurmat cara bangsa vulcan, ngurmat cara bangsa vulcan: kulit ireng, spock, tangan, vulcan
+🫱	nengen, tangan, tangan tengen, tengen
+🫱🏻	kulit putih, nengen, tangan, tangan tengen: kulit putih, tengen
+🫱🏼	kulit putih langsep, nengen, tangan, tangan tengen: kulit putih langsep, tengen
+🫱🏽	kulit kuning, nengen, tangan, tangan tengen: kulit kuning, tengen
+🫱🏾	kulit sawo mateng, nengen, tangan, tangan tengen: kulit sawo mateng, tengen
+🫱🏿	kulit ireng, nengen, tangan, tangan tengen: kulit ireng, tengen
+🫱🏻‍🫲🏼	kulit putih, kulit putih langsep, rapat, salam, salaman, salaman: kulit putih, kulit putih langsep, sarujuk, tangan
+🫱🏻‍🫲🏽	kulit kuning, kulit putih, rapat, salam, salaman, salaman: kulit putih, kulit kuning, sarujuk, tangan
+🫱🏻‍🫲🏾	kulit putih, kulit sawo mateng, rapat, salam, salaman, salaman: kulit putih, kulit sawo mateng, sarujuk, tangan
+🫱🏻‍🫲🏿	kulit ireng, kulit putih, rapat, salam, salaman, salaman: kulit putih, kulit ireng, sarujuk, tangan
+🫱🏼‍🫲🏻	kulit putih, kulit putih langsep, rapat, salam, salaman, salaman: kulit putih langsep, kulit putih, sarujuk, tangan
+🫱🏼‍🫲🏽	kulit kuning, kulit putih langsep, rapat, salam, salaman, salaman: kulit putih langsep, kulit kuning, sarujuk, tangan
+🫱🏼‍🫲🏾	kulit putih langsep, kulit sawo mateng, rapat, salam, salaman, salaman: kulit putih langsep, kulit sawo mateng, sarujuk, tangan
+🫱🏼‍🫲🏿	kulit ireng, kulit putih langsep, rapat, salam, salaman, salaman: kulit putih langsep, kulit ireng, sarujuk, tangan
+🫱🏽‍🫲🏻	kulit kuning, kulit putih, rapat, salam, salaman, salaman: kulit kuning, kulit putih, sarujuk, tangan
+🫱🏽‍🫲🏼	kulit kuning, kulit putih langsep, rapat, salam, salaman, salaman: kulit kuning, kulit putih langsep, sarujuk, tangan
+🫱🏽‍🫲🏾	kulit kuning, kulit sawo mateng, rapat, salam, salaman, salaman: kulit kuning, kulit sawo mateng, sarujuk, tangan
+🫱🏽‍🫲🏿	kulit ireng, kulit kuning, rapat, salam, salaman, salaman: kulit kuning, kulit ireng, sarujuk, tangan
+🫱🏾‍🫲🏻	kulit putih, kulit sawo mateng, rapat, salam, salaman, salaman: kulit sawo mateng, kulit putih, sarujuk, tangan
+🫱🏾‍🫲🏼	kulit putih langsep, kulit sawo mateng, rapat, salam, salaman, salaman: kulit sawo mateng, kulit putih langsep, sarujuk, tangan
+🫱🏾‍🫲🏽	kulit kuning, kulit sawo mateng, rapat, salam, salaman, salaman: kulit sawo mateng, kulit kuning, sarujuk, tangan
+🫱🏾‍🫲🏿	kulit ireng, kulit sawo mateng, rapat, salam, salaman, salaman: kulit sawo mateng, kulit ireng, sarujuk, tangan
+🫱🏿‍🫲🏻	kulit ireng, kulit putih, rapat, salam, salaman, salaman: kulit ireng, kulit putih, sarujuk, tangan
+🫱🏿‍🫲🏼	kulit ireng, kulit putih langsep, rapat, salam, salaman, salaman: kulit ireng, kulit putih langsep, sarujuk, tangan
+🫱🏿‍🫲🏽	kulit ireng, kulit kuning, rapat, salam, salaman, salaman: kulit ireng, kulit kuning, sarujuk, tangan
+🫱🏿‍🫲🏾	kulit ireng, kulit sawo mateng, rapat, salam, salaman, salaman: kulit ireng, kulit sawo mateng, sarujuk, tangan
+🫲	kiwo, ngiwo, tangan, tangan kiwo
+🫲🏻	kiwo, kulit putih, ngiwo, tangan, tangan kiwo: kulit putih
+🫲🏼	kiwo, kulit putih langsep, ngiwo, tangan, tangan kiwo: kulit putih langsep
+🫲🏽	kiwo, kulit kuning, ngiwo, tangan, tangan kiwo: kulit kuning
+🫲🏾	kiwo, kulit sawo mateng, ngiwo, tangan, tangan kiwo: kulit sawo mateng
+🫲🏿	kiwo, kulit ireng, ngiwo, tangan, tangan kiwo: kulit ireng
+🫳	ndeleh, ngilangke, ngusir, tangan madep ngisor
+🫳🏻	kulit putih, ndeleh, ngilangke, ngusir, tangan madep ngisor, tangan madep ngisor: kulit putih
+🫳🏼	kulit putih langsep, ndeleh, ngilangke, ngusir, tangan madep ngisor, tangan madep ngisor: kulit putih langsep
+🫳🏽	kulit kuning, ndeleh, ngilangke, ngusir, tangan madep ngisor, tangan madep ngisor: kulit kuning
+🫳🏾	kulit sawo mateng, ndeleh, ngilangke, ngusir, tangan madep ngisor, tangan madep ngisor: kulit sawo mateng
+🫳🏿	kulit ireng, ndeleh, ngilangke, ngusir, tangan madep ngisor, tangan madep ngisor: kulit ireng
+🫴	nangkap, nawareke, tangan madep nduwur, teko, wenehke
+🫴🏻	kulit putih, nangkap, nawareke, tangan madep nduwur, tangan madep nduwur: kulit putih, teko, wenehke
+🫴🏼	kulit putih langsep, nangkap, nawareke, tangan madep nduwur, tangan madep nduwur: kulit putih langsep, teko, wenehke
+🫴🏽	kulit kuning, nangkap, nawareke, tangan madep nduwur, tangan madep nduwur: kulit kuning, teko, wenehke
+🫴🏾	kulit sawo mateng, nangkap, nawareke, tangan madep nduwur, tangan madep nduwur: kulit sawo mateng, teko, wenehke
+🫴🏿	kulit ireng, nangkap, nawareke, tangan madep nduwur, tangan madep nduwur: kulit ireng, teko, wenehke
 👌	OK, tangan, tangan nuduhake tandha OK
 👌🏻	OK, kulit putih, tangan, tangan nuduhake tandha OK, tangan nuduhake tandha OK: kulit putih
 👌🏼	OK, kulit putih langsep, tangan, tangan nuduhake tandha OK, tangan nuduhake tandha OK: kulit putih langsep
 👌🏽	OK, kulit kuning, tangan, tangan nuduhake tandha OK, tangan nuduhake tandha OK: kulit kuning
 👌🏾	OK, kulit sawo mateng, tangan, tangan nuduhake tandha OK, tangan nuduhake tandha OK: kulit sawo mateng
 👌🏿	OK, kulit ireng, tangan, tangan nuduhake tandha OK, tangan nuduhake tandha OK: kulit ireng
+🤌	basa tangan, digatukake, driji, driji digatukake, interogasi, landep
+🤌🏻	basa tangan, digatukake, driji, driji digatukake: kulit putih, interogasi, kulit putih, landep
+🤌🏼	basa tangan, digatukake, driji, driji digatukake: kulit putih langsep, interogasi, kulit putih langsep, landep
+🤌🏽	basa tangan, digatukake, driji, driji digatukake: kulit kuning, interogasi, kulit kuning, landep
+🤌🏾	basa tangan, digatukake, driji, driji digatukake: kulit sawo mateng, interogasi, kulit sawo mateng, landep
+🤌🏿	basa tangan, digatukake, driji, driji digatukake: kulit ireng, interogasi, kulit ireng, landep
 🤏	sethithik bae, tangan njiwit
 🤏🏻	kulit putih, sethithik bae, tangan njiwit, tangan njiwit: kulit putih
 🤏🏼	kulit putih langsep, sethithik bae, tangan njiwit, tangan njiwit: kulit putih langsep
@@ -201,6 +378,12 @@
 🤞🏽	driji, driji loro tetalenan, driji loro tetalenan: kulit kuning, kabegjan, kulit kuning, tangan, tetalen
 🤞🏾	driji, driji loro tetalenan, driji loro tetalenan: kulit sawo mateng, kabegjan, kulit sawo mateng, tangan, tetalen
 🤞🏿	driji, driji loro tetalenan, driji loro tetalenan: kulit ireng, kabegjan, kulit ireng, tangan, tetalen
+🫰	ati, duwit, larang, swara seru, tangan mawa jempol karo driji telunjuk tetalenan, trisno
+🫰🏻	ati, duwit, kulit putih, larang, swara seru, tangan mawa jempol karo driji telunjuk tetalenan, tangan mawa jempol karo driji telunjuk tetalenan: kulit putih, trisno
+🫰🏼	ati, duwit, kulit putih langsep, larang, swara seru, tangan mawa jempol karo driji telunjuk tetalenan, tangan mawa jempol karo driji telunjuk tetalenan: kulit putih langsep, trisno
+🫰🏽	ati, duwit, kulit kuning, larang, swara seru, tangan mawa jempol karo driji telunjuk tetalenan, tangan mawa jempol karo driji telunjuk tetalenan: kulit kuning, trisno
+🫰🏾	ati, duwit, kulit sawo mateng, larang, swara seru, tangan mawa jempol karo driji telunjuk tetalenan, tangan mawa jempol karo driji telunjuk tetalenan: kulit sawo mateng, trisno
+🫰🏿	ati, duwit, kulit ireng, larang, swara seru, tangan mawa jempol karo driji telunjuk tetalenan, tangan mawa jempol karo driji telunjuk tetalenan: kulit ireng, trisno
 🤟	ILY, tangan, tangan nuduhake tandha tresna sliramu
 🤟🏻	ILY, kulit putih, tangan, tangan nuduhake tandha tresna sliramu, tangan nuduhake tandha tresna sliramu: kulit putih
 🤟🏼	ILY, kulit putih langsep, tangan, tangan nuduhake tandha tresna sliramu, tangan nuduhake tandha tresna sliramu: kulit putih langsep
@@ -255,6 +438,12 @@
 ☝🏽	driji, driji panuduh, driji panuduh ngacung, driji panuduh ngacung: kulit kuning, kulit kuning, ngacung, nuding, tangan
 ☝🏾	driji, driji panuduh, driji panuduh ngacung, driji panuduh ngacung: kulit sawo mateng, kulit sawo mateng, ngacung, nuding, tangan
 ☝🏿	driji, driji panuduh, driji panuduh ngacung, driji panuduh ngacung: kulit ireng, kulit ireng, ngacung, nuding, tangan
+🫵	driji panuduh seng ngewasi, kowe, panuduh
+🫵🏻	driji panuduh seng ngewasi, driji panuduh seng ngewasi: kulit putih, kowe, kulit putih, panuduh
+🫵🏼	driji panuduh seng ngewasi, driji panuduh seng ngewasi: kulit putih langsep, kowe, kulit putih langsep, panuduh
+🫵🏽	driji panuduh seng ngewasi, driji panuduh seng ngewasi: kulit kuning, kowe, kulit kuning, panuduh
+🫵🏾	driji panuduh seng ngewasi, driji panuduh seng ngewasi: kulit sawo mateng, kowe, kulit sawo mateng, panuduh
+🫵🏿	driji panuduh seng ngewasi, driji panuduh seng ngewasi: kulit ireng, kowe, kulit ireng, panuduh
 👍️	+1, jempol, jempol ngacung, ngacung, tangan
 👍🏻	+1, jempol, jempol ngacung: kulit putih, kulit putih, ngacung, tangan
 👍🏼	+1, jempol, jempol ngacung: kulit putih langsep, kulit putih langsep, ngacung, tangan
@@ -303,6 +492,12 @@
 🙌🏽	diangkat, hore, isarat, kulit kuning, pista, tangan, tangan loro diangkat, tangan loro diangkat: kulit kuning
 🙌🏾	diangkat, hore, isarat, kulit sawo mateng, pista, tangan, tangan loro diangkat, tangan loro diangkat: kulit sawo mateng
 🙌🏿	diangkat, hore, isarat, kulit ireng, pista, tangan, tangan loro diangkat, tangan loro diangkat: kulit ireng
+🫶	tangan loro mbentuk ati, trisno
+🫶🏻	kulit putih, tangan loro mbentuk ati, tangan loro mbentuk ati: kulit putih, trisno
+🫶🏼	kulit putih langsep, tangan loro mbentuk ati, tangan loro mbentuk ati: kulit putih langsep, trisno
+🫶🏽	kulit kuning, tangan loro mbentuk ati, tangan loro mbentuk ati: kulit kuning, trisno
+🫶🏾	kulit sawo mateng, tangan loro mbentuk ati, tangan loro mbentuk ati: kulit sawo mateng, trisno
+🫶🏿	kulit ireng, tangan loro mbentuk ati, tangan loro mbentuk ati: kulit ireng, trisno
 👐	mlumah, tangan, tangan loro mlumah
 👐🏻	kulit putih, mlumah, tangan, tangan loro mlumah, tangan loro mlumah: kulit putih
 👐🏼	kulit putih langsep, mlumah, tangan, tangan loro mlumah, tangan loro mlumah: kulit putih langsep
@@ -316,6 +511,11 @@
 🤲🏾	kulit sawo mateng, ndonga, tangan loro mandho nadhah amin, tangan loro mandho nadhah amin: kulit sawo mateng, tangan loro nadhah
 🤲🏿	kulit ireng, ndonga, tangan loro mandho nadhah amin, tangan loro mandho nadhah amin: kulit ireng, tangan loro nadhah
 🤝	rapat, salam, salaman, sarujuk, tangan
+🤝🏻	kulit putih, rapat, salam, salaman, salaman: kulit putih, sarujuk, tangan
+🤝🏼	kulit putih langsep, rapat, salam, salaman, salaman: kulit putih langsep, sarujuk, tangan
+🤝🏽	kulit kuning, rapat, salam, salaman, salaman: kulit kuning, sarujuk, tangan
+🤝🏾	kulit sawo mateng, rapat, salam, salaman, salaman: kulit sawo mateng, sarujuk, tangan
+🤝🏿	kulit ireng, rapat, salam, salaman, salaman: kulit ireng, sarujuk, tangan
 🙏	maturnuwun, ndonga, njaluk, nyenyuwun, tangan, tangan nyembah
 🙏🏻	kulit putih, maturnuwun, ndonga, njaluk, nyenyuwun, tangan, tangan nyembah, tangan nyembah: kulit putih
 🙏🏼	kulit putih langsep, maturnuwun, ndonga, njaluk, nyenyuwun, tangan, tangan nyembah, tangan nyembah: kulit putih langsep
@@ -379,12 +579,15 @@
 👃🏾	awak, irung, irung: kulit sawo mateng, kulit sawo mateng
 👃🏿	awak, irung, irung: kulit ireng, kulit ireng
 🧠	pinter, utek
+🫀	anatomi, deg-degan, jantung, kardiologi, organ
+🫁	ambegan, ngetokake ambegan, nglebokake ambegan, organ, paru, respirasi
 🦷	dokter untu, untu
 🦴	balung, wrangka
 👀	mata, mata sakloron, rai
 👁️	awak, mata
 👅	awak, ilat
 👄	cangkem, lambe
+🫦	gugup, kepikiran, kuwatir, nyokot lambe, ora kepenak, pacaran, wedi
 👶	bayi, nom
 👶🏻	bayi, bayi: kulit putih, kulit putih, nom
 👶🏼	bayi, bayi: kulit putih langsep, kulit putih langsep, nom
@@ -421,24 +624,144 @@
 👱🏽	kulit kuning, pirang, rambut, rambute pirang, wong arambut pirang, wong: kulit kuning, rambute pirang, wong: rambute pirang
 👱🏾	kulit sawo mateng, pirang, rambut, rambute pirang, wong arambut pirang, wong: kulit sawo mateng, rambute pirang, wong: rambute pirang
 👱🏿	kulit ireng, pirang, rambut, rambute pirang, wong arambut pirang, wong: kulit ireng, rambute pirang, wong: rambute pirang
+🧑🏻‍❤‍💋‍🧑🏼	ambung, ambung: wong, wong, kulit putih, kulit putih langsep, kulit putih, kulit putih langsep, pasangan, wong
+🧑🏻‍❤‍💋‍🧑🏽	ambung, ambung: wong, wong, kulit putih, kulit kuning, kulit kuning, kulit putih, pasangan, wong
+🧑🏻‍❤‍💋‍🧑🏾	ambung, ambung: wong, wong, kulit putih, kulit sawo mateng, kulit putih, kulit sawo mateng, pasangan, wong
+🧑🏻‍❤‍💋‍🧑🏿	ambung, ambung: wong, wong, kulit putih, kulit ireng, kulit ireng, kulit putih, pasangan, wong
+🧑🏼‍❤‍💋‍🧑🏻	ambung, ambung: wong, wong, kulit putih langsep, kulit putih, kulit putih, kulit putih langsep, pasangan, wong
+🧑🏼‍❤‍💋‍🧑🏽	ambung, ambung: wong, wong, kulit putih langsep, kulit kuning, kulit kuning, kulit putih langsep, pasangan, wong
+🧑🏼‍❤‍💋‍🧑🏾	ambung, ambung: wong, wong, kulit putih langsep, kulit sawo mateng, kulit putih langsep, kulit sawo mateng, pasangan, wong
+🧑🏼‍❤‍💋‍🧑🏿	ambung, ambung: wong, wong, kulit putih langsep, kulit ireng, kulit ireng, kulit putih langsep, pasangan, wong
+🧑🏽‍❤‍💋‍🧑🏻	ambung, ambung: wong, wong, kulit kuning, kulit putih, kulit kuning, kulit putih, pasangan, wong
+🧑🏽‍❤‍💋‍🧑🏼	ambung, ambung: wong, wong, kulit kuning, kulit putih langsep, kulit kuning, kulit putih langsep, pasangan, wong
+🧑🏽‍❤‍💋‍🧑🏾	ambung, ambung: wong, wong, kulit kuning, kulit sawo mateng, kulit kuning, kulit sawo mateng, pasangan, wong
+🧑🏽‍❤‍💋‍🧑🏿	ambung, ambung: wong, wong, kulit kuning, kulit ireng, kulit ireng, kulit kuning, pasangan, wong
+🧑🏾‍❤‍💋‍🧑🏻	ambung, ambung: wong, wong, kulit sawo mateng, kulit putih, kulit putih, kulit sawo mateng, pasangan, wong
+🧑🏾‍❤‍💋‍🧑🏼	ambung, ambung: wong, wong, kulit sawo mateng, kulit putih langsep, kulit putih langsep, kulit sawo mateng, pasangan, wong
+🧑🏾‍❤‍💋‍🧑🏽	ambung, ambung: wong, wong, kulit sawo mateng, kulit kuning, kulit kuning, kulit sawo mateng, pasangan, wong
+🧑🏾‍❤‍💋‍🧑🏿	ambung, ambung: wong, wong, kulit sawo mateng, kulit ireng, kulit ireng, kulit sawo mateng, pasangan, wong
+🧑🏿‍❤‍💋‍🧑🏻	ambung, ambung: wong, wong, kulit ireng, kulit putih, kulit ireng, kulit putih, pasangan, wong
+🧑🏿‍❤‍💋‍🧑🏼	ambung, ambung: wong, wong, kulit ireng, kulit putih langsep, kulit ireng, kulit putih langsep, pasangan, wong
+🧑🏿‍❤‍💋‍🧑🏽	ambung, ambung: wong, wong, kulit ireng, kulit kuning, kulit ireng, kulit kuning, pasangan, wong
+🧑🏿‍❤‍💋‍🧑🏾	ambung, ambung: wong, wong, kulit ireng, kulit sawo mateng, kulit ireng, kulit sawo mateng, pasangan, wong
+🧑🏻‍❤‍🧑🏼	kulit putih, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit putih, kulit putih langsep, tresna, wong
+🧑🏻‍❤‍🧑🏽	kulit kuning, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit putih, kulit kuning, tresna, wong
+🧑🏻‍❤‍🧑🏾	kulit putih, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit putih, kulit sawo mateng, tresna, wong
+🧑🏻‍❤‍🧑🏿	kulit ireng, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit putih, kulit ireng, tresna, wong
+🧑🏼‍❤‍🧑🏻	kulit putih, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit putih langsep, kulit putih, tresna, wong
+🧑🏼‍❤‍🧑🏽	kulit kuning, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit putih langsep, kulit kuning, tresna, wong
+🧑🏼‍❤‍🧑🏾	kulit putih langsep, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit putih langsep, kulit sawo mateng, tresna, wong
+🧑🏼‍❤‍🧑🏿	kulit ireng, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit putih langsep, kulit ireng, tresna, wong
+🧑🏽‍❤‍🧑🏻	kulit kuning, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit kuning, kulit putih, tresna, wong
+🧑🏽‍❤‍🧑🏼	kulit kuning, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit kuning, kulit putih langsep, tresna, wong
+🧑🏽‍❤‍🧑🏾	kulit kuning, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit kuning, kulit sawo mateng, tresna, wong
+🧑🏽‍❤‍🧑🏿	kulit ireng, kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit kuning, kulit ireng, tresna, wong
+🧑🏾‍❤‍🧑🏻	kulit putih, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit sawo mateng, kulit putih, tresna, wong
+🧑🏾‍❤‍🧑🏼	kulit putih langsep, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit sawo mateng, kulit putih langsep, tresna, wong
+🧑🏾‍❤‍🧑🏽	kulit kuning, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit sawo mateng, kulit kuning, tresna, wong
+🧑🏾‍❤‍🧑🏿	kulit ireng, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit sawo mateng, kulit ireng, tresna, wong
+🧑🏿‍❤‍🧑🏻	kulit ireng, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit ireng, kulit putih, tresna, wong
+🧑🏿‍❤‍🧑🏼	kulit ireng, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit ireng, kulit putih langsep, tresna, wong
+🧑🏿‍❤‍🧑🏽	kulit ireng, kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit ireng, kulit kuning, tresna, wong
+🧑🏿‍❤‍🧑🏾	kulit ireng, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong, wong, kulit ireng, kulit sawo mateng, tresna, wong
+🧑‍🦰	jender netral, ora tamtu lanang wadone, rambut abang, wong, wong diwasa, wong: rambut abang
+🧑🏻‍🦰	jender netral, kulit putih, ora tamtu lanang wadone, rambut abang, wong, wong diwasa, wong: kulit putih, rambut abang
+🧑🏼‍🦰	jender netral, kulit putih langsep, ora tamtu lanang wadone, rambut abang, wong, wong diwasa, wong: kulit putih langsep, rambut abang
+🧑🏽‍🦰	jender netral, kulit kuning, ora tamtu lanang wadone, rambut abang, wong, wong diwasa, wong: kulit kuning, rambut abang
+🧑🏾‍🦰	jender netral, kulit sawo mateng, ora tamtu lanang wadone, rambut abang, wong, wong diwasa, wong: kulit sawo mateng, rambut abang
+🧑🏿‍🦰	jender netral, kulit ireng, ora tamtu lanang wadone, rambut abang, wong, wong diwasa, wong: kulit ireng, rambut abang
+🧑‍🦱	jender netral, ora tamtu lanang wadone, rambut brintik, wong, wong diwasa, wong: rambut brintik
+🧑🏻‍🦱	jender netral, kulit putih, ora tamtu lanang wadone, rambut brintik, wong, wong diwasa, wong: kulit putih, rambut brintik
+🧑🏼‍🦱	jender netral, kulit putih langsep, ora tamtu lanang wadone, rambut brintik, wong, wong diwasa, wong: kulit putih langsep, rambut brintik
+🧑🏽‍🦱	jender netral, kulit kuning, ora tamtu lanang wadone, rambut brintik, wong, wong diwasa, wong: kulit kuning, rambut brintik
+🧑🏾‍🦱	jender netral, kulit sawo mateng, ora tamtu lanang wadone, rambut brintik, wong, wong diwasa, wong: kulit sawo mateng, rambut brintik
+🧑🏿‍🦱	jender netral, kulit ireng, ora tamtu lanang wadone, rambut brintik, wong, wong diwasa, wong: kulit ireng, rambut brintik
+🧑‍🦳	jender netral, ora tamtu lanang wadone, rambut putih, wong, wong diwasa, wong: rambut putih
+🧑🏻‍🦳	jender netral, kulit putih, ora tamtu lanang wadone, rambut putih, wong, wong diwasa, wong: kulit putih, rambut putih
+🧑🏼‍🦳	jender netral, kulit putih langsep, ora tamtu lanang wadone, rambut putih, wong, wong diwasa, wong: kulit putih langsep, rambut putih
+🧑🏽‍🦳	jender netral, kulit kuning, ora tamtu lanang wadone, rambut putih, wong, wong diwasa, wong: kulit kuning, rambut putih
+🧑🏾‍🦳	jender netral, kulit sawo mateng, ora tamtu lanang wadone, rambut putih, wong, wong diwasa, wong: kulit sawo mateng, rambut putih
+🧑🏿‍🦳	jender netral, kulit ireng, ora tamtu lanang wadone, rambut putih, wong, wong diwasa, wong: kulit ireng, rambut putih
+🧑‍🦲	buthak, jender netral, ora tamtu lanang wadone, wong, wong diwasa, wong: buthak
+🧑🏻‍🦲	buthak, jender netral, kulit putih, ora tamtu lanang wadone, wong, wong diwasa, wong: kulit putih, buthak
+🧑🏼‍🦲	buthak, jender netral, kulit putih langsep, ora tamtu lanang wadone, wong, wong diwasa, wong: kulit putih langsep, buthak
+🧑🏽‍🦲	buthak, jender netral, kulit kuning, ora tamtu lanang wadone, wong, wong diwasa, wong: kulit kuning, buthak
+🧑🏾‍🦲	buthak, jender netral, kulit sawo mateng, ora tamtu lanang wadone, wong, wong diwasa, wong: kulit sawo mateng, buthak
+🧑🏿‍🦲	buthak, jender netral, kulit ireng, ora tamtu lanang wadone, wong, wong diwasa, wong: kulit ireng, buthak
 👨	lanang, wong diwasa, wong lanang
 👨🏻	kulit putih, lanang, wong diwasa, wong lanang, wong lanang: kulit putih
 👨🏼	kulit putih langsep, lanang, wong diwasa, wong lanang, wong lanang: kulit putih langsep
 👨🏽	kulit kuning, lanang, wong diwasa, wong lanang, wong lanang: kulit kuning
 👨🏾	kulit sawo mateng, lanang, wong diwasa, wong lanang, wong lanang: kulit sawo mateng
 👨🏿	kulit ireng, lanang, wong diwasa, wong lanang, wong lanang: kulit ireng
-🧔	jenggot, wong, wong lanang: jenggot
-🧔🏻	jenggot, kulit putih, wong, wong lanang: jenggot, wong lanang: kulit putih, jenggot
-🧔🏼	jenggot, kulit putih langsep, wong, wong lanang: jenggot, wong lanang: kulit putih langsep, jenggot
-🧔🏽	jenggot, kulit kuning, wong, wong lanang: jenggot, wong lanang: kulit kuning, jenggot
-🧔🏾	jenggot, kulit sawo mateng, wong, wong lanang: jenggot, wong lanang: kulit sawo mateng, jenggot
-🧔🏿	jenggot, kulit ireng, wong, wong lanang: jenggot, wong lanang: kulit ireng, jenggot
+🧔	jenggot, wong, wong: jenggot
+🧔🏻	jenggot, kulit putih, wong, wong: jenggot, wong: kulit putih, jenggot
+🧔🏼	jenggot, kulit putih langsep, wong, wong: jenggot, wong: kulit putih langsep, jenggot
+🧔🏽	jenggot, kulit kuning, wong, wong: jenggot, wong: kulit kuning, jenggot
+🧔🏾	jenggot, kulit sawo mateng, wong, wong: jenggot, wong: kulit sawo mateng, jenggot
+🧔🏿	jenggot, kulit ireng, wong, wong: jenggot, wong: kulit ireng, jenggot
+🧔‍♂	jenggot, wong lanang, wong lanang: jenggot
+🧔🏻‍♂	jenggot, kulit putih, wong lanang, wong lanang: jenggot, wong lanang: kulit putih, jenggot
+🧔🏼‍♂	jenggot, kulit putih langsep, wong lanang, wong lanang: jenggot, wong lanang: kulit putih langsep, jenggot
+🧔🏽‍♂	jenggot, kulit kuning, wong lanang, wong lanang: jenggot, wong lanang: kulit kuning, jenggot
+🧔🏾‍♂	jenggot, kulit sawo mateng, wong lanang, wong lanang: jenggot, wong lanang: kulit sawo mateng, jenggot
+🧔🏿‍♂	jenggot, kulit ireng, wong lanang, wong lanang: jenggot, wong lanang: kulit ireng, jenggot
 👱‍♂	pirang, rambut, wong lanang, wong lanang arambut pirang, wong lanang: rambut pirang
 👱🏻‍♂	kulit putih, pirang, rambut, wong lanang, wong lanang arambut pirang, wong lanang: kulit putih, rambut pirang, wong lanang: rambut pirang
 👱🏼‍♂	kulit putih langsep, pirang, rambut, wong lanang, wong lanang arambut pirang, wong lanang: kulit putih langsep, rambut pirang, wong lanang: rambut pirang
 👱🏽‍♂	kulit kuning, pirang, rambut, wong lanang, wong lanang arambut pirang, wong lanang: kulit kuning, rambut pirang, wong lanang: rambut pirang
 👱🏾‍♂	kulit sawo mateng, pirang, rambut, wong lanang, wong lanang arambut pirang, wong lanang: kulit sawo mateng, rambut pirang, wong lanang: rambut pirang
 👱🏿‍♂	kulit ireng, pirang, rambut, wong lanang, wong lanang arambut pirang, wong lanang: kulit ireng, rambut pirang, wong lanang: rambut pirang
+👨🏻‍❤‍💋‍👨🏻	ambung, ambung: wong lanang, wong lanang, kulit putih, kulit putih, pasangan, wong lanang
+👨🏻‍❤‍💋‍👨🏼	ambung, ambung: wong lanang, wong lanang, kulit putih, kulit putih langsep, kulit putih, kulit putih langsep, pasangan, wong lanang
+👨🏻‍❤‍💋‍👨🏽	ambung, ambung: wong lanang, wong lanang, kulit putih, kulit kuning, kulit kuning, kulit putih, pasangan, wong lanang
+👨🏻‍❤‍💋‍👨🏾	ambung, ambung: wong lanang, wong lanang, kulit putih, kulit sawo mateng, kulit putih, kulit sawo mateng, pasangan, wong lanang
+👨🏻‍❤‍💋‍👨🏿	ambung, ambung: wong lanang, wong lanang, kulit putih, kulit ireng, kulit ireng, kulit putih, pasangan, wong lanang
+👨🏼‍❤‍💋‍👨🏻	ambung, ambung: wong lanang, wong lanang, kulit putih langsep, kulit putih, kulit putih, kulit putih langsep, pasangan, wong lanang
+👨🏼‍❤‍💋‍👨🏼	ambung, ambung: wong lanang, wong lanang, kulit putih langsep, kulit putih langsep, pasangan, wong lanang
+👨🏼‍❤‍💋‍👨🏽	ambung, ambung: wong lanang, wong lanang, kulit putih langsep, kulit kuning, kulit kuning, kulit putih langsep, pasangan, wong lanang
+👨🏼‍❤‍💋‍👨🏾	ambung, ambung: wong lanang, wong lanang, kulit putih langsep, kulit sawo mateng, kulit putih langsep, kulit sawo mateng, pasangan, wong lanang
+👨🏼‍❤‍💋‍👨🏿	ambung, ambung: wong lanang, wong lanang, kulit putih langsep, kulit ireng, kulit ireng, kulit putih langsep, pasangan, wong lanang
+👨🏽‍❤‍💋‍👨🏻	ambung, ambung: wong lanang, wong lanang, kulit kuning, kulit putih, kulit kuning, kulit putih, pasangan, wong lanang
+👨🏽‍❤‍💋‍👨🏼	ambung, ambung: wong lanang, wong lanang, kulit kuning, kulit putih langsep, kulit kuning, kulit putih langsep, pasangan, wong lanang
+👨🏽‍❤‍💋‍👨🏽	ambung, ambung: wong lanang, wong lanang, kulit kuning, kulit kuning, pasangan, wong lanang
+👨🏽‍❤‍💋‍👨🏾	ambung, ambung: wong lanang, wong lanang, kulit kuning, kulit sawo mateng, kulit kuning, kulit sawo mateng, pasangan, wong lanang
+👨🏽‍❤‍💋‍👨🏿	ambung, ambung: wong lanang, wong lanang, kulit kuning, kulit ireng, kulit ireng, kulit kuning, pasangan, wong lanang
+👨🏾‍❤‍💋‍👨🏻	ambung, ambung: wong lanang, wong lanang, kulit sawo mateng, kulit putih, kulit putih, kulit sawo mateng, pasangan, wong lanang
+👨🏾‍❤‍💋‍👨🏼	ambung, ambung: wong lanang, wong lanang, kulit sawo mateng, kulit putih langsep, kulit putih langsep, kulit sawo mateng, pasangan, wong lanang
+👨🏾‍❤‍💋‍👨🏽	ambung, ambung: wong lanang, wong lanang, kulit sawo mateng, kulit kuning, kulit kuning, kulit sawo mateng, pasangan, wong lanang
+👨🏾‍❤‍💋‍👨🏾	ambung, ambung: wong lanang, wong lanang, kulit sawo mateng, kulit sawo mateng, pasangan, wong lanang
+👨🏾‍❤‍💋‍👨🏿	ambung, ambung: wong lanang, wong lanang, kulit sawo mateng, kulit ireng, kulit ireng, kulit sawo mateng, pasangan, wong lanang
+👨🏿‍❤‍💋‍👨🏻	ambung, ambung: wong lanang, wong lanang, kulit ireng, kulit putih, kulit ireng, kulit putih, pasangan, wong lanang
+👨🏿‍❤‍💋‍👨🏼	ambung, ambung: wong lanang, wong lanang, kulit ireng, kulit putih langsep, kulit ireng, kulit putih langsep, pasangan, wong lanang
+👨🏿‍❤‍💋‍👨🏽	ambung, ambung: wong lanang, wong lanang, kulit ireng, kulit kuning, kulit ireng, kulit kuning, pasangan, wong lanang
+👨🏿‍❤‍💋‍👨🏾	ambung, ambung: wong lanang, wong lanang, kulit ireng, kulit sawo mateng, kulit ireng, kulit sawo mateng, pasangan, wong lanang
+👨🏿‍❤‍💋‍👨🏿	ambung, ambung: wong lanang, wong lanang, kulit ireng, kulit ireng, pasangan, wong lanang
+👨🏻‍❤‍👨🏻	kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit putih, tresna, wong lanang
+👨🏻‍❤‍👨🏼	kulit putih, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit putih, kulit putih langsep, tresna, wong lanang
+👨🏻‍❤‍👨🏽	kulit kuning, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit putih, kulit kuning, tresna, wong lanang
+👨🏻‍❤‍👨🏾	kulit putih, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit putih, kulit sawo mateng, tresna, wong lanang
+👨🏻‍❤‍👨🏿	kulit ireng, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit putih, kulit ireng, tresna, wong lanang
+👨🏼‍❤‍👨🏻	kulit putih, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit putih langsep, kulit putih, tresna, wong lanang
+👨🏼‍❤‍👨🏼	kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit putih langsep, tresna, wong lanang
+👨🏼‍❤‍👨🏽	kulit kuning, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit putih langsep, kulit kuning, tresna, wong lanang
+👨🏼‍❤‍👨🏾	kulit putih langsep, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit putih langsep, kulit sawo mateng, tresna, wong lanang
+👨🏼‍❤‍👨🏿	kulit ireng, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit putih langsep, kulit ireng, tresna, wong lanang
+👨🏽‍❤‍👨🏻	kulit kuning, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit kuning, kulit putih, tresna, wong lanang
+👨🏽‍❤‍👨🏼	kulit kuning, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit kuning, kulit putih langsep, tresna, wong lanang
+👨🏽‍❤‍👨🏽	kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit kuning, tresna, wong lanang
+👨🏽‍❤‍👨🏾	kulit kuning, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit kuning, kulit sawo mateng, tresna, wong lanang
+👨🏽‍❤‍👨🏿	kulit ireng, kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit kuning, kulit ireng, tresna, wong lanang
+👨🏾‍❤‍👨🏻	kulit putih, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit sawo mateng, kulit putih, tresna, wong lanang
+👨🏾‍❤‍👨🏼	kulit putih langsep, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit sawo mateng, kulit putih langsep, tresna, wong lanang
+👨🏾‍❤‍👨🏽	kulit kuning, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit sawo mateng, kulit kuning, tresna, wong lanang
+👨🏾‍❤‍👨🏾	kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit sawo mateng, tresna, wong lanang
+👨🏾‍❤‍👨🏿	kulit ireng, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit sawo mateng, kulit ireng, tresna, wong lanang
+👨🏿‍❤‍👨🏻	kulit ireng, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit ireng, kulit putih, tresna, wong lanang
+👨🏿‍❤‍👨🏼	kulit ireng, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit ireng, kulit putih langsep, tresna, wong lanang
+👨🏿‍❤‍👨🏽	kulit ireng, kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit ireng, kulit kuning, tresna, wong lanang
+👨🏿‍❤‍👨🏾	kulit ireng, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit ireng, kulit sawo mateng, tresna, wong lanang
+👨🏿‍❤‍👨🏿	kulit ireng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, kulit ireng, tresna, wong lanang
 👨‍🦰	lanang, rambut abang, wong diwasa, wong lanang, wong lanang: rambut abang
 👨🏻‍🦰	kulit putih, lanang, rambut abang, wong diwasa, wong lanang, wong lanang: kulit putih, rambut abang
 👨🏼‍🦰	kulit putih langsep, lanang, rambut abang, wong diwasa, wong lanang, wong lanang: kulit putih langsep, rambut abang
@@ -469,12 +792,118 @@
 👩🏽	kulit kuning, wadon, wong diwasa, wong wadon, wong wadon: kulit kuning
 👩🏾	kulit sawo mateng, wadon, wong diwasa, wong wadon, wong wadon: kulit sawo mateng
 👩🏿	kulit ireng, wadon, wong diwasa, wong wadon, wong wadon: kulit ireng
+🧔‍♀	jenggot, wong wadon, wong wadon: jenggot
+🧔🏻‍♀	jenggot, kulit putih, wong wadon, wong wadon: jenggot, wong wadon: kulit putih, jenggot
+🧔🏼‍♀	jenggot, kulit putih langsep, wong wadon, wong wadon: jenggot, wong wadon: kulit putih langsep, jenggot
+🧔🏽‍♀	jenggot, kulit kuning, wong wadon, wong wadon: jenggot, wong wadon: kulit kuning, jenggot
+🧔🏾‍♀	jenggot, kulit sawo mateng, wong wadon, wong wadon: jenggot, wong wadon: kulit sawo mateng, jenggot
+🧔🏿‍♀	jenggot, kulit ireng, wong wadon, wong wadon: jenggot, wong wadon: kulit ireng, jenggot
 👱‍♀	pirang, rambut, wong wadon, wong wadon arambut pirang, wong wadon: rambut pirang
 👱🏻‍♀	kulit putih, pirang, rambut, wong wadon, wong wadon arambut pirang, wong wadon: kulit putih, rambut pirang, wong wadon: rambut pirang
 👱🏼‍♀	kulit putih langsep, pirang, rambut, wong wadon, wong wadon arambut pirang, wong wadon: kulit putih langsep, rambut pirang, wong wadon: rambut pirang
 👱🏽‍♀	kulit kuning, pirang, rambut, wong wadon, wong wadon arambut pirang, wong wadon: kulit kuning, rambut pirang, wong wadon: rambut pirang
 👱🏾‍♀	kulit sawo mateng, pirang, rambut, wong wadon, wong wadon arambut pirang, wong wadon: kulit sawo mateng, rambut pirang, wong wadon: rambut pirang
 👱🏿‍♀	kulit ireng, pirang, rambut, wong wadon, wong wadon arambut pirang, wong wadon: kulit ireng, rambut pirang, wong wadon: rambut pirang
+👩🏻‍❤‍💋‍👨🏻	ambung, ambung: wong wadon, wong lanang, kulit putih, kulit putih, pasangan, wong lanang, wong wadon
+👩🏻‍❤‍💋‍👨🏼	ambung, ambung: wong wadon, wong lanang, kulit putih, kulit putih langsep, kulit putih, kulit putih langsep, pasangan, wong lanang, wong wadon
+👩🏻‍❤‍💋‍👨🏽	ambung, ambung: wong wadon, wong lanang, kulit putih, kulit kuning, kulit kuning, kulit putih, pasangan, wong lanang, wong wadon
+👩🏻‍❤‍💋‍👨🏾	ambung, ambung: wong wadon, wong lanang, kulit putih, kulit sawo mateng, kulit putih, kulit sawo mateng, pasangan, wong lanang, wong wadon
+👩🏻‍❤‍💋‍👨🏿	ambung, ambung: wong wadon, wong lanang, kulit putih, kulit ireng, kulit ireng, kulit putih, pasangan, wong lanang, wong wadon
+👩🏼‍❤‍💋‍👨🏻	ambung, ambung: wong wadon, wong lanang, kulit putih langsep, kulit putih, kulit putih, kulit putih langsep, pasangan, wong lanang, wong wadon
+👩🏼‍❤‍💋‍👨🏼	ambung, ambung: wong wadon, wong lanang, kulit putih langsep, kulit putih langsep, pasangan, wong lanang, wong wadon
+👩🏼‍❤‍💋‍👨🏽	ambung, ambung: wong wadon, wong lanang, kulit putih langsep, kulit kuning, kulit kuning, kulit putih langsep, pasangan, wong lanang, wong wadon
+👩🏼‍❤‍💋‍👨🏾	ambung, ambung: wong wadon, wong lanang, kulit putih langsep, kulit sawo mateng, kulit putih langsep, kulit sawo mateng, pasangan, wong lanang, wong wadon
+👩🏼‍❤‍💋‍👨🏿	ambung, ambung: wong wadon, wong lanang, kulit putih langsep, kulit ireng, kulit ireng, kulit putih langsep, pasangan, wong lanang, wong wadon
+👩🏽‍❤‍💋‍👨🏻	ambung, ambung: wong wadon, wong lanang, kulit kuning, kulit putih, kulit kuning, kulit putih, pasangan, wong lanang, wong wadon
+👩🏽‍❤‍💋‍👨🏼	ambung, ambung: wong wadon, wong lanang, kulit kuning, kulit putih langsep, kulit kuning, kulit putih langsep, pasangan, wong lanang, wong wadon
+👩🏽‍❤‍💋‍👨🏽	ambung, ambung: wong wadon, wong lanang, kulit kuning, kulit kuning, pasangan, wong lanang, wong wadon
+👩🏽‍❤‍💋‍👨🏾	ambung, ambung: wong wadon, wong lanang, kulit kuning, kulit sawo mateng, kulit kuning, kulit sawo mateng, pasangan, wong lanang, wong wadon
+👩🏽‍❤‍💋‍👨🏿	ambung, ambung: wong wadon, wong lanang, kulit kuning, kulit ireng, kulit ireng, kulit kuning, pasangan, wong lanang, wong wadon
+👩🏾‍❤‍💋‍👨🏻	ambung, ambung: wong wadon, wong lanang, kulit sawo mateng, kulit putih, kulit putih, kulit sawo mateng, pasangan, wong lanang, wong wadon
+👩🏾‍❤‍💋‍👨🏼	ambung, ambung: wong wadon, wong lanang, kulit sawo mateng, kulit putih langsep, kulit putih langsep, kulit sawo mateng, pasangan, wong lanang, wong wadon
+👩🏾‍❤‍💋‍👨🏽	ambung, ambung: wong wadon, wong lanang, kulit sawo mateng, kulit kuning, kulit kuning, kulit sawo mateng, pasangan, wong lanang, wong wadon
+👩🏾‍❤‍💋‍👨🏾	ambung, ambung: wong wadon, wong lanang, kulit sawo mateng, kulit sawo mateng, pasangan, wong lanang, wong wadon
+👩🏾‍❤‍💋‍👨🏿	ambung, ambung: wong wadon, wong lanang, kulit sawo mateng, kulit ireng, kulit ireng, kulit sawo mateng, pasangan, wong lanang, wong wadon
+👩🏿‍❤‍💋‍👨🏻	ambung, ambung: wong wadon, wong lanang, kulit ireng, kulit putih, kulit ireng, kulit putih, pasangan, wong lanang, wong wadon
+👩🏿‍❤‍💋‍👨🏼	ambung, ambung: wong wadon, wong lanang, kulit ireng, kulit putih langsep, kulit ireng, kulit putih langsep, pasangan, wong lanang, wong wadon
+👩🏿‍❤‍💋‍👨🏽	ambung, ambung: wong wadon, wong lanang, kulit ireng, kulit kuning, kulit ireng, kulit kuning, pasangan, wong lanang, wong wadon
+👩🏿‍❤‍💋‍👨🏾	ambung, ambung: wong wadon, wong lanang, kulit ireng, kulit sawo mateng, kulit ireng, kulit sawo mateng, pasangan, wong lanang, wong wadon
+👩🏿‍❤‍💋‍👨🏿	ambung, ambung: wong wadon, wong lanang, kulit ireng, kulit ireng, pasangan, wong lanang, wong wadon
+👩🏻‍❤‍💋‍👩🏻	ambung, ambung: wong wadon, wong wadon, kulit putih, kulit putih, pasangan, wong wadon
+👩🏻‍❤‍💋‍👩🏼	ambung, ambung: wong wadon, wong wadon, kulit putih, kulit putih langsep, kulit putih, kulit putih langsep, pasangan, wong wadon
+👩🏻‍❤‍💋‍👩🏽	ambung, ambung: wong wadon, wong wadon, kulit putih, kulit kuning, kulit kuning, kulit putih, pasangan, wong wadon
+👩🏻‍❤‍💋‍👩🏾	ambung, ambung: wong wadon, wong wadon, kulit putih, kulit sawo mateng, kulit putih, kulit sawo mateng, pasangan, wong wadon
+👩🏻‍❤‍💋‍👩🏿	ambung, ambung: wong wadon, wong wadon, kulit putih, kulit ireng, kulit ireng, kulit putih, pasangan, wong wadon
+👩🏼‍❤‍💋‍👩🏻	ambung, ambung: wong wadon, wong wadon, kulit putih langsep, kulit putih, kulit putih, kulit putih langsep, pasangan, wong wadon
+👩🏼‍❤‍💋‍👩🏼	ambung, ambung: wong wadon, wong wadon, kulit putih langsep, kulit putih langsep, pasangan, wong wadon
+👩🏼‍❤‍💋‍👩🏽	ambung, ambung: wong wadon, wong wadon, kulit putih langsep, kulit kuning, kulit kuning, kulit putih langsep, pasangan, wong wadon
+👩🏼‍❤‍💋‍👩🏾	ambung, ambung: wong wadon, wong wadon, kulit putih langsep, kulit sawo mateng, kulit putih langsep, kulit sawo mateng, pasangan, wong wadon
+👩🏼‍❤‍💋‍👩🏿	ambung, ambung: wong wadon, wong wadon, kulit putih langsep, kulit ireng, kulit ireng, kulit putih langsep, pasangan, wong wadon
+👩🏽‍❤‍💋‍👩🏻	ambung, ambung: wong wadon, wong wadon, kulit kuning, kulit putih, kulit kuning, kulit putih, pasangan, wong wadon
+👩🏽‍❤‍💋‍👩🏼	ambung, ambung: wong wadon, wong wadon, kulit kuning, kulit putih langsep, kulit kuning, kulit putih langsep, pasangan, wong wadon
+👩🏽‍❤‍💋‍👩🏽	ambung, ambung: wong wadon, wong wadon, kulit kuning, kulit kuning, pasangan, wong wadon
+👩🏽‍❤‍💋‍👩🏾	ambung, ambung: wong wadon, wong wadon, kulit kuning, kulit sawo mateng, kulit kuning, kulit sawo mateng, pasangan, wong wadon
+👩🏽‍❤‍💋‍👩🏿	ambung, ambung: wong wadon, wong wadon, kulit kuning, kulit ireng, kulit ireng, kulit kuning, pasangan, wong wadon
+👩🏾‍❤‍💋‍👩🏻	ambung, ambung: wong wadon, wong wadon, kulit sawo mateng, kulit putih, kulit putih, kulit sawo mateng, pasangan, wong wadon
+👩🏾‍❤‍💋‍👩🏼	ambung, ambung: wong wadon, wong wadon, kulit sawo mateng, kulit putih langsep, kulit putih langsep, kulit sawo mateng, pasangan, wong wadon
+👩🏾‍❤‍💋‍👩🏽	ambung, ambung: wong wadon, wong wadon, kulit sawo mateng, kulit kuning, kulit kuning, kulit sawo mateng, pasangan, wong wadon
+👩🏾‍❤‍💋‍👩🏾	ambung, ambung: wong wadon, wong wadon, kulit sawo mateng, kulit sawo mateng, pasangan, wong wadon
+👩🏾‍❤‍💋‍👩🏿	ambung, ambung: wong wadon, wong wadon, kulit sawo mateng, kulit ireng, kulit ireng, kulit sawo mateng, pasangan, wong wadon
+👩🏿‍❤‍💋‍👩🏻	ambung, ambung: wong wadon, wong wadon, kulit ireng, kulit putih, kulit ireng, kulit putih, pasangan, wong wadon
+👩🏿‍❤‍💋‍👩🏼	ambung, ambung: wong wadon, wong wadon, kulit ireng, kulit putih langsep, kulit ireng, kulit putih langsep, pasangan, wong wadon
+👩🏿‍❤‍💋‍👩🏽	ambung, ambung: wong wadon, wong wadon, kulit ireng, kulit kuning, kulit ireng, kulit kuning, pasangan, wong wadon
+👩🏿‍❤‍💋‍👩🏾	ambung, ambung: wong wadon, wong wadon, kulit ireng, kulit sawo mateng, kulit ireng, kulit sawo mateng, pasangan, wong wadon
+👩🏿‍❤‍💋‍👩🏿	ambung, ambung: wong wadon, wong wadon, kulit ireng, kulit ireng, pasangan, wong wadon
+👩🏻‍❤‍👨🏻	kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit putih, tresna, wong lanang, wong wadon
+👩🏻‍❤‍👨🏼	kulit putih, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit putih, kulit putih langsep, tresna, wong lanang, wong wadon
+👩🏻‍❤‍👨🏽	kulit kuning, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit putih, kulit kuning, tresna, wong lanang, wong wadon
+👩🏻‍❤‍👨🏾	kulit putih, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit putih, kulit sawo mateng, tresna, wong lanang, wong wadon
+👩🏻‍❤‍👨🏿	kulit ireng, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit putih, kulit ireng, tresna, wong lanang, wong wadon
+👩🏼‍❤‍👨🏻	kulit putih, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit putih langsep, kulit putih, tresna, wong lanang, wong wadon
+👩🏼‍❤‍👨🏼	kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit putih langsep, tresna, wong lanang, wong wadon
+👩🏼‍❤‍👨🏽	kulit kuning, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit putih langsep, kulit kuning, tresna, wong lanang, wong wadon
+👩🏼‍❤‍👨🏾	kulit putih langsep, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit putih langsep, kulit sawo mateng, tresna, wong lanang, wong wadon
+👩🏼‍❤‍👨🏿	kulit ireng, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit putih langsep, kulit ireng, tresna, wong lanang, wong wadon
+👩🏽‍❤‍👨🏻	kulit kuning, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit kuning, kulit putih, tresna, wong lanang, wong wadon
+👩🏽‍❤‍👨🏼	kulit kuning, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit kuning, kulit putih langsep, tresna, wong lanang, wong wadon
+👩🏽‍❤‍👨🏽	kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit kuning, tresna, wong lanang, wong wadon
+👩🏽‍❤‍👨🏾	kulit kuning, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit kuning, kulit sawo mateng, tresna, wong lanang, wong wadon
+👩🏽‍❤‍👨🏿	kulit ireng, kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit kuning, kulit ireng, tresna, wong lanang, wong wadon
+👩🏾‍❤‍👨🏻	kulit putih, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit sawo mateng, kulit putih, tresna, wong lanang, wong wadon
+👩🏾‍❤‍👨🏼	kulit putih langsep, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit sawo mateng, kulit putih langsep, tresna, wong lanang, wong wadon
+👩🏾‍❤‍👨🏽	kulit kuning, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit sawo mateng, kulit kuning, tresna, wong lanang, wong wadon
+👩🏾‍❤‍👨🏾	kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit sawo mateng, tresna, wong lanang, wong wadon
+👩🏾‍❤‍👨🏿	kulit ireng, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit sawo mateng, kulit ireng, tresna, wong lanang, wong wadon
+👩🏿‍❤‍👨🏻	kulit ireng, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit ireng, kulit putih, tresna, wong lanang, wong wadon
+👩🏿‍❤‍👨🏼	kulit ireng, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit ireng, kulit putih langsep, tresna, wong lanang, wong wadon
+👩🏿‍❤‍👨🏽	kulit ireng, kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit ireng, kulit kuning, tresna, wong lanang, wong wadon
+👩🏿‍❤‍👨🏾	kulit ireng, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit ireng, kulit sawo mateng, tresna, wong lanang, wong wadon
+👩🏿‍❤‍👨🏿	kulit ireng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, kulit ireng, tresna, wong lanang, wong wadon
+👩🏻‍❤‍👩🏻	kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit putih, tresna, wong wadon
+👩🏻‍❤‍👩🏼	kulit putih, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit putih, kulit putih langsep, tresna, wong wadon
+👩🏻‍❤‍👩🏽	kulit kuning, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit putih, kulit kuning, tresna, wong wadon
+👩🏻‍❤‍👩🏾	kulit putih, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit putih, kulit sawo mateng, tresna, wong wadon
+👩🏻‍❤‍👩🏿	kulit ireng, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit putih, kulit ireng, tresna, wong wadon
+👩🏼‍❤‍👩🏻	kulit putih, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit putih langsep, kulit putih, tresna, wong wadon
+👩🏼‍❤‍👩🏼	kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit putih langsep, tresna, wong wadon
+👩🏼‍❤‍👩🏽	kulit kuning, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit putih langsep, kulit kuning, tresna, wong wadon
+👩🏼‍❤‍👩🏾	kulit putih langsep, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit putih langsep, kulit sawo mateng, tresna, wong wadon
+👩🏼‍❤‍👩🏿	kulit ireng, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit putih langsep, kulit ireng, tresna, wong wadon
+👩🏽‍❤‍👩🏻	kulit kuning, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit kuning, kulit putih, tresna, wong wadon
+👩🏽‍❤‍👩🏼	kulit kuning, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit kuning, kulit putih langsep, tresna, wong wadon
+👩🏽‍❤‍👩🏽	kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit kuning, tresna, wong wadon
+👩🏽‍❤‍👩🏾	kulit kuning, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit kuning, kulit sawo mateng, tresna, wong wadon
+👩🏽‍❤‍👩🏿	kulit ireng, kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit kuning, kulit ireng, tresna, wong wadon
+👩🏾‍❤‍👩🏻	kulit putih, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit sawo mateng, kulit putih, tresna, wong wadon
+👩🏾‍❤‍👩🏼	kulit putih langsep, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit sawo mateng, kulit putih langsep, tresna, wong wadon
+👩🏾‍❤‍👩🏽	kulit kuning, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit sawo mateng, kulit kuning, tresna, wong wadon
+👩🏾‍❤‍👩🏾	kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit sawo mateng, tresna, wong wadon
+👩🏾‍❤‍👩🏿	kulit ireng, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit sawo mateng, kulit ireng, tresna, wong wadon
+👩🏿‍❤‍👩🏻	kulit ireng, kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit ireng, kulit putih, tresna, wong wadon
+👩🏿‍❤‍👩🏼	kulit ireng, kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit ireng, kulit putih langsep, tresna, wong wadon
+👩🏿‍❤‍👩🏽	kulit ireng, kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit ireng, kulit kuning, tresna, wong wadon
+👩🏿‍❤‍👩🏾	kulit ireng, kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit ireng, kulit sawo mateng, tresna, wong wadon
+👩🏿‍❤‍👩🏿	kulit ireng, loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, kulit ireng, tresna, wong wadon
 👩‍🦰	rambut abang, wadon, wong diwasa, wong wadon, wong wadon: rambut abang
 👩🏻‍🦰	kulit putih, rambut abang, wadon, wong diwasa, wong wadon, wong wadon: kulit putih, rambut abang
 👩🏼‍🦰	kulit putih langsep, rambut abang, wadon, wong diwasa, wong wadon, wong wadon: kulit putih langsep, rambut abang
@@ -697,6 +1126,12 @@
 🤷🏽‍♀	kulit kuning, mangu-mangu, ngangkat pundhak, ora gati, ora sudi, wong wadon, wong wadon ngangkat pundhak, wong wadon ngangkat pundhak: kulit kuning
 🤷🏾‍♀	kulit sawo mateng, mangu-mangu, ngangkat pundhak, ora gati, ora sudi, wong wadon, wong wadon ngangkat pundhak, wong wadon ngangkat pundhak: kulit sawo mateng
 🤷🏿‍♀	kulit ireng, mangu-mangu, ngangkat pundhak, ora gati, ora sudi, wong wadon, wong wadon ngangkat pundhak, wong wadon ngangkat pundhak: kulit ireng
+🧑‍⚕	dokter, mantri, parumatan kasehatan, perawat, terapis
+🧑🏻‍⚕	dokter, kulit putih, mantri, mantri: kulit putih, parumatan kasehatan, perawat, terapis
+🧑🏼‍⚕	dokter, kulit putih langsep, mantri, mantri: kulit putih langsep, parumatan kasehatan, perawat, terapis
+🧑🏽‍⚕	dokter, kulit kuning, mantri, mantri: kulit kuning, parumatan kasehatan, perawat, terapis
+🧑🏾‍⚕	dokter, kulit sawo mateng, mantri, mantri: kulit sawo mateng, parumatan kasehatan, perawat, terapis
+🧑🏿‍⚕	dokter, kulit ireng, mantri, mantri: kulit ireng, parumatan kasehatan, perawat, terapis
 👨‍⚕	dokter, mantri lanang, parumatan kasehatan, perawat, terapis, wong lanang
 👨🏻‍⚕	dokter, kulit putih, mantri lanang, mantri lanang: kulit putih, parumatan kasehatan, perawat, terapis, wong lanang
 👨🏼‍⚕	dokter, kulit putih langsep, mantri lanang, mantri lanang: kulit putih langsep, parumatan kasehatan, perawat, terapis, wong lanang
@@ -709,6 +1144,12 @@
 👩🏽‍⚕	dokter, kulit kuning, mantri wadon, mantri wadon: kulit kuning, parumatan kasehatan, perawat, terapis, wong wadon
 👩🏾‍⚕	dokter, kulit sawo mateng, mantri wadon, mantri wadon: kulit sawo mateng, parumatan kasehatan, perawat, terapis, wong wadon
 👩🏿‍⚕	dokter, kulit ireng, mantri wadon, mantri wadon: kulit ireng, parumatan kasehatan, perawat, terapis, wong wadon
+🧑‍🎓	mahasiswa, wisuda
+🧑🏻‍🎓	kulit putih, mahasiswa, mahasiswa: kulit putih, wisuda
+🧑🏼‍🎓	kulit putih langsep, mahasiswa, mahasiswa: kulit putih langsep, wisuda
+🧑🏽‍🎓	kulit kuning, mahasiswa, mahasiswa: kulit kuning, wisuda
+🧑🏾‍🎓	kulit sawo mateng, mahasiswa, mahasiswa: kulit sawo mateng, wisuda
+🧑🏿‍🎓	kulit ireng, mahasiswa, mahasiswa: kulit ireng, wisuda
 👨‍🎓	lanang, mahasiswa, mahasiswa lanang, wisuda
 👨🏻‍🎓	kulit putih, lanang, mahasiswa, mahasiswa lanang: kulit putih, wisuda
 👨🏼‍🎓	kulit putih langsep, lanang, mahasiswa, mahasiswa lanang: kulit putih langsep, wisuda
@@ -721,6 +1162,12 @@
 👩🏽‍🎓	kulit kuning, mahasiswa, mahasiswa wadon: kulit kuning, wadon, wisuda
 👩🏾‍🎓	kulit sawo mateng, mahasiswa, mahasiswa wadon: kulit sawo mateng, wadon, wisuda
 👩🏿‍🎓	kulit ireng, mahasiswa, mahasiswa wadon: kulit ireng, wadon, wisuda
+🧑‍🏫	dosen, guru, instruktur
+🧑🏻‍🏫	dosen, guru, guru: kulit putih, instruktur, kulit putih
+🧑🏼‍🏫	dosen, guru, guru: kulit putih langsep, instruktur, kulit putih langsep
+🧑🏽‍🏫	dosen, guru, guru: kulit kuning, instruktur, kulit kuning
+🧑🏾‍🏫	dosen, guru, guru: kulit sawo mateng, instruktur, kulit sawo mateng
+🧑🏿‍🏫	dosen, guru, guru: kulit ireng, instruktur, kulit ireng
 👨‍🏫	dosen, guru, guru lanang, instruktur, lanang
 👨🏻‍🏫	dosen, guru, guru lanang: kulit putih, instruktur, kulit putih, lanang
 👨🏼‍🏫	dosen, guru, guru lanang: kulit putih langsep, instruktur, kulit putih langsep, lanang
@@ -733,6 +1180,12 @@
 👩🏽‍🏫	dosen, guru, guru wadon: kulit kuning, instruktur, kulit kuning, wadon
 👩🏾‍🏫	dosen, guru, guru wadon: kulit sawo mateng, instruktur, kulit sawo mateng, wadon
 👩🏿‍🏫	dosen, guru, guru wadon: kulit ireng, instruktur, kulit ireng, wadon
+🧑‍⚖	hakim, timbangan
+🧑🏻‍⚖	hakim, hakim: kulit putih, kulit putih, timbangan
+🧑🏼‍⚖	hakim, hakim: kulit putih langsep, kulit putih langsep, timbangan
+🧑🏽‍⚖	hakim, hakim: kulit kuning, kulit kuning, timbangan
+🧑🏾‍⚖	hakim, hakim: kulit sawo mateng, kulit sawo mateng, timbangan
+🧑🏿‍⚖	hakim, hakim: kulit ireng, kulit ireng, timbangan
 👨‍⚖	adil, hakim lanang, lanang, pradata, timbangan
 👨🏻‍⚖	adil, hakim lanang, hakim lanang: kulit putih, kulit putih, lanang, pradata, timbangan
 👨🏼‍⚖	adil, hakim lanang, hakim lanang: kulit putih langsep, kulit putih langsep, lanang, pradata, timbangan
@@ -745,6 +1198,12 @@
 👩🏽‍⚖	hakim wadon, hakim wadon: kulit kuning, kulit kuning, pradata, timbangan, wadon
 👩🏾‍⚖	hakim wadon, hakim wadon: kulit sawo mateng, kulit sawo mateng, pradata, timbangan, wadon
 👩🏿‍⚖	hakim wadon, hakim wadon: kulit ireng, kulit ireng, pradata, timbangan, wadon
+🧑‍🌾	juragan tani, tani, tukang kebon
+🧑🏻‍🌾	juragan tani, kulit putih, tani, tani: kulit putih, tukang kebon
+🧑🏼‍🌾	juragan tani, kulit putih langsep, tani, tani: kulit putih langsep, tukang kebon
+🧑🏽‍🌾	juragan tani, kulit kuning, tani, tani: kulit kuning, tukang kebon
+🧑🏾‍🌾	juragan tani, kulit sawo mateng, tani, tani: kulit sawo mateng, tukang kebon
+🧑🏿‍🌾	juragan tani, kulit ireng, tani, tani: kulit ireng, tukang kebon
 👨‍🌾	juragan tani, lanang, pak tani, tani, tukang kebon
 👨🏻‍🌾	juragan tani, kulit putih, lanang, pak tani, pak tani: kulit putih, tani, tukang kebon
 👨🏼‍🌾	juragan tani, kulit putih langsep, lanang, pak tani, pak tani: kulit putih langsep, tani, tukang kebon
@@ -757,6 +1216,12 @@
 👩🏽‍🌾	bu tani, bu tani: kulit kuning, juragan tani, kulit kuning, tani, tukang kebon, wadon
 👩🏾‍🌾	bu tani, bu tani: kulit sawo mateng, juragan tani, kulit sawo mateng, tani, tukang kebon, wadon
 👩🏿‍🌾	bu tani, bu tani: kulit ireng, juragan tani, kulit ireng, tani, tukang kebon, wadon
+🧑‍🍳	koki, mangsak
+🧑🏻‍🍳	koki, kulit putih, mangsak, mangsak: kulit putih
+🧑🏼‍🍳	koki, kulit putih langsep, mangsak, mangsak: kulit putih langsep
+🧑🏽‍🍳	koki, kulit kuning, mangsak, mangsak: kulit kuning
+🧑🏾‍🍳	koki, kulit sawo mateng, mangsak, mangsak: kulit sawo mateng
+🧑🏿‍🍳	koki, kulit ireng, mangsak, mangsak: kulit ireng
 👨‍🍳	koki, koki lanang, lanang, mangsak
 👨🏻‍🍳	koki, koki lanang: kulit putih, kulit putih, lanang, mangsak
 👨🏼‍🍳	koki, koki lanang: kulit putih langsep, kulit putih langsep, lanang, mangsak
@@ -769,6 +1234,12 @@
 👩🏽‍🍳	koki, koki wadon: kulit kuning, kulit kuning, mangsak, wadon
 👩🏾‍🍳	koki, koki wadon: kulit sawo mateng, kulit sawo mateng, mangsak, wadon
 👩🏿‍🍳	koki, koki wadon: kulit ireng, kulit ireng, mangsak, wadon
+🧑‍🔧	montir, tukang, tukang ledheng, tukang listik
+🧑🏻‍🔧	kulit putih, montir, montir: kulit putih, tukang, tukang ledheng, tukang listik
+🧑🏼‍🔧	kulit putih langsep, montir, montir: kulit putih langsep, tukang, tukang ledheng, tukang listik
+🧑🏽‍🔧	kulit kuning, montir, montir: kulit kuning, tukang, tukang ledheng, tukang listik
+🧑🏾‍🔧	kulit sawo mateng, montir, montir: kulit sawo mateng, tukang, tukang ledheng, tukang listik
+🧑🏿‍🔧	kulit ireng, montir, montir: kulit ireng, tukang, tukang ledheng, tukang listik
 👨‍🔧	lanang, montir, montir lanang, tukang, tukang ledheng, tukang listrik
 👨🏻‍🔧	kulit putih, lanang, montir, montir lanang: kulit putih, tukang, tukang ledheng, tukang listrik
 👨🏼‍🔧	kulit putih langsep, lanang, montir, montir lanang: kulit putih langsep, tukang, tukang ledheng, tukang listrik
@@ -781,6 +1252,12 @@
 👩🏽‍🔧	kulit kuning, montir, montir wadon: kulit kuning, tukang, tukang ledheng, tukang listrik, wadon
 👩🏾‍🔧	kulit sawo mateng, montir, montir wadon: kulit sawo mateng, tukang, tukang ledheng, tukang listrik, wadon
 👩🏿‍🔧	kulit ireng, montir, montir wadon: kulit ireng, tukang, tukang ledheng, tukang listrik, wadon
+🧑‍🏭	buruh, buruh pabrik, industri, karoseri, pabrik
+🧑🏻‍🏭	buruh, buruh pabrik: kulit putih, industri, karoseri, kulit putih, pabrik
+🧑🏼‍🏭	buruh, buruh pabrik: kulit putih langsep, industri, karoseri, kulit putih langsep, pabrik
+🧑🏽‍🏭	buruh, buruh pabrik: kulit kuning, industri, karoseri, kulit kuning, pabrik
+🧑🏾‍🏭	buruh, buruh pabrik: kulit sawo mateng, industri, karoseri, kulit sawo mateng, pabrik
+🧑🏿‍🏭	buruh, buruh pabrik: kulit ireng, industri, karoseri, kulit ireng, pabrik
 👨‍🏭	buruh, buruh pabrik lanang, industri, karoseri, lanang, pabrik
 👨🏻‍🏭	buruh, buruh pabrik lanang: kulit putih, industri, karoseri, kulit putih, lanang, pabrik
 👨🏼‍🏭	buruh, buruh pabrik lanang: kulit putih langsep, industri, karoseri, kulit putih langsep, lanang, pabrik
@@ -793,6 +1270,12 @@
 👩🏽‍🏭	buruh, buruh pabrik wadon, buruh pabrik wadon: kulit kuning, industri, karoseri, kulit kuning, lanang, pabrik
 👩🏾‍🏭	buruh, buruh pabrik wadon, buruh pabrik wadon: kulit sawo mateng, industri, karoseri, kulit sawo mateng, lanang, pabrik
 👩🏿‍🏭	buruh, buruh pabrik wadon, buruh pabrik wadon: kulit ireng, industri, karoseri, kulit ireng, lanang, pabrik
+🧑‍💼	arsitek, bisnis, manajer, pegawe, pegawe kantor
+🧑🏻‍💼	arsitek, bisnis, kulit putih, manajer, pegawe, pegawe kantor, pegawe: kulit putih
+🧑🏼‍💼	arsitek, bisnis, kulit putih langsep, manajer, pegawe, pegawe kantor, pegawe: kulit putih langsep
+🧑🏽‍💼	arsitek, bisnis, kulit kuning, manajer, pegawe, pegawe kantor, pegawe: kulit kuning
+🧑🏾‍💼	arsitek, bisnis, kulit sawo mateng, manajer, pegawe, pegawe kantor, pegawe: kulit sawo mateng
+🧑🏿‍💼	arsitek, bisnis, kulit ireng, manajer, pegawe, pegawe kantor, pegawe: kulit ireng
 👨‍💼	arsitek, bisnis, lanang, manajer, pegawe, pegawe kantor lanang
 👨🏻‍💼	arsitek, bisnis, kulit putih, lanang, manajer, pegawe, pegawe kantor lanang, pegawe kantor lanang: kulit putih
 👨🏼‍💼	arsitek, bisnis, kulit putih langsep, lanang, manajer, pegawe, pegawe kantor lanang, pegawe kantor lanang: kulit putih langsep
@@ -805,6 +1288,12 @@
 👩🏽‍💼	arsitek, bisnis, kulit kuning, manajer, pegawe, pegawe kantor wadon, pegawe kantor wadon: kulit kuning, wadon
 👩🏾‍💼	arsitek, bisnis, kulit sawo mateng, manajer, pegawe, pegawe kantor wadon, pegawe kantor wadon: kulit sawo mateng, wadon
 👩🏿‍💼	arsitek, bisnis, kulit ireng, manajer, pegawe, pegawe kantor wadon, pegawe kantor wadon: kulit ireng, wadon
+🧑‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, insinyur
+🧑🏻‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, ilmuwan: kulit putih, insinyur, kulit putih
+🧑🏼‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, ilmuwan: kulit putih langsep, insinyur, kulit putih langsep
+🧑🏽‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, ilmuwan: kulit kuning, insinyur, kulit kuning
+🧑🏾‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, ilmuwan: kulit sawo mateng, insinyur, kulit sawo mateng
+🧑🏿‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, ilmuwan: kulit ireng, insinyur, kulit ireng
 👨‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, ilmuwan lanang, insinyur, lanang
 👨🏻‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, ilmuwan lanang: kulit putih, insinyur, kulit putih, lanang
 👨🏼‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, ilmuwan lanang: kulit putih langsep, insinyur, kulit putih langsep, lanang
@@ -817,6 +1306,12 @@
 👩🏽‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, ilmuwan wadon: kulit kuning, insinyur, kulit kuning, wadon
 👩🏾‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, ilmuwan wadon: kulit sawo mateng, insinyur, kulit sawo mateng, wadon
 👩🏿‍🔬	ahli biologi, ahli fisika, ahli kimia, ilmuwan, ilmuwan wadon: kulit ireng, insinyur, kulit ireng, wadon
+🧑‍💻	ahli teknologi, ahli teknologi wadon, developer, koder, panemu, prangkat alus
+🧑🏻‍💻	ahli teknologi, ahli teknologi wadon, ahli teknologi: kulit putih, developer, koder, kulit putih, panemu, prangkat alus
+🧑🏼‍💻	ahli teknologi, ahli teknologi wadon, ahli teknologi: kulit putih langsep, developer, koder, kulit putih langsep, panemu, prangkat alus
+🧑🏽‍💻	ahli teknologi, ahli teknologi wadon, ahli teknologi: kulit kuning, developer, koder, kulit kuning, panemu, prangkat alus
+🧑🏾‍💻	ahli teknologi, ahli teknologi wadon, ahli teknologi: kulit sawo mateng, developer, koder, kulit sawo mateng, panemu, prangkat alus
+🧑🏿‍💻	ahli teknologi, ahli teknologi wadon, ahli teknologi: kulit ireng, developer, koder, kulit ireng, panemu, prangkat alus
 👨‍💻	ahli teknologi, ahli teknologi lanang, developer, koder, lanang, panemu, prangkat alus
 👨🏻‍💻	ahli teknologi, ahli teknologi lanang, ahli teknologi lanang: kulit putih, developer, koder, kulit putih, lanang, panemu, prangkat alus
 👨🏼‍💻	ahli teknologi, ahli teknologi lanang, ahli teknologi lanang: kulit putih langsep, developer, koder, kulit putih langsep, lanang, panemu, prangkat alus
@@ -829,6 +1324,12 @@
 👩🏽‍💻	ahli teknologi, ahli teknologi wadon, ahli teknologi wadon: kulit kuning, developer, koder, kulit kuning, panemu, prangkat alus, wadon
 👩🏾‍💻	ahli teknologi, ahli teknologi wadon, ahli teknologi wadon: kulit sawo mateng, developer, koder, kulit sawo mateng, panemu, prangkat alus, wadon
 👩🏿‍💻	ahli teknologi, ahli teknologi wadon, ahli teknologi wadon: kulit ireng, developer, koder, kulit ireng, panemu, prangkat alus, wadon
+🧑‍🎤	aktor, biduan, musik rock, panampil, selebriti
+🧑🏻‍🎤	aktor, biduan, biduan: kulit putih, kulit putih, musik rock, panampil, selebriti
+🧑🏼‍🎤	aktor, biduan, biduan: kulit putih langsep, kulit putih langsep, musik rock, panampil, selebriti
+🧑🏽‍🎤	aktor, biduan, biduan: kulit kuning, kulit kuning, musik rock, panampil, selebriti
+🧑🏾‍🎤	aktor, biduan, biduan: kulit sawo mateng, kulit sawo mateng, musik rock, panampil, selebriti
+🧑🏿‍🎤	aktor, biduan, biduan: kulit ireng, kulit ireng, musik rock, panampil, selebriti
 👨‍🎤	aktor, biduan, biduan lanang, lanang, musik rock, panampil, selebriti
 👨🏻‍🎤	aktor, biduan, biduan lanang: kulit putih, kulit putih, lanang, musik rock, panampil, selebriti
 👨🏼‍🎤	aktor, biduan, biduan lanang: kulit putih langsep, kulit putih langsep, lanang, musik rock, panampil, selebriti
@@ -841,6 +1342,12 @@
 👩🏽‍🎤	aktor, biduan, biduan wadon: kulit kuning, kulit kuning, musik rock, panampil, selebriti, wadon
 👩🏾‍🎤	aktor, biduan, biduan wadon: kulit sawo mateng, kulit sawo mateng, musik rock, panampil, selebriti, wadon
 👩🏿‍🎤	aktor, biduan, biduan wadon: kulit ireng, kulit ireng, musik rock, panampil, selebriti, wadon
+🧑‍🎨	artis, palet
+🧑🏻‍🎨	artis, artis: kulit putih, kulit putih, palet
+🧑🏼‍🎨	artis, artis: kulit putih langsep, kulit putih langsep, palet
+🧑🏽‍🎨	artis, artis: kulit kuning, kulit kuning, palet
+🧑🏾‍🎨	artis, artis: kulit sawo mateng, kulit sawo mateng, palet
+🧑🏿‍🎨	artis, artis: kulit ireng, kulit ireng, palet
 👨‍🎨	artis, lanang, palet, seniman
 👨🏻‍🎨	artis, kulit putih, lanang, palet, seniman, seniman: kulit putih
 👨🏼‍🎨	artis, kulit putih langsep, lanang, palet, seniman, seniman: kulit putih langsep
@@ -853,6 +1360,12 @@
 👩🏽‍🎨	artis, artis wadon: kulit kuning, kulit kuning, palet, wadon
 👩🏾‍🎨	artis, artis wadon: kulit sawo mateng, kulit sawo mateng, palet, wadon
 👩🏿‍🎨	artis, artis wadon: kulit ireng, kulit ireng, palet, wadon
+🧑‍✈	montor mabur, pilot
+🧑🏻‍✈	kulit putih, montor mabur, pilot, pilot: kulit putih
+🧑🏼‍✈	kulit putih langsep, montor mabur, pilot, pilot: kulit putih langsep
+🧑🏽‍✈	kulit kuning, montor mabur, pilot, pilot: kulit kuning
+🧑🏾‍✈	kulit sawo mateng, montor mabur, pilot, pilot: kulit sawo mateng
+🧑🏿‍✈	kulit ireng, montor mabur, pilot, pilot: kulit ireng
 👨‍✈	lanang, montor mabur, pilot, pilot lanang
 👨🏻‍✈	kulit putih, lanang, montor mabur, pilot, pilot lanang: kulit putih
 👨🏼‍✈	kulit putih langsep, lanang, montor mabur, pilot, pilot lanang: kulit putih langsep
@@ -865,6 +1378,12 @@
 👩🏽‍✈	kulit kuning, montor mabur, pilot, pilot wadon: kulit kuning, wadon
 👩🏾‍✈	kulit sawo mateng, montor mabur, pilot, pilot wadon: kulit sawo mateng, wadon
 👩🏿‍✈	kulit ireng, montor mabur, pilot, pilot wadon: kulit ireng, wadon
+🧑‍🚀	astronot, roket
+🧑🏻‍🚀	astronot, astronot: kulit putih, kulit putih, roket
+🧑🏼‍🚀	astronot, astronot: kulit putih langsep, kulit putih langsep, roket
+🧑🏽‍🚀	astronot, astronot: kulit kuning, kulit kuning, roket
+🧑🏾‍🚀	astronot, astronot: kulit sawo mateng, kulit sawo mateng, roket
+🧑🏿‍🚀	astronot, astronot: kulit ireng, kulit ireng, roket
 👨‍🚀	astronot, astronot lanang, lanang, roket
 👨🏻‍🚀	astronot, astronot lanang: kulit putih, kulit putih, lanang, roket
 👨🏼‍🚀	astronot, astronot lanang: kulit putih langsep, kulit putih langsep, lanang, roket
@@ -877,6 +1396,12 @@
 👩🏽‍🚀	astronot, astronot wadon: kulit kuning, kulit kuning, roket, wadon
 👩🏾‍🚀	astronot, astronot wadon: kulit sawo mateng, kulit sawo mateng, roket, wadon
 👩🏿‍🚀	astronot, astronot wadon: kulit ireng, kulit ireng, roket, wadon
+🧑‍🚒	blamwir, damkar
+🧑🏻‍🚒	blamwir, damkar, damkar: kulit putih, kulit putih
+🧑🏼‍🚒	blamwir, damkar, damkar: kulit putih langsep, kulit putih langsep
+🧑🏽‍🚒	blamwir, damkar, damkar: kulit kuning, kulit kuning
+🧑🏾‍🚒	blamwir, damkar, damkar: kulit sawo mateng, kulit sawo mateng
+🧑🏿‍🚒	blamwir, damkar, damkar: kulit ireng, kulit ireng
 👨‍🚒	blamwir, damkar, damkar lanang, lanang
 👨🏻‍🚒	blamwir, damkar, damkar lanang: kulit putih, kulit putih, lanang
 👨🏼‍🚒	blamwir, damkar, damkar lanang: kulit putih langsep, kulit putih langsep, lanang
@@ -943,6 +1468,12 @@
 💂🏽‍♀	kulit kuning, prejurit, prejurit wadon: kulit kuning, wadon
 💂🏾‍♀	kulit sawo mateng, prejurit, prejurit wadon: kulit sawo mateng, wadon
 💂🏿‍♀	kulit ireng, prejurit, prejurit wadon: kulit ireng, wadon
+🥷	didhelikake, ndhelik-ndhelik, ninja, wira
+🥷🏻	didhelikake, kulit putih, ndhelik-ndhelik, ninja, ninja: kulit putih, wira
+🥷🏼	didhelikake, kulit putih langsep, ndhelik-ndhelik, ninja, ninja: kulit putih langsep, wira
+🥷🏽	didhelikake, kulit kuning, ndhelik-ndhelik, ninja, ninja: kulit kuning, wira
+🥷🏾	didhelikake, kulit sawo mateng, ndhelik-ndhelik, ninja, ninja: kulit sawo mateng, wira
+🥷🏿	didhelikake, kulit ireng, ndhelik-ndhelik, ninja, ninja: kulit ireng, wira
 👷	bangunan, buruh, buruh bangunan, helem
 👷🏻	bangunan, buruh, buruh bangunan: kulit putih, helem, kulit putih
 👷🏼	bangunan, buruh, buruh bangunan: kulit putih langsep, helem, kulit putih langsep
@@ -961,6 +1492,12 @@
 👷🏽‍♀	bangunan, buruh, buruh bangunan wadon: kulit kuning, kulit kuning, wadon
 👷🏾‍♀	bangunan, buruh, buruh bangunan wadon: kulit sawo mateng, kulit sawo mateng, wadon
 👷🏿‍♀	bangunan, buruh, buruh bangunan wadon: kulit ireng, kulit ireng, wadon
+🫅	kraton, mulya, raja, regal, wong nganggo makutha
+🫅🏻	kraton, kulit putih, mulya, raja, regal, wong nganggo makutha, wong nganggo makutha: kulit putih
+🫅🏼	kraton, kulit putih langsep, mulya, raja, regal, wong nganggo makutha, wong nganggo makutha: kulit putih langsep
+🫅🏽	kraton, kulit kuning, mulya, raja, regal, wong nganggo makutha, wong nganggo makutha: kulit kuning
+🫅🏾	kraton, kulit sawo mateng, mulya, raja, regal, wong nganggo makutha, wong nganggo makutha: kulit sawo mateng
+🫅🏿	kraton, kulit ireng, mulya, raja, regal, wong nganggo makutha, wong nganggo makutha: kulit ireng
 🤴	pangeran
 🤴🏻	kulit putih, pangeran, pangeran: kulit putih
 🤴🏼	kulit putih langsep, pangeran, pangeran: kulit putih langsep
@@ -1003,30 +1540,84 @@
 🧕🏽	hijab, kudhung, kulit kuning, mantilla, tichel, wong wadon jilbaban, wong wadon jilbaban: kulit kuning
 🧕🏾	hijab, kudhung, kulit sawo mateng, mantilla, tichel, wong wadon jilbaban, wong wadon jilbaban: kulit sawo mateng
 🧕🏿	hijab, kudhung, kulit ireng, mantilla, tichel, wong wadon jilbaban, wong wadon jilbaban: kulit ireng
-🤵	lanang, penganten lanang, tuksedo, wong lanang anganggo jas tuksedo
-🤵🏻	kulit putih, lanang, penganten lanang, tuksedo, wong lanang anganggo jas tuksedo, wong lanang anganggo jas tuksedo: kulit putih
-🤵🏼	kulit putih langsep, lanang, penganten lanang, tuksedo, wong lanang anganggo jas tuksedo, wong lanang anganggo jas tuksedo: kulit putih langsep
-🤵🏽	kulit kuning, lanang, penganten lanang, tuksedo, wong lanang anganggo jas tuksedo, wong lanang anganggo jas tuksedo: kulit kuning
-🤵🏾	kulit sawo mateng, lanang, penganten lanang, tuksedo, wong lanang anganggo jas tuksedo, wong lanang anganggo jas tuksedo: kulit sawo mateng
-🤵🏿	kulit ireng, lanang, penganten lanang, tuksedo, wong lanang anganggo jas tuksedo, wong lanang anganggo jas tuksedo: kulit ireng
-👰	kudhung manten, penganten wadon, penganten wadon nganggo kudhung manten, pengantenan
-👰🏻	kudhung manten, kulit putih, penganten wadon, penganten wadon nganggo kudhung manten, penganten wadon nganggo kudhung manten: kulit putih, pengantenan
-👰🏼	kudhung manten, kulit putih langsep, penganten wadon, penganten wadon nganggo kudhung manten, penganten wadon nganggo kudhung manten: kulit putih langsep, pengantenan
-👰🏽	kudhung manten, kulit kuning, penganten wadon, penganten wadon nganggo kudhung manten, penganten wadon nganggo kudhung manten: kulit kuning, pengantenan
-👰🏾	kudhung manten, kulit sawo mateng, penganten wadon, penganten wadon nganggo kudhung manten, penganten wadon nganggo kudhung manten: kulit sawo mateng, pengantenan
-👰🏿	kudhung manten, kulit ireng, penganten wadon, penganten wadon nganggo kudhung manten, penganten wadon nganggo kudhung manten: kulit ireng, pengantenan
+🤵	lanang, penganten lanang, tuksedo, wong anganggo jas tuksedo
+🤵🏻	kulit putih, lanang, penganten lanang, tuksedo, wong anganggo jas tuksedo, wong anganggo jas tuksedo: kulit putih
+🤵🏼	kulit putih langsep, lanang, penganten lanang, tuksedo, wong anganggo jas tuksedo, wong anganggo jas tuksedo: kulit putih langsep
+🤵🏽	kulit kuning, lanang, penganten lanang, tuksedo, wong anganggo jas tuksedo, wong anganggo jas tuksedo: kulit kuning
+🤵🏾	kulit sawo mateng, lanang, penganten lanang, tuksedo, wong anganggo jas tuksedo, wong anganggo jas tuksedo: kulit sawo mateng
+🤵🏿	kulit ireng, lanang, penganten lanang, tuksedo, wong anganggo jas tuksedo, wong anganggo jas tuksedo: kulit ireng
+🤵‍♂	tuksedo, wong lanang, wong lanang anganggo jas tuksedo, wong lanang anganggo tuksedo
+🤵🏻‍♂	kulit putih, tuksedo, wong lanang, wong lanang anganggo jas tuksedo, wong lanang anganggo jas tuksedo: kulit putih, wong lanang anganggo tuksedo
+🤵🏼‍♂	kulit putih langsep, tuksedo, wong lanang, wong lanang anganggo jas tuksedo, wong lanang anganggo jas tuksedo: kulit putih langsep, wong lanang anganggo tuksedo
+🤵🏽‍♂	kulit kuning, tuksedo, wong lanang, wong lanang anganggo jas tuksedo, wong lanang anganggo jas tuksedo: kulit kuning, wong lanang anganggo tuksedo
+🤵🏾‍♂	kulit sawo mateng, tuksedo, wong lanang, wong lanang anganggo jas tuksedo, wong lanang anganggo jas tuksedo: kulit sawo mateng, wong lanang anganggo tuksedo
+🤵🏿‍♂	kulit ireng, tuksedo, wong lanang, wong lanang anganggo jas tuksedo, wong lanang anganggo jas tuksedo: kulit ireng, wong lanang anganggo tuksedo
+🤵‍♀	tuksedo, wadon, wong wadon anganggo tuksedo
+🤵🏻‍♀	kulit putih, tuksedo, wadon, wong wadon anganggo tuksedo, wong wadon anganggo tuksedo: kulit putih
+🤵🏼‍♀	kulit putih langsep, tuksedo, wadon, wong wadon anganggo tuksedo, wong wadon anganggo tuksedo: kulit putih langsep
+🤵🏽‍♀	kulit kuning, tuksedo, wadon, wong wadon anganggo tuksedo, wong wadon anganggo tuksedo: kulit kuning
+🤵🏾‍♀	kulit sawo mateng, tuksedo, wadon, wong wadon anganggo tuksedo, wong wadon anganggo tuksedo: kulit sawo mateng
+🤵🏿‍♀	kulit ireng, tuksedo, wadon, wong wadon anganggo tuksedo, wong wadon anganggo tuksedo: kulit ireng
+👰	kudhung manten, penganten wadon, pengantenan, wong, wong nganggo kudhung manten
+👰🏻	kudhung manten, kulit putih, penganten wadon, pengantenan, wong, wong nganggo kudhung manten, wong nganggo kudhung manten: kulit putih
+👰🏼	kudhung manten, kulit putih langsep, penganten wadon, pengantenan, wong, wong nganggo kudhung manten, wong nganggo kudhung manten: kulit putih langsep
+👰🏽	kudhung manten, kulit kuning, penganten wadon, pengantenan, wong, wong nganggo kudhung manten, wong nganggo kudhung manten: kulit kuning
+👰🏾	kudhung manten, kulit sawo mateng, penganten wadon, pengantenan, wong, wong nganggo kudhung manten, wong nganggo kudhung manten: kulit sawo mateng
+👰🏿	kudhung manten, kulit ireng, penganten wadon, pengantenan, wong, wong nganggo kudhung manten, wong nganggo kudhung manten: kulit ireng
+👰‍♂	kudhung manten, lanang, wong lanang nganggo kudhung manten
+👰🏻‍♂	kudhung manten, kulit putih, lanang, wong lanang nganggo kudhung manten, wong lanang nganggo kudhung manten: kulit putih
+👰🏼‍♂	kudhung manten, kulit putih langsep, lanang, wong lanang nganggo kudhung manten, wong lanang nganggo kudhung manten: kulit putih langsep
+👰🏽‍♂	kudhung manten, kulit kuning, lanang, wong lanang nganggo kudhung manten, wong lanang nganggo kudhung manten: kulit kuning
+👰🏾‍♂	kudhung manten, kulit sawo mateng, lanang, wong lanang nganggo kudhung manten, wong lanang nganggo kudhung manten: kulit sawo mateng
+👰🏿‍♂	kudhung manten, kulit ireng, lanang, wong lanang nganggo kudhung manten, wong lanang nganggo kudhung manten: kulit ireng
+👰‍♀	kudhung manten, wadon, wong wadon nganggo kudhung manten
+👰🏻‍♀	kudhung manten, kulit putih, wadon, wong wadon nganggo kudhung manten, wong wadon nganggo kudhung manten: kulit putih
+👰🏼‍♀	kudhung manten, kulit putih langsep, wadon, wong wadon nganggo kudhung manten, wong wadon nganggo kudhung manten: kulit putih langsep
+👰🏽‍♀	kudhung manten, kulit kuning, wadon, wong wadon nganggo kudhung manten, wong wadon nganggo kudhung manten: kulit kuning
+👰🏾‍♀	kudhung manten, kulit sawo mateng, wadon, wong wadon nganggo kudhung manten, wong wadon nganggo kudhung manten: kulit sawo mateng
+👰🏿‍♀	kudhung manten, kulit ireng, wadon, wong wadon nganggo kudhung manten, wong wadon nganggo kudhung manten: kulit ireng
 🤰	ngandhut, wadon, wong wadon ngandhut
 🤰🏻	kulit putih, ngandhut, wadon, wong wadon ngandhut, wong wadon ngandhut: kulit putih
 🤰🏼	kulit putih langsep, ngandhut, wadon, wong wadon ngandhut, wong wadon ngandhut: kulit putih langsep
 🤰🏽	kulit kuning, ngandhut, wadon, wong wadon ngandhut, wong wadon ngandhut: kulit kuning
 🤰🏾	kulit sawo mateng, ngandhut, wadon, wong wadon ngandhut, wong wadon ngandhut: kulit sawo mateng
 🤰🏿	kulit ireng, ngandhut, wadon, wong wadon ngandhut, wong wadon ngandhut: kulit ireng
+🫃	kebak, kembung, meteng, weteng, wong lanang meteng
+🫃🏻	kebak, kembung, kulit putih, meteng, weteng, wong lanang meteng, wong lanang meteng: kulit putih
+🫃🏼	kebak, kembung, kulit putih langsep, meteng, weteng, wong lanang meteng, wong lanang meteng: kulit putih langsep
+🫃🏽	kebak, kembung, kulit kuning, meteng, weteng, wong lanang meteng, wong lanang meteng: kulit kuning
+🫃🏾	kebak, kembung, kulit sawo mateng, meteng, weteng, wong lanang meteng, wong lanang meteng: kulit sawo mateng
+🫃🏿	kebak, kembung, kulit ireng, meteng, weteng, wong lanang meteng, wong lanang meteng: kulit ireng
+🫄	kebak, kembung, meteng, weteng, wong meteng
+🫄🏻	kebak, kembung, kulit putih, meteng, weteng, wong meteng, wong meteng: kulit putih
+🫄🏼	kebak, kembung, kulit putih langsep, meteng, weteng, wong meteng, wong meteng: kulit putih langsep
+🫄🏽	kebak, kembung, kulit kuning, meteng, weteng, wong meteng, wong meteng: kulit kuning
+🫄🏾	kebak, kembung, kulit sawo mateng, meteng, weteng, wong meteng, wong meteng: kulit sawo mateng
+🫄🏿	kebak, kembung, kulit ireng, meteng, weteng, wong meteng, wong meteng: kulit ireng
 🤱	bayi, menthili, nyusoni, penthil
 🤱🏻	bayi, kulit putih, menthili, menthili: kulit putih, nyusoni, penthil
 🤱🏼	bayi, kulit putih langsep, menthili, menthili: kulit putih langsep, nyusoni, penthil
 🤱🏽	bayi, kulit kuning, menthili, menthili: kulit kuning, nyusoni, penthil
 🤱🏾	bayi, kulit sawo mateng, menthili, menthili: kulit sawo mateng, nyusoni, penthil
 🤱🏿	bayi, kulit ireng, menthili, menthili: kulit ireng, nyusoni, penthil
+👩‍🍼	bayi, ngrawat, nyusoni, wadon, wong wadon nyusoni bayi
+👩🏻‍🍼	bayi, kulit putih, ngrawat, nyusoni, wadon, wong wadon nyusoni bayi, wong wadon nyusoni bayi: kulit putih
+👩🏼‍🍼	bayi, kulit putih langsep, ngrawat, nyusoni, wadon, wong wadon nyusoni bayi, wong wadon nyusoni bayi: kulit putih langsep
+👩🏽‍🍼	bayi, kulit kuning, ngrawat, nyusoni, wadon, wong wadon nyusoni bayi, wong wadon nyusoni bayi: kulit kuning
+👩🏾‍🍼	bayi, kulit sawo mateng, ngrawat, nyusoni, wadon, wong wadon nyusoni bayi, wong wadon nyusoni bayi: kulit sawo mateng
+👩🏿‍🍼	bayi, kulit ireng, ngrawat, nyusoni, wadon, wong wadon nyusoni bayi, wong wadon nyusoni bayi: kulit ireng
+👨‍🍼	bayi, lanang, ngrawat, nyusoni, wong lanang nyusoni bayi
+👨🏻‍🍼	bayi, kulit putih, lanang, ngrawat, nyusoni, wong lanang nyusoni bayi, wong lanang nyusoni bayi: kulit putih
+👨🏼‍🍼	bayi, kulit putih langsep, lanang, ngrawat, nyusoni, wong lanang nyusoni bayi, wong lanang nyusoni bayi: kulit putih langsep
+👨🏽‍🍼	bayi, kulit kuning, lanang, ngrawat, nyusoni, wong lanang nyusoni bayi, wong lanang nyusoni bayi: kulit kuning
+👨🏾‍🍼	bayi, kulit sawo mateng, lanang, ngrawat, nyusoni, wong lanang nyusoni bayi, wong lanang nyusoni bayi: kulit sawo mateng
+👨🏿‍🍼	bayi, kulit ireng, lanang, ngrawat, nyusoni, wong lanang nyusoni bayi, wong lanang nyusoni bayi: kulit ireng
+🧑‍🍼	bayi, ngrawat, nyusoni, wong, wong nyusoni bayi
+🧑🏻‍🍼	bayi, kulit putih, ngrawat, nyusoni, wong, wong nyusoni bayi: kulit putih
+🧑🏼‍🍼	bayi, kulit putih langsep, ngrawat, nyusoni, wong, wong nyusoni bayi: kulit putih langsep
+🧑🏽‍🍼	bayi, kulit kuning, ngrawat, nyusoni, wong, wong nyusoni bayi: kulit kuning
+🧑🏾‍🍼	bayi, kulit sawo mateng, ngrawat, nyusoni, wong, wong nyusoni bayi: kulit sawo mateng
+🧑🏿‍🍼	bayi, kulit ireng, ngrawat, nyusoni, wong, wong nyusoni bayi: kulit ireng
 👼	bayi, dongeng, fantasi, malaékat, malaékat bayi, rai
 👼🏻	bayi, dongeng, fantasi, kulit putih, malaékat, malaékat bayi: kulit putih, rai
 👼🏼	bayi, dongeng, fantasi, kulit putih langsep, malaékat, malaékat bayi: kulit putih langsep, rai
@@ -1045,6 +1636,12 @@
 🤶🏽	Ibu Klas, Ibu Klas: kulit kuning, Klas, Natal, ibu, kulit kuning, pista
 🤶🏾	Ibu Klas, Ibu Klas: kulit sawo mateng, Klas, Natal, ibu, kulit sawo mateng, pista
 🤶🏿	Ibu Klas, Ibu Klas: kulit ireng, Klas, Natal, ibu, kulit ireng, pista
+🧑‍🎄	Klas, natal, bapa/ibu klas
+🧑🏻‍🎄	Klas, natal, bapa/ibu klas, bapa/ibu klas: kulit putih, kulit putih
+🧑🏼‍🎄	Klas, natal, bapa/ibu klas, bapa/ibu klas: kulit putih langsep, kulit putih langsep
+🧑🏽‍🎄	Klas, natal, bapa/ibu klas, bapa/ibu klas: kulit kuning, kulit kuning
+🧑🏾‍🎄	Klas, natal, bapa/ibu klas, bapa/ibu klas: kulit sawo mateng, kulit sawo mateng
+🧑🏿‍🎄	Klas, natal, bapa/ibu klas, bapa/ibu klas: kulit ireng, kulit ireng
 🦸	becik, kadigdayan linuwih, satriya, satriya mandraguna, srikandhi
 🦸🏻	becik, kadigdayan linuwih, kulit putih, satriya, satriya mandraguna, satriya mandraguna: kulit putih, srikandhi
 🦸🏼	becik, kadigdayan linuwih, kulit putih langsep, satriya, satriya mandraguna, satriya mandraguna: kulit putih langsep, srikandhi
@@ -1177,6 +1774,7 @@
 🧟	lelembut, setan bentayangan, zombi
 🧟‍♂	lelembut, setan bentayangan, zombi lanang
 🧟‍♀	lelembut, setan bentayangan, zombi wadon
+🧌	dongeng, khayalan, monster, troll
 💆	pijet, rai, salon, wong dipijeti
 💆🏻	kulit putih, pijet, rai, salon, wong dipijeti, wong dipijeti: kulit putih
 💆🏼	kulit putih langsep, pijet, rai, salon, wong dipijeti, wong dipijeti: kulit putih langsep
@@ -1267,6 +1865,12 @@
 🧎🏽‍♀	kulit kuning, timpuh, wadon, wong wadon timpuh, wong wadon timpuh: kulit kuning
 🧎🏾‍♀	kulit sawo mateng, timpuh, wadon, wong wadon timpuh, wong wadon timpuh: kulit sawo mateng
 🧎🏿‍♀	kulit ireng, timpuh, wadon, wong wadon timpuh, wong wadon timpuh: kulit ireng
+🧑‍🦯	kalancaran, wong nyekeli teken, wong nyekeli teken putih, wuta
+🧑🏻‍🦯	kalancaran, kulit putih, wong nyekeli teken, wong nyekeli teken putih, wong nyekeli teken: kulit putih, wuta
+🧑🏼‍🦯	kalancaran, kulit putih langsep, wong nyekeli teken, wong nyekeli teken putih, wong nyekeli teken: kulit putih langsep, wuta
+🧑🏽‍🦯	kalancaran, kulit kuning, wong nyekeli teken, wong nyekeli teken putih, wong nyekeli teken: kulit kuning, wuta
+🧑🏾‍🦯	kalancaran, kulit sawo mateng, wong nyekeli teken, wong nyekeli teken putih, wong nyekeli teken: kulit sawo mateng, wuta
+🧑🏿‍🦯	kalancaran, kulit ireng, wong nyekeli teken, wong nyekeli teken putih, wong nyekeli teken: kulit ireng, wuta
 👨‍🦯	kalancaran, lanang, wong lanang nyekeli teken, wuta
 👨🏻‍🦯	kalancaran, kulit putih, lanang, wong lanang nyekeli teken, wong lanang nyekeli teken: kulit putih, wuta
 👨🏼‍🦯	kalancaran, kulit putih langsep, lanang, wong lanang nyekeli teken, wong lanang nyekeli teken: kulit putih langsep, wuta
@@ -1279,6 +1883,12 @@
 👩🏽‍🦯	kalancaran, kulit kuning, wadon, wong wadon nyekeli teken, wong wadon nyekeli teken: kulit kuning, wuta
 👩🏾‍🦯	kalancaran, kulit sawo mateng, wadon, wong wadon nyekeli teken, wong wadon nyekeli teken: kulit sawo mateng, wuta
 👩🏿‍🦯	kalancaran, kulit ireng, wadon, wong wadon nyekeli teken, wong wadon nyekeli teken: kulit ireng, wuta
+🧑‍🦼	kalancaran, kursi rodha, wong numpak kursi rodha mesin
+🧑🏻‍🦼	kalancaran, kulit putih, kursi rodha, wong numpak kursi rodha mesin, wong numpak kursi rodha mesin: kulit putih
+🧑🏼‍🦼	kalancaran, kulit putih langsep, kursi rodha, wong numpak kursi rodha mesin, wong numpak kursi rodha mesin: kulit putih langsep
+🧑🏽‍🦼	kalancaran, kulit kuning, kursi rodha, wong numpak kursi rodha mesin, wong numpak kursi rodha mesin: kulit kuning
+🧑🏾‍🦼	kalancaran, kulit sawo mateng, kursi rodha, wong numpak kursi rodha mesin, wong numpak kursi rodha mesin: kulit sawo mateng
+🧑🏿‍🦼	kalancaran, kulit ireng, kursi rodha, wong numpak kursi rodha mesin, wong numpak kursi rodha mesin: kulit ireng
 👨‍🦼	kalancaran, kursi rodha, lanang, wong lanang numpak kursi rodha mesin
 👨🏻‍🦼	kalancaran, kulit putih, kursi rodha, lanang, wong lanang numpak kursi rodha mesin, wong lanang numpak kursi rodha mesin: kulit putih
 👨🏼‍🦼	kalancaran, kulit putih langsep, kursi rodha, lanang, wong lanang numpak kursi rodha mesin, wong lanang numpak kursi rodha mesin: kulit putih langsep
@@ -1291,6 +1901,12 @@
 👩🏽‍🦼	kalancaran, kulit kuning, kursi rodha, wadon, wong wadon numpak kursi rodha mesin, wong wadon numpak kursi rodha mesin: kulit kuning
 👩🏾‍🦼	kalancaran, kulit sawo mateng, kursi rodha, wadon, wong wadon numpak kursi rodha mesin, wong wadon numpak kursi rodha mesin: kulit sawo mateng
 👩🏿‍🦼	kalancaran, kulit ireng, kursi rodha, wadon, wong wadon numpak kursi rodha mesin, wong wadon numpak kursi rodha mesin: kulit ireng
+🧑‍🦽	kalancaran, kursi rodha, wong numpak kursi rodha manual
+🧑🏻‍🦽	kalancaran, kulit putih, kursi rodha, wong numpak kursi rodha manual, wong numpak kursi rodha manual: kulit putih
+🧑🏼‍🦽	kalancaran, kulit putih langsep, kursi rodha, wong numpak kursi rodha manual, wong numpak kursi rodha manual: kulit putih langsep
+🧑🏽‍🦽	kalancaran, kulit kuning, kursi rodha, wong numpak kursi rodha manual, wong numpak kursi rodha manual: kulit kuning
+🧑🏾‍🦽	kalancaran, kulit sawo mateng, kursi rodha, wong numpak kursi rodha manual, wong numpak kursi rodha manual: kulit sawo mateng
+🧑🏿‍🦽	kalancaran, kulit ireng, kursi rodha, wong numpak kursi rodha manual, wong numpak kursi rodha manual: kulit ireng
 👨‍🦽	kalancaran, kursi rodha, lanang, wong lanang numpak kursi rodha manual
 👨🏻‍🦽	kalancaran, kulit putih, kursi rodha, lanang, wong lanang numpak kursi rodha manual, wong lanang numpak kursi rodha manual: kulit putih
 👨🏼‍🦽	kalancaran, kulit putih langsep, kursi rodha, lanang, wong lanang numpak kursi rodha manual, wong lanang numpak kursi rodha manual: kulit putih langsep
@@ -1643,15 +2259,25 @@
 🛌🏿	hotel, kulit ireng, turu, wong turu, wong turu: kulit ireng
 🧑‍🤝‍🧑	gandhengan tangan, pasangan, tangan, wong, wong gandhengan tangan
 🧑🏻‍🤝‍🧑🏻	gandhengan tangan, kulit putih, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit putih
+🧑🏻‍🤝‍🧑🏼	gandhengan tangan, kulit putih, kulit putih langsep, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit putih, kulit putih langsep
+🧑🏻‍🤝‍🧑🏽	gandhengan tangan, kulit kuning, kulit putih, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit putih, kulit kuning
+🧑🏻‍🤝‍🧑🏾	gandhengan tangan, kulit putih, kulit sawo mateng, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit putih, kulit sawo mateng
+🧑🏻‍🤝‍🧑🏿	gandhengan tangan, kulit ireng, kulit putih, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit putih, kulit ireng
 🧑🏼‍🤝‍🧑🏻	gandhengan tangan, kulit putih, kulit putih langsep, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit putih langsep, kulit putih
 🧑🏼‍🤝‍🧑🏼	gandhengan tangan, kulit putih langsep, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit putih langsep
+🧑🏼‍🤝‍🧑🏽	gandhengan tangan, kulit kuning, kulit putih langsep, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit putih langsep, kulit kuning
+🧑🏼‍🤝‍🧑🏾	gandhengan tangan, kulit putih langsep, kulit sawo mateng, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit putih langsep, kulit sawo mateng
+🧑🏼‍🤝‍🧑🏿	gandhengan tangan, kulit ireng, kulit putih langsep, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit putih langsep, kulit ireng
 🧑🏽‍🤝‍🧑🏻	gandhengan tangan, kulit kuning, kulit putih, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit kuning, kulit putih
 🧑🏽‍🤝‍🧑🏼	gandhengan tangan, kulit kuning, kulit putih langsep, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit kuning, kulit putih langsep
 🧑🏽‍🤝‍🧑🏽	gandhengan tangan, kulit kuning, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit kuning
+🧑🏽‍🤝‍🧑🏾	gandhengan tangan, kulit kuning, kulit sawo mateng, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit kuning, kulit sawo mateng
+🧑🏽‍🤝‍🧑🏿	gandhengan tangan, kulit ireng, kulit kuning, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit kuning, kulit ireng
 🧑🏾‍🤝‍🧑🏻	gandhengan tangan, kulit putih, kulit sawo mateng, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit sawo mateng, kulit putih
 🧑🏾‍🤝‍🧑🏼	gandhengan tangan, kulit putih langsep, kulit sawo mateng, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit sawo mateng, kulit putih langsep
 🧑🏾‍🤝‍🧑🏽	gandhengan tangan, kulit kuning, kulit sawo mateng, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit sawo mateng, kulit kuning
 🧑🏾‍🤝‍🧑🏾	gandhengan tangan, kulit sawo mateng, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit sawo mateng
+🧑🏾‍🤝‍🧑🏿	gandhengan tangan, kulit ireng, kulit sawo mateng, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit sawo mateng, kulit ireng
 🧑🏿‍🤝‍🧑🏻	gandhengan tangan, kulit ireng, kulit putih, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit ireng, kulit putih
 🧑🏿‍🤝‍🧑🏼	gandhengan tangan, kulit ireng, kulit putih langsep, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit ireng, kulit putih langsep
 🧑🏿‍🤝‍🧑🏽	gandhengan tangan, kulit ireng, kulit kuning, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit ireng, kulit kuning
@@ -1659,67 +2285,97 @@
 🧑🏿‍🤝‍🧑🏿	gandhengan tangan, kulit ireng, pasangan, tangan, wong, wong gandhengan tangan, wong gandhengan tangan: kulit ireng
 👭	gandhengan, loro, tangan, wadon, wong wadon loro gandhengan tangan
 👭🏻	gandhengan, kulit putih, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit putih
+👩🏻‍🤝‍👩🏼	gandhengan, kulit putih, kulit putih langsep, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit putih, kulit putih langsep
+👩🏻‍🤝‍👩🏽	gandhengan, kulit kuning, kulit putih, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit putih, kulit kuning
+👩🏻‍🤝‍👩🏾	gandhengan, kulit putih, kulit sawo mateng, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit putih, kulit sawo mateng
+👩🏻‍🤝‍👩🏿	gandhengan, kulit ireng, kulit putih, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit putih, kulit ireng
 👩🏼‍🤝‍👩🏻	gandhengan, kulit putih, kulit putih langsep, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit putih langsep, kulit putih
 👭🏼	gandhengan, kulit putih langsep, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit putih langsep
+👩🏼‍🤝‍👩🏽	gandhengan, kulit kuning, kulit putih langsep, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit putih langsep, kulit kuning
+👩🏼‍🤝‍👩🏾	gandhengan, kulit putih langsep, kulit sawo mateng, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit putih langsep, kulit sawo mateng
+👩🏼‍🤝‍👩🏿	gandhengan, kulit ireng, kulit putih langsep, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit putih langsep, kulit ireng
 👩🏽‍🤝‍👩🏻	gandhengan, kulit kuning, kulit putih, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit kuning, kulit putih
 👩🏽‍🤝‍👩🏼	gandhengan, kulit kuning, kulit putih langsep, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit kuning, kulit putih langsep
 👭🏽	gandhengan, kulit kuning, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit kuning
+👩🏽‍🤝‍👩🏾	gandhengan, kulit kuning, kulit sawo mateng, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit kuning, kulit sawo mateng
+👩🏽‍🤝‍👩🏿	gandhengan, kulit ireng, kulit kuning, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit kuning, kulit ireng
 👩🏾‍🤝‍👩🏻	gandhengan, kulit putih, kulit sawo mateng, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit sawo mateng, kulit putih
 👩🏾‍🤝‍👩🏼	gandhengan, kulit putih langsep, kulit sawo mateng, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit sawo mateng, kulit putih langsep
 👩🏾‍🤝‍👩🏽	gandhengan, kulit kuning, kulit sawo mateng, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit sawo mateng, kulit kuning
 👭🏾	gandhengan, kulit sawo mateng, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit sawo mateng
+👩🏾‍🤝‍👩🏿	gandhengan, kulit ireng, kulit sawo mateng, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit sawo mateng, kulit ireng
 👩🏿‍🤝‍👩🏻	gandhengan, kulit ireng, kulit putih, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit ireng, kulit putih
 👩🏿‍🤝‍👩🏼	gandhengan, kulit ireng, kulit putih langsep, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit ireng, kulit putih langsep
 👩🏿‍🤝‍👩🏽	gandhengan, kulit ireng, kulit kuning, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit ireng, kulit kuning
 👩🏿‍🤝‍👩🏾	gandhengan, kulit ireng, kulit sawo mateng, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit ireng, kulit sawo mateng
 👭🏿	gandhengan, kulit ireng, loro, tangan, wadon, wong wadon loro gandhengan tangan, wong wadon loro gandhengan tangan: kulit ireng
-👫	cekel, gandhengan, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan
-👫🏻	cekel, gandhengan, kulit putih, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit putih
-👩🏻‍🤝‍👨🏼	cekel, gandhengan, kulit putih, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit putih, kulit putih langsep
-👩🏻‍🤝‍👨🏽	cekel, gandhengan, kulit kuning, kulit putih, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit putih, kulit kuning
-👩🏻‍🤝‍👨🏾	cekel, gandhengan, kulit putih, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit putih, kulit sawo mateng
-👩🏻‍🤝‍👨🏿	cekel, gandhengan, kulit ireng, kulit putih, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit putih, kulit ireng
-👩🏼‍🤝‍👨🏻	cekel, gandhengan, kulit putih, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit putih langsep, kulit putih
-👫🏼	cekel, gandhengan, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit putih langsep
-👩🏼‍🤝‍👨🏽	cekel, gandhengan, kulit kuning, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit putih langsep, kulit kuning
-👩🏼‍🤝‍👨🏾	cekel, gandhengan, kulit putih langsep, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit putih langsep, kulit sawo mateng
-👩🏼‍🤝‍👨🏿	cekel, gandhengan, kulit ireng, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit putih langsep, kulit ireng
-👩🏽‍🤝‍👨🏻	cekel, gandhengan, kulit kuning, kulit putih, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit kuning, kulit putih
-👩🏽‍🤝‍👨🏼	cekel, gandhengan, kulit kuning, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit kuning, kulit putih langsep
-👫🏽	cekel, gandhengan, kulit kuning, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit kuning
-👩🏽‍🤝‍👨🏾	cekel, gandhengan, kulit kuning, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit kuning, kulit sawo mateng
-👩🏽‍🤝‍👨🏿	cekel, gandhengan, kulit ireng, kulit kuning, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit kuning, kulit ireng
-👩🏾‍🤝‍👨🏻	cekel, gandhengan, kulit putih, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit sawo mateng, kulit putih
-👩🏾‍🤝‍👨🏼	cekel, gandhengan, kulit putih langsep, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit sawo mateng, kulit putih langsep
-👩🏾‍🤝‍👨🏽	cekel, gandhengan, kulit kuning, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit sawo mateng, kulit kuning
-👫🏾	cekel, gandhengan, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit sawo mateng
-👩🏾‍🤝‍👨🏿	cekel, gandhengan, kulit ireng, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit sawo mateng, kulit ireng
-👩🏿‍🤝‍👨🏻	cekel, gandhengan, kulit ireng, kulit putih, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit ireng, kulit putih
-👩🏿‍🤝‍👨🏼	cekel, gandhengan, kulit ireng, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit ireng, kulit putih langsep
-👩🏿‍🤝‍👨🏽	cekel, gandhengan, kulit ireng, kulit kuning, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit ireng, kulit kuning
-👩🏿‍🤝‍👨🏾	cekel, gandhengan, kulit ireng, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit ireng, kulit sawo mateng
-👫🏿	cekel, gandhengan, kulit ireng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan tangan: kulit ireng
+👫	cekel, gandhengan, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan
+👫🏻	cekel, gandhengan, kulit putih, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit putih
+👩🏻‍🤝‍👨🏼	cekel, gandhengan, kulit putih, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit putih, kulit putih langsep
+👩🏻‍🤝‍👨🏽	cekel, gandhengan, kulit kuning, kulit putih, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit putih, kulit kuning
+👩🏻‍🤝‍👨🏾	cekel, gandhengan, kulit putih, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit putih, kulit sawo mateng
+👩🏻‍🤝‍👨🏿	cekel, gandhengan, kulit ireng, kulit putih, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit putih, kulit ireng
+👩🏼‍🤝‍👨🏻	cekel, gandhengan, kulit putih, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit putih langsep, kulit putih
+👫🏼	cekel, gandhengan, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit putih langsep
+👩🏼‍🤝‍👨🏽	cekel, gandhengan, kulit kuning, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit putih langsep, kulit kuning
+👩🏼‍🤝‍👨🏾	cekel, gandhengan, kulit putih langsep, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit putih langsep, kulit sawo mateng
+👩🏼‍🤝‍👨🏿	cekel, gandhengan, kulit ireng, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit putih langsep, kulit ireng
+👩🏽‍🤝‍👨🏻	cekel, gandhengan, kulit kuning, kulit putih, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit kuning, kulit putih
+👩🏽‍🤝‍👨🏼	cekel, gandhengan, kulit kuning, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit kuning, kulit putih langsep
+👫🏽	cekel, gandhengan, kulit kuning, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit kuning
+👩🏽‍🤝‍👨🏾	cekel, gandhengan, kulit kuning, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit kuning, kulit sawo mateng
+👩🏽‍🤝‍👨🏿	cekel, gandhengan, kulit ireng, kulit kuning, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit kuning, kulit ireng
+👩🏾‍🤝‍👨🏻	cekel, gandhengan, kulit putih, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit sawo mateng, kulit putih
+👩🏾‍🤝‍👨🏼	cekel, gandhengan, kulit putih langsep, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit sawo mateng, kulit putih langsep
+👩🏾‍🤝‍👨🏽	cekel, gandhengan, kulit kuning, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit sawo mateng, kulit kuning
+👫🏾	cekel, gandhengan, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit sawo mateng
+👩🏾‍🤝‍👨🏿	cekel, gandhengan, kulit ireng, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit sawo mateng, kulit ireng
+👩🏿‍🤝‍👨🏻	cekel, gandhengan, kulit ireng, kulit putih, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit ireng, kulit putih
+👩🏿‍🤝‍👨🏼	cekel, gandhengan, kulit ireng, kulit putih langsep, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit ireng, kulit putih langsep
+👩🏿‍🤝‍👨🏽	cekel, gandhengan, kulit ireng, kulit kuning, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit ireng, kulit kuning
+👩🏿‍🤝‍👨🏾	cekel, gandhengan, kulit ireng, kulit sawo mateng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit ireng, kulit sawo mateng
+👫🏿	cekel, gandhengan, kulit ireng, lanang, pasangan, tangan, wadon, wong lanang lan wadon gandhengan, wong lanang lan wadon gandhengan tangan, wong lanang lan wadon gandhengan: kulit ireng
 👬	Gemini, gandhengan, kembar, lanang, loro, palintangan, wong lanang loro gandhengan tangan
 👬🏻	Gemini, gandhengan, kembar, kulit putih, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit putih
+👨🏻‍🤝‍👨🏼	Gemini, gandhengan, kembar, kulit putih, kulit putih langsep, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit putih, kulit putih langsep
+👨🏻‍🤝‍👨🏽	Gemini, gandhengan, kembar, kulit kuning, kulit putih, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit putih, kulit kuning
+👨🏻‍🤝‍👨🏾	Gemini, gandhengan, kembar, kulit putih, kulit sawo mateng, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit putih, kulit sawo mateng
+👨🏻‍🤝‍👨🏿	Gemini, gandhengan, kembar, kulit ireng, kulit putih, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit putih, kulit ireng
 👨🏼‍🤝‍👨🏻	Gemini, gandhengan, kembar, kulit putih, kulit putih langsep, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit putih langsep, kulit putih
 👬🏼	Gemini, gandhengan, kembar, kulit putih langsep, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit putih langsep
+👨🏼‍🤝‍👨🏽	Gemini, gandhengan, kembar, kulit kuning, kulit putih langsep, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit putih langsep, kulit kuning
+👨🏼‍🤝‍👨🏾	Gemini, gandhengan, kembar, kulit putih langsep, kulit sawo mateng, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit putih langsep, kulit sawo mateng
+👨🏼‍🤝‍👨🏿	Gemini, gandhengan, kembar, kulit ireng, kulit putih langsep, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit putih langsep, kulit ireng
 👨🏽‍🤝‍👨🏻	Gemini, gandhengan, kembar, kulit kuning, kulit putih, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit kuning, kulit putih
 👨🏽‍🤝‍👨🏼	Gemini, gandhengan, kembar, kulit kuning, kulit putih langsep, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit kuning, kulit putih langsep
 👬🏽	Gemini, gandhengan, kembar, kulit kuning, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit kuning
+👨🏽‍🤝‍👨🏾	Gemini, gandhengan, kembar, kulit kuning, kulit sawo mateng, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit kuning, kulit sawo mateng
+👨🏽‍🤝‍👨🏿	Gemini, gandhengan, kembar, kulit ireng, kulit kuning, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit kuning, kulit ireng
 👨🏾‍🤝‍👨🏻	Gemini, gandhengan, kembar, kulit putih, kulit sawo mateng, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit sawo mateng, kulit putih
 👨🏾‍🤝‍👨🏼	Gemini, gandhengan, kembar, kulit putih langsep, kulit sawo mateng, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit sawo mateng, kulit putih langsep
 👨🏾‍🤝‍👨🏽	Gemini, gandhengan, kembar, kulit kuning, kulit sawo mateng, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit sawo mateng, kulit kuning
 👬🏾	Gemini, gandhengan, kembar, kulit sawo mateng, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit sawo mateng
+👨🏾‍🤝‍👨🏿	Gemini, gandhengan, kembar, kulit ireng, kulit sawo mateng, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit sawo mateng, kulit ireng
 👨🏿‍🤝‍👨🏻	Gemini, gandhengan, kembar, kulit ireng, kulit putih, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit ireng, kulit putih
 👨🏿‍🤝‍👨🏼	Gemini, gandhengan, kembar, kulit ireng, kulit putih langsep, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit ireng, kulit putih langsep
 👨🏿‍🤝‍👨🏽	Gemini, gandhengan, kembar, kulit ireng, kulit kuning, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit ireng, kulit kuning
 👨🏿‍🤝‍👨🏾	Gemini, gandhengan, kembar, kulit ireng, kulit sawo mateng, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit ireng, kulit sawo mateng
 👬🏿	Gemini, gandhengan, kembar, kulit ireng, lanang, loro, palintangan, wong lanang loro gandhengan tangan, wong lanang loro gandhengan tangan: kulit ireng
 💏	ambung, pasangan
+💏🏻	ambung, ambung: kulit putih, kulit putih, pasangan
+💏🏼	ambung, ambung: kulit putih langsep, kulit putih langsep, pasangan
+💏🏽	ambung, ambung: kulit kuning, kulit kuning, pasangan
+💏🏾	ambung, ambung: kulit sawo mateng, kulit sawo mateng, pasangan
+💏🏿	ambung, ambung: kulit ireng, kulit ireng, pasangan
 👩‍❤‍💋‍👨	ambung, ambung: wong wadon, wong lanang, pasangan, wong lanang, wong wadon
 👨‍❤‍💋‍👨	ambung, ambung: wong lanang, wong lanang, pasangan, wong lanang
 👩‍❤‍💋‍👩	ambung, ambung: wong wadon, wong wadon, pasangan, wong wadon
 💑	loro, pasangan lan tandha ati, tresna
+💑🏻	kulit putih, loro, pasangan lan tandha ati, pasangan lan tandha ati: kulit putih, tresna
+💑🏼	kulit putih langsep, loro, pasangan lan tandha ati, pasangan lan tandha ati: kulit putih langsep, tresna
+💑🏽	kulit kuning, loro, pasangan lan tandha ati, pasangan lan tandha ati: kulit kuning, tresna
+💑🏾	kulit sawo mateng, loro, pasangan lan tandha ati, pasangan lan tandha ati: kulit sawo mateng, tresna
+💑🏿	kulit ireng, loro, pasangan lan tandha ati, pasangan lan tandha ati: kulit ireng, tresna
 👩‍❤‍👨	loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong lanang, tresna, wong lanang, wong wadon
 👨‍❤‍👨	loro, pasangan lan tandha ati, pasangan lan tandha ati: wong lanang, wong lanang, tresna, wong lanang
 👩‍❤‍👩	loro, pasangan lan tandha ati, pasangan lan tandha ati: wong wadon, wong wadon, tresna, wong wadon
@@ -1752,8 +2408,9 @@
 🗣️	bayangan, omong, rai, sirah, sirah omong
 👤	bayangan, bayangan patung sirah tekan dhadha, patung sirah tekan dhadha
 👥	bayangan, bayangan patung sirah tekan dhadha loro, patung sirah tekan dhadha
+🫂	halo, matur nuwun, pamitan, rangkulan, wong rangkulan
 👣	klambi, tipak, tipak sikil
-🦰	jae, rambut abang
+🦰	jae, rambut abang, rambute abang
 🦱	afro, brintik, prenthel-prenthel, rambut brintik
 🦳	putih, rambut, rambut putih, tuwa, uwan
 🦲	buthak, gundhul, kemoterapi, ora duwe rambut, plenthas
@@ -1771,6 +2428,7 @@
 🦝	kepo, licik, rakun
 🐱	ingon-ingon, kucing, rai, rai kucing
 🐈️	ingon-ingon, kucing
+🐈‍⬛	ireng, kucing, kucing ireng, ora beja
 🦁	Leo, rai, singa, zodiak
 🐯	macan, rai, rai macan
 🐅	macan
@@ -1780,6 +2438,7 @@
 🦄	rai, unicorn
 🦓	garis-garis, zebra
 🦌	kidang
+🦬	bison, kebo, sakumpulan, wicaksono
 🐮	rai, rai sapi wadon, sapi wadon
 🐂	Taurus, banteng, sapi lanang, zodiak
 🐃	banyu, kebo
@@ -1796,6 +2455,7 @@
 🦙	alpaca, guanaco, llama, vicuna, wul
 🦒	jerapah, totol-totol
 🐘	gajah
+🦣	gading, gedhe, kebak wulu, mamot, punah
 🦏	badhak
 🦛	hipo, kuda nil
 🐭	rai, rai tikus, tikus
@@ -1805,9 +2465,11 @@
 🐰	ingon-ingon, kelinci, rai, rai terwelu, terwelu
 🐇	ingon-ingon, kelinci, terwelu
 🐿️	bajing, tupai
+🦫	bendungan, singing
 🦔	duri, landhak
 🦇	kalong, vampir
 🐻	beruang, rai
+🐻‍❄	beruang, beruang kutub, kutub lor, putih
 🐨	beruang, koala
 🐼	panda, rai
 🦥	kesed, lelet, sloth
@@ -1829,6 +2491,8 @@
 🦆	bebek, unggas
 🦢	angsa, banyak, bebek ala, unggas
 🦉	guwek, manuk, wicaksana
+🦤	Mauritus, gedhe, manuk dodo, punah
+🪶	enteng, mabur, manuk, wulu
 🦩	flamboyan, flamingo, tropis
 🦚	manuk, merak, merak wadon, seneng pamer, umuk
 🦜	beo, manuk, omong, perompak
@@ -1844,27 +2508,34 @@
 🐳	nyembur, paus, paus nyembur, rai
 🐋	paus
 🐬	fliper, lumba-lumba
+🦭	seal, singo laut
 🐟️	Pisces, iwak, zodiak
 🐠	iwak, iwak tropis, tropis
 🐡	buntal, iwak, iwak buntal
 🦈	hiu, iwak
 🐙	gurita
 🐚	keong, keong spiral, spiral
+🪸	karang, koral, samodra
 🐌	bekicot
 🦋	endah, kupu, serangga
 🐛	serangga, uler
 🐜	semut, serangga
 🐝	lebah, lebah madu, serangga
+🪲	ama, kumbang, serangga
 🐞	kepik, kepik pereng, kumbang, serangga
 🦗	jangkrik, walang
+🪳	ama, coro, kecoak, serangga
 🕷️	angga-angga, serangga
 🕸️	angga-angga, jaring, jaring angga-angga
 🦂	Scorpio, kalajengking, scorpio, zodiakk
 🦟	demam, lemut, malaria, penyakit, serangga, virus
+🪰	ama, bosokan, laler, penyakit, set
+🪱	anelid, cacing, cacing lemah, parasit
 🦠	amuba, bakteri, mikroba, virus
 💐	buket, kembang
 🌸	kembang, mekar, sakura
 💮	kembang, kembang putih
+🪷	Agama Buddha, Agama Hindu, India, Vietnam, kasucian, kembang, teratai
 🏵️	roseta, tanduran
 🌹	kembang, mawar
 🥀	kembang, kembang layu, layu
@@ -1873,6 +2544,7 @@
 🌼	kembang, sekar
 🌷	kembang, tulip
 🌱	cilik, pembibitan
+🪴	mboseni, ngopeni, omah, ora migunani, tanduran, tanduran njero adah, tukul
 🌲	wit, wit cemara
 🌳	gogrok, rontok, wit, wit godhonge rontok
 🌴	kambil, wit, wit kambil
@@ -1884,6 +2556,9 @@
 🍁	godhong, godhong mapel, mapel, rontok
 🍂	godhong, godhong gogrok, gogrok
 🍃	angin, godhong, godhong ngawe-awe kena angin, godhong ngawe-ngawe kena angin, ketiup, ngawe-awe
+🪹	nyusuh, susuh kosong
+🪺	nyusuh, susuh ono endoke
+🍄	jamur, jamur payung
 🍇	anggur, woh-wohan
 🍈	melon, woh-wohan
 🍉	semangka, woh-wohan
@@ -1898,8 +2573,10 @@
 🍑	persik, woh-wohan
 🍒	abang, beri, ceri, woh ceri, woh-wohan
 🍓	beri, stroberi, woh-wohan
+🫐	beri, beri biru, bilberi, biru
 🥝	kiwi, panganan, woh kiwi, woh-wohan
 🍅	sayuran, tomat, woh-wohan
+🫒	panganan, zaitun
 🥥	kambil, palem, pina colada
 🥑	avokad, pangan, woh-wohan
 🍆	sayuran, terong, terung
@@ -1907,17 +2584,19 @@
 🥕	pangan, sayuran, wortel
 🌽	jagung, klembak, maizena, tongkol jagung
 🌶️	lombok, pedhes
+🫑	kapsikum, lombok, paprika, sayuran
 🥒	acar, pangan, sayuran, timun
 🥬	bok coi, kol, kubis, selada, selada ijo
 🥦	brokoli, kubis liar
 🧄	bawang putih, panyedhep rasa
 🧅	bawang bombai, panyedhep rasa
-🍄	jamur, jamur payung
 🥜	dhaharan, kacang, kacang brol, sayuran
+🫘	buncis, ginjel, legum, panganan
 🌰	kenari, tetuwuhan
 🍞	roti, sebata
 🥐	dhaharan, kroasang, prancis, roti, roti gulung bulan sabit
 🥖	baget, dhaharan, prancis, roti, roti baget
+🫓	roti arepa, roti lapash, roti naan, roti pita, roti warata
 🥨	diuntir, pretsel
 🥯	pabrik roti, roti bagel, roti semir
 🥞	apem, dhaharan, krep, panekuk
@@ -1934,12 +2613,14 @@
 🥪	roti, sendwich
 🌮	pangan meksiko, tako
 🌯	burito, dhaharan meksiko, sega bungkus roti
+🫔	dhaharan meksiko, kabungkus, tamale
 🥙	dhaharan, falafel, isi, kebab turki, kebab yunani, roti pita, roti pita gulung
 🧆	bakso, bakwan falafel, kacang garbanzo
 🥚	dhaharan, ndhog
 🍳	masak, ndhog, nggoreng, wajan
 🥘	dhaharan, jangan sawajan cethek, kaserol, paela, wajan, wajan cethek
 🍲	jangan sapanci, panci, semur
+🫕	Swiss, adah, keju, lumer, pondue, soklat
 🥣	bubur, mangkok karo sendhok, sarapan, sereal
 🥗	dhaharan, ijo-ijo, urap, urap-urap sayur
 🍿	brondong jagung
@@ -1985,6 +2666,7 @@
 🍼	bayi, botol, botol kempong, susu, unjukan
 🥛	gelas, sagelas susu, susu, unjukan
 ☕️	kemepul, kopi, panas, teh, unjukan, wedang, wedang panas
+🫖	adah, ceret, teh, unjukan
 🍵	cangkir, cangkir teh tanpa kuping, teh, unjukan, wedang
 🍶	bar, botol, cangkir, sabotol sake, sake, unjukan, wedang
 🍾	bar, botol, botol mencelat subale, mencelat, subal botol, unjukan
@@ -1995,7 +2677,9 @@
 🍻	bar, bir, gelas bir, gelas bir ditutulake, gelas-gelas bir ditutulake, mak thing, unjukan
 🥂	gelas, gelas-gelas ditutulke, mak thing, pista, unjukan
 🥃	anggur, gelas, gelas sloki, sloki, unjukan
+🫗	gelas, ngombe, nyuntak banyu, suwung, wuthah
 🥤	gelas mawa sedhotan, soda, wedang jus
+🧋	mutiyara, plembungan, susu, teh, teh kocok
 🧃	jus kothakan, wedang kothakan
 🧉	teh mate, unjukan
 🧊	adhem, es, es batu
@@ -2004,6 +2688,7 @@
 🍴	garpu, garpu lan peso, masak, peso, sendhok garpu
 🥄	pranti dhahar, sendhok
 🔪	alat, gaman, hocho, masak, peso, peso dhapur
+🫙	bumbu, saos, suwung, toko, wadhah
 🏺	Aquarius, amphora, guci kuping loro, masak, palintangan, teko, unjukan
 🌍	Afrika, Eropa, bumi, donya, globe, globe sing nuduhake benua Eropa-Afrika
 🌎️	Amerika, bumi, donya, globe, globe sing nuduhake benua Amerika
@@ -2025,6 +2710,9 @@
 🏛️	kuna, wewangunan kuna
 🏗️	konstruksi, konstruksi wewangunan
 🧱	bata, lempung, semen, tembok
+🪨	abot, atos, watu, watu gedhe
+🪵	kayu, kayu log, kayu tugelan, kayu ulahan
+🛖	omah, omah bunder, pondhok, yurt
 🏘️	omah-omah
 🏚️	bobrok, omah, omah bobrok
 🏠️	omah, padunungan
@@ -2063,6 +2751,7 @@
 🌉	bengi, kreteg, kreteg ing wayah bengi
 ♨️	kemepul, panas, tuk, tuk banyu panas
 🎠	jaran, jaran komidhi puter, komidhi puter
+🛝	dolanan, plosotan, taman hiburan
 🎡	jinantra, rodha, taman hiburan
 🎢	kreta, kreta sluncur, sluncur, taman hiburan
 💈	cukur rambut, panandha, panandha kiyose tukang cukur, tukang cukur
@@ -2092,8 +2781,9 @@
 🚗	montor, montor otomatis
 🚘️	mara, montor, montor otomatis, montor otomatis mara
 🚙	rekreasi, srana ulah raga, tetumpakan srana ulah raga
+🛻	methuk, pikep, trek, trek pikep
 🚚	pangiriman, prahoto, prahoto pangiriman
-🚛	lori, lori gandheng, prahoto
+🚛	lori, lori gandheng, prahoto, separo
 🚜	tetumpakan, traktor
 🏎️	balapan, montor, montor balap
 🏍️	balapan, pit montor
@@ -2104,17 +2794,20 @@
 🚲️	pit, sepedha
 🛴	jejek, otopet, otopet jejek
 🛹	papan, papan skate
+🛼	gulungan, sepatu rodha
 🚏	bis, halte bis, mandheg
 🛣️	dalan, dalan gedhe, dalan tol
 🛤️	jalur ril, jalur sepur, sepur
 🛢️	drim, drim lenga, lenga
 ⛽️	bensin, disel, gas, pom, pompa, pompa bensin
+🛞	ban, bunder, nguripake, rodha
 🚨	cemlorot, lampu, lampu montor pulisi, montor, mubeng-mubeng, pulisi
 🚥	aba-aba, lalu lintas, lampu, lampu bangjo turu
 🚦	aba-aba, lalu lintas, lampu, lampu bangjo ngadeg
 🛑	mandheg, oktagonal, setop, tandha, tandha setop
 🚧	konstruksi, pager wates
 ⚓️	jangkar, kapal, pralatan
+🛟	ban pelampung, kaselamatan, klambi pengampul, kumambang, nyelamatke, panyelamat
 ⛵️	kapal layar, prau, prau layar, resor, segara
 🛶	kano, prau
 🚤	kapal rikat, prau
@@ -2176,7 +2869,7 @@
 🌖	bulan, bulan ilang seprapat, padhange ilang sithik-sithik, padhange meh kebak
 🌗	bulan, bulan peteng separo, separo
 🌘	bulan, bulan gari seprapat, padhange ilang sithik-sithik, seprapat
-🌙	bulan, bulan nanggal sepisan, nanggal sepisan
+🌙	bulan, bulan nanggal sepisan
 🌚	bulan, rai, rai bulan kawitan
 🌛	bulan, rai, rai bulan separo marep ngiwa, separo
 🌜️	bulan, rai, rai bulan separo marep nengen, separo
@@ -2230,7 +2923,7 @@
 🎏	gendera, gendera koinobori, koinobori, perayaan
 🎐	angin, klinthingan, klinthingan angin, lonceng, perayaan
 🎑	mbulan, perayaan, upacara, upacara nyawang mbulan
-🧧	andum pandonga, ang pao, dhuwit, hóngbāo, kado, lai see
+🧧	andum pandonga, ang pao, dhuwit, hongbao, kado, lai see
 🎀	perayaan, pita
 🎁	bingkisan, dibungkus, kado, kado dibungkus, kothak, perayaan
 🎗️	pangeling, perayaan, pita, pita pangeling
@@ -2272,15 +2965,19 @@
 🎯	dart, kena, kena sasaran, target, tepat sasaran
 🪀	dolanan, yoyo
 🪁	layangan, mabur, nglayang
+🔫	bedhil, gegaman, pistul, pranti, revolver, senjata
 🎱	8, bal, bilyar, game, pool bal 8, wolu
 🔮	bal, bal kristal, dongeng, fantasi, kristal, perkakas, raja brana
-🧿	azimat, jimat nazar, manik-manik, mantra, mata setan, nazar
+🪄	penyihir, sihir, tongkat sihir, tuntunan
 🎮️	game, game video, pangontrol
 🕹️	game, game video, tuas kontrol
 🎰	game, mesin slot, slot
 🎲	dhadhu, dhadhu game, game
 🧩	cuwilan teka-teki, jigsaw, kemunci, pituduh, potongan, teka-teki
 🧸	alat dolanan, beruang teddy, dijejeli, dolanan, mewah
+🪅	pinata, pista, prayaan
+🪩	bal pangilon, disko, jogèd, kumrincing, pesta
+🪆	boneka, boneka rusia, nyusuh, rusia
 ♠️	game, kertu, kertu sekop
 ♥️	game, kertu, kertu ati
 ♦️	game, kertu, kertu berlian
@@ -2293,7 +2990,9 @@
 🖼️	gambar, gambar nganggo pigura, lukisan, museum, pigura, seni
 🎨	lukisan, museum, palet, palet pelukis, seni
 🧵	benang, dom, njait, senar, sepul
+🪡	babakan jait, jait, jaitan, jarum, jarum jait, sulaman
 🧶	bal, bolah, rajut, renda
+🪢	benang, dasi, ditaleni, kusut, simpul, tali
 👓️	kaca tingal, kacamata, mata, panganggo mripat, sandangan
 🕶️	kacamata, kacamata ireng, mripat, panganggo mripat, peteng
 🥽	gogel, ngelas, nglangi, proteksi mripat
@@ -2319,6 +3018,7 @@
 👝	dompet, sandhangan, tas, tas jinjing
 🛍️	blanja, hotel, tas, tas blanja
 🎒	ransel, sekolah, tas, tas cangklong, tas gendhong
+🩴	japit, sandal, sandal gisik, sandal japit, sandal zori
 👞	lanang, sandhangan, sepatu lanang
 👟	atletik, kets, sandhangan, sepatu, sepatu mlayu
 🥾	backpacking, bot, hiking, kemping, sepatu bot hiking
@@ -2332,11 +3032,12 @@
 🎩	dhuwur, sandhangan, sepatu dhuwur, topi, topi dhuwur
 🎓️	perayaan, sandhangan, topi, topi wisuda, wisuda
 🧢	topi bisbol, topi pet
+🪖	bala, helm, helm militer, militer, prejurit, wira
 ⛑️	bantuan, helm, helm tim SAR, palang, rai, topi
 📿	agama, kalung, manik-manik, sandhangan, tesbih
 💄	kosmetik, lipstik, riasan
 💍	ali-ali, berlian
-💎	batu permata, berlian, permata, ratna
+💎	berlian, permata, ratna, watu permata
 🔇	anteng, bisu, meneng, speaker, speaker bisu
 🔈️	alus, volume lirih speaker
 🔉	medium, volume medium speaker
@@ -2356,12 +3057,14 @@
 🎧️	earbud, headphone
 📻️	radio, video
 🎷	instrumen, musik, saks, saksofon
+🪗	akordion, konser, kotak pamerasan
 🎸	gitar, instrumen, musik
 🎹	instrumen, kibor, kibor musik, musik, piano
 🎺	instrumen, musik, trompet
 🎻	biola, instrumen, musik
 🪕	dawai, gitar banjo, musik
-🥁	drum, musik, stik drum
+🥁	dram, musik, stik dram
+🪘	dram, irama, kendhang, konga, nabuh
 📱	sel, seluler, telepon, telepon seluler, telpon
 📲	nampa, panah, sel, seluler, telepon, telepon seluler nganggo panah
 ☎️	telepon, telpon
@@ -2369,14 +3072,15 @@
 📟️	penyeranta
 📠	faks, mesin faks
 🔋	baterai
+🪫	baterai arep entek, elektronik, energi sithik
 🔌	colokan, colokan listrik, kelistrikan, listrik
 💻️	komputer, komputer laptop, pc, personal
 🖥️	desktop, komputer, komputer desktop
 🖨️	komputer, printer
 ⌨️	keyboard, komputer
 🖱️	komputer, mouse komputer
-🖲️	trackbal, trackbal komputer
-💽	cakram, cakram komputer, cakram mini, komputer, optik
+🖲️	trakbal, trakbal komputer
+💽	cakram, cakram cilik, cakram komputer, komputer, optik
 💾	disket, disket flopi, flopi, komputer
 💿️	cakram, cakram optikal, cd, komputer, optikal
 📀	blu-ray, cakram, cakram dvd, dvd, komputer, optikal
@@ -2415,6 +3119,7 @@
 🔖	tandha, tenger
 🏷️	label tenger
 💰️	dhuwit, dolar, kanthong, kanthong dhuwit
+🪙	bandha, duwit, emas, koin, logam, perak
 💴	dhuwit, dhuwit kertas, dhuwit kertas yen, mata uang, yen
 💵	dhuwit, dhuwit kertas, dhuwit kertas dolar, euro, mata uang
 💶	dhuwit kertas, dhuwit kertas euro, euro, mata uang
@@ -2423,8 +3128,6 @@
 💳️	dhuwit, kertu, kertu kredhit, kredhit
 🧾	akuntansi, bukti, kwitansi, pembukuan, struk tetukon
 💹	dhuwit, grafik, grafik mata uang yen mundhak, mundhak, yen
-💱	bank, dhuwit, ijol-ijolan, mata uang, rega ijol mata uang
-💲	dhuwit, dolar, mata uang, tandha dolar kandel
 ✉️	amplop, email, layang
 📧	e-mail, email, layang, surat
 📨	amplop, amplop layang teka, e-mail, email, katampa, layang teka
@@ -2481,10 +3184,13 @@
 🛠️	bekakas, kunci inggris, kunci pas, pukul, pukul lan kunci pas
 🗡️	gegaman, pedhang endhek, peso
 ⚔️	gegaman, pedhang, pedhang loro timpuk, timpuk
-🔫	bedhil, gegaman, pistul, pranti, revolver, senjata
+💣️	bom, komik
+🪃	bumerang, kumandang, mantul, ostrali
 🏹	Sagittarius, gendewa, gendewa lan panah, palintangan, pamanah, panah
 🛡️	gegaman, tameng
+🪚	bekakas, graji, graji kayu, kayu, tukang kayu
 🔧	bekakas, kunci inggris, kunci pas
+🪛	bekakas, obeng
 🔩	baut, bekakas, mur, mur lan baut
 ⚙️	bekakas, gir, ring gir
 🗜️	bekakas, cathok, penet
@@ -2492,8 +3198,10 @@
 🦯	kalancaran, teken, wuta
 🔗	sambungan rante
 ⛓️	rante
+🪝	bengkok, kurpa, nangkap, pancing, panjerat, seng utama
 🧰	bekakas, kothak bekakas, montir, pethi
 🧲	magnet, tapal jaran, tarik-tinarik, wesi magnet
+🪜	anak ondo, menek, ondo
 ⚗️	alembik, kimia, pranti, pranti suling alembik
 🧪	ahli kimia, eksperimen, kimia, laborat, sains, tabung reaksi
 🧫	ahli biologi, bakteri, biologi, cawan petri, kultur, laborat
@@ -2505,28 +3213,43 @@
 🩸	donor getih, menstruasi, obat, satetes getih
 💊	dhokter, lara, obat, pil
 🩹	perban, plester
+🩼	cacat, kruk, ngelarani, pitulung mobilitas, stik, teken
 🩺	dhokter, jantung, obat, stetoskop
+🩻	balung, dhokter, krangka, medis, sinar x
 🚪	lawang
+🛗	kalancaran, munggah, ngangkat, ondo mlaku
+🪞	kaca pangilon, mantul, pamantulan, spekulum
+🪟	cendela, mbukak, pamandangan, pigura, tembus cahya, udara seger
 🛏️	amben, hotel, turu
 🛋️	hotel, lampu, sofa, sofa lan lampu
 🪑	jagongan, kursi, njagong
 🚽	kakus
+🪠	kakus, panyedot kakus, panyedotan, tukang pipa
 🚿	banyu, pancuran
 🛁	adus, bak kungkum
+🪤	pangikat, panjebak, panjebak tikus, umpan
 🪒	cukur, landhep, peso cukur
 🧴	botol losion, krim kulit, losion, sampo, tabir surya
 🧷	peniti, popok, punk rock
 🧹	nyapu, penyihir, reresik, sapu
 🧺	kranjang, kumbahan, piknik, tani
 🧻	lap tisu, tisu gulung, tisu wese
+🪣	ember, gendul, timba, tong
 🧼	adus, kothak, reresik, sabun, sabunan, wadhah sabun
+🫧	ing jero banyu, resik, sabun, sendhang, umpluk
+🪥	dental, papan adus, resik, resikan, sikat, sikat untu, untu
 🧽	bolong-bolong, nyerep, reresik, sepon
 🧯	geni, mateni, mbasmi, pambasmi geni
 🛒	blanja, troli, troli blanja
 🚬	ngrokok, rokok
 ⚰️	pati, pethi mati
+🪦	kijeng, kuburan, pakuburan
 ⚱️	awu, guci, guci awu, pamulasaran, pati
+🧿	azimat, jimat nazar, manik-manik, mantra, mata setan, nazar
+🪬	Fatima, Maria, Miriam, jimat, khamsa, pangayoman, tangan
 🗿	moai, moyai, patung, patung moai, rai
+🪧	demontrasi, piket, plakat, protes, tandha
+🪪	KTP, keamanan, kertu identitas, kredensial, lisènsi
 🏧	atm, bank, otomatis, tandha ATM, teller
 🚮	rereged, tandha mbuwang rereged ing wadhahe, wadhah sampah
 🚰	banyu, banyu kran kena diombe, ngombe, ombe langsung
@@ -2625,8 +3348,23 @@
 📴	hp, hp mati, mati, ponsel, tilpun
 ♀️	tandha wanita, wadon
 ♂️	lanang, tandha priya
-⚕️	aesculapius, obat, pegawe, tandha medhis
+⚧️	tandha wariya, wariya
+✖️	ditikelake, ping-pingan, tandha, tandha ping-pingan, wurung, x, ×
+➕	+, matematika, tambah, tandha
+➖	-, kurang, matematika, tandha, −
+➗	matematika, paran, tandha, tandha para, ÷
+🟰	matématika, podo-podo, tandha padha karo
 ♾️	abadi, tanpa kaiket, tanpa wates, universal
+‼️	!, !!, mak cethor pindho, mbangetake, tandha, tandha penthung dhobel
+⁉️	!, !?, ?, pitakon, tandha, tandha penthung lan pitakon, tandha wacan
+❓️	?, pitakon, tandha, tandha pitakon abang, tandha wacan
+❔	?, garis pinggir cetha, pitakon, tandha, tandha pitakon putih, tandha wacan
+❕	!, garis pinggir cetha, mbangetake, tandha, tandha penthung putih
+❗️	!, mbangetake, tandha, tandha penthung, tandha penthung abang, tandha wacan
+〰️	ngeluk, setrip, setrip ngeluk, tandha wacan
+💱	bank, dhuwit, ijol-ijolan, mata uang, rega ijol mata uang
+💲	dhuwit, dolar, mata uang, tandha dolar kandel
+⚕️	aesculapius, obat, pegawe, tandha medhis
 ♻️	dhaur ulang, tandha dhaur ulang
 ⚜	lambang fleur-de-lis, lambang fleur-de-lis [kembang Lili]
 🔱	emblem, jangkar, kapal, lambang trisula, pranti, trisula
@@ -2636,25 +3374,14 @@
 ✅	centhang, tenger, tombol, tombol tenger centhang, ✓
 ☑️	centhang, kothak, kothak centhang ana centhange, ✓
 ✔️	centhang, tenger, tenger centhang, ✓
-✖️	ditikelake, ping-pingan, tandha, tandha ping-pingan, wurung, x, ×
 ❌	ditikelake, ping, ping-pingan, tenger, tenger ping, wurung, x, ×
 ❎	kothak, tenger, tombol tenger ping, x, ×
-➕	+, matematika, tambah, tandha, tandha tambah
-➖	-, kurang, matematika, tandha, tandha kurang, −
-➗	matematika, paran, tandha, tandha para, ÷
 ➰	cunthel, garis cunthel, mlungker
 ➿	cunthel, dhobel, garis cunthel dhobel, mlungker
 〽️	bageyan, tandha, tandha rikala sindhen wiwit nyanyi
 ✳️	*, asterisk, asterisk kembang wolu
 ✴️	*, lintang, lintang mata wolu
 ❇️	*, kelip-kelip
-‼️	!, !!, mak cethor pindho, mbangetake, tandha, tandha penthung dhobel
-⁉️	!, !?, ?, mbangetake, pitakon, tandha, tandha penthung lan pitakon, tandha wacan
-❓️	?, pitakon, tandha, tandha pitakon, tandha wacan
-❔	?, garis pinggir cetha, pitakon, tandha, tandha pitakon putih, tandha wacan
-❕	!, garis pinggir cetha, mbangetake, tandha, tandha penthung putih
-❗️	!, mbangetake, tandha, tandha penthung, tandha wacan
-〰️	ngeluk, setrip, setrip ngeluk, tandha wacan
 ©️	c, hak cipta
 ®️	kadhaptar, r
 ™️	merek dagang, tandha, tm
@@ -2673,7 +3400,7 @@
 🆔	id, idhentitas, tombol ID
 Ⓜ️	M dibunderi, bunder, m
 🆕	new, tombol NEW
-🆖	ng, tombol NG, tombol No Good
+🆖	ng, tombol NG
 🅾️	golongane getih, o, tombol O [golongane getih]
 🆗	OK, tombol OK
 🅿️	parkir, tombol P
@@ -2737,6 +3464,7 @@
 🏴	gendera ireng, ngawe-awe
 🏳️	gendera putih, ngawe-awe
 🏳‍🌈	gendera plangi, plangi
+🏳‍⚧	abang enom, biru enom, gendera, gendera wariya, putih, wariya
 🏴‍☠	Jolly Roger, bandhane karun, begal segara, gendera begal segara, jarah
 🇦🇨	gendera, gendera: Pulo Ascension
 🇦🇩	gendera, gendera: Andora
@@ -2848,7 +3576,7 @@
 🇮🇪	gendera, gendera: Républik Irlan
 🇮🇱	gendera, gendera: Israèl
 🇮🇲	gendera, gendera: Pulo Man
-🇮🇳	gendera, gendera: Indhi
+🇮🇳	gendera, gendera: Indhia
 🇮🇴	gendera, gendera: Wilayah Inggris nang Segoro Hindia
 🇮🇶	gendera, gendera: Irak
 🇮🇷	gendera, gendera: Iran
@@ -2864,7 +3592,7 @@
 🇰🇮	gendera, gendera: Kiribati
 🇰🇲	gendera, gendera: Komoro
 🇰🇳	gendera, gendera: Saint Kits lan Nèvis
-🇰🇵	gendera, gendera: Koréa Lèr
+🇰🇵	gendera, gendera: Korea Lor
 🇰🇷	gendera, gendera: Koréa Kidul
 🇰🇼	gendera, gendera: Kuwait
 🇰🇾	gendera, gendera: Kapuloan Kéman
@@ -2887,7 +3615,7 @@
 🇲🇫	gendera, gendera: Santa Martin
 🇲🇬	gendera, gendera: Madagaskar
 🇲🇭	gendera, gendera: Kapuloan Marshall
-🇲🇰	gendera, gendera: Makédonia
+🇲🇰	gendera, gendera: Républik Makédonia Lor
 🇲🇱	gendera, gendera: Mali
 🇲🇲	gendera, gendera: Myanmar (Burma)
 🇲🇳	gendera, gendera: Mongolia
@@ -2914,7 +3642,7 @@
 🇳🇵	gendera, gendera: Népal
 🇳🇷	gendera, gendera: Nauru
 🇳🇺	gendera, gendera: Niue
-🇳🇿	gendera, gendera: Niu Sélan
+🇳🇿	gendera, gendera: Selandia Anyar
 🇴🇲	gendera, gendera: Oman
 🇵🇦	gendera, gendera: Panama
 🇵🇪	gendera, gendera: Peru
@@ -2996,6 +3724,43 @@
 🇿🇦	gendera, gendera: Afrika Kidul
 🇿🇲	gendera, gendera: Sambia
 🇿🇼	gendera, gendera: Simbabwe
+🏴󠁧󠁢󠁥󠁮󠁧󠁿	gendera, gendera: Inggris
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	gendera, gendera: Skotlandia
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	gendera, gendera: Wales
+¤	Dhuwit Ora Dikenali
+¢	sen
+$	USD, dhuwit, dolar, peso
+£	EGP, GBP, pound, valuta
+¥	CNY, JPY, valuta, yen, yuan
+֏	Dram Armenia
+؋	Afghani Afganistan
+৳	Taka Bangladesh
+฿	Baht Thai
+៛	Riel Kamboja
+₡	Colon Kosta Rika
+₥	mil, mill
+₦	Naira Nigeria
+₩	KPW, KRW, won
+₪	Shekel Anyar Israel
+₫	Dong Vietnam
+€	EUR, euro, valuta
+₭	Kip Laos
+₮	Tugrik Mongol
+₱	peso
+₲	Guarani Paraguay
+₴	Hryvnia Ukrania
+₵	Cedi Ghana
+₸	Tenge Kasakhstan
+₹	rupee, rupee india, valuta
+₺	Lira Turki
+₼	Manat Azerbaijan
+₽	ruble, valuta
+₾	Lari Georgia
+₿	BTC, bitcoin
+¹	siji, tandha siji ing dhuwur, tika dhuwur
+²	loro, peng loro, tandha loro ing dhuwur, tika dhuwur
+³	pesagi, tandha telu ing dhuwur, telu, tika dhuwur
+µ	ngukur, tandha mikro
 🏻	kulit putih, praupan kulit, tipe 1 - 2
 🏼	kulit putih langsep, praupan kulit, tipe 3
 🏽	kulit kuning, praupan kulit, tipe 4
