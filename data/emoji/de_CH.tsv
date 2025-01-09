@@ -1,4 +1,5 @@
-_	Unterstrich
+‾	Oberstrich, Überstrich
+‽	Fragerufzeichen, Interrobang
 ”	schliessendes doppeltes Anführungszeichen
 )	Klammer, Parenthese, runde Klammer, schliessende Klammer, schliessende runde Klammer
 ]	eckige Klammer, eckige Klammer rechts, schliessende eckige Klammer
@@ -13,26 +14,98 @@ _	Unterstrich
 〗	Klammer, hohle konkave Klammer, konkave Klammer, schliessende hohle konkave Klammer, schliessende linsenförmige Klammer hohl
 §	Paragraph
 @	Adresszeichen, Affenschaukel, Affenschwanz, At, At-Zeichen, Klammeraffe
+⁂	Asterism, Dreifachsternchen, Sterngruppe
 `	Accent grave, Akzent, Betonung, Gravis
 ´	Accent aigu, Akut, Akzent, Betonung
+↹	Ofeil, Pfeil nach links auf Strich zulaufend über Pfeil nach rechts auf Strich zulaufend, Strich, links, rechts, über Pfeil nach rechts auf Strich
+↼	Harpune, Harpune nach links mit Zacken nach oben, Harpune nach oben mit Zacken nach oben
+↾	Harpune, Harpune nach oben mit Zacken nach rechts
+↿	Harpune, Harpune nach oben mit Zacken nach links
+⇀	Harpune, Harpune nach oben mit Zacken nach oben, Harpune nach rechts mit Zacken nach oben
+⇁	Harpune, Harpune nach oben mit Zacken nach unten, Harpune nach rechts mit Zacken nach unten
+⇂	Harpune, Harpune nach oben mit Zacken nach oben, Harpune nach unten mit Zacken nach rechts
+⇃	Harpune, Harpune nach unten mit Zacken nach links
 ⇦	weisser Pfeil nach links
 ⇧	weisser Pfeil nach oben
 ⇨	weisser Pfeil nach rechts
 ⇩	weisser Pfeil nach unten
 ⇪	weisser Pfeil nach oben von Strich weglaufend
+∂	Ableitung, partielle Ableitung
+∎	Beweis, Ende des Beweises, q.e.d., qed
+∑	Mathematik, Summe, Summenzeichen
+≮	Mathematik, nicht kleiner als, nicht weniger als
 =	gleich
 >	Grösser-als-Zeichen, grösser als
-≯	nicht grösser als
+≯	Mathematik, nicht grösser als
 |	Längsstrich, Pipe, Pipe-Symbol, Pipe-Zeichen, senkrechter Strich, vertikaler Strich
+∓	minus oder plus, plusminus
+∕	Divisionsstrich, Längsstrich, Slash, Strich
+⁄	Bruchsstrich, Bruchstrich, Schrägstrich, Strich
+∗	Stern, Sternchen, Sternchen-Operator
+∘	Operator, Ring-Operator
+∙	Kreis-Operator, Operator
+∝	Proportionalität, proportional, proportional zu
+∟	Mathematik, rechter Winkel
+∠	Mathemaik, Winkel, Winkel-Zeichen
+∣	Teilt-Zeichen, teilen
+∧	ac, atque, logisches Und
+∫	Integral, Rechnen
+∬	Doppelintegral, Rechnen
+∵	Weil, logisch
+∷	Proportion, Proportionalität, Proportionszeichen
+∼	Operator, Tilde, Tilde-Operator
+∽	Operator, Tilde, gespiegelte Tilde
+≃	Asymptote, Mathematik, asymptotisch gleich
+≅	Mathematik, fast gleich, ungefähr gleich, ungefähr-gleich
 ≈	Näherung, Ungefähr-Zeichen, fast gleich wie, ungefähr gleich
+≌	Mathematik, alles gleich
+≒	Bild von, ungefähr gleich, ungefähr gleich oder Bild von
+≖	Mathematik, Ring, Ring im Gleichheitszeichen, gleich
+≣	Mathematik, genau gleich, genau äquivalent
 ≥	Vergleichszeichen, gleich, grösser als, grösser als oder gleich, ist gleich
-≧	grösser als über gleich
-≫	viel grösser als
-≳	grösser als oder äquivalent
-⋙	sehr viel grösser als
+≦	Mathematik, kleiner als über gleich, ungleich
+≧	Mathematik, grösser als über gleich, ungleich
+≪	Mathematik, ungleich, viel kleiner als
+≫	Mathematik, ungleich, viel grösser als
+≳	Mathematik, grösser als, grösser als oder äquivalent, äquivalent
+≺	Mathematik, vorangehend
+≻	Mathematik, nachfolgend
+⊁	Mathematik, nicht nachfolgend
+⊃	Mathematik, Obermenge von
+⊆	Mathematik, Teilmenge von oder gleich mit
+⊇	Mathematik, Obermenge von oder gleich mit
+⊕	Plus, eingekreistes Pluszeichen
+⊖	Minus, eingekreistes Minuszeichen
+⊗	Mal, eingekreistes Multiplikationszeichen
+⊘	Durch, eingekreister Divisionsstrich
+⊙	Operator, XNOR, eingekreister Punkt-Operator
+⊛	Kreis, Operator, Stern, eingekreister Stern-Operator
+⊞	Mathematik, eingerahmtes Pluszeichen
+⊟	Minus, eingerahmtes Minuszeichen
+⊥	senkrecht nach oben, teilerfremd, widersprüchlich
+⊰	Mathematik, vorangehend in Relation
+⊱	Mathematik, nachfolgend in Relation
+⋭	Mathematik, enthält nicht als normale Untergruppe oder gleich
+⊹	Mathematik, Matrix, hermitesche konjugierte Matrix
+⊿	Dreieck, rechtes Dreieck, rechtwinklig
+⋁	Mathematik, N-stufiges logisches Oder, Oder, n-stufig
+⋂	N-stufige Schnittmenge, Schnittmenge, n-stufig
+⋃	N-stufige Vereinigungsmenge, Vereinungsmenge, n-stufig
+⋅	Operator, Punkt-Operator
+⋆	Operator, Stern-Operator
+⋈	Schleife, Verknüpfung, binärer Operator, natürliche Verknüpfung
+⋒	Mathematik, Schnittmenge, doppelte Schnittmenge, überschneidet
+⋘	kleiner, sehr viel kleiner als, ungleich
+⋙	grösser, sehr viel grösser als, ungleich
+⋮	Ellipse, Mathematik, vertikale Ellipse
+⋯	Ellipse, horizontal, horizontale Ellipse auf mittlerer Höhe
+⋰	Ellipse, Mathematik, rechts-aufwärts steigende diagonale Ellipse
+⋱	Ellipse, diagonal, rechts-abwärts fallende diagonale Ellipse
 □	weisses Quadrat
 ▢	weisses Quadrat mit abgerundeten Ecken
 ▣	weisses Quadrat mit kleinem schwarzem Quadrat
+▩	Quadrat, Quadrat mit diagonaler Kreuzschraffur, Schraffur, schraffiert
+▬	dicker Strich, schwarzes Rechteck
 ▭	weisses Rechteck
 △	weisses nach oben weisendes Dreieck
 ▵	weisses nach oben weisendes kleines Dreieck
@@ -46,7 +119,8 @@ _	Unterstrich
 ◅	weisser nach links weisender Zeiger
 ◇	weisses Karo
 ◈	weisses Karo mit kleinem schwarzem Karo
-◉	weisser Kreis mit kleinem schwarzem Kreis
+◉	Bullauge, Kreis, kleiner schwarzer Kreis, konzentrische Kreise, weisser Kreis mit kleinem schwarzem Kreis
+◎	Ziel, doppelter Kreis, konzentrische Kreise
 ◕	schwarzer Kreis mit weissem Viertel oben links
 ◙	schwarzes Quadrat mit weissem Kreis
 ◦	weisses Aufzählungszeichen
@@ -58,99 +132,195 @@ _	Unterstrich
 ⪚	gleich über grösser als
 😃	Gesicht, grinsendes Gesicht mit grossen Augen, lol, lustig
 😅	Gesicht, Lachender Smiley mit kaltem Schweiss, Schweiss, lustig, schwitzen
-🫠	auflösen, schmelzen, schmelzendes Gesicht, verflüssigen, verschwinden
-🤪	irres Gesicht
+🤪	Auge, Augen, Gesicht, Smiley, gross, irre, klein, verrückt
 🫡	Aye aye, Gesicht, Truppen, grüssendes Gesicht, jawohl, ok, salutieren
-🤐	Gesicht, Mund, Reissverschluss, Smiley mit Reissverschlussmund
-😶‍🌫	Kopf in den Wolken
+🤐	Geheimnis, Gesicht, Mund, Reissverschluss, Smiley, Smiley mit Reissverschlussmund, halten, schweigen, wahren
+😶‍🌫	Kopf in den Wolken, abwesend, benebelt, geistig umnachtet
 😮‍💨	ausatmendes Gesicht
-🥵	Fieber, Hitzschlag, erhitzt, heiss, schwitzen, schwitzendes Gesicht
+🥵	Fieber, Gesicht, Hitzeschlag, Hitzschlag, Smiley, Zunge herausstrecken, erhitzt, erhitztes Gesicht, fiebrig, heiss, krank, rotes Gesicht, schnaufend, schwitzen, schwitzend, schwitzendes Gesicht, sterbend, übel
 😵‍💫	Gesicht mit Spiralaugen
-🥸	Brille, Gesicht, Gesicht mit Maske, Maske, Nase, incognito
-😳	Erröteter Smiley mit grossen Augen, Gesicht, rote Wangen, überrascht
-😰	Gesicht, Smiley mit offenem Mund und kaltem Schweiss, kalter Schweiss, offener Mund
-😥	Gesicht, Schweiss, enttäuscht, erleichtert, trauriges aber erleichtertes Gesicht
+🥸	Gesicht mit Maske
+😳	Augen, Erröteter Smiley mit grossen Augen, Gesicht, Scham, Smiley, Wangen, erröten, gross, peinlich, rot, schämen, verlegen, überrascht
+🥺	Gesicht, Gnade, Kulleraugen, Smiley, Welpenaugen, anflehen, betteln, bettelndes Gesicht, bitte, bitten, bittendes Gesicht, flehendes Gesicht, grosse Augen, traurig, treuer Blick, warum nicht
+😰	Angst, Angstschweiss, Gesicht, Mund, Schweiss, Smiley mit offenem Mund und kaltem Schweiss, besorgt, kalter Schweiss, nervös, offen, ängstlich
+😥	Gesicht, Schweiss, enttäuscht, erleichtert, knapp, traurig, ängstlich
 😓	Gesicht, Smiley mit kaltem Schweiss, geschlossene Augen
 👽️	Alien, Ausserirdischer, Ausserirdisches Wesen, Gesicht, UFO
-❤‍🔥	brennendes Herz
-❤‍🩹	Herz mit Pflaster
+❤‍🔥	Feuer, Herz in Flammen, Liebe, brennen, brennendes Herz
+❤‍🩹	Besserung, Herz mit Pflaster, Pflaster, erholen, gesund, gute Besserung, heilen
+🩷	Gefühl, Herz, Liebe, flirten, gefallen, gefällt, mag, mögen, pink, rosa, süss, verliebt
 🤍	Herz, weiss, weisses Herz
-💥	Comic, Kollision, Zusammenstoss
-💦	Comic, Schweiss, Schweisstropfen
+💥	Bombe, Boom, Comic, Explosion, Kollision, Zusammenstoss, explodieren, kollidieren, zusammenstossen
+💦	Comic, Schweiss, Schweisstropfen, Training, Tropfen, Wasser, feucht, nass, schwitzen, trainieren
 🖖	Finger, Hand, Spock, Vulkanier(in), Vulkanischer Gruss, vulkanisch
 🖖🏻	Finger, Hand, Spock, Vulkanier(in), Vulkanischer Gruss, Vulkanischer Gruss: helle Hautfarbe, helle Hautfarbe, vulkanisch
 🖖🏼	Finger, Hand, Spock, Vulkanier(in), Vulkanischer Gruss, Vulkanischer Gruss: mittelhelle Hautfarbe, mittelhelle Hautfarbe, vulkanisch
 🖖🏽	Finger, Hand, Spock, Vulkanier(in), Vulkanischer Gruss, Vulkanischer Gruss: mittlere Hautfarbe, mittlere Hautfarbe, vulkanisch
 🖖🏾	Finger, Hand, Spock, Vulkanier(in), Vulkanischer Gruss, Vulkanischer Gruss: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe, vulkanisch
 🖖🏿	Finger, Hand, Spock, Vulkanier(in), Vulkanischer Gruss, Vulkanischer Gruss: dunkle Hautfarbe, dunkle Hautfarbe, vulkanisch
+🫷	High Five, Stopp, drücken, nach links, nach links drückende Hand, nein, warten
+🫷🏻	High Five, Stopp, drücken, helle Hautfarbe, nach links, nach links drückende Hand, nach links drückende Hand: helle Hautfarbe, nein, warten
+🫷🏼	High Five, Stopp, drücken, mittelhelle Hautfarbe, nach links, nach links drückende Hand, nach links drückende Hand: mittelhelle Hautfarbe, nein, warten
+🫷🏽	High Five, Stopp, drücken, mittlere Hautfarbe, nach links, nach links drückende Hand, nach links drückende Hand: mittlere Hautfarbe, nein, warten
+🫷🏾	High Five, Stopp, drücken, mitteldunkle Hautfarbe, nach links, nach links drückende Hand, nach links drückende Hand: mitteldunkle Hautfarbe, nein, warten
+🫷🏿	High Five, Stopp, drücken, dunkle Hautfarbe, nach links, nach links drückende Hand, nach links drückende Hand: dunkle Hautfarbe, nein, warten
+🫸	High Five, Stopp, drücken, nach rechts, nach rechts drückende Hand, nein, warten
+🫸🏻	High Five, Stopp, drücken, helle Hautfarbe, nach rechts, nach rechts drückende Hand, nach rechts drückende Hand: helle Hautfarbe, nein, warten
+🫸🏼	High Five, Stopp, drücken, mittelhelle Hautfarbe, nach rechts, nach rechts drückende Hand, nach rechts drückende Hand: mittelhelle Hautfarbe, nein, warten
+🫸🏽	High Five, Stopp, drücken, mittlere Hautfarbe, nach rechts, nach rechts drückende Hand, nach rechts drückende Hand: mittlere Hautfarbe, nein, warten
+🫸🏾	High Five, Stopp, drücken, mitteldunkle Hautfarbe, nach rechts, nach rechts drückende Hand, nach rechts drückende Hand: mitteldunkle Hautfarbe, nein, warten
+🫸🏿	High Five, Stopp, drücken, dunkle Hautfarbe, nach rechts, nach rechts drückende Hand, nach rechts drückende Hand: dunkle Hautfarbe, nein, warten
 🤘	Finger, Hand, Hörner, Rock, Teufel, Teufelsgruss
 🤘🏻	Finger, Hand, Hörner, Rock, Teufel, Teufelsgruss, Teufelsgruss: helle Hautfarbe, helle Hautfarbe
 🤘🏼	Finger, Hand, Hörner, Rock, Teufel, Teufelsgruss, Teufelsgruss: mittelhelle Hautfarbe, mittelhelle Hautfarbe
 🤘🏽	Finger, Hand, Hörner, Rock, Teufel, Teufelsgruss, Teufelsgruss: mittlere Hautfarbe, mittlere Hautfarbe
 🤘🏾	Finger, Hand, Hörner, Rock, Teufel, Teufelsgruss, Teufelsgruss: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 🤘🏿	Finger, Hand, Hörner, Rock, Teufel, Teufelsgruss, Teufelsgruss: dunkle Hautfarbe, dunkle Hautfarbe
-🙏	Gebet, beten, betende Hände, bitten, danken, grüssen
-🙏🏻	Gebet, beten, betende Hände, bitten, danken, grüssen, helle Hautfarbe
-🙏🏼	Gebet, beten, betende Hände, bitten, danken, grüssen, mittelhelle Hautfarbe
-🙏🏽	Gebet, beten, betende Hände, bitten, danken, grüssen, mittlere Hautfarbe
-🙏🏾	Gebet, beten, betende Hände, bitten, danken, grüssen, mitteldunkle Hautfarbe
-🙏🏿	Gebet, beten, betende Hände, bitten, danken, dunkle Hautfarbe, grüssen
+👏🏻	Applaus, Beifall, Gratulation, Hand, Hände, Klatschen, applaudieren, grossartig, gut, helle Hautfarbe, klatschend, toll
+👏🏼	Applaus, Beifall, Gratulation, Hand, Hände, Klatschen, applaudieren, grossartig, gut, klatschend, mittelhelle Hautfarbe, toll
+👏🏽	Applaus, Beifall, Gratulation, Hand, Hände, Klatschen, applaudieren, grossartig, gut, klatschend, mittlere Hautfarbe, toll
+👏🏾	Applaus, Beifall, Gratulation, Hand, Hände, Klatschen, applaudieren, grossartig, gut, klatschend, mitteldunkle Hautfarbe, toll
+👏🏿	Applaus, Beifall, Gratulation, Hand, Hände, Klatschen, applaudieren, dunkle Hautfarbe, grossartig, gut, klatschend, toll
+🙏	Gebet, beten, betende Hände, bitten, danken, grüssen, zusammengelegte Handflächen
+🙏🏻	Gebet, beten, betende Hände, bitten, danken, grüssen, helle Hautfarbe, zusammengelegte Handflächen
+🙏🏼	Gebet, beten, betende Hände, bitten, danken, grüssen, mittelhelle Hautfarbe, zusammengelegte Handflächen
+🙏🏽	Gebet, beten, betende Hände, bitten, danken, grüssen, mittlere Hautfarbe, zusammengelegte Handflächen
+🙏🏾	Gebet, beten, betende Hände, bitten, danken, grüssen, mitteldunkle Hautfarbe, zusammengelegte Handflächen
+🙏🏿	Gebet, beten, betende Hände, bitten, danken, dunkle Hautfarbe, grüssen, zusammengelegte Handflächen
+🦵	Bein, Extremität, Fuss, Gliedmasse, Knie, Körperglied, Körperteil, Treten, Tritt, gebeugtes Knie
+🦵🏻	Bein, Extremität, Fuss, Gliedmasse, Knie, Körperglied, Körperteil, Treten, Tritt, gebeugtes Knie, helle Hautfarbe
+🦵🏼	Bein, Extremität, Fuss, Gliedmasse, Knie, Körperglied, Körperteil, Treten, Tritt, gebeugtes Knie, mittelhelle Hautfarbe
+🦵🏽	Bein, Extremität, Fuss, Gliedmasse, Knie, Körperglied, Körperteil, Treten, Tritt, gebeugtes Knie, mittlere Hautfarbe
+🦵🏾	Bein, Extremität, Fuss, Gliedmasse, Knie, Körperglied, Körperteil, Treten, Tritt, gebeugtes Knie, mitteldunkle Hautfarbe
+🦵🏿	Bein, Extremität, Fuss, Gliedmasse, Knie, Körperglied, Körperteil, Treten, Tritt, dunkle Hautfarbe, gebeugtes Knie
 🦶	Fuss, Kick, stampfen
 🦶🏻	Fuss, Fuss: helle Hautfarbe, Kick, helle Hautfarbe, stampfen
 🦶🏼	Fuss, Fuss: mittelhelle Hautfarbe, Kick, mittelhelle Hautfarbe, stampfen
 🦶🏽	Fuss, Fuss: mittlere Hautfarbe, Kick, mittlere Hautfarbe, stampfen
 🦶🏾	Fuss, Fuss: mitteldunkle Hautfarbe, Kick, mitteldunkle Hautfarbe, stampfen
 🦶🏿	Fuss, Fuss: dunkle Hautfarbe, Kick, dunkle Hautfarbe, stampfen
+🦷	Zahn, Zahn ziehen, Zahnarzt, Zahnärztin, Zähne, weiss
 🫦	Angst, Auf Lippe beissen, besorgt, flirtend, nervös, unbehaglich, ängstlich
-🧑‍🦳	Mensch, Person, Person: weisses Haar, erwachsene Person, geschlechtsneutral, ohne eindeutiges Geschlecht, weisses Haar
-🧑🏻‍🦳	Mensch, Person, Person: helle Hautfarbe, weisses Haar, erwachsene Person, geschlechtsneutral, helle Hautfarbe, ohne eindeutiges Geschlecht, weisses Haar
-🧑🏼‍🦳	Mensch, Person, Person: mittelhelle Hautfarbe, weisses Haar, erwachsene Person, geschlechtsneutral, mittelhelle Hautfarbe, ohne eindeutiges Geschlecht, weisses Haar
-🧑🏽‍🦳	Mensch, Person, Person: mittlere Hautfarbe, weisses Haar, erwachsene Person, geschlechtsneutral, mittlere Hautfarbe, ohne eindeutiges Geschlecht, weisses Haar
-🧑🏾‍🦳	Mensch, Person, Person: mitteldunkle Hautfarbe, weisses Haar, erwachsene Person, geschlechtsneutral, mitteldunkle Hautfarbe, ohne eindeutiges Geschlecht, weisses Haar
-🧑🏿‍🦳	Mensch, Person, Person: dunkle Hautfarbe, weisses Haar, dunkle Hautfarbe, erwachsene Person, geschlechtsneutral, ohne eindeutiges Geschlecht, weisses Haar
-👨‍🦳	Mann, Mann: weisses Haar, weisses Haar
-👨🏻‍🦳	Mann, Mann: helle Hautfarbe, weisses Haar, helle Hautfarbe, weisses Haar
-👨🏼‍🦳	Mann, Mann: mittelhelle Hautfarbe, weisses Haar, mittelhelle Hautfarbe, weisses Haar
-👨🏽‍🦳	Mann, Mann: mittlere Hautfarbe, weisses Haar, mittlere Hautfarbe, weisses Haar
-👨🏾‍🦳	Mann, Mann: mitteldunkle Hautfarbe, weisses Haar, mitteldunkle Hautfarbe, weisses Haar
-👨🏿‍🦳	Mann, Mann: dunkle Hautfarbe, weisses Haar, dunkle Hautfarbe, weisses Haar
-👩‍🦳	Frau, Frau: weisses Haar, weisses Haar
-👩🏻‍🦳	Frau, Frau: helle Hautfarbe, weisses Haar, helle Hautfarbe, weisses Haar
-👩🏼‍🦳	Frau, Frau: mittelhelle Hautfarbe, weisses Haar, mittelhelle Hautfarbe, weisses Haar
-👩🏽‍🦳	Frau, Frau: mittlere Hautfarbe, weisses Haar, mittlere Hautfarbe, weisses Haar
-👩🏾‍🦳	Frau, Frau: mitteldunkle Hautfarbe, weisses Haar, mitteldunkle Hautfarbe, weisses Haar
-👩🏿‍🦳	Frau, Frau: dunkle Hautfarbe, weisses Haar, dunkle Hautfarbe, weisses Haar
-🧑‍🔧	Mechaniker(in)
-🧑🏻‍🔧	Mechaniker(in), helle Hautfarbe
-🧑🏼‍🔧	Mechaniker(in), mittelhelle Hautfarbe
-🧑🏽‍🔧	Mechaniker(in), mittlere Hautfarbe
-🧑🏾‍🔧	Mechaniker(in), mitteldunkle Hautfarbe
-🧑🏿‍🔧	Mechaniker(in), dunkle Hautfarbe
-🧑‍🏭	Fabrikarbeiter(in)
-🧑🏻‍🏭	Fabrikarbeiter(in), helle Hautfarbe
-🧑🏼‍🏭	Fabrikarbeiter(in), mittelhelle Hautfarbe
-🧑🏽‍🏭	Fabrikarbeiter(in), mittlere Hautfarbe
-🧑🏾‍🏭	Fabrikarbeiter(in), mitteldunkle Hautfarbe
-🧑🏿‍🏭	Fabrikarbeiter(in), dunkle Hautfarbe
-🧑‍💼	Architekt, Business, Büroangestellte(r), Manager
-🧑🏻‍💼	Architekt, Business, Büroangestellte(r), Manager, helle Hautfarbe
-🧑🏼‍💼	Architekt, Business, Büroangestellte(r), Manager, mittelhelle Hautfarbe
-🧑🏽‍💼	Architekt, Business, Büroangestellte(r), Manager, mittlere Hautfarbe
-🧑🏾‍💼	Architekt, Business, Büroangestellte(r), Manager, mitteldunkle Hautfarbe
-🧑🏿‍💼	Architekt, Business, Büroangestellte(r), Manager, dunkle Hautfarbe
-🧑‍🔬	Wissenschaftler(in)
-🧑🏻‍🔬	Wissenschaftler(in), helle Hautfarbe
-🧑🏼‍🔬	Wissenschaftler(in), mittelhelle Hautfarbe
-🧑🏽‍🔬	Wissenschaftler(in), mittlere Hautfarbe
-🧑🏾‍🔬	Wissenschaftler(in), mitteldunkle Hautfarbe
-🧑🏿‍🔬	Wissenschaftler(in), dunkle Hautfarbe
+🧑‍🦳	Mensch, Person, Person: weisses Haar, erwachsen, erwachsene Person, weisses Haar
+🧑🏻‍🦳	Mensch, Person, Person: helle Hautfarbe, weisses Haar, erwachsen, erwachsene Person, helle Hautfarbe, weisses Haar
+🧑🏼‍🦳	Mensch, Person, Person: mittelhelle Hautfarbe, weisses Haar, erwachsen, erwachsene Person, mittelhelle Hautfarbe, weisses Haar
+🧑🏽‍🦳	Mensch, Person, Person: mittlere Hautfarbe, weisses Haar, erwachsen, erwachsene Person, mittlere Hautfarbe, weisses Haar
+🧑🏾‍🦳	Mensch, Person, Person: mitteldunkle Hautfarbe, weisses Haar, erwachsen, erwachsene Person, mitteldunkle Hautfarbe, weisses Haar
+🧑🏿‍🦳	Mensch, Person, Person: dunkle Hautfarbe, weisses Haar, dunkle Hautfarbe, erwachsen, erwachsene Person, weisses Haar
+👨‍🦳	Gesicht, Mann, Mann: weisses Haar, erwachsen, weisses Haar
+👨🏻‍🦳	Gesicht, Mann, Mann: helle Hautfarbe, weisses Haar, erwachsen, helle Hautfarbe, weisses Haar
+👨🏼‍🦳	Gesicht, Mann, Mann: mittelhelle Hautfarbe, weisses Haar, erwachsen, mittelhelle Hautfarbe, weisses Haar
+👨🏽‍🦳	Gesicht, Mann, Mann: mittlere Hautfarbe, weisses Haar, erwachsen, mittlere Hautfarbe, weisses Haar
+👨🏾‍🦳	Gesicht, Mann, Mann: mitteldunkle Hautfarbe, weisses Haar, erwachsen, mitteldunkle Hautfarbe, weisses Haar
+👨🏿‍🦳	Gesicht, Mann, Mann: dunkle Hautfarbe, weisses Haar, dunkle Hautfarbe, erwachsen, weisses Haar
+👩‍🦳	Frau, Frau: weisses Haar, Gesicht, erwachsen, weisses Haar
+👩🏻‍🦳	Frau, Frau: helle Hautfarbe, weisses Haar, Gesicht, erwachsen, helle Hautfarbe, weisses Haar
+👩🏼‍🦳	Frau, Frau: mittelhelle Hautfarbe, weisses Haar, Gesicht, erwachsen, mittelhelle Hautfarbe, weisses Haar
+👩🏽‍🦳	Frau, Frau: mittlere Hautfarbe, weisses Haar, Gesicht, erwachsen, mittlere Hautfarbe, weisses Haar
+👩🏾‍🦳	Frau, Frau: mitteldunkle Hautfarbe, weisses Haar, Gesicht, erwachsen, mitteldunkle Hautfarbe, weisses Haar
+👩🏿‍🦳	Frau, Frau: dunkle Hautfarbe, weisses Haar, Gesicht, dunkle Hautfarbe, erwachsen, weisses Haar
+🧓🏻	Grosseltern, Mensch, Person, alt, erwachsen, helle Hautfarbe, weise, älter
+🧓🏼	Grosseltern, Mensch, Person, alt, erwachsen, mittelhelle Hautfarbe, weise, älter
+🧓🏽	Grosseltern, Mensch, Person, alt, erwachsen, mittlere Hautfarbe, weise, älter
+🧓🏾	Grosseltern, Mensch, Person, alt, erwachsen, mitteldunkle Hautfarbe, weise, älter
+🧓🏿	Grosseltern, Mensch, Person, alt, dunkle Hautfarbe, erwachsen, weise, älter
+👴	Gesicht, Glatze, Grossvater, Mann, Opa, Senior, Älterer Mann, älterer Mann
+👴🏻	Gesicht, Glatze, Grossvater, Mann, Opa, Senior, helle Hautfarbe, Älterer Mann, älterer Mann
+👴🏼	Gesicht, Glatze, Grossvater, Mann, Opa, Senior, mittelhelle Hautfarbe, Älterer Mann, älterer Mann
+👴🏽	Gesicht, Glatze, Grossvater, Mann, Opa, Senior, mittlere Hautfarbe, Älterer Mann, älterer Mann
+👴🏾	Gesicht, Glatze, Grossvater, Mann, Opa, Senior, mitteldunkle Hautfarbe, Älterer Mann, älterer Mann
+👴🏿	Gesicht, Glatze, Grossvater, Mann, Opa, Senior, dunkle Hautfarbe, Älterer Mann, älterer Mann
+👵	Brille, Dutt, Frau, Gesicht, Grossmutter, Oma, Seniorin, Ältere Frau, ältere Frau
+👵🏻	Brille, Dutt, Frau, Gesicht, Grossmutter, Oma, Seniorin, helle Hautfarbe, Ältere Frau, ältere Frau
+👵🏼	Brille, Dutt, Frau, Gesicht, Grossmutter, Oma, Seniorin, mittelhelle Hautfarbe, Ältere Frau, ältere Frau
+👵🏽	Brille, Dutt, Frau, Gesicht, Grossmutter, Oma, Seniorin, mittlere Hautfarbe, Ältere Frau, ältere Frau
+👵🏾	Brille, Dutt, Frau, Gesicht, Grossmutter, Oma, Seniorin, mitteldunkle Hautfarbe, Ältere Frau, ältere Frau
+👵🏿	Brille, Dutt, Frau, Gesicht, Grossmutter, Oma, Seniorin, dunkle Hautfarbe, Ältere Frau, ältere Frau
+🙅	Geste, Nein, Person, Person mit überkreuzten Armen, ausschliessen, falsch, keine Chance, verbieten, verboten, verschränkte Arme, x
+🙅🏻	Geste, Nein, Person, Person mit überkreuzten Armen, ausschliessen, falsch, helle Hautfarbe, keine Chance, verbieten, verboten, verschränkte Arme, x
+🙅🏼	Geste, Nein, Person, Person mit überkreuzten Armen, ausschliessen, falsch, keine Chance, mittelhelle Hautfarbe, verbieten, verboten, verschränkte Arme, x
+🙅🏽	Geste, Nein, Person, Person mit überkreuzten Armen, ausschliessen, falsch, keine Chance, mittlere Hautfarbe, verbieten, verboten, verschränkte Arme, x
+🙅🏾	Geste, Nein, Person, Person mit überkreuzten Armen, ausschliessen, falsch, keine Chance, mitteldunkle Hautfarbe, verbieten, verboten, verschränkte Arme, x
+🙅🏿	Geste, Nein, Person, Person mit überkreuzten Armen, ausschliessen, dunkle Hautfarbe, falsch, keine Chance, verbieten, verboten, verschränkte Arme, x
+🙋	Hand heben, Hand hoch, Person, Person mit erhobenem Arm, Siegerpose, erhobener Arm, ich weiss, nimm mich
+🙋🏻	Hand heben, Hand hoch, Person, Person mit erhobenem Arm, Siegerpose, erhobener Arm, helle Hautfarbe, ich weiss, nimm mich
+🙋🏼	Hand heben, Hand hoch, Person, Person mit erhobenem Arm, Siegerpose, erhobener Arm, ich weiss, mittelhelle Hautfarbe, nimm mich
+🙋🏽	Hand heben, Hand hoch, Person, Person mit erhobenem Arm, Siegerpose, erhobener Arm, ich weiss, mittlere Hautfarbe, nimm mich
+🙋🏾	Hand heben, Hand hoch, Person, Person mit erhobenem Arm, Siegerpose, erhobener Arm, ich weiss, mitteldunkle Hautfarbe, nimm mich
+🙋🏿	Hand heben, Hand hoch, Person, Person mit erhobenem Arm, Siegerpose, dunkle Hautfarbe, erhobener Arm, ich weiss, nimm mich
+🤷	Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, schulterzuckende Person, weiss nicht, wer weiss
+🤷🏻	Person, Schultern zucken, Zweifel, egal, gleichgültig, helle Hautfarbe, ich weiss nicht, keine Ahnung, schulterzuckende Person, weiss nicht, wer weiss
+🤷🏼	Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, mittelhelle Hautfarbe, schulterzuckende Person, weiss nicht, wer weiss
+🤷🏽	Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, mittlere Hautfarbe, schulterzuckende Person, weiss nicht, wer weiss
+🤷🏾	Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, mitteldunkle Hautfarbe, schulterzuckende Person, weiss nicht, wer weiss
+🤷🏿	Person, Schultern zucken, Zweifel, dunkle Hautfarbe, egal, gleichgültig, ich weiss nicht, keine Ahnung, schulterzuckende Person, weiss nicht, wer weiss
+🤷‍♂	Mann, Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, schulterzuckender Mann, weiss nicht, wer weiss
+🤷🏻‍♂	Mann, Person, Schultern zucken, Zweifel, egal, gleichgültig, helle Hautfarbe, ich weiss nicht, keine Ahnung, schulterzuckender Mann, weiss nicht, wer weiss
+🤷🏼‍♂	Mann, Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, mittelhelle Hautfarbe, schulterzuckender Mann, weiss nicht, wer weiss
+🤷🏽‍♂	Mann, Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, mittlere Hautfarbe, schulterzuckender Mann, weiss nicht, wer weiss
+🤷🏾‍♂	Mann, Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, mitteldunkle Hautfarbe, schulterzuckender Mann, weiss nicht, wer weiss
+🤷🏿‍♂	Mann, Person, Schultern zucken, Zweifel, dunkle Hautfarbe, egal, gleichgültig, ich weiss nicht, keine Ahnung, schulterzuckender Mann, weiss nicht, wer weiss
+🤷‍♀	Frau, Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, schulterzuckende Frau, weiss nicht
+🤷🏻‍♀	Frau, Person, Schultern zucken, Zweifel, egal, gleichgültig, helle Hautfarbe, ich weiss nicht, keine Ahnung, schulterzuckende Frau, weiss nicht
+🤷🏼‍♀	Frau, Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, mittelhelle Hautfarbe, schulterzuckende Frau, weiss nicht
+🤷🏽‍♀	Frau, Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, mittlere Hautfarbe, schulterzuckende Frau, weiss nicht
+🤷🏾‍♀	Frau, Person, Schultern zucken, Zweifel, egal, gleichgültig, ich weiss nicht, keine Ahnung, mitteldunkle Hautfarbe, schulterzuckende Frau, weiss nicht
+🤷🏿‍♀	Frau, Person, Schultern zucken, Zweifel, dunkle Hautfarbe, egal, gleichgültig, ich weiss nicht, keine Ahnung, schulterzuckende Frau, weiss nicht
+🧑‍⚕	Arzt, Arzt/Ärztin, Gesundheitswesen, Krankenpfleger, Krankenpflegerin, Therapeut
+🧑🏻‍⚕	Arzt, Arzt/Ärztin, Gesundheitswesen, Krankenpfleger, Krankenpflegerin, Therapeut, helle Hautfarbe
+🧑🏼‍⚕	Arzt, Arzt/Ärztin, Gesundheitswesen, Krankenpfleger, Krankenpflegerin, Therapeut, mittelhelle Hautfarbe
+🧑🏽‍⚕	Arzt, Arzt/Ärztin, Gesundheitswesen, Krankenpfleger, Krankenpflegerin, Therapeut, mittlere Hautfarbe
+🧑🏾‍⚕	Arzt, Arzt/Ärztin, Gesundheitswesen, Krankenpfleger, Krankenpflegerin, Therapeut, mitteldunkle Hautfarbe
+🧑🏿‍⚕	Arzt, Arzt/Ärztin, Gesundheitswesen, Krankenpfleger, Krankenpflegerin, Therapeut, dunkle Hautfarbe
+🧑‍🔧	Add a translation Elektriker(in), Klempner(in), Mechaniker(in), Sanitär(in)
+🧑🏻‍🔧	Add a translation Elektriker(in), Klempner(in), Mechaniker(in), Sanitär(in), helle Hautfarbe
+🧑🏼‍🔧	Add a translation Elektriker(in), Klempner(in), Mechaniker(in), Sanitär(in), mittelhelle Hautfarbe
+🧑🏽‍🔧	Add a translation Elektriker(in), Klempner(in), Mechaniker(in), Sanitär(in), mittlere Hautfarbe
+🧑🏾‍🔧	Add a translation Elektriker(in), Klempner(in), Mechaniker(in), Sanitär(in), mitteldunkle Hautfarbe
+🧑🏿‍🔧	Add a translation Elektriker(in), Klempner(in), Mechaniker(in), Sanitär(in), dunkle Hautfarbe
+👨‍🏭	Arbeiter, Fabrik, Fabrikarbeiter, Montage, industriell
+👨🏻‍🏭	Arbeiter, Fabrik, Fabrikarbeiter, Montage, helle Hautfarbe, industriell
+👨🏼‍🏭	Arbeiter, Fabrik, Fabrikarbeiter, Montage, industriell, mittelhelle Hautfarbe
+👨🏽‍🏭	Arbeiter, Fabrik, Fabrikarbeiter, Montage, industriell, mittlere Hautfarbe
+👨🏾‍🏭	Arbeiter, Fabrik, Fabrikarbeiter, Montage, industriell, mitteldunkle Hautfarbe
+👨🏿‍🏭	Arbeiter, Fabrik, Fabrikarbeiter, Montage, dunkle Hautfarbe, industriell
+👩‍🏭	Arbeiter, Fabrik, Fabrikarbeiterin, Montage, industriell
+👩🏻‍🏭	Arbeiter, Fabrik, Fabrikarbeiterin, Montage, helle Hautfarbe, industriell
+👩🏼‍🏭	Arbeiter, Fabrik, Fabrikarbeiterin, Montage, industriell, mittelhelle Hautfarbe
+👩🏽‍🏭	Arbeiter, Fabrik, Fabrikarbeiterin, Montage, industriell, mittlere Hautfarbe
+👩🏾‍🏭	Arbeiter, Fabrik, Fabrikarbeiterin, Montage, industriell, mitteldunkle Hautfarbe
+👩🏿‍🏭	Arbeiter, Fabrik, Fabrikarbeiterin, Montage, dunkle Hautfarbe, industriell
 🎅	Samichlaus, Weihnachten, Weihnachtsmann
 🎅🏻	Samichlaus, Weihnachten, Weihnachtsmann, helle Hautfarbe
 🎅🏼	Samichlaus, Weihnachten, Weihnachtsmann, mittelhelle Hautfarbe
 🎅🏽	Samichlaus, Weihnachten, Weihnachtsmann, mittlere Hautfarbe
 🎅🏾	Samichlaus, Weihnachten, Weihnachtsmann, mitteldunkle Hautfarbe
 🎅🏿	Samichlaus, Weihnachten, Weihnachtsmann, dunkle Hautfarbe
+🧛	Blutsauger, Dracula, Halloween, Person, Reisszähne, Untoter, Vampir, Zähne, untot
+🧛🏻	Blutsauger, Dracula, Halloween, Person, Reisszähne, Untoter, Vampir, Zähne, helle Hautfarbe, untot
+🧛🏼	Blutsauger, Dracula, Halloween, Person, Reisszähne, Untoter, Vampir, Zähne, mittelhelle Hautfarbe, untot
+🧛🏽	Blutsauger, Dracula, Halloween, Person, Reisszähne, Untoter, Vampir, Zähne, mittlere Hautfarbe, untot
+🧛🏾	Blutsauger, Dracula, Halloween, Person, Reisszähne, Untoter, Vampir, Zähne, mitteldunkle Hautfarbe, untot
+🧛🏿	Blutsauger, Dracula, Halloween, Person, Reisszähne, Untoter, Vampir, Zähne, dunkle Hautfarbe, untot
 🧟‍♂	Zombiemann
+💇	Coiffeur, Friseur(in), Friseuse, Frisur, Frisör(in), Haare, Haarschnitt, Person, Person beim Haareschneiden, Schere
+💇🏻	Coiffeur, Friseur(in), Friseuse, Frisur, Frisör(in), Haare, Haarschnitt, Person, Person beim Haareschneiden, Schere, helle Hautfarbe
+💇🏼	Coiffeur, Friseur(in), Friseuse, Frisur, Frisör(in), Haare, Haarschnitt, Person, Person beim Haareschneiden, Schere, mittelhelle Hautfarbe
+💇🏽	Coiffeur, Friseur(in), Friseuse, Frisur, Frisör(in), Haare, Haarschnitt, Person, Person beim Haareschneiden, Schere, mittlere Hautfarbe
+💇🏾	Coiffeur, Friseur(in), Friseuse, Frisur, Frisör(in), Haare, Haarschnitt, Person, Person beim Haareschneiden, Schere, mitteldunkle Hautfarbe
+💇🏿	Coiffeur, Friseur(in), Friseuse, Frisur, Frisör(in), Haare, Haarschnitt, Person, Person beim Haareschneiden, Schere, dunkle Hautfarbe
+💇‍♂	Coiffeur, Friseur, Haarschnitt, Mann, Mann beim Haareschneiden, Schere
+💇🏻‍♂	Coiffeur, Friseur, Haarschnitt, Mann, Mann beim Haareschneiden, Schere, helle Hautfarbe
+💇🏼‍♂	Coiffeur, Friseur, Haarschnitt, Mann, Mann beim Haareschneiden, Schere, mittelhelle Hautfarbe
+💇🏽‍♂	Coiffeur, Friseur, Haarschnitt, Mann, Mann beim Haareschneiden, Schere, mittlere Hautfarbe
+💇🏾‍♂	Coiffeur, Friseur, Haarschnitt, Mann, Mann beim Haareschneiden, Schere, mitteldunkle Hautfarbe
+💇🏿‍♂	Coiffeur, Friseur, Haarschnitt, Mann, Mann beim Haareschneiden, Schere, dunkle Hautfarbe
+💇‍♀	Coiffeur, Frau, Frau beim Haareschneiden, Friseur, Haarschnitt, Schere
+💇🏻‍♀	Coiffeur, Frau, Frau beim Haareschneiden, Friseur, Haarschnitt, Schere, helle Hautfarbe
+💇🏼‍♀	Coiffeur, Frau, Frau beim Haareschneiden, Friseur, Haarschnitt, Schere, mittelhelle Hautfarbe
+💇🏽‍♀	Coiffeur, Frau, Frau beim Haareschneiden, Friseur, Haarschnitt, Schere, mittlere Hautfarbe
+💇🏾‍♀	Coiffeur, Frau, Frau beim Haareschneiden, Friseur, Haarschnitt, Schere, mitteldunkle Hautfarbe
+💇🏿‍♀	Coiffeur, Frau, Frau beim Haareschneiden, Friseur, Haarschnitt, Schere, dunkle Hautfarbe
 🚶	Fussgänger(in), gehen, gehend, wandern
 🚶🏻	Fussgänger(in), Fussgänger(in): helle Hautfarbe, gehen, gehend, helle Hautfarbe, wandern
 🚶🏼	Fussgänger(in), Fussgänger(in): mittelhelle Hautfarbe, gehen, gehend, mittelhelle Hautfarbe, wandern
@@ -169,86 +339,155 @@ _	Unterstrich
 🚶🏽‍♀	Frau, Fussgängerin, Fussgängerin: mittlere Hautfarbe, Spaziergang, gehen, mittlere Hautfarbe
 🚶🏾‍♀	Frau, Fussgängerin, Fussgängerin: mitteldunkle Hautfarbe, Spaziergang, gehen, mitteldunkle Hautfarbe
 🚶🏿‍♀	Frau, Fussgängerin, Fussgängerin: dunkle Hautfarbe, Spaziergang, dunkle Hautfarbe, gehen
+🚶‍➡	Fussgänger(in), Fussgänger(in) nach rechts, gehen, gehend, wandern
+🚶🏻‍➡	Fussgänger(in), Fussgänger(in) nach rechts, gehen, gehend, wandern
+🚶🏼‍➡	Fussgänger(in), Fussgänger(in) nach rechts, gehen, gehend, wandern
+🚶🏽‍➡	Fussgänger(in), Fussgänger(in) nach rechts, gehen, gehend, wandern
+🚶🏾‍➡	Fussgänger(in), Fussgänger(in) nach rechts, gehen, gehend, wandern
+🚶🏿‍➡	Fussgänger(in), Fussgänger(in) nach rechts, gehen, gehend, wandern
+🚶‍♀‍➡	Frau, Fussgängerin, Fussgängerin nach rechts, Spaziergang, gehen
+🚶🏻‍♀‍➡	Frau, Fussgängerin, Fussgängerin nach rechts, Spaziergang, gehen
+🚶🏼‍♀‍➡	Frau, Fussgängerin, Fussgängerin nach rechts, Spaziergang, gehen
+🚶🏽‍♀‍➡	Frau, Fussgängerin, Fussgängerin nach rechts, Spaziergang, gehen
+🚶🏾‍♀‍➡	Frau, Fussgängerin, Fussgängerin nach rechts, Spaziergang, gehen
+🚶🏿‍♀‍➡	Frau, Fussgängerin, Fussgängerin nach rechts, Spaziergang, gehen
+🚶‍♂‍➡	Fussgänger, Fussgänger nach rechts, Mann, Spaziergang, gehen
+🚶🏻‍♂‍➡	Fussgänger, Fussgänger nach rechts, Mann, Spaziergang, gehen
+🚶🏼‍♂‍➡	Fussgänger, Fussgänger nach rechts, Mann, Spaziergang, gehen
+🚶🏽‍♂‍➡	Fussgänger, Fussgänger nach rechts, Mann, Spaziergang, gehen
+🚶🏾‍♂‍➡	Fussgänger, Fussgänger nach rechts, Mann, Spaziergang, gehen
+🚶🏿‍♂‍➡	Fussgänger, Fussgänger nach rechts, Mann, Spaziergang, gehen
 🧑‍🦯	Barrierefreiheit, Person mit Langstock, blind
-🧑🏻‍🦯	Barrierefreiheit, Person mit Langstock, Person mit Langstock: helle Hautfarbe, blind, helle Hautfarbe
-🧑🏼‍🦯	Barrierefreiheit, Person mit Langstock, Person mit Langstock: mittelhelle Hautfarbe, blind, mittelhelle Hautfarbe
-🧑🏽‍🦯	Barrierefreiheit, Person mit Langstock, Person mit Langstock: mittlere Hautfarbe, blind, mittlere Hautfarbe
-🧑🏾‍🦯	Barrierefreiheit, Person mit Langstock, Person mit Langstock: mitteldunkle Hautfarbe, blind, mitteldunkle Hautfarbe
-🧑🏿‍🦯	Barrierefreiheit, Person mit Langstock, Person mit Langstock: dunkle Hautfarbe, blind, dunkle Hautfarbe
-👨‍🦯	Mann mit Gehstock
-👨🏻‍🦯	Mann mit Gehstock, helle Hautfarbe
-👨🏼‍🦯	Mann mit Gehstock, mittelhelle Hautfarbe
-👨🏽‍🦯	Mann mit Gehstock, mittlere Hautfarbe
-👨🏾‍🦯	Mann mit Gehstock, mitteldunkle Hautfarbe
-👨🏿‍🦯	Mann mit Gehstock, dunkle Hautfarbe
-👣	Abdruck, Fuss, Fussabdrücke
+🧑🏻‍🦯	Barrierefreiheit, Person mit Langstock, blind, helle Hautfarbe
+🧑🏼‍🦯	Barrierefreiheit, Person mit Langstock, blind, mittelhelle Hautfarbe
+🧑🏽‍🦯	Barrierefreiheit, Person mit Langstock, blind, mittlere Hautfarbe
+🧑🏾‍🦯	Barrierefreiheit, Person mit Langstock, blind, mitteldunkle Hautfarbe
+🧑🏿‍🦯	Barrierefreiheit, Person mit Langstock, blind, dunkle Hautfarbe
+🧑‍🦯‍➡	Barrierefreiheit, Person mit Langstock, blind
+🧑🏻‍🦯‍➡	Barrierefreiheit, Person mit Langstock, blind
+🧑🏼‍🦯‍➡	Barrierefreiheit, Person mit Langstock, blind
+🧑🏽‍🦯‍➡	Barrierefreiheit, Person mit Langstock, blind
+🧑🏾‍🦯‍➡	Barrierefreiheit, Person mit Langstock, blind
+🧑🏿‍🦯‍➡	Barrierefreiheit, Person mit Langstock, blind
+🧗‍♂	Bergsteiger, Kletterer, bergsteigen, klettern
+🧗🏻‍♂	Bergsteiger, Kletterer, bergsteigen, helle Hautfarbe, klettern
+🧗🏼‍♂	Bergsteiger, Kletterer, bergsteigen, klettern, mittelhelle Hautfarbe
+🧗🏽‍♂	Bergsteiger, Kletterer, bergsteigen, klettern, mittlere Hautfarbe
+🧗🏾‍♂	Bergsteiger, Kletterer, bergsteigen, klettern, mitteldunkle Hautfarbe
+🧗🏿‍♂	Bergsteiger, Kletterer, bergsteigen, dunkle Hautfarbe, klettern
+🧗‍♀	Bergsteigerin, Kletterin, bergsteigen, klettern
+🧗🏻‍♀	Bergsteigerin, Kletterin, bergsteigen, helle Hautfarbe, klettern
+🧗🏼‍♀	Bergsteigerin, Kletterin, bergsteigen, klettern, mittelhelle Hautfarbe
+🧗🏽‍♀	Bergsteigerin, Kletterin, bergsteigen, klettern, mittlere Hautfarbe
+🧗🏾‍♀	Bergsteigerin, Kletterin, bergsteigen, klettern, mitteldunkle Hautfarbe
+🧗🏿‍♀	Bergsteigerin, Kletterin, bergsteigen, dunkle Hautfarbe, klettern
+👣	Abdruck, Fussabdruck, Fussabdrücke
+🫆	Abdruck, Fingerabdruck, Polizei, Sicherheit, Täter, Täterin
 🦳	weisses Haar
+🫏	Dummkopf, Esel, Grautier, Maultier, Säugetier, Tier, stur, störrisch
 🦣	Aussterben, Mammut, Stosszahn, gross, wollig
-🐻‍❄	Eisbär
+🐁	Maus, Nage, Tier, weiss
+🐻‍❄	Arktis, Eisbär, Nordpol, weiss
 🦤	Aussterben, Dodo, Mauritius, gross
+🪽	Engel, Federn, Flügel, Mythologie, Vogel, fliegen
+🐦‍🔥	Asche, Donnervogel, Fantasy, Feuer, Feuervogel, Phönix, Vogel, Wiedergeburt
+🐛	Insekt, Raupe, Tier, gefrässig
+🪰	Fliege, Insekt, Krankheit, Made, Mücke, Plage, Schmeissfliege, Tier, fliegen, verwesen
 💐	Blumen, Blumenstrauss, Bouquet
+🪻	Blume, Hyazinthe, Lavendel, Lupine, Löwenmaul
+🪾	Baum ohne Blätter, Dürre, Herbst, Winter, blätterlos, kahl
 🌶️	Chili
 🫑	Gemüse, Paprika, Peperoni
+🫚	Ginger Beer, Ingwer, Ingwerwurzel, scharf
+🫛	Bohne, Edamame, Erbse, Gemüse, Hülsenfrüchte
+🫜	Beete, Garten, Gemüse, Rande, Randen, Rübe, Wurzel
+🍞	Brot, Brotlaib, Essen, Kohlenhydrate, Laib Brot, Toast, Weissbrot, Weizen
 🍗	Geflügel, Poulet, Pouletschenkel
-🍝	Nudeln mit Tomatensaue, Pasta, Spaghetti
+🍝	Nudeln mit Tomatensauce, Pasta, Spaghetti
 🍠	Geröstete Süsskartoffel, Süsskartoffel, geröstet
 🍡	Dango, Mochi-Kugeln auf einem Spiess, Restaurant, japanisches Gericht
+🥟	Empanada, Gyōza, Jiaozi, Kloss, Pierogi, Teigtasche, chinesische Teigtasche, dumpling, empanada, essen, potsticker
+🍧	Eis, Sorbet, Wassereis, zerstossen
+🍩	Donut, Doughnut, Essen, Kuchen, süss
 🧁	Cupcake, Gebäck, Konditorei, Muffin, süss
+🍫	Essen, Schokolade, Schokoladentafel, Süssigkeit
 🍬	Bonbon, Süssigkeit
 🍭	Lolli, Lutscher, Süssigkeit
 🍮	Dessert, Nachspeise, Nachtisch, Pudding, Sauce, Schokolade
+🍯	Honig, Honigtopf, süss
 ☕️	Getränk, Heissgetränk, Kaffee, Tee, dampfend, heiss, trinken
 🫖	Kanne, Tee, Teekanne, Teekrug, trinken
 🍻	Bier, Bierkrüge, anstossen
 🥂	Champagner, Getränk, Sekt, Sektgläser, anstossen, feiern
 🫗	Flüssigkeit ausgiessen, Getränk, Glas, ausgiessen, giessen, leer, trinken
 🏺	Amphore, Gefäss, Krug, Vase, Wassermann, kochen
+🏜️	Wüste, heiss
+🏙️	Gebäude, Grossstadt, Hochhäuser, Häuser, Skyline, Stadt, Wolkenkratzer
+🌇	Grossstadt, Hochhäuser, Morgenrot, Sonnenaufgang, Sonnenuntergang, Sonnenuntergang in der Stadt, Wolkenkratzer
 ♨️	Dampf, Heisse Quellen, Quellen, dampfend, heiss, heisse Quellen
 🚃	Eisenbahnwagen, Fahrzeug, Strassenbahn, Strassenbahnwagen, Tram, Wagen, Wagon, Zug
 🚊	Strassenbahn, Tram
 🚋	Strassenbahn, Strassenbahnwagen, Tram, Tramwagen
+🚎	Oberleitungsbus, Strassenbahn, Tram, Trolleybus
 🛣️	Autobahn, Schnellstrasse
+🛸	Alien, Ausserirdisch, UFO, fliegende Untertasse
 ⭐️	Stern, weisser mittelgrosser Stern
 🌌	Galaxie, Milchstrasse
 🌥️	Sonne, Sonne hinter grosser Wolke, Wetter, Wolke, grosse Wolke
 🔥	Feuer, Flamme, heiss
 💧	Schweiss, Tropfen, Wasser, Wassertropfen
 ⚽️	Ball, Fussball
-🥌	Curlingstein
+🥅	Fussball, Netz, Sport, Tor
+🪅	Feier, Hau drauf, Mexiko, Objekt, Party, Pinada, Pinata, Piñata, Süssigkeiten, mexikanisch, süss
 🥽	Augenschutz, Schutzbrille, Schweissen, Schwimmen
+🥼	Arzt, Arztkittel, Doc, Doktor, Experiment, Kleidung, Kleidungsstück, Laborkittel, Labormantel, Wissenschaftler, weisse Jacke, weisser Mantel
+🪭	Faltfächer, Flamenco, Fächer, fächern, heiss, kühl, scheu, tanzen
 🎒	Ranzen, Rucksack, Schule, Schulranzen, Schulsack, Tornister
 🩴	Flipflops, Zehensandale, Zehensandalen
+🪮	Afro Pick, Kamm, kämmen
 ⛑️	Helm, Helm mit weissem Kreuz, Hilfe, Kreuz
+🪇	Instrument, Maraca, Musik, Trommel, schütteln
+🪈	Blockflöte, Flöte, Holzblasinstrument, Musik, Pfeife
+🪉	Amor, Harfe, Instrument, Liebe, Musik, Orchester
 🪫	Akku leer, Batterie leer, schwache Batterie
 🔍	Lupe nach links, Suche, Vergrösserungsglas
 🔎	Lupe nach rechts, Suche, Vergrösserungsglas
 📆	Abreisskalender, Kalender
 📌	Reisszwecke, anpinnen
 📍	Reisszwecke, anpinnen, rund, runde Reisszwecke
-🩼	Krücke, Stock, verletzt
-🩻	Arzt, Bildgebung, Knochen, Röntgen
+✂️	Schere, basteln, schneiden
+🔑	Passwort, Schlüssel, schliessen
+⛓‍💥	Freiheit, Kette, befreien, kaputt, kaputte Kette, losreissen, reissen
+🪏	Loch, Schaufel, Spaten, ausgraben, graben, schaufeln, vergraben
+🩼	Behinderung, Beinverletzung, Fussverletzung, Gehhilfe, Gehstütze, Hilfe, Krücke, Schmerzen, Stock, Verletzung, verletzt
+🩻	Röntgen
 🛗	Lift
 🪠	Klempner, Pümpel, Sanitär, Saugglocke, WC
 🫧	Schaum, Seife, Seifenblasen, sauber
-🪪	Ausweis, ID, Sicheriet
+🪪	Ausweis, Fahrausweis, ID
+🚮	Abfall, Müll, Mülleimer, Sauberkeit, Symbol „Papierkorb“, wegschmeissen, wegwerfen
 🚼️	Baby-Symbol, Symbol „Baby“, Wickelraum
 🛅	Gepäck, Gepäckaufbewahrung, Schliessfach
 🚸	Kinder, Kinder-queren-die-Strasse-Schild, Vorsicht
 🚷	Fussgänger-verboten-Schild, verboten
-☢️	radioaktiv
-➕	Plus
-➖	Minus
-❔	Satzzeichen, weiss, weisses Fragezeichen
-❕	Satzzeichen, weiss, weisses Ausrufezeichen
+☢️	Radioaktivität, radioaktiv
+🪯	Khanda-Emblem
+🛜	Computer, Internet, Netzwerk, WIFI, WLAN, drahtlos, kabellos
+➕️	Plus
+➖️	Minus
+❔️	Satzzeichen, weiss, weisses Fragezeichen
+❕️	Satzzeichen, weiss, weisses Ausrufezeichen
 ⭕️	Kreis, grosser Kreis, hohler roter Kreis, o, rot
-✅	Weisses Häkchen, abgehakt, erledigt
-➰	Looping, Schleife
+✅️	Weisses Häkchen, abgehakt, erledigt
+➰️	Looping, Schleife
+🫟	Farbe, Farbklecks, Fleck, Klecks, Spritzer, kleckern, verschütten
 🔠	Eingabesymbol lateinische Grossbuchstaben, Grossbuchstaben, lateinische Grossbuchstaben
 🅰️	Blut, Blutgruppe, Grossbuchstabe A in Quadrat, a, negativ, positiv
 🆎	Blut, Blutgruppe, Grossbuchstaben AB in rotem Quadrat, ab, negativ, positiv
 🅱️	Blut, Blutgruppe, Grossbuchstabe B in Quadrat, b, negativ, positiv
 🆑	CL, Grossbuchstaben CL in rotem Quadrat
 🆔	Grossbuchstaben ID in lila Quadrat, ID
+Ⓜ️	Buchstabe, Grossbuchstabe, Kreis, M, eingekreist
 🆖	Grossbuchstaben NG in blauem Quadrat, NG
 🅾️	0, Blut, Blutgruppe, Grossbuchstabe O in Quadrat, negativ, positiv
 🆗	Grossbuchstaben OK in blauem Quadrat, OK
@@ -272,9 +511,15 @@ _	Unterstrich
 🇧🇳	Flagge: Brunei
 🇧🇼	Flagge: Botswana
 🇨🇻	Flagge: Kapverden
-🇬🇧	Flagge: Grossbritannien
 🇸🇧	Flagge: Salomon-Inseln
 🇹🇱	Flagge: Osttimor
 🇿🇼	Flagge: Zimbabwe
 $	Dollar, Dollarzeichen, Geld, Peso, USD
+₤	Lira, Währung
+₰	Deutscher Pfennig, Pfennig, Währung
+₳	ARA, Austral, Währung
+₶	Livre tournois, Livre tournoise, Währung
+₷	Spesmilo, Währung
+₨	Rupie, Währung
+﷼	Rial, Währung
 µ	Masseinheit, Mikro-Zeichen, My

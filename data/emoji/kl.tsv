@@ -130,7 +130,7 @@
 👋	hånd, vinker
 🤚	baghånd, hånd, krop, løftet, løftet baghånd
 🖐️	hånd, hånd med spredte fingre, krop, spredte
-✋	hånd, krop, løftet hånd
+✋️	hånd, krop, løftet hånd
 🖖	finger, hånd, krop, vulcan-hilsen
 👌	OK-håndtegn, OK-tegn, ok-tegn
 ✌️	V-tegn, v-tegn, yeah
@@ -145,7 +145,7 @@
 ☝️	finger, hånd, krop, op, opadvendt, opadvendt pegefinger, pege, pegefinger
 👍️	håndtegn, tommelfinger op
 👎️	håndtegn, tommelfinger ned
-✊	hånd, knytnæve, knyttet, krop, løftet knytnæve, slå
+✊️	hånd, knytnæve, knyttet, krop, løftet knytnæve, slå
 👊	hånd, knytnæve, knyttet hånd
 🤛	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, krop, venstre, venstrevendt, venstrevendt knytnæve
 🤜	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve, knytnæve, knyttet hånd, krop
@@ -321,7 +321,6 @@
 👩‍❤‍👨	kvinde, kærlighed, mand, par med hjerte, par med hjerte: kvinde, mand, romantik
 👨‍❤‍👨	kærlighed, mand, par med hjerte, par med hjerte: mand, mand, romantik
 👩‍❤‍👩	kvinde, kærlighed, par med hjerte, par med hjerte: kvinde, kvinde, romantik
-👪️	barn, familie, far, menneske, mor
 👨‍👩‍👦	barn, dreng, familie, familie: mand, kvinde, dreng, far, kvinde, mand, menneske, mor
 👨‍👩‍👧	barn, familie, familie: mand, kvinde, pige, far, kvinde, mand, menneske, mor, pige
 👨‍👩‍👧‍👦	barn, dreng, familie, familie: mand, kvinde, pige, dreng, far, kvinde, mand, menneske, mor, pige
@@ -350,6 +349,7 @@
 🗣️	ansigt, hoved, silhuet, tale, talende, talende hoved
 👤	buste, buste i silhuet
 👥	buster, buster i silhuet
+👪️	barn, familie, far, menneske, mor
 👣	fodspor, fødder
 🐵	abe, abeansigt, dyr, hoved
 🐒	abe, dyr
@@ -672,7 +672,7 @@
 ⌛️	tid, timeglas
 ⏳️	tid, timeglas, timeglas med løbende sand
 ⌚️	armbåndsur, ur
-⏰	ur, vækkeur
+⏰️	ur, vækkeur
 ⏱️	stopur, ur
 ⏲️	tidtager, ur, æggeur
 🕰️	pynteur, ur
@@ -749,7 +749,7 @@
 🎄	jul, juletræ, træ
 🎆	fest, fyrværkeri, nytår
 🎇	fyrværkeri, nytår, stjernekaster
-✨	skinne, stjerne, stjerner
+✨️	skinne, stjerne, stjerner
 🎈	ballon, fest, fødselsdag
 🎉	bordbombe, fest, nytår
 🎊	fest, konfetti, konfettidåse, konfettiregn
@@ -1072,7 +1072,7 @@
 ♑️	stenbukken, stjernetegn
 ♒️	stjernetegn, vandmanden
 ♓️	fisken, stjernetegn
-⛎	slangebæreren, stjernebillede
+⛎️	slangebæreren, stjernebillede
 🔀	krydsede pile, pile, pile mod højre
 🔁	gentag, gentageknap, med uret, pil
 🔂	knap til én gentagelse, med uret, pil, én gang
@@ -1098,14 +1098,14 @@
 📳	mobil, vibration
 📴	mobil, mobil slået fra
 ✖️	annuller, gange, gangetegn, multiplicer, multiplikation, stort kryds, x
-➕	plus, plustegn
-➖	minus, minustegn
-➗	division, divisionstegn
+➕️	plus, plustegn
+➖️	minus, minustegn
+➗️	division, divisionstegn
 ‼️	dobbelt udråbstegn, tegnsætning, udråbstegn
 ⁉️	spørgsmål, tegn, tegnsætning, udråbstegn, udråbstegn og spørgsmålstegn
 ❓️	spørgsmål, spørgsmålstegn, tegn, tegnsætning
-❔	hvidt spørgsmålstegn, omrids, spørgsmål, tegn, tegnsætning
-❕	fixed to avoid duplicate, hvidt udråbstegn
+❔️	hvidt spørgsmålstegn, omrids, spørgsmål, tegn, tegnsætning
+❕️	fixed to avoid duplicate, hvidt udråbstegn
 ❗️	tegnsætning, udråbstegn
 〰️	bølgestreg, bølget, tegn, tegnsætning
 💱	bank, penge, valuta, valutaveksling, veksling
@@ -1117,13 +1117,13 @@
 📛	navn, navneskilt, skilt
 🔰	grønt og gult, grønt og gult blad
 ⭕️	cirkel, o, stor kraftig cirkel
-✅	flueben, markering
+✅️	flueben, markering
 ☑️	afkrydsning, afkrydsningsfelt med flueben, flueben, markere, stemme
 ✔️	flueben, stort flueben
-❌	annuller, gange, kryds, multiplicer, multiplikation, mærke, x
-❎	krydsknap, kvadrat, mærke, x
-➰	krølle, loop, løkke
-➿	dobbelt, dobbelt krølle, krølle, loop, løkke
+❌️	annuller, gange, kryds, multiplicer, multiplikation, mærke, x
+❎️	krydsknap, kvadrat, mærke, x
+➰️	krølle, loop, løkke
+➿️	dobbelt, dobbelt krølle, krølle, loop, løkke
 〽️	del, japansk, japansk kommatering, kommatering
 ✳️	asterisk, ottetakket spids stjerne, stjerne
 ✴️	ottetakket stjerne, stjerne

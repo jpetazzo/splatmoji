@@ -155,7 +155,7 @@
 🖐🏽	isandla, isandla esiphakanyisiweyo esineminwe ethe saa, isandla esiphakanyisiweyo esineminwe ethe saa: ithoni yesikhumba esiphakathi, ithoni yesikhumba esiphakathi, saa, umnwe
 🖐🏾	isandla, isandla esiphakanyisiweyo esineminwe ethe saa, isandla esiphakanyisiweyo esineminwe ethe saa: ithoni yesikhumba esiphakathi mnyama, ithoni yesikhumba esiphakathi mnyama, saa, umnwe
 🖐🏿	isandla, isandla esiphakanyisiweyo esineminwe ethe saa, isandla esiphakanyisiweyo esineminwe ethe saa: ithoni yesikhumba emnyama, ithoni yesikhumba emnyama, saa, umnwe
-✋	isandla, isandla esinyusiweyo
+✋️	isandla, isandla esinyusiweyo
 ✋🏻	isandla, isandla esinyusiweyo, isandla esinyusiweyo: ithoni yesikhumba esikhanyayo, ithoni yesikhumba esikhanyayo
 ✋🏼	isandla, isandla esinyusiweyo, isandla esinyusiweyo: ithoni yesikhumba esikhanyayo phakathi, ithoni yesikhumba esikhanyayo phakathi
 ✋🏽	isandla, isandla esinyusiweyo, isandla esinyusiweyo: ithoni yesikhumba esiphakathi, ithoni yesikhumba esiphakathi
@@ -271,7 +271,7 @@
 👎🏽	-1, ezantsi, isandla, ithoni yesikhumba esiphakathi, ubhontsi, ubhontsi ojonge ezantsi, ubhontsi ojonge ezantsi: ithoni yesikhumba esiphakathi
 👎🏾	-1, ezantsi, isandla, ithoni yesikhumba esiphakathi mnyama, ubhontsi, ubhontsi ojonge ezantsi, ubhontsi ojonge ezantsi: ithoni yesikhumba esiphakathi mnyama
 👎🏿	-1, ezantsi, isandla, ithoni yesikhumba emnyama, ubhontsi, ubhontsi ojonge ezantsi, ubhontsi ojonge ezantsi: ithoni yesikhumba emnyama
-✊	fumbatha, inqindi, inqindi elinyusiweyo, isandla
+✊️	fumbatha, inqindi, inqindi elinyusiweyo, isandla
 ✊🏻	fumbatha, inqindi, inqindi elinyusiweyo, inqindi elinyusiweyo: ithoni yesikhumba esikhanyayo, isandla, ithoni yesikhumba esikhanyayo
 ✊🏼	fumbatha, inqindi, inqindi elinyusiweyo, inqindi elinyusiweyo: ithoni yesikhumba esikhanyayo phakathi, isandla, ithoni yesikhumba esikhanyayo phakathi
 ✊🏽	fumbatha, inqindi, inqindi elinyusiweyo, inqindi elinyusiweyo: ithoni yesikhumba esiphakathi, isandla, ithoni yesikhumba esiphakathi
@@ -1740,7 +1740,6 @@
 👩‍❤‍👨	ibhinqa, indoda, isibini, isibini esinentliziyo, isibini esinentliziyo: ibhinqa, indoda, uthando
 👨‍❤‍👨	indoda, isibini, isibini esinentliziyo, isibini esinentliziyo: indoda, indoda, uthando
 👩‍❤‍👩	ibhinqa, isibini, isibini esinentliziyo, isibini esinentliziyo: ibhinqa, ibhinqa, uthando
-👪️	usapho
 👨‍👩‍👦	ibhinqa, indoda, inkwenkwe, usapho, usapho: indoda, ibhinqa, inkwenkwe
 👨‍👩‍👧	ibhinqa, indoda, intombazana, usapho, usapho: indoda, ibhinqa, intombazana
 👨‍👩‍👧‍👦	ibhinqa, indoda, inkwenkwe, intombazana, usapho, usapho: indoda, ibhinqa, intombazana, inkwenkwe
@@ -1769,6 +1768,7 @@
 🗣️	i-silhouette, intloko, intloko ethethayo, thetha, ubuso, ukuthetha
 👤	intloko namagxa, umfanekiso oqingqiweyo, umfanekiso oqingqiweyo wentloko namagxa
 👥	imifanekiso eqingqiweyo yentloko namagxa, intloko namagxa, umfanekiso oqingqiweyo
+👪️	usapho
 👣	imizila yeenyawo, impahla, umzila, umzila weenyawo
 🐵	inkawu, ubuso, ubuso benkawu
 🐒	inkawu
@@ -2111,7 +2111,7 @@
 ⌛️	i-hourglass, isanti, isibali-xesha
 ⏳️	i-hourglass, i-hourglass enesanti ehlayo, isanti, isibali-xesha
 ⌚️	bukela, iwotshi
-⏰	ialam, iwotshi, iwotshi yealam
+⏰️	ialam, iwotshi, iwotshi yealam
 ⏱️	istophu-wotshi, iwotshi
 ⏲️	isibali-xesha, iwotshi, iwotshi yesibali-xesha
 🕰️	iwotshi, iwotshi ye-mantelpiece
@@ -2189,7 +2189,7 @@
 🎄	iKrismesi, umbhiyozo, umthi, umthi wekrismesi
 🎆	iziqhushumbi, umbhiyozo
 🎇	isikhazimli, izikhazimli, iziqhushumbi, umbhiyozo
-✨	inkwenkwezi, isikhazimli, izikhazimli
+✨️	inkwenkwezi, isikhazimli, izikhazimli
 🎈	ibhaloni, umbhiyozo
 🎉	ipati, isidubuli, isidubuli setheko, tada, umbhiyozo
 🎊	amaphepha amahle, ibhola, ibhola enamaphepha amahle, umbhiyozo
@@ -2519,7 +2519,7 @@
 ♑️	I-Capricorn, i-zodiac, ibhokhwe
 ♒️	I-Aquarius, amanzi, i-zodiac, umthwali
 ♓️	I-Pisces, i-zodiac, intlanzi
-⛎	I-Ophiuchus, i-zodiac, inyoka, irhamncwa, umthwali
+⛎️	I-Ophiuchus, i-zodiac, inyoka, irhamncwa, umthwali
 🔀	enqamlezileyo, iqhosha lokushafula iingoma, utolo
 🔁	iqhosha lokuphinda, ngokujikeleza ngasekunene, phindaphinda, utolo
 🔂	iqhosha elithi phinda kanye, kanye, ngokujikeleza ngasekunene, utolo
@@ -2547,14 +2547,14 @@
 ♀️	ibhinqa, uphawu lwebhinqa
 ♂️	indoda, uphawu lwendoda
 ✖️	phindaphinda, rhoxisa, uphindaphindo, uphindaphindo olungqindilili x, x
-➕	dibanisa, ubalo, uphawu lokudibanisa olungqindilili
-➖	thabatha, ubalo, uphawu lokuthabatha olungqindilili
-➗	ubalo, ukwahlula, uphawu lolwahlulo olungqindilili
+➕️	dibanisa, ubalo, uphawu lokudibanisa olungqindilili
+➖️	thabatha, ubalo, uphawu lokuthabatha olungqindilili
+➗️	ubalo, ukwahlula, uphawu lolwahlulo olungqindilili
 ‼️	i-bangbang, isikhuzo, isiphumlisi, uphawu, uphawu lwesikhuzo ophindaphindeneyo
 ⁉️	i-interrobang, isikhuzo, isiphumlisi, umbuzo, uphawu, uphawu lombuzo lwesikhuzo
 ❓️	isiphumlisi, umbuzo, uphawu, uphawu lombuzo
-❔	ibalaseliswe umphandle, isiphumlisi, umbuzo, uphawu, uphawu lombuzo olumhlophe
-❕	ibalaseliswe umphandle, isikhuzo, isiphumlisi, uphawu, uphawu lwesikhuzo olumhlophe
+❔️	ibalaseliswe umphandle, isiphumlisi, umbuzo, uphawu, uphawu lombuzo olumhlophe
+❕️	ibalaseliswe umphandle, isikhuzo, isiphumlisi, uphawu, uphawu lwesikhuzo olumhlophe
 ❗️	isikhuzo, isiphumlisi, uphawu, uphawu lwesikhuzo
 〰️	idesh ewangawangisayo, ideshi, isiphumlisi, wangawangisayo
 💱	ibhanki, ikharensi, imali, utshintshiselwano, utshintshiselwano lwekharensi
@@ -2566,13 +2566,13 @@
 📛	ibheji, igama, igama lebheji
 🔰	i-chevron, igqabi, isimboli yaseJapan yabaqalayo, isixhobo, luhlaza, mthubi, oqalayo, yaseJapan
 ⭕️	isangqa esikhulu esingqindilili, isanqa, o
-✅	khetha, uphawu, uphawu lokuhlola olungqindilili olumhlophe
+✅️	khetha, uphawu, uphawu lokuhlola olungqindilili olumhlophe
 ☑️	ibhalothi, ibhokisi, ibhokisi yebhalothi yokhetho, khetha
 ✔️	khetha, uphawu, uphawu lokhetho olungqindilili
-❌	phindaphinda, rhoxisa, uphawu, uphawu lomnqamlezo, uphindaphindo, x
-❎	iqhosha lophawu lomnqamlezo, iskwere, uphawu
-➰	irhintyela, irhintyela eliphotheneyo, ukuphithana
-➿	irhintyela, irhintyela eliphotheneyo kabini, kabini, ukuphithana
+❌️	phindaphinda, rhoxisa, uphawu, uphawu lomnqamlezo, uphindaphindo, x
+❎️	iqhosha lophawu lomnqamlezo, iskwere, uphawu
+➰️	irhintyela, irhintyela eliphotheneyo, ukuphithana
+➿️	irhintyela, irhintyela eliphotheneyo kabini, kabini, ukuphithana
 〽️	inxalenye, uphawu, uphawu lwenguqulelo oluyinxalenye
 ✳️	ikwenkwezana, inkwenkwezana eneencam ezisibhozo
 ✴️	inkwenkwezi, inkwenkwezi eneencam ezisibhozo
@@ -2647,6 +2647,25 @@
 🏴	iflegi emnyama, ukuwangawangisa
 🏳️	iflegi emhlophe, ukuwangawangisa
 🏳‍🌈	iflegi yomnyama, umnyama
+¤	Ikharensi Engaziwayo
+֏	I-Dram yase Armenia
+؋	I-Afghani yase-Afghanistan
+৳	I-Taka yaseBangladesh
+฿	I-Baht yaseThailand
+៛	I-Riel yaseCambodia
+₡	Costa Rican Colón
+₦	INaira yaseNigeria
+₪	I-New Shekel yase-Israel
+₫	I-Dong yaseVietnam
+₭	I-Kip yaseLaos
+₮	I-Tugrik yaseMongolia
+₲	I-Guarani yaseParaguay
+₴	I-Hryvnia yase-Ukraine
+₵	ICedi yaseGhana
+₸	I-Tenge yaseKhazakhstan
+₺	I-Lira yaseTurkey
+₼	I-Manat yase-Azerbeijan
+₾	I-Lari yaseGeorgia
 🏻	ithoni yesikhumba, ithoni yesikhumba esikhanyayo, uhlobo 1–2
 🏼	ithoni yesikhumba, ithoni yesikhumba esikhanyayo phakathi, uhlobo 3
 🏽	ithoni yesikhumba, ithoni yesikhumba esiphakathi, uhlobo 4

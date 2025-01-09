@@ -110,25 +110,19 @@ _	baja, bajo, guion, raya, subraya
 ∘	Operador de anillo
 ∙	Operador de bala
 ∝	Proporcional a
-∣	divide, divisor
+∣	divisor
 ∥	en paralelo
 ∧	ac, atque, cuña, lógico y
-∫	cálculo, integral
 ∬	cálculo, doble integral, integral doble
 ∴	lógica, por lo tanto
-∵	lógica, porque
 ∶	relación
-∷	proporcionalidad, proporción
-∼	operador, operador de tilde
+∼	operador, operador de tilde, operador de virgulilla
 ∽	tilde, tilde invertida
 ≃	asintóticamente igual, asíntota, matemáticas
 ≅	aproximadamente igual, congruencia, igualdad, isomorfismo, matemáticas
-≌	igualdad, matemáticas, todo igual
 ≒	aproximadamente igual a la imagen
 ≖	anillo en igualdad, igualdad, matemáticas
-≣	estrictamente equivalente, igualdad, matemáticas
 ≦	desigualdad, matemáticas, menos que sobre igual
-≧	desigualdad, matemáticas, mayor que sobre igual
 ≪	desigualdad, matemáticas, mucho menos que
 ≫	desigualdad, matemáticas, mucho mayor que
 ≳	desigualdad, matemáticas, mayor o equivalente a
@@ -152,7 +146,6 @@ _	baja, bajo, guion, raya, subraya
 ⊱	matemáticas, operador de conjunto, sucede bajo la relación
 ⋭	matemáticas, no contiene como subgrupo normal igual, teoría de conjuntos
 ⊹	matemáticas, matriz autoconjunta, matriz conjugada hermitiana, matriz cuadrada
-⊿	matemáticas, triángulo rectángulo
 ⋁	disyunción, lógica, n-ario lógico o
 ⋒	doble intersección, intersección, matemáticas, operador de conjunto
 ⋘	desigualdad, matemáticas, mucho menos-que
@@ -173,9 +166,6 @@ _	baja, bajo, guion, raya, subraya
 ◂	triángulo pequeño relleno a la izquierda
 ◃	triángulo pequeño hueco a la izquierda
 ◅	puntero hueco hacia la izquierda
-◆	rombo relleno
-◇	rombo hueco
-◈	rombo hueco con rombo relleno dentro
 ◉	círculo hueco con círculo relleno dentro, círculos concéntricos, ojo de pez, punto en círculo
 ◎	círculos concéntricos, diana, doble círculo
 ◐	círculo relleno a la izquierda
@@ -190,9 +180,6 @@ _	baja, bajo, guion, raya, subraya
 ◝	arco circular en cuadrante superior derecho
 ◞	arco circular en cuadrante inferior derecho
 ◟	arco circular en cuadrante inferior izquierdo
-◢	triángulo inferior derecho relleno
-◣	triángulo inferior izquierdo relleno
-◤	triángulo superior izquierdo relleno
 ◥	triángulo superior derecho relleno
 ◦	viñeta hueca
 ◳	cuadrado hueco con cuadrante superior derecho hueco
@@ -229,7 +216,10 @@ _	baja, bajo, guion, raya, subraya
 🤐	boca, cara, cara con la boca cerrada con cierre, zipper
 🙄	cara con ojos en blanco
 😬	cara, cara haciendo mueca, cara haciendo una mueca, mueca
+🙂‍↔	cabeza moviéndose horizontalmente, negando
+🙂‍↕	afirmando, asintiendo, cabeza moviéndose verticalmente
 😔	cara desanimada
+🫩	agotado, cansado, cara con bolsas bajo los ojos, somnoliento
 😷	barbijo, cara, cara con mascarilla médica, cubrebocas, enfermo
 🤕	cara, cara con la cabeza vendada, dolor, herido, vendas
 🤧	cara, cara estornudando, estornudar, estornudo, resfrío
@@ -241,7 +231,7 @@ _	baja, bajo, guion, raya, subraya
 🥸	anteojos, cara, cara disfrazada, disfraz, incognito, nariz
 😎	cara, cara sonriendo con lentes de sol, lentes de sol, onda, sol
 😟	cara, cara preocupada, preocupado
-😮	cara con boca abierta, empatía, sorpresa
+😮	cara con boca abierta, cara con la boca abierta, empatía, sorpresa
 😳	avergonzado, cara sonrojada, sonrojado, sorprendido, sorpresa, vergüenza
 🥺	cara de por favor, cara de súplica, implorar, ojos adorables, piedad, por favor
 😦	abierta, boca, cara, cara con el ceño fruncido y la boca abierta
@@ -285,8 +275,9 @@ _	baja, bajo, guion, raya, subraya
 💟	adorno de corazón, corazón
 💔	corazón, mal, roto, sufrir, triste
 ❤️	amor, corazón, emoción, rojo
+🩵	corazón azul claro
 💜	corazón, emoción, morado
-🤎	corazón, corazón café, emoción, marrón
+🤎	corazón café
 💯	100, perfecto, puntaje, puntos, puntuación
 💢	cómics, emoción, señal de enojo, símbolo de enfado
 💥	choque, colisión, cómics, emoción, explosión
@@ -300,18 +291,18 @@ _	baja, bajo, guion, raya, subraya
 💭	burbuja, cómics, globo, globo de pensamiento, pensamiento
 💤	cómics, emoción, estar durmiendo, roncar, símbolo de sueño
 🤚	dorso, dorso de la mano, dorso de la mano alzado, mano
-🤚🏻	dorso, dorso de la mano, dorso de la mano alzado, dorso de la mano: tono de piel claro, mano, tono de piel claro
-🤚🏼	dorso, dorso de la mano, dorso de la mano alzado, dorso de la mano: tono de piel claro medio, mano, tono de piel claro medio
-🤚🏽	dorso, dorso de la mano, dorso de la mano alzado, dorso de la mano: tono de piel medio, mano, tono de piel medio
-🤚🏾	dorso, dorso de la mano, dorso de la mano alzado, dorso de la mano: tono de piel oscuro medio, mano, tono de piel oscuro medio
-🤚🏿	dorso, dorso de la mano, dorso de la mano alzado, dorso de la mano: tono de piel oscuro, mano, tono de piel oscuro
+🤚🏻	dorso, dorso de la mano, dorso de la mano alzado, mano, tono de piel claro
+🤚🏼	dorso, dorso de la mano, dorso de la mano alzado, mano, tono de piel claro medio
+🤚🏽	dorso, dorso de la mano, dorso de la mano alzado, mano, tono de piel medio
+🤚🏾	dorso, dorso de la mano, dorso de la mano alzado, mano, tono de piel oscuro medio
+🤚🏿	dorso, dorso de la mano, dorso de la mano alzado, mano, tono de piel oscuro
 🖐️	dedos, mano, mano abierta, palma de la mano
 🖐🏻	dedos, mano, mano abierta, palma de la mano, tono de piel claro
 🖐🏼	dedos, mano, mano abierta, palma de la mano, tono de piel claro medio
 🖐🏽	dedos, mano, mano abierta, palma de la mano, tono de piel medio
 🖐🏾	dedos, mano, mano abierta, palma de la mano, tono de piel oscuro medio
 🖐🏿	dedos, mano, mano abierta, palma de la mano, tono de piel oscuro
-✋	mano, mano abierta, mano levantada, palma de la mano
+✋️	mano, mano abierta, mano levantada, palma de la mano
 ✋🏻	mano, mano abierta, mano levantada, palma de la mano, tono de piel claro
 ✋🏼	mano, mano abierta, mano levantada, palma de la mano, tono de piel claro medio
 ✋🏽	mano, mano abierta, mano levantada, palma de la mano, tono de piel medio
@@ -371,24 +362,24 @@ _	baja, bajo, guion, raya, subraya
 👉🏽	apuntar, dedo, dorso, mano apuntando índice a la derecha, mano apuntando índice a la derecha: tono de piel medio, mano con dedo índice hacia la derecha, tono de piel medio, índice, índice hacia la derecha
 👉🏾	apuntar, dedo, dorso, mano apuntando índice a la derecha, mano apuntando índice a la derecha: tono de piel oscuro medio, mano con dedo índice hacia la derecha, tono de piel oscuro medio, índice, índice hacia la derecha
 👉🏿	apuntar, dedo, dorso, mano apuntando índice a la derecha, mano apuntando índice a la derecha: tono de piel oscuro, mano con dedo índice hacia la derecha, tono de piel oscuro, índice, índice hacia la derecha
-👆️	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, señalar, índice
-👆🏻	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, señalar, tono de piel claro, índice
-👆🏼	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, señalar, tono de piel claro medio, índice
-👆🏽	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, señalar, tono de piel medio, índice
-👆🏾	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, señalar, tono de piel oscuro medio, índice
-👆🏿	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, señalar, tono de piel oscuro, índice
+👆️	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, mano con dedo índice hacia arriba, señalar, índice
+👆🏻	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, mano con dedo índice hacia arriba, mano con dedo índice hacia arriba: tono de piel claro, señalar, tono de piel claro, índice
+👆🏼	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, mano con dedo índice hacia arriba, mano con dedo índice hacia arriba: tono de piel claro medio, señalar, tono de piel claro medio, índice
+👆🏽	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, mano con dedo índice hacia arriba, mano con dedo índice hacia arriba: tono de piel medio, señalar, tono de piel medio, índice
+👆🏾	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, mano con dedo índice hacia arriba, mano con dedo índice hacia arriba: tono de piel oscuro medio, señalar, tono de piel oscuro medio, índice
+👆🏿	apuntar, dedo, dorso de mano con dedo índice hacia arriba, mano, mano con dedo índice hacia arriba, mano con dedo índice hacia arriba: tono de piel oscuro, señalar, tono de piel oscuro, índice
 🖕	dedo, insulto, mano, mano con el dedo medio levantado, medio
 🖕🏻	dedo, insulto, mano, mano con el dedo medio levantado, mano con el dedo medio levantado: tono de piel claro, medio, tono de piel claro
 🖕🏼	dedo, insulto, mano, mano con el dedo medio levantado, mano con el dedo medio levantado: tono de piel claro medio, medio, tono de piel claro medio
 🖕🏽	dedo, insulto, mano, mano con el dedo medio levantado, mano con el dedo medio levantado: tono de piel medio, medio, tono de piel medio
 🖕🏾	dedo, insulto, mano, mano con el dedo medio levantado, mano con el dedo medio levantado: tono de piel oscuro medio, medio, tono de piel oscuro medio
 🖕🏿	dedo, insulto, mano, mano con el dedo medio levantado, mano con el dedo medio levantado: tono de piel oscuro, medio, tono de piel oscuro
-👇️	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, señalar, índice
-👇🏻	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, señalar, tono de piel claro, índice
-👇🏼	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, señalar, tono de piel claro medio, índice
-👇🏽	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, señalar, tono de piel medio, índice
-👇🏾	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, señalar, tono de piel oscuro medio, índice
-👇🏿	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, señalar, tono de piel oscuro, índice
+👇️	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, mano con dedo índice hacia abajo, señalar, índice
+👇🏻	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, mano con dedo índice hacia abajo, mano con dedo índice hacia abajo: tono de piel claro, señalar, tono de piel claro, índice
+👇🏼	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, mano con dedo índice hacia abajo, mano con dedo índice hacia abajo: tono de piel claro medio, señalar, tono de piel claro medio, índice
+👇🏽	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, mano con dedo índice hacia abajo, mano con dedo índice hacia abajo: tono de piel medio, señalar, tono de piel medio, índice
+👇🏾	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, mano con dedo índice hacia abajo, mano con dedo índice hacia abajo: tono de piel oscuro medio, señalar, tono de piel oscuro medio, índice
+👇🏿	abajo, apuntar, dorso de mano con dedo índice hacia abajo, mano, mano con dedo índice hacia abajo, mano con dedo índice hacia abajo: tono de piel oscuro, señalar, tono de piel oscuro, índice
 ☝️	apuntar, arriba, dedo índice hacia arriba, señalar, índice
 ☝🏻	apuntar, arriba, dedo índice hacia arriba, señalar, tono de piel claro, índice
 ☝🏼	apuntar, arriba, dedo índice hacia arriba, señalar, tono de piel claro medio, índice
@@ -407,7 +398,7 @@ _	baja, bajo, guion, raya, subraya
 👎🏽	-1, abajo, desacuerdo, mano, pulgar, pulgar hacia abajo, tono de piel medio
 👎🏾	-1, abajo, desacuerdo, mano, pulgar, pulgar hacia abajo, tono de piel oscuro medio
 👎🏿	-1, abajo, desacuerdo, mano, pulgar, pulgar hacia abajo, tono de piel oscuro
-✊	cerrada, mano, piedra, puño, puño en alto, puño levantado
+✊️	cerrada, mano, piedra, puño, puño en alto, puño levantado
 ✊🏻	cerrada, mano, piedra, puño, puño en alto, puño en alto: tono de piel claro, puño levantado, tono de piel claro
 ✊🏼	cerrada, mano, piedra, puño, puño en alto, puño en alto: tono de piel claro medio, puño levantado, tono de piel claro medio
 ✊🏽	cerrada, mano, piedra, puño, puño en alto, puño en alto: tono de piel medio, puño levantado, tono de piel medio
@@ -494,26 +485,26 @@ _	baja, bajo, guion, raya, subraya
 👱🏽	cara, persona adulta rubia, persona rubia, tono de piel medio
 👱🏾	cara, persona adulta rubia, persona rubia, tono de piel oscuro medio
 👱🏿	cara, persona adulta rubia, persona rubia, tono de piel oscuro
-🧑🏻‍❤‍💋‍🧑🏼	beso, beso: persona, persona, tono de piel claro, tono de piel claro medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel claro medio
-🧑🏻‍❤‍💋‍🧑🏽	beso, beso: persona, persona, tono de piel claro, tono de piel medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel medio
-🧑🏻‍❤‍💋‍🧑🏾	beso, beso: persona, persona, tono de piel claro, tono de piel oscuro medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel oscuro medio
-🧑🏻‍❤‍💋‍🧑🏿	beso, beso: persona, persona, tono de piel claro, tono de piel oscuro, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel oscuro
-🧑🏼‍❤‍💋‍🧑🏻	beso, beso: persona, persona, tono de piel claro medio, tono de piel claro, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel claro medio
-🧑🏼‍❤‍💋‍🧑🏽	beso, beso: persona, persona, tono de piel claro medio, tono de piel medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel medio
-🧑🏼‍❤‍💋‍🧑🏾	beso, beso: persona, persona, tono de piel claro medio, tono de piel oscuro medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel oscuro medio
-🧑🏼‍❤‍💋‍🧑🏿	beso, beso: persona, persona, tono de piel claro medio, tono de piel oscuro, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel oscuro
-🧑🏽‍❤‍💋‍🧑🏻	beso, beso: persona, persona, tono de piel medio, tono de piel claro, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel medio
-🧑🏽‍❤‍💋‍🧑🏼	beso, beso: persona, persona, tono de piel medio, tono de piel claro medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel medio
-🧑🏽‍❤‍💋‍🧑🏾	beso, beso: persona, persona, tono de piel medio, tono de piel oscuro medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel medio, tono de piel oscuro medio
-🧑🏽‍❤‍💋‍🧑🏿	beso, beso: persona, persona, tono de piel medio, tono de piel oscuro, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel medio, tono de piel oscuro
-🧑🏾‍❤‍💋‍🧑🏻	beso, beso: persona, persona, tono de piel oscuro medio, tono de piel claro, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel oscuro medio
-🧑🏾‍❤‍💋‍🧑🏼	beso, beso: persona, persona, tono de piel oscuro medio, tono de piel claro medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel oscuro medio
-🧑🏾‍❤‍💋‍🧑🏽	beso, beso: persona, persona, tono de piel oscuro medio, tono de piel medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel medio, tono de piel oscuro medio
-🧑🏾‍❤‍💋‍🧑🏿	beso, beso: persona, persona, tono de piel oscuro medio, tono de piel oscuro, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel oscuro, tono de piel oscuro medio
-🧑🏿‍❤‍💋‍🧑🏻	beso, beso: persona, persona, tono de piel oscuro, tono de piel claro, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel oscuro
-🧑🏿‍❤‍💋‍🧑🏼	beso, beso: persona, persona, tono de piel oscuro, tono de piel claro medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel oscuro
-🧑🏿‍❤‍💋‍🧑🏽	beso, beso: persona, persona, tono de piel oscuro, tono de piel medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel medio, tono de piel oscuro
-🧑🏿‍❤‍💋‍🧑🏾	beso, beso: persona, persona, tono de piel oscuro, tono de piel oscuro medio, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel oscuro, tono de piel oscuro medio
+🧑🏻‍❤‍💋‍🧑🏼	amor, beso, beso de pareja, beso: persona, persona, tono de piel claro, tono de piel claro medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel claro medio
+🧑🏻‍❤‍💋‍🧑🏽	amor, beso, beso de pareja, beso: persona, persona, tono de piel claro, tono de piel medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel medio
+🧑🏻‍❤‍💋‍🧑🏾	amor, beso, beso de pareja, beso: persona, persona, tono de piel claro, tono de piel oscuro medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel oscuro medio
+🧑🏻‍❤‍💋‍🧑🏿	amor, beso, beso de pareja, beso: persona, persona, tono de piel claro, tono de piel oscuro, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel oscuro
+🧑🏼‍❤‍💋‍🧑🏻	amor, beso, beso de pareja, beso: persona, persona, tono de piel claro medio, tono de piel claro, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel claro medio
+🧑🏼‍❤‍💋‍🧑🏽	amor, beso, beso de pareja, beso: persona, persona, tono de piel claro medio, tono de piel medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel medio
+🧑🏼‍❤‍💋‍🧑🏾	amor, beso, beso de pareja, beso: persona, persona, tono de piel claro medio, tono de piel oscuro medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel oscuro medio
+🧑🏼‍❤‍💋‍🧑🏿	amor, beso, beso de pareja, beso: persona, persona, tono de piel claro medio, tono de piel oscuro, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel oscuro
+🧑🏽‍❤‍💋‍🧑🏻	amor, beso, beso de pareja, beso: persona, persona, tono de piel medio, tono de piel claro, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel medio
+🧑🏽‍❤‍💋‍🧑🏼	amor, beso, beso de pareja, beso: persona, persona, tono de piel medio, tono de piel claro medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel medio
+🧑🏽‍❤‍💋‍🧑🏾	amor, beso, beso de pareja, beso: persona, persona, tono de piel medio, tono de piel oscuro medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel medio, tono de piel oscuro medio
+🧑🏽‍❤‍💋‍🧑🏿	amor, beso, beso de pareja, beso: persona, persona, tono de piel medio, tono de piel oscuro, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel medio, tono de piel oscuro
+🧑🏾‍❤‍💋‍🧑🏻	amor, beso, beso de pareja, beso: persona, persona, tono de piel oscuro medio, tono de piel claro, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel oscuro medio
+🧑🏾‍❤‍💋‍🧑🏼	amor, beso, beso de pareja, beso: persona, persona, tono de piel oscuro medio, tono de piel claro medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel oscuro medio
+🧑🏾‍❤‍💋‍🧑🏽	amor, beso, beso de pareja, beso: persona, persona, tono de piel oscuro medio, tono de piel medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel medio, tono de piel oscuro medio
+🧑🏾‍❤‍💋‍🧑🏿	amor, beso, beso de pareja, beso: persona, persona, tono de piel oscuro medio, tono de piel oscuro, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel oscuro, tono de piel oscuro medio
+🧑🏿‍❤‍💋‍🧑🏻	amor, beso, beso de pareja, beso: persona, persona, tono de piel oscuro, tono de piel claro, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro, tono de piel oscuro
+🧑🏿‍❤‍💋‍🧑🏼	amor, beso, beso de pareja, beso: persona, persona, tono de piel oscuro, tono de piel claro medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel claro medio, tono de piel oscuro
+🧑🏿‍❤‍💋‍🧑🏽	amor, beso, beso de pareja, beso: persona, persona, tono de piel oscuro, tono de piel medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel medio, tono de piel oscuro
+🧑🏿‍❤‍💋‍🧑🏾	amor, beso, beso de pareja, beso: persona, persona, tono de piel oscuro, tono de piel oscuro medio, dos personas besándose, pareja, pareja besándose, persona, personas, romance, romántico, tono de piel oscuro, tono de piel oscuro medio
 🧑🏻‍❤‍🧑🏼	hombre y mujer enamorados, hombre y mujer enamorados: persona, persona, tono de piel claro, tono de piel claro medio, persona, tono de piel claro, tono de piel claro medio
 🧑🏻‍❤‍🧑🏽	hombre y mujer enamorados, hombre y mujer enamorados: persona, persona, tono de piel claro, tono de piel medio, persona, tono de piel claro, tono de piel medio
 🧑🏻‍❤‍🧑🏾	hombre y mujer enamorados, hombre y mujer enamorados: persona, persona, tono de piel claro, tono de piel oscuro medio, persona, tono de piel claro, tono de piel oscuro medio
@@ -769,23 +760,23 @@ _	baja, bajo, guion, raya, subraya
 🙍🏾	cara, ceño, fruncido, persona frunciendo el ceño, tono de piel oscuro medio
 🙍🏿	cara, ceño, fruncido, persona frunciendo el ceño, tono de piel oscuro
 🙍‍♀	cara, ceño, fruncido, mujer, mujer frunciendo el ceño
-🙍🏻‍♀	cara, ceño, fruncido, mujer, mujer frunciendo el ceño, mujer frunciendo el ceño: tono de piel claro, tono de piel claro
-🙍🏼‍♀	cara, ceño, fruncido, mujer, mujer frunciendo el ceño, mujer frunciendo el ceño: tono de piel claro medio, tono de piel claro medio
-🙍🏽‍♀	cara, ceño, fruncido, mujer, mujer frunciendo el ceño, mujer frunciendo el ceño: tono de piel medio, tono de piel medio
-🙍🏾‍♀	cara, ceño, fruncido, mujer, mujer frunciendo el ceño, mujer frunciendo el ceño: tono de piel oscuro medio, tono de piel oscuro medio
-🙍🏿‍♀	cara, ceño, fruncido, mujer, mujer frunciendo el ceño, mujer frunciendo el ceño: tono de piel oscuro, tono de piel oscuro
+🙍🏻‍♀	cara, ceño, fruncido, mujer, mujer frunciendo el ceño, tono de piel claro
+🙍🏼‍♀	cara, ceño, fruncido, mujer, mujer frunciendo el ceño, tono de piel claro medio
+🙍🏽‍♀	cara, ceño, fruncido, mujer, mujer frunciendo el ceño, tono de piel medio
+🙍🏾‍♀	cara, ceño, fruncido, mujer, mujer frunciendo el ceño, tono de piel oscuro medio
+🙍🏿‍♀	cara, ceño, fruncido, mujer, mujer frunciendo el ceño, tono de piel oscuro
 🙅	brazos, cruzados, gesto, gesto de no, persona, persona haciendo el gesto de "no", prohibido
-🙅🏻	brazos, cruzados, gesto, gesto de no, persona, persona haciendo el gesto de "no", persona haciendo el gesto de "no": tono de piel claro, prohibido, tono de piel claro
-🙅🏼	brazos, cruzados, gesto, gesto de no, persona, persona haciendo el gesto de "no", persona haciendo el gesto de "no": tono de piel claro medio, prohibido, tono de piel claro medio
-🙅🏽	brazos, cruzados, gesto, gesto de no, persona, persona haciendo el gesto de "no", persona haciendo el gesto de "no": tono de piel medio, prohibido, tono de piel medio
-🙅🏾	brazos, cruzados, gesto, gesto de no, persona, persona haciendo el gesto de "no", persona haciendo el gesto de "no": tono de piel oscuro medio, prohibido, tono de piel oscuro medio
-🙅🏿	brazos, cruzados, gesto, gesto de no, persona, persona haciendo el gesto de "no", persona haciendo el gesto de "no": tono de piel oscuro, prohibido, tono de piel oscuro
+🙅🏻	brazos, cruzados, gesto, gesto de no, persona, persona haciendo el gesto de "no", prohibido, tono de piel claro
+🙅🏼	brazos, cruzados, gesto, gesto de no, persona, persona haciendo el gesto de "no", prohibido, tono de piel claro medio
+🙅🏽	brazos, cruzados, gesto, gesto de no, persona, persona haciendo el gesto de "no", prohibido, tono de piel medio
+🙅🏾	brazos, cruzados, gesto, gesto de no, persona, persona haciendo el gesto de "no", prohibido, tono de piel oscuro medio
+🙅🏿	brazos, cruzados, gesto, gesto de no, persona, persona haciendo el gesto de "no", prohibido, tono de piel oscuro
 🙆	bien, gesto, ok, persona gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo"
-🙆🏻	bien, gesto, ok, persona gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo": tono de piel claro, tono de piel claro
-🙆🏼	bien, gesto, ok, persona gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo": tono de piel claro medio, tono de piel claro medio
-🙆🏽	bien, gesto, ok, persona gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo": tono de piel medio, tono de piel medio
-🙆🏾	bien, gesto, ok, persona gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo": tono de piel oscuro medio, tono de piel oscuro medio
-🙆🏿	bien, gesto, ok, persona gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo": tono de piel oscuro, tono de piel oscuro
+🙆🏻	bien, gesto, ok, persona gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo", tono de piel claro
+🙆🏼	bien, gesto, ok, persona gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo", tono de piel claro medio
+🙆🏽	bien, gesto, ok, persona gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo", tono de piel medio
+🙆🏾	bien, gesto, ok, persona gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo", tono de piel oscuro medio
+🙆🏿	bien, gesto, ok, persona gesto de "de acuerdo", persona haciendo el gesto de "de acuerdo", tono de piel oscuro
 💁	información, mesa, persona, persona de mostrador de información, persona en mostrador de información
 💁🏻	información, mesa, persona, persona de mostrador de información, persona en mostrador de información, tono de piel claro
 💁🏼	información, mesa, persona, persona de mostrador de información, persona en mostrador de información, tono de piel claro medio
@@ -978,12 +969,12 @@ _	baja, bajo, guion, raya, subraya
 🥷🏽	luchador, ninja, oculto, silencioso, tono de piel medio
 🥷🏾	luchador, ninja, oculto, silencioso, tono de piel oscuro medio
 🥷🏿	luchador, ninja, oculto, silencioso, tono de piel oscuro
-👷	construcción, hombre, obrero, obrero de construcción, persona, persona obrera de construcción, profesional de la construcción, trabajador
-👷🏻	construcción, hombre, obrero, obrero de construcción, persona, persona obrera de construcción, persona obrera de construcción: tono de piel claro, profesional de la construcción, tono de piel claro, trabajador
-👷🏼	construcción, hombre, obrero, obrero de construcción, persona, persona obrera de construcción, persona obrera de construcción: tono de piel claro medio, profesional de la construcción, tono de piel claro medio, trabajador
-👷🏽	construcción, hombre, obrero, obrero de construcción, persona, persona obrera de construcción, persona obrera de construcción: tono de piel medio, profesional de la construcción, tono de piel medio, trabajador
-👷🏾	construcción, hombre, obrero, obrero de construcción, persona, persona obrera de construcción, persona obrera de construcción: tono de piel oscuro medio, profesional de la construcción, tono de piel oscuro medio, trabajador
-👷🏿	construcción, hombre, obrero, obrero de construcción, persona, persona obrera de construcción, persona obrera de construcción: tono de piel oscuro, profesional de la construcción, tono de piel oscuro, trabajador
+👷	casco, construcción, obrero, persona obrera de construcción, profesional de la construcción, trabajador
+👷🏻	casco, construcción, obrero, persona obrera de construcción, persona obrera de construcción: tono de piel claro, profesional de la construcción, tono de piel claro, trabajador
+👷🏼	casco, construcción, obrero, persona obrera de construcción, persona obrera de construcción: tono de piel claro medio, profesional de la construcción, tono de piel claro medio, trabajador
+👷🏽	casco, construcción, obrero, persona obrera de construcción, persona obrera de construcción: tono de piel medio, profesional de la construcción, tono de piel medio, trabajador
+👷🏾	casco, construcción, obrero, persona obrera de construcción, persona obrera de construcción: tono de piel oscuro medio, profesional de la construcción, tono de piel oscuro medio, trabajador
+👷🏿	casco, construcción, obrero, persona obrera de construcción, persona obrera de construcción: tono de piel oscuro, profesional de la construcción, tono de piel oscuro, trabajador
 👷‍♂	albañil, construcción, hombre, obrero, obrero de construcción, profesional de la construcción hombre, trabajador
 👷🏻‍♂	albañil, construcción, hombre, obrero, obrero de construcción, obrero de construcción: tono de piel claro, profesional de la construcción hombre, tono de piel claro, trabajador
 👷🏼‍♂	albañil, construcción, hombre, obrero, obrero de construcción, obrero de construcción: tono de piel claro medio, profesional de la construcción hombre, tono de piel claro medio, trabajador
@@ -1020,18 +1011,18 @@ _	baja, bajo, guion, raya, subraya
 👼🏽	bebé, cara, cara de ángel bebé, cuento de hadas, fantasía, tono de piel medio, ángel
 👼🏾	bebé, cara, cara de ángel bebé, cuento de hadas, fantasía, tono de piel oscuro medio, ángel
 👼🏿	bebé, cara, cara de ángel bebé, cuento de hadas, fantasía, tono de piel oscuro, ángel
-🎅	Navidad, Papá Noel, Santa Claus, claus, noel, papá, santa
-🎅🏻	Navidad, Papá Noel, Santa Claus, claus, noel, papá, santa, tono de piel claro
-🎅🏼	Navidad, Papá Noel, Santa Claus, claus, noel, papá, santa, tono de piel claro medio
-🎅🏽	Navidad, Papá Noel, Santa Claus, claus, noel, papá, santa, tono de piel medio
-🎅🏾	Navidad, Papá Noel, Santa Claus, claus, noel, papá, santa, tono de piel oscuro medio
-🎅🏿	Navidad, Papá Noel, Santa Claus, claus, noel, papá, santa, tono de piel oscuro
-🤶	Mamá Noel, Navidad, mamá, mamá noel, señora Claus
-🤶🏻	Mamá Noel, Navidad, mamá, mamá noel, señora Claus, tono de piel claro
-🤶🏼	Mamá Noel, Navidad, mamá, mamá noel, señora Claus, tono de piel claro medio
-🤶🏽	Mamá Noel, Navidad, mamá, mamá noel, señora Claus, tono de piel medio
-🤶🏾	Mamá Noel, Navidad, mamá, mamá noel, señora Claus, tono de piel oscuro medio
-🤶🏿	Mamá Noel, Navidad, mamá, mamá noel, señora Claus, tono de piel oscuro
+🎅	Navidad, claus, noel, papá, santa
+🎅🏻	Navidad, claus, noel, papá, santa, tono de piel claro
+🎅🏼	Navidad, claus, noel, papá, santa, tono de piel claro medio
+🎅🏽	Navidad, claus, noel, papá, santa, tono de piel medio
+🎅🏾	Navidad, claus, noel, papá, santa, tono de piel oscuro medio
+🎅🏿	Navidad, claus, noel, papá, santa, tono de piel oscuro
+🤶	Mamá Noel, Navidad, mamá, señora Claus
+🤶🏻	Mamá Noel, Navidad, mamá, señora Claus, tono de piel claro
+🤶🏼	Mamá Noel, Navidad, mamá, señora Claus, tono de piel claro medio
+🤶🏽	Mamá Noel, Navidad, mamá, señora Claus, tono de piel medio
+🤶🏾	Mamá Noel, Navidad, mamá, señora Claus, tono de piel oscuro medio
+🤶🏿	Mamá Noel, Navidad, mamá, señora Claus, tono de piel oscuro
 🧑‍🎄	Claus, Navidad, Santa Claus, papá noel
 🧑🏻‍🎄	Claus, Navidad, Santa Claus, papá noel, tono de piel claro
 🧑🏼‍🎄	Claus, Navidad, Santa Claus, papá noel, tono de piel claro medio
@@ -1131,18 +1122,42 @@ _	baja, bajo, guion, raya, subraya
 🧑🏽‍🦯	Persona con bastón blanco, Persona con bastón blanco: tono de piel medio, tono de piel medio
 🧑🏾‍🦯	Persona con bastón blanco, Persona con bastón blanco: tono de piel oscuro medio, tono de piel oscuro medio
 🧑🏿‍🦯	Persona con bastón blanco, Persona con bastón blanco: tono de piel oscuro, tono de piel oscuro
+🧑‍🦯‍➡	Persona con bastón blanco, Persona con bastón blanco hacia la derecha
+🧑🏻‍🦯‍➡	Persona con bastón blanco, Persona con bastón blanco hacia la derecha
+🧑🏼‍🦯‍➡	Persona con bastón blanco, Persona con bastón blanco hacia la derecha
+🧑🏽‍🦯‍➡	Persona con bastón blanco, Persona con bastón blanco hacia la derecha
+🧑🏾‍🦯‍➡	Persona con bastón blanco, Persona con bastón blanco hacia la derecha
+🧑🏿‍🦯‍➡	Persona con bastón blanco, Persona con bastón blanco hacia la derecha
 🧑‍🦽	persona en silla de ruedas manual
 🧑🏻‍🦽	persona en silla de ruedas manual, tono de piel claro
 🧑🏼‍🦽	persona en silla de ruedas manual, tono de piel claro medio
 🧑🏽‍🦽	persona en silla de ruedas manual, tono de piel medio
 🧑🏾‍🦽	persona en silla de ruedas manual, tono de piel oscuro medio
 🧑🏿‍🦽	persona en silla de ruedas manual, tono de piel oscuro
-💃	bailarina
-💃🏻	bailarina: tono de piel claro
-💃🏼	bailarina: tono de piel claro medio
-💃🏽	bailarina: tono de piel medio
-💃🏾	bailarina: tono de piel oscuro medio
-💃🏿	bailarina: tono de piel oscuro
+🧑‍🦽‍➡	persona en silla de ruedas manual
+🧑🏻‍🦽‍➡	persona en silla de ruedas manual
+🧑🏼‍🦽‍➡	persona en silla de ruedas manual
+🧑🏽‍🦽‍➡	persona en silla de ruedas manual
+🧑🏾‍🦽‍➡	persona en silla de ruedas manual
+🧑🏿‍🦽‍➡	persona en silla de ruedas manual
+🏃	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo
+🏃🏻	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo, tono de piel claro
+🏃🏼	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo, tono de piel claro medio
+🏃🏽	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo, tono de piel medio
+🏃🏾	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo, tono de piel oscuro medio
+🏃🏿	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo, tono de piel oscuro
+🏃‍➡	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo
+🏃🏻‍➡	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo
+🏃🏼‍➡	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo
+🏃🏽‍➡	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo
+🏃🏾‍➡	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo
+🏃🏿‍➡	carrera, corredor, correr, deporte, deportista, hombre corriendo, maratonista, maratón, persona, persona corriendo
+💃	bailar, bailarina, bailarín, baile, flamenca, flamenco, mujer, mujer bailando, persona, salsa
+💃🏻	bailar, bailarina, bailarina: tono de piel claro, bailarín, baile, flamenca, flamenco, mujer, mujer bailando, persona, salsa, tono de piel claro
+💃🏼	bailar, bailarina, bailarina: tono de piel claro medio, bailarín, baile, flamenca, flamenco, mujer, mujer bailando, persona, salsa, tono de piel claro medio
+💃🏽	bailar, bailarina, bailarina: tono de piel medio, bailarín, baile, flamenca, flamenco, mujer, mujer bailando, persona, salsa, tono de piel medio
+💃🏾	bailar, bailarina, bailarina: tono de piel oscuro medio, bailarín, baile, flamenca, flamenco, mujer, mujer bailando, persona, salsa, tono de piel oscuro medio
+💃🏿	bailar, bailarina, bailarina: tono de piel oscuro, bailarín, baile, flamenca, flamenco, mujer, mujer bailando, persona, salsa, tono de piel oscuro
 🕺	bailar, bailarín, baile, hombre, hombre bailando
 🕺🏻	bailar, bailarín, bailarín: tono de piel claro, baile, hombre, hombre bailando, tono de piel claro
 🕺🏼	bailar, bailarín, bailarín: tono de piel claro medio, baile, hombre, hombre bailando, tono de piel claro medio
@@ -1168,19 +1183,19 @@ _	baja, bajo, guion, raya, subraya
 🧖🏽‍♀	mujer en sauna, mujer en sauna: tono de piel medio, mujer en una sauna, sauna, tono de piel medio, vapor
 🧖🏾‍♀	mujer en sauna, mujer en sauna: tono de piel oscuro medio, mujer en una sauna, sauna, tono de piel oscuro medio, vapor
 🧖🏿‍♀	mujer en sauna, mujer en sauna: tono de piel oscuro, mujer en una sauna, sauna, tono de piel oscuro, vapor
-⛷️	deporte, esquiador, esquiar, esquí, nieve
+⛷️	deporte, esquiador, esquiar, esquí, nieve, persona esquiando
 🏌️	persona jugando al golf
-🏌🏻	persona jugando al golf, persona jugando al golf: tono de piel claro, tono de piel claro
-🏌🏼	persona jugando al golf, persona jugando al golf: tono de piel claro medio, tono de piel claro medio
-🏌🏽	persona jugando al golf, persona jugando al golf: tono de piel medio, tono de piel medio
-🏌🏾	persona jugando al golf, persona jugando al golf: tono de piel oscuro medio, tono de piel oscuro medio
-🏌🏿	persona jugando al golf, persona jugando al golf: tono de piel oscuro, tono de piel oscuro
+🏌🏻	persona jugando al golf, tono de piel claro
+🏌🏼	persona jugando al golf, tono de piel claro medio
+🏌🏽	persona jugando al golf, tono de piel medio
+🏌🏾	persona jugando al golf, tono de piel oscuro medio
+🏌🏿	persona jugando al golf, tono de piel oscuro
 🏄️	deporte, persona haciendo surf, surf, surfista
-🏄🏻	deporte, persona haciendo surf, persona haciendo surf: tono de piel claro, surf, surfista, tono de piel claro
-🏄🏼	deporte, persona haciendo surf, persona haciendo surf: tono de piel claro medio, surf, surfista, tono de piel claro medio
-🏄🏽	deporte, persona haciendo surf, persona haciendo surf: tono de piel medio, surf, surfista, tono de piel medio
-🏄🏾	deporte, persona haciendo surf, persona haciendo surf: tono de piel oscuro medio, surf, surfista, tono de piel oscuro medio
-🏄🏿	deporte, persona haciendo surf, persona haciendo surf: tono de piel oscuro, surf, surfista, tono de piel oscuro
+🏄🏻	deporte, persona haciendo surf, surf, surfista, tono de piel claro
+🏄🏼	deporte, persona haciendo surf, surf, surfista, tono de piel claro medio
+🏄🏽	deporte, persona haciendo surf, surf, surfista, tono de piel medio
+🏄🏾	deporte, persona haciendo surf, surf, surfista, tono de piel oscuro medio
+🏄🏿	deporte, persona haciendo surf, surf, surfista, tono de piel oscuro
 🚣‍♂	hombre remando
 🚣🏻‍♂	hombre remando, hombre remando: tono de piel claro, tono de piel claro
 🚣🏼‍♂	hombre remando, hombre remando: tono de piel claro medio, tono de piel claro medio
@@ -1247,6 +1262,12 @@ _	baja, bajo, guion, raya, subraya
 🤽🏽	deporte acuático, deportista, persona, persona jugando al waterpolo, tono de piel medio, waterpolo
 🤽🏾	deporte acuático, deportista, persona, persona jugando al waterpolo, tono de piel oscuro medio, waterpolo
 🤽🏿	deporte acuático, deportista, persona, persona jugando al waterpolo, tono de piel oscuro, waterpolo
+🤾	atlético, balonmano, balón, deporte, handball, lanzamiento, mano, pelota, persona, persona jugando handball
+🤾🏻	atlético, balonmano, balón, deporte, handball, lanzamiento, mano, pelota, persona, persona jugando handball, tono de piel claro
+🤾🏼	atlético, balonmano, balón, deporte, handball, lanzamiento, mano, pelota, persona, persona jugando handball, tono de piel claro medio
+🤾🏽	atlético, balonmano, balón, deporte, handball, lanzamiento, mano, pelota, persona, persona jugando handball, tono de piel medio
+🤾🏾	atlético, balonmano, balón, deporte, handball, lanzamiento, mano, pelota, persona, persona jugando handball, tono de piel oscuro medio
+🤾🏿	atlético, balonmano, balón, deporte, handball, lanzamiento, mano, pelota, persona, persona jugando handball, tono de piel oscuro
 🤹	malabarista
 🤹🏻	malabarista, malabarista: tono de piel claro, tono de piel claro
 🤹🏼	malabarista, malabarista: tono de piel claro medio, tono de piel claro medio
@@ -1259,6 +1280,12 @@ _	baja, bajo, guion, raya, subraya
 🛀🏽	persona en tina, persona en tina: tono de piel medio, tono de piel medio
 🛀🏾	persona en tina, persona en tina: tono de piel oscuro medio, tono de piel oscuro medio
 🛀🏿	persona en tina, persona en tina: tono de piel oscuro, tono de piel oscuro
+🛌	a dormir, buenas noches, cama, cansancio, descansar, dormir, hotel, noche, persona, persona durmiendo
+🛌🏻	a dormir, buenas noches, cama, cansancio, descansar, dormir, hotel, noche, persona, persona durmiendo, tono de piel claro
+🛌🏼	a dormir, buenas noches, cama, cansancio, descansar, dormir, hotel, noche, persona, persona durmiendo, tono de piel claro medio
+🛌🏽	a dormir, buenas noches, cama, cansancio, descansar, dormir, hotel, noche, persona, persona durmiendo, tono de piel medio
+🛌🏾	a dormir, buenas noches, cama, cansancio, descansar, dormir, hotel, noche, persona, persona durmiendo, tono de piel oscuro medio
+🛌🏿	a dormir, buenas noches, cama, cansancio, descansar, dormir, hotel, noche, persona, persona durmiendo, tono de piel oscuro
 👭	amor, gemelas, mujeres, mujeres de la mano, pareja
 👭🏻	amor, gemelas, mujeres, mujeres de la mano, pareja, tono de piel claro
 👩🏻‍🤝‍👩🏼	amor, gemelas, mujeres, mujeres de la mano, pareja, tono de piel claro, tono de piel claro medio
@@ -1329,7 +1356,6 @@ _	baja, bajo, guion, raya, subraya
 👩‍❤‍👨	hombre, hombre y mujer enamorados, hombre y mujer enamorados: mujer y hombre, mujer
 👨‍❤‍👨	hombre, hombre y mujer enamorados, hombre y mujer enamorados: hombre y hombre
 👩‍❤‍👩	hombre y mujer enamorados, hombre y mujer enamorados: mujer y mujer, mujer
-👪️	familia, hija, hijo, madre, padre
 👨‍👩‍👦	familia, hija, hijo, hombre, madre, mujer, niño, padre
 👨‍👩‍👧	familia, hija, hijo, hombre, madre, mujer, niña, padre
 👨‍👩‍👧‍👦	familia, hija, hijo, hombre, madre, mujer, niña, niño, padre
@@ -1355,6 +1381,7 @@ _	baja, bajo, guion, raya, subraya
 👩‍👧	familia, hija, hijo, madre, mujer, niña, padre
 👩‍👧‍👦	familia, hija, hijo, madre, mujer, niña, niño, padre
 👩‍👧‍👧	familia, hija, hijo, madre, mujer, niña, padre
+👪️	familia, hija, hijo, madre, padre
 👣	cuerpo, huellas de pies, pie, pisada
 🦲	calvo, quimioterapia, rapado, sin cabello, sin pelo
 🦍	cara, gorila
@@ -1380,16 +1407,14 @@ _	baja, bajo, guion, raya, subraya
 🦙	alpaca, camélido, guanaco, lana, llama, vicuña
 🐘	animal, elefante
 🦣	mamut
-🦛	animal, hipopótamo
 🐁	animal, ratón
 🐀	animal, rata
 🐰	cara, cara de conejo, conejo
 🐇	animal, conejo
-🐿️	ardilla
 🦫	castor
 🦔	erizo
 🦨	zorrillo
-🦘	Australia, canguro, marsupial, saltar
+🦘	canguro, marsupial, saltar
 🦡	tejón, tejón de la miel
 🐔	gallina
 🐓	animal, ave, gallo
@@ -1401,10 +1426,13 @@ _	baja, bajo, guion, raya, subraya
 🪶	pluma
 🦚	ave, orgullo, ostentación, pavo, pavo real
 🦜	animal, ave, cotorro, hablar, loro, perico
+🐦‍⬛	ave negra
+🐦‍🔥	fénix
 🐊	animal, cocodrilo, lagarto, reptil
 🐢	animal, reptil, tortuga
 🐍	animal, reptil, serpiente, víbora
 🐲	animal, cara de dragón, cuento, dragón, fantasía
+🐉	animal, cuento, dragón, fantasía
 🐋	animal, ballena
 🐬	animal, delfín
 🦭	foca
@@ -1424,6 +1452,7 @@ _	baja, bajo, guion, raya, subraya
 🪰	mosca
 🪱	gusano
 🦠	ameba, amiba, bacteria, microbio, virus
+🪷	budismo, flor, hinduismo, loto, lotus, pureza
 🌹	amor, flor, planta, rosa
 🌻	flor, girasol, planta
 🌼	flor, florecer
@@ -1431,9 +1460,11 @@ _	baja, bajo, guion, raya, subraya
 🌴	cocos, palmera, árbol
 🍀	cuatro, hojas, suerte, trébol, trébol de cuatro hojas
 🍁	arce, hoja, hoja de arce, maple
+🪾	invierno, sequía, árbol sin hojas, árido
 🍈	fruta, melón, planta
 🍉	fruta, planta, sandía
 🍊	cítrico, fruta, mandarina
+🍋‍🟩	lima
 🍌	plátano
 🍍	piña
 🥭	fruta, mango, árbol
@@ -1448,6 +1479,8 @@ _	baja, bajo, guion, raya, subraya
 🥬	col, kale, lechuga, repollo chino, verdura de hoja
 🥜	cacahuate
 🌰	castaña, comida, fruto seco, planta
+🍄‍🟫	hongo marrón
+🫜	huerto, nabo, raíz, remolacha, vegetal de raíz, verdura
 🍞	barra de pan, comida, pan
 🥐	comida, croissant, cuernito, medialuna, pan
 🥖	baguette, comida, pan francés
@@ -1458,6 +1491,7 @@ _	baja, bajo, guion, raya, subraya
 🍗	comida, pata, pata de pollo, pollo
 🍔	comida, hamburguesa
 🍟	comida, papas fritas
+🍕	comer, comida, hambre, italia, peperoni, pizza, porción, porción de pizza, queso, restaurante
 🌭	perro caliente
 🥪	sándwich
 🌮	comida, comida mexicana, taco, tacos, taquitos
@@ -1572,7 +1606,8 @@ _	baja, bajo, guion, raya, subraya
 ⛅️	nubes, nublado, parcialmente nublado, sol, tiempo
 ☃️	invierno, muñeco, muñeco de nieve nevado, nieve
 🎄	Navidad, celebración, árbol, árbol de Navidad
-✨	*, bengala, chispas, estrellas, estrellas centelleantes
+🧨	boom, chispa, dinamita, explosivo, explosión, fuego, fuegos artificiales, juegos pirotécnicos, luz, petardo
+✨️	*, bengala, chispas, estrellas, estrellas centelleantes
 🎏	bandera, banderín, banderín con forma de carpa, celebración, festejo, japonés, koinobori
 🎐	campanilla, campanilla de viento, fuurin, viento
 🎑	ceremonia de contemplación de la luna
@@ -1602,6 +1637,7 @@ _	baja, bajo, guion, raya, subraya
 🎲	dado, juego de azar
 🧸	felpa, juguete, oso, oso de peluche, relleno
 🪆	muñecas rusas
+♣️	carta, cartas, casino, juego, juegos, naipes, palo, palo de trébol, palos, trébol
 ♟️	ajedrez, peón, peón (ajedrez), peón de ajedrez
 🎨	arte, artista, paleta, paleta de pinturas, pintor
 🧵	aguja, bobina, carrete, cordel, coser, hilo
@@ -1618,7 +1654,6 @@ _	baja, bajo, guion, raya, subraya
 🧤	guantes, mano, vestimenta
 🧥	abrigo, chamarra, vestimenta
 🧦	calcetines, pies, ropa, vestimenta
-🥻	India, prenda, ropa, sari, vestido
 🩱	traje de baño, traje de baño de una pieza
 🩲	calzoncillos, ropa interior, slip, traje de baño
 🩳	shorts
@@ -1652,6 +1687,7 @@ _	baja, bajo, guion, raya, subraya
 🎻	instrumento, música, violín
 🥁	baquetas, música, palitos, tambor
 🪘	tamboril
+🪉	amor, arpa, cupido, instrumento, música, orquesta
 📲	flecha apuntado a teléfono celular
 ☎️	teléfono fijo
 📟️	bíper
@@ -1684,8 +1720,10 @@ _	baja, bajo, guion, raya, subraya
 🪛	destornillador
 🗜️	abrazadera
 🦯	accesibilidad, bastón, ceguera, invidente
+⛓‍💥	cadena rota, rompiendo cadena
 🪝	gancho
 🧰	caja de herramientas, cofre, herramienta, mecánico
+🪏	agujero, cavar, pala
 🧫	bacteria, biología, biólogo, laboratorio, microbio, placa de Petri
 🧬	ADN, biólogo, evolución, gen, genética, vida
 🔭	instrumento, microscopio, observatorio, telescopio
@@ -1703,7 +1741,6 @@ _	baja, bajo, guion, raya, subraya
 🪒	navaja de afeitar
 🧴	botella de loción, champú, humectante, loción, protector solar
 🧷	broche, broche de seguridad, pañal
-🧹	barrer, bruja, escoba, limpiar
 🧺	campesino, canasta, lavar la ropa, picnic
 🧻	papel higiénico, rollo de papel, toallas de papel
 🪣	balde
@@ -1718,7 +1755,7 @@ _	baja, bajo, guion, raya, subraya
 🪧	cartel
 🏧	atm, banco, cajero, cajero automático, cartel de cajero automático, señal de cajero automático
 ♿️	acceso, acceso para silla de ruedas, señal, señal de acceso para silla de ruedas, silla de ruedas
-🚹️	aseo de caballeros, aseo para hombres, baño, servicio, señal, señal con un hombre, señal del baño de los hombres, símbolo de hombre
+🚹️	aseo de caballeros, aseo para hombres, baño, servicio, señal, señal con un hombre, señal del baño de los hombres
 🚺️	señal del baño de las mujeres
 🚼️	bebé, cambiador, señal, señal de bebé
 🚫	no, pasar, prohibido, señal, señal de prohibición
@@ -1733,9 +1770,9 @@ _	baja, bajo, guion, raya, subraya
 🔅	reducir brillo
 🔆	aumentar brillo
 ✖️	signo de multiplicación
-➕	+, más, signo, signo de suma, suma
-➖	-, menos, resta, signo, signo de resta, −
-➗	signo de división
+➕️	+, más, signo, signo de suma, suma
+➖️	-, menos, resta, signo, signo de resta, −
+➗️	signo de división
 🟰	matemáticas, signo igual
 ♾️	eterno, ilimitado, infinito, universal
 💲	dinero, divisa, dólar, símbolo, símbolo de dólar
@@ -1745,11 +1782,12 @@ _	baja, bajo, guion, raya, subraya
 🔰	bandera, hoja, japonés, principiante, símbolo japonés de principiante
 ☑️	casilla, casilla seleccionada, marca, selección, verificación, ✓
 ✔️	marca, marca de verificación, selección, verificación, ✓
-❌	cancelar, cruz, marca de cruz, marca de tachado, tachar, tache, ×
-❇️	chispa
+❌️	cancelar, cruz, marca de cruz, marca de tachado, tachar, tache, ×
+❎️	X, X en un recuadro, botón con marca de cruz, casilla, cruz con recuadro, equis, marca de tachar, verde, x, ×
 ©️	autor, copyright, derechos, signo de derechos autor, símbolo de derechos de autor
 ®️	marca, registrada, signo de marca registrada, símbolo de marca registrada
 ™️	marca registrada
+🫟	derrame, holi, mancha, pintura, salpicadura
 #⃣	tecla, tecla: #
 *⃣	tecla, tecla: *
 0⃣	tecla, tecla: 0
@@ -1780,17 +1818,9 @@ _	baja, bajo, guion, raya, subraya
 🇧🇦	bandera: Bosnia y Herzegovina
 🇨🇮	bandera: Côte d’Ivoire
 🇬🇬	bandera: Guernsey
-🇷🇴	bandera: Rumania
-🇸🇦	bandera: Arabia Saudita
 🇸🇿	bandera: Eswatini
-🇹🇦	bandera: Tristán de Acuña
 🇺🇲	bandera: Islas menores alejadas de EE. UU.
-🇺🇳	bandera: ONU
-৳	taka bangladesí
 ฿	baht tailandés
-៛	riel camboyano
 ₥	mil
 ₩	won
-₫	dong vietnamita
-₭	kip laosiano
 ₿	BTC, bitcoin

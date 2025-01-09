@@ -1,6 +1,10 @@
+_	dash, line, low dash, underdash, underline, underscore
 ،	Arabic, Arabic comma, comma
 ؛	Arabic, Arabic semicolon, semi-colon
 ؟	Arabic, Arabic question mark, question, question mark
+.	full stop
+。	full stop, ideographic, ideographic full stop, period
+'	apostrophe, quote, single quote, straight apostrophe, typewriter apostrophe
 ‘	apostrophe, curly quote, left apostrophe, quote, single quote, smart quote
 ’	apostrophe, curly quote, quote, right apostrophe, single quote, smart quote
 “	curly quotes, double quote, left quotation mark, quotation, quote, smart quotation
@@ -10,21 +14,71 @@
 ]	bracket, close square bracket, crotchet, right square bracket, square bracket
 {	brace, bracket, curly brace, curly bracket, gullwing, left curly bracket, open curly bracket
 }	brace, bracket, close curly bracket, curly brace, curly bracket, gullwing, right curly bracket
-〈	angle bracket, bracket, chevron, diamond brackets, left angle bracket, pointy bracket, tuple
-〉	angle bracket, bracket, chevron, diamond brackets, pointy bracket, right angle bracket, tuple
-《	bracket, double angle bracket, left double angle bracket
-》	bracket, double angle bracket, right double angle bracket
-「	bracket, corner bracket, left corner bracket
-」	bracket, corner bracket, right corner bracket
-『	bracket, hollow corner bracket, left hollow corner bracket
-』	bracket, hollow corner bracket, right hollow corner bracket
-【	bracket, left black lenticular bracket, lens bracket, lenticular bracket
-】	bracket, lens bracket, lenticular bracket, right black lenticular bracket
+〈	angle bracket, chevron, diamond bracket, left angle bracket, open angle bracket, pointy bracket, tuple
+〉	angle bracket, chevron, close angle bracket, diamond bracket, pointy bracket, right angle bracket, tuple
+《	bracket, double angle bracket, left double angle bracket, open double angle bracket
+》	bracket, close double angle bracket, double angle bracket, right double angle bracket
+「	bracket, corner bracket, left corner bracket, open corner bracket
+」	bracket, close corner bracket, corner bracket, right corner bracket
+『	bracket, hollow corner bracket, left hollow corner bracket, open hollow corner bracket
+』	bracket, close hollow corner bracket, hollow corner bracket, right hollow corner bracket
+【	bracket, left black lenticular bracket, lens bracket, lenticular bracket, open black lenticular bracket
+】	bracket, close black lenticular bracket, lens bracket, lenticular bracket, right black lenticular bracket
 〔	bracket, left tortoise shell bracket, open tortoise shell bracket, shell bracket, tortoise shell bracket
 〕	bracket, close tortoise shell bracket, right tortoise shell bracket, shell bracket, tortoise shell bracket
-〖	bracket, hollow lens bracket, hollow lenticular bracket, left hollow lenticular bracket
-〗	bracket, hollow lens bracket, hollow lenticular bracket, right hollow lenticular bracket
-↹	leftwards arrow to bar over rightwards arrow to bar
+〖	bracket, hollow lens bracket, hollow lenticular bracket, left hollow lenticular bracket, open hollow lenticular bracket
+〗	bracket, close hollow lenticular bracket, hollow lens bracket, hollow lenticular bracket, right hollow lenticular bracket
+@	ampersat, arobase, arroba, at mark, at sign, commercial at, strudel
+%	per cent
+‰	per mil, per mill, per mille, permil, permille
+†	dagger, dagger sign, dagger symbol, obelisk, obelus
+‡	dagger, double, double dagger sign, double dagger symbol, obelisk, obelus
+^	accent, caret, chevron, circumflex, hat, power, wedge
+↚	leftwards arrow with stroke
+↛	rightwards arrow with stroke
+↞	leftwards two-headed arrow
+↟	upwards two-headed arrow
+↠	rightwards two-headed arrow
+↡	downwards two-headed arrow
+↢	leftwards arrow with tail
+↣	rightwards arrow with tail
+↨	up-down arrow with base
+↫	leftwards arrow with loop
+↬	rightwards arrow with loop
+↭	left-right wave arrow
+↰	upwards arrow with leftwards tip
+↱	upwards arrow with rightwards tip
+↲	downwards arrow with leftwards tip
+↳	downwards arrow with rightwards tip
+↴	rightwards arrow with downwards corner
+↵	downwards arrow with leftwards corner
+↶	anticlockwise top-semicircle arrow
+↷	clockwise top-semicircle arrow
+↸	north-west arrow to long bar
+↹	leftwards over rightwards arrow bars
+↺	anticlockwise open-circle arrow
+↻	clockwise open-circle arrow
+↼	leftwards harpoon with upwards barb
+↽	leftwards harpoon with downwards barb
+↾	upwards harpoon with rightwards barb
+↿	upwards harpoon with leftwards barb
+⇀	rightwards harpoon with upwards barb
+⇁	rightwards harpoon with downwards barb
+⇂	downwards harpoon with rightwards barb
+⇃	downwards harpoon with leftwards barb
+⇍	leftwards double arrow with stroke
+⇏	rightwards double arrow with stroke
+⇔	left-right double arrow
+⇎	left-right double arrow with stroke
+⇖	north-west double arrow
+⇗	north-east double arrow
+⇘	south-east double arrow
+⇙	south-west double arrow
+⇞	upwards arrow with double stroke
+⇟	downwards arrow with double stroke
+⇤	leftwards arrow bar, leftwards arrow to bar
+⇥	rightwards arrow bar, rightwards arrow to bar
+⇵	downwards and upwards arrows
 ∂	differential, partial derivative, partial differential
 ∃	existential, mathematics, quantifier, there exists
 ∅	empty set, mathematics, null set, null sign, set operator
@@ -73,7 +127,7 @@
 ▭	hollow rectangle, white rectangle
 ▮	black vertical rectangle, filled vertical rectangle
 ▰	black parallelogram, filled parallelogram
-▲	arrow, black up-pointing triangle, triangle, up
+▲	arrow, black up-pointing triangle, filled up-pointing triangle, triangle, up
 △	hollow up-pointing triangle, white up-pointing triangle
 ▴	black up-pointing small triangle, filled up-pointing small triangle
 ▵	hollow up-pointing small triangle, white up-pointing small triangle
@@ -82,7 +136,7 @@
 ▹	hollow right-pointing small triangle, white right-pointing small triangle
 ►	black right-pointing pointer, filled right-pointing pointer
 ▻	hollow right-pointing pointer, white right-pointing pointer
-▼	arrow, black down-pointing triangle, down, triangle
+▼	arrow, black down-pointing triangle, down, filled down-pointing triangle, triangle
 ▽	hollow down-pointing triangle, white down-pointing triangle
 ▾	black down-pointing small triangle, filled down-pointing small triangle
 ▿	hollow down-pointing small triangle, white down-pointing small triangle
@@ -97,11 +151,15 @@
 ◉	circled dot, concentric circles filled, fisheye, hollow circle containing filled circle, white circle containing black small circle
 ○	circle, hollow circle, ring, white circle
 ●	black circle, circle, filled circle
+◐	circle with left half filled
+◑	circle with right half filled
+◒	circle with lower half filled
+◓	circle with upper half filled
 ◔	circle with upper-right quadrant filled
 ◕	circle with all but upper-left quadrant filled
 ◖	left half black circle, left half filled circle
 ◗	right half black circle, right half filled circle
-◙	black square containing hollow circle, inverse hollow circle
+◙	black square containing hollow circle, filled square containing hollow circle, inverse hollow circle
 ◜	upper-left quadrant circular arc
 ◝	upper-right quadrant circular arc
 ◞	lower-right quadrant circular arc
@@ -114,6 +172,7 @@
 ◳	hollow square with upper-right quadrant, white square with upper-right quadrant
 ◷	hollow circle with upper-right quadrant, white circle with upper-right quadrant
 ◿	lower-right triangle, white
+♪	eighth, music, note, quaver
 ⨧	plus sign with subscript two
 ⨯	vector or cross product
 ⨼	interior product, mathematics
@@ -121,22 +180,377 @@
 ⩽	inequality, less-than or slanted equal to, mathematics
 ⪍	less-than above similar or equal
 ⪚	double-line equal to or greater-than, inequality, mathematics
-😷	cold, doctor, ill, mask, medicine, poorly, sick
-😵‍💫	dizzy, face with spiral eyes, hypnotised, spiral, trouble, whoa
-🫤	disappointed, meh, sceptical, unsure
-😤	angry, face, face with steam from nose, frustration, triumph, won
-🙌	celebration, gesture, hand, hooray, woo hoo, yay
-🙌🏻	celebration, gesture, hand, hooray, light skin tone, woo hoo, yay
-🙌🏼	celebration, gesture, hand, hooray, medium-light skin tone, woo hoo, yay
-🙌🏽	celebration, gesture, hand, hooray, medium skin tone, woo hoo, yay
-🙌🏾	celebration, gesture, hand, hooray, medium-dark skin tone, woo hoo, yay
-🙌🏿	celebration, dark skin tone, gesture, hand, hooray, woo hoo, yay
-🙏	ask, hand, high 5, high five, please, pray, thanks
-🙏🏻	ask, hand, high 5, high five, light skin tone, please, pray, thanks
-🙏🏼	ask, hand, high 5, high five, medium-light skin tone, please, pray, thanks
-🙏🏽	ask, hand, high 5, high five, medium skin tone, please, pray, thanks
-🙏🏾	ask, hand, high 5, high five, medium-dark skin tone, please, pray, thanks
-🙏🏿	ask, dark skin tone, hand, high 5, high five, please, pray, thanks
+😘	adorbs, bae, blowing, face, flirt, heart, ily, kiss, love, lover, miss, muah, mwah, romantic, smooch, xoxo, you
+😋	delicious, face, face savouring food, savouring, smile, yum
+🤭	embarrassed, face, giggle, giggling, hand, mouth, oops, realisation, secret, shock, sudden, surprise, whoops
+🤐	face, keep, mouth, quiet, secret, shut, zip, zip-mouth face
+🤨	disapproval, disbelief, distrust, emoji, eyebrow, face, hmm, mild, raised, sceptic, sceptical, scepticism, surprise, what
+😶‍🌫	absent-minded, face in clouds, face in the fog, head in clouds
+😷	cold, dentist, dermatologist, doctor, dr, face, germs, mask, medical, medicine, poorly, sick
+😵‍💫	confused, dizzy, eyes, face, hypnotised, omg, smiley, spiral, trouble, whoa, woah, woozy
+🫤	disappointed, face with diagonal mouth, meh, sceptical, unsure
+😮	believe, face, forgot, mouth, omg, open, shocked, surprised, sympathy, unbelievable, unreal, whoa, woah, wow, you
+😤	anger, angry, face, feels, frustration, fume, fuming, furious, fury, mad, nose, steam, triumph, unhappy, won
+🙈	embarrassed, evil, face, forbidden, forgot, gesture, hide, monkey, no, omg, prohibited, scared, secret, see, smh, watch
+💗	143, emotion, excited, growing, heart, heartpulse, ily, kisses, muah, mwah, nervous, pulse, xoxo
+🩶	grey, heart, silver, slate
+💬	balloon, bubble, comic, dialogue, message, sms, speech, talk, text, typing
+🗨️	balloon, bubble, dialogue, left speech bubble, speech
+💭	balloon, bubble, cartoon, cloud, comic, daydream, decisions, dream, idea, invent, invention, realise, think, thoughts, wonder
+🙌	celebration, gesture, hand, hooray, raising hands, woo hoo, yay
+🙌🏻	celebration, gesture, hand, hooray, light skin tone, raising hands, woo hoo, yay
+🙌🏼	celebration, gesture, hand, hooray, medium-light skin tone, raising hands, woo hoo, yay
+🙌🏽	celebration, gesture, hand, hooray, medium skin tone, raising hands, woo hoo, yay
+🙌🏾	celebration, gesture, hand, hooray, medium-dark skin tone, raising hands, woo hoo, yay
+🙌🏿	celebration, dark skin tone, gesture, hand, hooray, raising hands, woo hoo, yay
+👃	body, nose, noses, nosey, odour, smell, smells
+👃🏻	body, light skin tone, nose, noses, nosey, odour, smell, smells
+👃🏼	body, medium-light skin tone, nose, noses, nosey, odour, smell, smells
+👃🏽	body, medium skin tone, nose, noses, nosey, odour, smell, smells
+👃🏾	body, medium-dark skin tone, nose, noses, nosey, odour, smell, smells
+👃🏿	body, dark skin tone, nose, noses, nosey, odour, smell, smells
+🫀	anatomical, beat, cardiology, heart, heartbeat, organ, pulse, red
+🧑🏻‍❤‍💋‍🧑🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏻‍❤‍💋‍🧑🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏻‍❤‍💋‍🧑🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏻‍❤‍💋‍🧑🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, light skin tone, love, muah, mwah, person, romance, together, xoxo
+🧑🏼‍❤‍💋‍🧑🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏼‍❤‍💋‍🧑🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium skin tone, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏼‍❤‍💋‍🧑🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium-dark skin tone, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏼‍❤‍💋‍🧑🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏽‍❤‍💋‍🧑🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏽‍❤‍💋‍🧑🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium skin tone, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏽‍❤‍💋‍🧑🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium skin tone, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏽‍❤‍💋‍🧑🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏾‍❤‍💋‍🧑🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏾‍❤‍💋‍🧑🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium-dark skin tone, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏾‍❤‍💋‍🧑🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium skin tone, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏾‍❤‍💋‍🧑🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏿‍❤‍💋‍🧑🏻	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, light skin tone, love, muah, mwah, person, romance, together, xoxo
+🧑🏿‍❤‍💋‍🧑🏼	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏿‍❤‍💋‍🧑🏽	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium skin tone, muah, mwah, person, romance, together, xoxo
+🧑🏿‍❤‍💋‍🧑🏾	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+👨🏻‍❤‍💋‍👨🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, muah, mwah, person, romance, together, xoxo
+👨🏻‍❤‍💋‍👨🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+👨🏻‍❤‍💋‍👨🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium skin tone, muah, mwah, person, romance, together, xoxo
+👨🏻‍❤‍💋‍👨🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+👨🏻‍❤‍💋‍👨🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, light skin tone, love, man, muah, mwah, person, romance, together, xoxo
+👨🏼‍❤‍💋‍👨🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+👨🏼‍❤‍💋‍👨🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+👨🏼‍❤‍💋‍👨🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium skin tone, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+👨🏼‍❤‍💋‍👨🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium-dark skin tone, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+👨🏼‍❤‍💋‍👨🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+👨🏽‍❤‍💋‍👨🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium skin tone, muah, mwah, person, romance, together, xoxo
+👨🏽‍❤‍💋‍👨🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium skin tone, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+👨🏽‍❤‍💋‍👨🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium skin tone, muah, mwah, person, romance, together, xoxo
+👨🏽‍❤‍💋‍👨🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium skin tone, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+👨🏽‍❤‍💋‍👨🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium skin tone, muah, mwah, person, romance, together, xoxo
+👨🏾‍❤‍💋‍👨🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+👨🏾‍❤‍💋‍👨🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium-dark skin tone, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+👨🏾‍❤‍💋‍👨🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium skin tone, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+👨🏾‍❤‍💋‍👨🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+👨🏾‍❤‍💋‍👨🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+👨🏿‍❤‍💋‍👨🏻	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, light skin tone, love, man, muah, mwah, person, romance, together, xoxo
+👨🏿‍❤‍💋‍👨🏼	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+👨🏿‍❤‍💋‍👨🏽	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium skin tone, muah, mwah, person, romance, together, xoxo
+👨🏿‍❤‍💋‍👨🏾	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+👨🏿‍❤‍💋‍👨🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, muah, mwah, person, romance, together, xoxo
+👩🏻‍❤‍💋‍👨🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, muah, mwah, person, romance, together, woman, xoxo
+👩🏻‍❤‍💋‍👨🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏻‍❤‍💋‍👨🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏻‍❤‍💋‍👨🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏻‍❤‍💋‍👨🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, light skin tone, love, man, muah, mwah, person, romance, together, woman, xoxo
+👩🏼‍❤‍💋‍👨🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏼‍❤‍💋‍👨🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏼‍❤‍💋‍👨🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium skin tone, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏼‍❤‍💋‍👨🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium-dark skin tone, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏼‍❤‍💋‍👨🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏽‍❤‍💋‍👨🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏽‍❤‍💋‍👨🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium skin tone, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏽‍❤‍💋‍👨🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏽‍❤‍💋‍👨🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium skin tone, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏽‍❤‍💋‍👨🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏾‍❤‍💋‍👨🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, man, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏾‍❤‍💋‍👨🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium-dark skin tone, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏾‍❤‍💋‍👨🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium skin tone, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏾‍❤‍💋‍👨🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏾‍❤‍💋‍👨🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏿‍❤‍💋‍👨🏻	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, light skin tone, love, man, muah, mwah, person, romance, together, woman, xoxo
+👩🏿‍❤‍💋‍👨🏼	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏿‍❤‍💋‍👨🏽	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏿‍❤‍💋‍👨🏾	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏿‍❤‍💋‍👨🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, man, muah, mwah, person, romance, together, woman, xoxo
+👩🏻‍❤‍💋‍👩🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, muah, mwah, person, romance, together, woman, xoxo
+👩🏻‍❤‍💋‍👩🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏻‍❤‍💋‍👩🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏻‍❤‍💋‍👩🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏻‍❤‍💋‍👩🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, light skin tone, love, muah, mwah, person, romance, together, woman, xoxo
+👩🏼‍❤‍💋‍👩🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏼‍❤‍💋‍👩🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏼‍❤‍💋‍👩🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium skin tone, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏼‍❤‍💋‍👩🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium-dark skin tone, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏼‍❤‍💋‍👩🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏽‍❤‍💋‍👩🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏽‍❤‍💋‍👩🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium skin tone, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏽‍❤‍💋‍👩🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏽‍❤‍💋‍👩🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium skin tone, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏽‍❤‍💋‍👩🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏾‍❤‍💋‍👩🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏾‍❤‍💋‍👩🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium-dark skin tone, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏾‍❤‍💋‍👩🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium skin tone, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏾‍❤‍💋‍👩🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏾‍❤‍💋‍👩🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏿‍❤‍💋‍👩🏻	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, light skin tone, love, muah, mwah, person, romance, together, woman, xoxo
+👩🏿‍❤‍💋‍👩🏼	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium-light skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏿‍❤‍💋‍👩🏽	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏿‍❤‍💋‍👩🏾	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, medium-dark skin tone, muah, mwah, person, romance, together, woman, xoxo
+👩🏿‍❤‍💋‍👩🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, muah, mwah, person, romance, together, woman, xoxo
+🙇	apology, ask, beg, bow, bowing, favour, forgive, gesture, meditate, meditation, person, pity, regret, sorry
+🙇🏻	apology, ask, beg, bow, bowing, favour, forgive, gesture, light skin tone, meditate, meditation, person, pity, regret, sorry
+🙇🏼	apology, ask, beg, bow, bowing, favour, forgive, gesture, meditate, meditation, medium-light skin tone, person, pity, regret, sorry
+🙇🏽	apology, ask, beg, bow, bowing, favour, forgive, gesture, meditate, meditation, medium skin tone, person, pity, regret, sorry
+🙇🏾	apology, ask, beg, bow, bowing, favour, forgive, gesture, meditate, meditation, medium-dark skin tone, person, pity, regret, sorry
+🙇🏿	apology, ask, beg, bow, bowing, dark skin tone, favour, forgive, gesture, meditate, meditation, person, pity, regret, sorry
+🙇‍♂	apology, ask, beg, bow, bowing, favour, forgive, gesture, man, meditate, meditation, pity, regret, sorry
+🙇🏻‍♂	apology, ask, beg, bow, bowing, favour, forgive, gesture, light skin tone, man, meditate, meditation, pity, regret, sorry
+🙇🏼‍♂	apology, ask, beg, bow, bowing, favour, forgive, gesture, man, meditate, meditation, medium-light skin tone, pity, regret, sorry
+🙇🏽‍♂	apology, ask, beg, bow, bowing, favour, forgive, gesture, man, meditate, meditation, medium skin tone, pity, regret, sorry
+🙇🏾‍♂	apology, ask, beg, bow, bowing, favour, forgive, gesture, man, meditate, meditation, medium-dark skin tone, pity, regret, sorry
+🙇🏿‍♂	apology, ask, beg, bow, bowing, dark skin tone, favour, forgive, gesture, man, meditate, meditation, pity, regret, sorry
+🙇‍♀	apology, ask, beg, bow, bowing, favour, forgive, gesture, meditate, meditation, pity, regret, sorry, woman
+🙇🏻‍♀	apology, ask, beg, bow, bowing, favour, forgive, gesture, light skin tone, meditate, meditation, pity, regret, sorry, woman
+🙇🏼‍♀	apology, ask, beg, bow, bowing, favour, forgive, gesture, meditate, meditation, medium-light skin tone, pity, regret, sorry, woman
+🙇🏽‍♀	apology, ask, beg, bow, bowing, favour, forgive, gesture, meditate, meditation, medium skin tone, pity, regret, sorry, woman
+🙇🏾‍♀	apology, ask, beg, bow, bowing, favour, forgive, gesture, meditate, meditation, medium-dark skin tone, pity, regret, sorry, woman
+🙇🏿‍♀	apology, ask, beg, bow, bowing, dark skin tone, favour, forgive, gesture, meditate, meditation, pity, regret, sorry, woman
+🧑‍⚖	judge, law
+🧑🏻‍⚖	judge, law, light skin tone
+🧑🏼‍⚖	judge, law, medium-light skin tone
+🧑🏽‍⚖	judge, law, medium skin tone
+🧑🏾‍⚖	judge, law, medium-dark skin tone
+🧑🏿‍⚖	dark skin tone, judge, law
+👨‍⚖	judge, justice, law, man
+👨🏻‍⚖	judge, justice, law, light skin tone, man
+👨🏼‍⚖	judge, justice, law, man, medium-light skin tone
+👨🏽‍⚖	judge, justice, law, man, medium skin tone
+👨🏾‍⚖	judge, justice, law, man, medium-dark skin tone
+👨🏿‍⚖	dark skin tone, judge, justice, law, man
+👩‍⚖	judge, justice, law, woman
+👩🏻‍⚖	judge, justice, law, light skin tone, woman
+👩🏼‍⚖	judge, justice, law, medium-light skin tone, woman
+👩🏽‍⚖	judge, justice, law, medium skin tone, woman
+👩🏾‍⚖	judge, justice, law, medium-dark skin tone, woman
+👩🏿‍⚖	dark skin tone, judge, justice, law, woman
+🧑‍🌾	farmer, gardener
+🧑🏻‍🌾	farmer, gardener, light skin tone
+🧑🏼‍🌾	farmer, gardener, medium-light skin tone
+🧑🏽‍🌾	farmer, gardener, medium skin tone
+🧑🏾‍🌾	farmer, gardener, medium-dark skin tone
+🧑🏿‍🌾	dark skin tone, farmer, gardener
+👨‍🌾	farmer, gardener, man
+👨🏻‍🌾	farmer, gardener, light skin tone, man
+👨🏼‍🌾	farmer, gardener, man, medium-light skin tone
+👨🏽‍🌾	farmer, gardener, man, medium skin tone
+👨🏾‍🌾	farmer, gardener, man, medium-dark skin tone
+👨🏿‍🌾	dark skin tone, farmer, gardener, man
+👩‍🌾	farmer, gardener, woman
+👩🏻‍🌾	farmer, gardener, light skin tone, woman
+👩🏼‍🌾	farmer, gardener, medium-light skin tone, woman
+👩🏽‍🌾	farmer, gardener, medium skin tone, woman
+👩🏾‍🌾	farmer, gardener, medium-dark skin tone, woman
+👩🏿‍🌾	dark skin tone, farmer, gardener, woman
+🧑‍🚒	fire engine, fire truck, firefighter
+🧑🏻‍🚒	fire engine, fire truck, firefighter, light skin tone
+🧑🏼‍🚒	fire engine, fire truck, firefighter, medium-light skin tone
+🧑🏽‍🚒	fire engine, fire truck, firefighter, medium skin tone
+🧑🏾‍🚒	fire engine, fire truck, firefighter, medium-dark skin tone
+🧑🏿‍🚒	dark skin tone, fire engine, fire truck, firefighter
+👨‍🚒	fire truck, firefighter, man
+👨🏻‍🚒	fire truck, firefighter, light skin tone, man
+👨🏼‍🚒	fire truck, firefighter, man, medium-light skin tone
+👨🏽‍🚒	fire truck, firefighter, man, medium skin tone
+👨🏾‍🚒	fire truck, firefighter, man, medium-dark skin tone
+👨🏿‍🚒	dark skin tone, fire truck, firefighter, man
+👩‍🚒	fire truck, firefighter, woman
+👩🏻‍🚒	fire truck, firefighter, light skin tone, woman
+👩🏼‍🚒	fire truck, firefighter, medium-light skin tone, woman
+👩🏽‍🚒	fire truck, firefighter, medium skin tone, woman
+👩🏾‍🚒	fire truck, firefighter, medium-dark skin tone, woman
+👩🏿‍🚒	dark skin tone, fire truck, firefighter, woman
+👷	build, construction, fix, hard hat, hat, man, person, rebuild, remodel, repair, work, worker
+👷🏻	build, construction, fix, hard hat, hat, light skin tone, man, person, rebuild, remodel, repair, work, worker
+👷🏼	build, construction, fix, hard hat, hat, man, medium-light skin tone, person, rebuild, remodel, repair, work, worker
+👷🏽	build, construction, fix, hard hat, hat, man, medium skin tone, person, rebuild, remodel, repair, work, worker
+👷🏾	build, construction, fix, hard hat, hat, man, medium-dark skin tone, person, rebuild, remodel, repair, work, worker
+👷🏿	build, construction, dark skin tone, fix, hard hat, hat, man, person, rebuild, remodel, repair, work, worker
+👷‍♂	build, construction, fix, hard hat, hat, man, rebuild, remodel, repair, work, worker
+👷🏻‍♂	build, construction, fix, hard hat, hat, light skin tone, man, rebuild, remodel, repair, work, worker
+👷🏼‍♂	build, construction, fix, hard hat, hat, man, medium-light skin tone, rebuild, remodel, repair, work, worker
+👷🏽‍♂	build, construction, fix, hard hat, hat, man, medium skin tone, rebuild, remodel, repair, work, worker
+👷🏾‍♂	build, construction, fix, hard hat, hat, man, medium-dark skin tone, rebuild, remodel, repair, work, worker
+👷🏿‍♂	build, construction, dark skin tone, fix, hard hat, hat, man, rebuild, remodel, repair, work, worker
+👷‍♀	build, construction, fix, hard hat, hat, man, rebuild, remodel, repair, woman, work, worker
+👷🏻‍♀	build, construction, fix, hard hat, hat, light skin tone, man, rebuild, remodel, repair, woman, work, worker
+👷🏼‍♀	build, construction, fix, hard hat, hat, man, medium-light skin tone, rebuild, remodel, repair, woman, work, worker
+👷🏽‍♀	build, construction, fix, hard hat, hat, man, medium skin tone, rebuild, remodel, repair, woman, work, worker
+👷🏾‍♀	build, construction, fix, hard hat, hat, man, medium-dark skin tone, rebuild, remodel, repair, woman, work, worker
+👷🏿‍♀	build, construction, dark skin tone, fix, hard hat, hat, man, rebuild, remodel, repair, woman, work, worker
+🤵	groom, person, person in tux, person in tuxedo, tuxedo
+🤵🏻	groom, light skin tone, person, person in tux, person in tuxedo, tuxedo
+🤵🏼	groom, medium-light skin tone, person, person in tux, person in tuxedo, tuxedo
+🤵🏽	groom, medium skin tone, person, person in tux, person in tuxedo, tuxedo
+🤵🏾	groom, medium-dark skin tone, person, person in tux, person in tuxedo, tuxedo
+🤵🏿	dark skin tone, groom, person, person in tux, person in tuxedo, tuxedo
+🤵‍♂	man, man in tux, man in tuxedo, tuxedo
+🤵🏻‍♂	light skin tone, man, man in tux, man in tuxedo, tuxedo
+🤵🏼‍♂	man, man in tux, man in tuxedo, medium-light skin tone, tuxedo
+🤵🏽‍♂	man, man in tux, man in tuxedo, medium skin tone, tuxedo
+🤵🏾‍♂	man, man in tux, man in tuxedo, medium-dark skin tone, tuxedo
+🤵🏿‍♂	dark skin tone, man, man in tux, man in tuxedo, tuxedo
+🤵‍♀	tuxedo, woman, woman in tux, woman in tuxedo
+🤵🏻‍♀	light skin tone, tuxedo, woman, woman in tux, woman in tuxedo
+🤵🏼‍♀	medium-light skin tone, tuxedo, woman, woman in tux, woman in tuxedo
+🤵🏽‍♀	medium skin tone, tuxedo, woman, woman in tux, woman in tuxedo
+🤵🏾‍♀	medium-dark skin tone, tuxedo, woman, woman in tux, woman in tuxedo
+🤵🏿‍♀	dark skin tone, tuxedo, woman, woman in tux, woman in tuxedo
+🤶	Christmas, Mrs, Mrs Claus, celebration, claus, mother
+🤶🏻	Christmas, Mrs, Mrs Claus: light skin tone, celebration, claus, light skin tone, mother
+🤶🏼	Christmas, Mrs, Mrs Claus: medium-light skin tone, celebration, claus, medium-light skin tone, mother
+🤶🏽	Christmas, Mrs, Mrs Claus: medium skin tone, celebration, claus, medium skin tone, mother
+🤶🏾	Christmas, Mrs, Mrs Claus: medium-dark skin tone, celebration, claus, medium-dark skin tone, mother
+🤶🏿	Christmas, Mrs, Mrs Claus: dark skin tone, celebration, claus, dark skin tone, mother
+💇	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, parlour, person, shears, style
+💇🏻	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, light skin tone, parlour, person, shears, style
+💇🏼	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, medium-light skin tone, parlour, person, shears, style
+💇🏽	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, medium skin tone, parlour, person, shears, style
+💇🏾	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, medium-dark skin tone, parlour, person, shears, style
+💇🏿	barber, beauty, chop, cosmetology, cut, dark skin tone, groom, hair, haircut, parlour, person, shears, style
+💇‍♂	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, man, parlour, person, shears, style
+💇🏻‍♂	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, light skin tone, man, parlour, person, shears, style
+💇🏼‍♂	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, man, medium-light skin tone, parlour, person, shears, style
+💇🏽‍♂	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, man, medium skin tone, parlour, person, shears, style
+💇🏾‍♂	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, man, medium-dark skin tone, parlour, person, shears, style
+💇🏿‍♂	barber, beauty, chop, cosmetology, cut, dark skin tone, groom, hair, haircut, man, parlour, person, shears, style
+💇‍♀	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, parlour, person, shears, style, woman
+💇🏻‍♀	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, light skin tone, parlour, person, shears, style, woman
+💇🏼‍♀	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, medium-light skin tone, parlour, person, shears, style, woman
+💇🏽‍♀	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, medium skin tone, parlour, person, shears, style, woman
+💇🏾‍♀	barber, beauty, chop, cosmetology, cut, groom, hair, haircut, medium-dark skin tone, parlour, person, shears, style, woman
+💇🏿‍♀	barber, beauty, chop, cosmetology, cut, dark skin tone, groom, hair, haircut, parlour, person, shears, style, woman
+🧑‍🦯	accessibility, blind, person with guide cane, person with white cane
+🧑🏻‍🦯	accessibility, blind, light skin tone, person with guide cane, person with guide cane: light skin tone, person with white cane
+🧑🏼‍🦯	accessibility, blind, medium-light skin tone, person with guide cane, person with guide cane: medium-light skin tone, person with white cane
+🧑🏽‍🦯	accessibility, blind, medium skin tone, person with guide cane, person with guide cane: medium skin tone, person with white cane
+🧑🏾‍🦯	accessibility, blind, medium-dark skin tone, person with guide cane, person with guide cane: medium-dark skin tone, person with white cane
+🧑🏿‍🦯	accessibility, blind, dark skin tone, person with guide cane, person with guide cane: dark skin tone, person with white cane
+🧑‍🦯‍➡	accessibility, blind, person with guide cane, person with guide cane facing right, person with white cane
+🧑🏻‍🦯‍➡	accessibility, blind, person with guide cane, person with guide cane facing right, person with white cane
+🧑🏼‍🦯‍➡	accessibility, blind, person with guide cane, person with guide cane facing right, person with white cane
+🧑🏽‍🦯‍➡	accessibility, blind, person with guide cane, person with guide cane facing right, person with white cane
+🧑🏾‍🦯‍➡	accessibility, blind, person with guide cane, person with guide cane facing right, person with white cane
+🧑🏿‍🦯‍➡	accessibility, blind, person with guide cane, person with guide cane facing right, person with white cane
+👨‍🦯	accessibility, blind, man, man with guide cane
+👨🏻‍🦯	accessibility, blind, light skin tone, man, man with guide cane, man with guide cane: light skin tone
+👨🏼‍🦯	accessibility, blind, man, man with guide cane, man with guide cane: medium-light skin tone, medium-light skin tone
+👨🏽‍🦯	accessibility, blind, man, man with guide cane, man with guide cane: medium skin tone, medium skin tone
+👨🏾‍🦯	accessibility, blind, man, man with guide cane, man with guide cane: medium-dark skin tone, medium-dark skin tone
+👨🏿‍🦯	accessibility, blind, dark skin tone, man, man with guide cane, man with guide cane: dark skin tone
+👨‍🦯‍➡	accessibility, blind, man, man with guide cane, man with guide cane facing right
+👨🏻‍🦯‍➡	accessibility, blind, man, man with guide cane, man with guide cane facing right
+👨🏼‍🦯‍➡	accessibility, blind, man, man with guide cane, man with guide cane facing right
+👨🏽‍🦯‍➡	accessibility, blind, man, man with guide cane, man with guide cane facing right
+👨🏾‍🦯‍➡	accessibility, blind, man, man with guide cane, man with guide cane facing right
+👨🏿‍🦯‍➡	accessibility, blind, man, man with guide cane, man with guide cane facing right
+👩‍🦯	accessibility, blind, woman, woman with guide cane
+👩🏻‍🦯	accessibility, blind, light skin tone, woman, woman with guide cane, woman with guide cane: light skin tone
+👩🏼‍🦯	accessibility, blind, medium-light skin tone, woman, woman with guide cane, woman with guide cane: medium-light skin tone
+👩🏽‍🦯	accessibility, blind, medium skin tone, woman, woman with guide cane, woman with guide cane: medium skin tone
+👩🏾‍🦯	accessibility, blind, medium-dark skin tone, woman, woman with guide cane, woman with guide cane: medium-dark skin tone
+👩🏿‍🦯	accessibility, blind, dark skin tone, woman, woman with guide cane, woman with guide cane: dark skin tone
+👩‍🦯‍➡	accessibility, blind, woman, woman with guide cane, woman with guide cane facing right
+👩🏻‍🦯‍➡	accessibility, blind, woman, woman with guide cane, woman with guide cane facing right
+👩🏼‍🦯‍➡	accessibility, blind, woman, woman with guide cane, woman with guide cane facing right
+👩🏽‍🦯‍➡	accessibility, blind, woman, woman with guide cane, woman with guide cane facing right
+👩🏾‍🦯‍➡	accessibility, blind, woman, woman with guide cane, woman with guide cane facing right
+👩🏿‍🦯‍➡	accessibility, blind, woman, woman with guide cane, woman with guide cane facing right
+🧑‍🦼	accessibility, person in motorised wheelchair, person in powered wheelchair, wheelchair
+🧑🏻‍🦼	accessibility, light skin tone, person in motorised wheelchair, person in powered wheelchair, person in powered wheelchair: light skin tone, wheelchair
+🧑🏼‍🦼	accessibility, medium-light skin tone, person in motorised wheelchair, person in powered wheelchair, person in powered wheelchair: medium-light skin tone, wheelchair
+🧑🏽‍🦼	accessibility, medium skin tone, person in motorised wheelchair, person in powered wheelchair, person in powered wheelchair: medium skin tone, wheelchair
+🧑🏾‍🦼	accessibility, medium-dark skin tone, person in motorised wheelchair, person in powered wheelchair, person in powered wheelchair: medium-dark skin tone, wheelchair
+🧑🏿‍🦼	accessibility, dark skin tone, person in motorised wheelchair, person in powered wheelchair, person in powered wheelchair: dark skin tone, wheelchair
+🧑‍🦼‍➡	accessibility, person in motorised wheelchair, person in powered wheelchair, person in powered wheelchair facing right, wheelchair
+🧑🏻‍🦼‍➡	accessibility, person in motorised wheelchair, person in powered wheelchair, person in powered wheelchair facing right, wheelchair
+🧑🏼‍🦼‍➡	accessibility, person in motorised wheelchair, person in powered wheelchair, person in powered wheelchair facing right, wheelchair
+🧑🏽‍🦼‍➡	accessibility, person in motorised wheelchair, person in powered wheelchair, person in powered wheelchair facing right, wheelchair
+🧑🏾‍🦼‍➡	accessibility, person in motorised wheelchair, person in powered wheelchair, person in powered wheelchair facing right, wheelchair
+🧑🏿‍🦼‍➡	accessibility, person in motorised wheelchair, person in powered wheelchair, person in powered wheelchair facing right, wheelchair
+👨‍🦼	accessibility, man, man in powered wheelchair, wheelchair
+👨🏻‍🦼	accessibility, light skin tone, man, man in powered wheelchair, man in powered wheelchair: light skin tone, wheelchair
+👨🏼‍🦼	accessibility, man, man in powered wheelchair, man in powered wheelchair: medium-light skin tone, medium-light skin tone, wheelchair
+👨🏽‍🦼	accessibility, man, man in powered wheelchair, man in powered wheelchair: medium skin tone, medium skin tone, wheelchair
+👨🏾‍🦼	accessibility, man, man in powered wheelchair, man in powered wheelchair: medium-dark skin tone, medium-dark skin tone, wheelchair
+👨🏿‍🦼	accessibility, dark skin tone, man, man in powered wheelchair, man in powered wheelchair: dark skin tone, wheelchair
+👨‍🦼‍➡	accessibility, man, man in powered wheelchair, man in powered wheelchair facing right, wheelchair
+👨🏻‍🦼‍➡	accessibility, man, man in powered wheelchair, man in powered wheelchair facing right, wheelchair
+👨🏼‍🦼‍➡	accessibility, man, man in powered wheelchair, man in powered wheelchair facing right, wheelchair
+👨🏽‍🦼‍➡	accessibility, man, man in powered wheelchair, man in powered wheelchair facing right, wheelchair
+👨🏾‍🦼‍➡	accessibility, man, man in powered wheelchair, man in powered wheelchair facing right, wheelchair
+👨🏿‍🦼‍➡	accessibility, man, man in powered wheelchair, man in powered wheelchair facing right, wheelchair
+👩‍🦼	accessibility, wheelchair, woman, woman in powered wheelchair
+👩🏻‍🦼	accessibility, light skin tone, wheelchair, woman, woman in powered wheelchair, woman in powered wheelchair: light skin tone
+👩🏼‍🦼	accessibility, medium-light skin tone, wheelchair, woman, woman in powered wheelchair, woman in powered wheelchair: medium-light skin tone
+👩🏽‍🦼	accessibility, medium skin tone, wheelchair, woman, woman in powered wheelchair, woman in powered wheelchair: medium skin tone
+👩🏾‍🦼	accessibility, medium-dark skin tone, wheelchair, woman, woman in powered wheelchair, woman in powered wheelchair: medium-dark skin tone
+👩🏿‍🦼	accessibility, dark skin tone, wheelchair, woman, woman in powered wheelchair, woman in powered wheelchair: dark skin tone
+👩‍🦼‍➡	accessibility, wheelchair, woman, woman in powered wheelchair, woman in powered wheelchair facing right
+👩🏻‍🦼‍➡	accessibility, wheelchair, woman, woman in powered wheelchair, woman in powered wheelchair facing right
+👩🏼‍🦼‍➡	accessibility, wheelchair, woman, woman in powered wheelchair, woman in powered wheelchair facing right
+👩🏽‍🦼‍➡	accessibility, wheelchair, woman, woman in powered wheelchair, woman in powered wheelchair facing right
+👩🏾‍🦼‍➡	accessibility, wheelchair, woman, woman in powered wheelchair, woman in powered wheelchair facing right
+👩🏿‍🦼‍➡	accessibility, wheelchair, woman, woman in powered wheelchair, woman in powered wheelchair facing right
+🕺	dance, dancer, dancing, disco, elegant, festive, flair, flamenco, groove, let’s, man, salsa, tango
+🕺🏻	dance, dancer, dancing, disco, elegant, festive, flair, flamenco, groove, let’s, light skin tone, man, salsa, tango
+🕺🏼	dance, dancer, dancing, disco, elegant, festive, flair, flamenco, groove, let’s, man, medium-light skin tone, salsa, tango
+🕺🏽	dance, dancer, dancing, disco, elegant, festive, flair, flamenco, groove, let’s, man, medium skin tone, salsa, tango
+🕺🏾	dance, dancer, dancing, disco, elegant, festive, flair, flamenco, groove, let’s, man, medium-dark skin tone, salsa, tango
+🕺🏿	dance, dancer, dancing, dark skin tone, disco, elegant, festive, flair, flamenco, groove, let’s, man, salsa, tango
+🧖	day, luxurious, pamper, person, relax, room, sauna, spa, steam, steam bath, unwind
+🧖🏻	day, light skin tone, luxurious, pamper, person, relax, room, sauna, spa, steam, steam bath, unwind
+🧖🏼	day, luxurious, medium-light skin tone, pamper, person, relax, room, sauna, spa, steam, steam bath, unwind
+🧖🏽	day, luxurious, medium skin tone, pamper, person, relax, room, sauna, spa, steam, steam bath, unwind
+🧖🏾	day, luxurious, medium-dark skin tone, pamper, person, relax, room, sauna, spa, steam, steam bath, unwind
+🧖🏿	dark skin tone, day, luxurious, pamper, person, relax, room, sauna, spa, steam, steam bath, unwind
+🧖‍♂	day, luxurious, man, pamper, relax, room, sauna, spa, steam, steam bath, unwind
+🧖🏻‍♂	day, light skin tone, luxurious, man, pamper, relax, room, sauna, spa, steam, steam bath, unwind
+🧖🏼‍♂	day, luxurious, man, medium-light skin tone, pamper, relax, room, sauna, spa, steam, steam bath, unwind
+🧖🏽‍♂	day, luxurious, man, medium skin tone, pamper, relax, room, sauna, spa, steam, steam bath, unwind
+🧖🏾‍♂	day, luxurious, man, medium-dark skin tone, pamper, relax, room, sauna, spa, steam, steam bath, unwind
+🧖🏿‍♂	dark skin tone, day, luxurious, man, pamper, relax, room, sauna, spa, steam, steam bath, unwind
+🧖‍♀	day, luxurious, pamper, relax, room, sauna, spa, steam, steam bath, unwind, woman
+🧖🏻‍♀	day, light skin tone, luxurious, pamper, relax, room, sauna, spa, steam, steam bath, unwind, woman
+🧖🏼‍♀	day, luxurious, medium-light skin tone, pamper, relax, room, sauna, spa, steam, steam bath, unwind, woman
+🧖🏽‍♀	day, luxurious, medium skin tone, pamper, relax, room, sauna, spa, steam, steam bath, unwind, woman
+🧖🏾‍♀	day, luxurious, medium-dark skin tone, pamper, relax, room, sauna, spa, steam, steam bath, unwind, woman
+🧖🏿‍♀	dark skin tone, day, luxurious, pamper, relax, room, sauna, spa, steam, steam bath, unwind, woman
+🏌️	ball, birdie, caddy, driving, golf, golfing, green, person, putt, range, tee
+🏌🏻	ball, birdie, caddy, driving, golf, golfing, green, light skin tone, person, putt, range, tee
+🏌🏼	ball, birdie, caddy, driving, golf, golfing, green, medium-light skin tone, person, putt, range, tee
+🏌🏽	ball, birdie, caddy, driving, golf, golfing, green, medium skin tone, person, putt, range, tee
+🏌🏾	ball, birdie, caddy, driving, golf, golfing, green, medium-dark skin tone, person, putt, range, tee
+🏌🏿	ball, birdie, caddy, dark skin tone, driving, golf, golfing, green, person, putt, range, tee
+🏌‍♂	ball, birdie, caddy, driving, golf, golfing, green, man, putt, range, tee
+🏌🏻‍♂	ball, birdie, caddy, driving, golf, golfing, green, light skin tone, man, putt, range, tee
+🏌🏼‍♂	ball, birdie, caddy, driving, golf, golfing, green, man, medium-light skin tone, putt, range, tee
+🏌🏽‍♂	ball, birdie, caddy, driving, golf, golfing, green, man, medium skin tone, putt, range, tee
+🏌🏾‍♂	ball, birdie, caddy, driving, golf, golfing, green, man, medium-dark skin tone, putt, range, tee
+🏌🏿‍♂	ball, birdie, caddy, dark skin tone, driving, golf, golfing, green, man, putt, range, tee
+🏌‍♀	ball, birdie, caddy, driving, golf, golfing, green, putt, range, tee, woman
+🏌🏻‍♀	ball, birdie, caddy, driving, golf, golfing, green, light skin tone, putt, range, tee, woman
+🏌🏼‍♀	ball, birdie, caddy, driving, golf, golfing, green, medium-light skin tone, putt, range, tee, woman
+🏌🏽‍♀	ball, birdie, caddy, driving, golf, golfing, green, medium skin tone, putt, range, tee, woman
+🏌🏾‍♀	ball, birdie, caddy, driving, golf, golfing, green, medium-dark skin tone, putt, range, tee, woman
+🏌🏿‍♀	ball, birdie, caddy, dark skin tone, driving, golf, golfing, green, putt, range, tee, woman
 👬	Gemini, couple, holding hands, man, men holding hands, twins, zodiac
 👬🏻	Gemini, couple, holding hands, light skin tone, man, men holding hands, twins, zodiac
 👨🏻‍🤝‍👨🏼	Gemini, couple, holding hands, light skin tone, man, medium-light skin tone, men holding hands, twins, zodiac
@@ -163,20 +577,86 @@
 👨🏿‍🤝‍👨🏽	Gemini, couple, dark skin tone, holding hands, man, medium skin tone, men holding hands, twins, zodiac
 👨🏿‍🤝‍👨🏾	Gemini, couple, dark skin tone, holding hands, man, medium-dark skin tone, men holding hands, twins, zodiac
 👬🏿	Gemini, couple, dark skin tone, holding hands, man, men holding hands, twins, zodiac
+💏	anniversary, babe, bae, couple, date, dating, heart, kiss, love, muah, mwah, person, romance, together, xoxo
+💏🏻	anniversary, babe, bae, couple, date, dating, heart, kiss, light skin tone, love, muah, mwah, person, romance, together, xoxo
+💏🏼	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium-light skin tone, muah, mwah, person, romance, together, xoxo
+💏🏽	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium skin tone, muah, mwah, person, romance, together, xoxo
+💏🏾	anniversary, babe, bae, couple, date, dating, heart, kiss, love, medium-dark skin tone, muah, mwah, person, romance, together, xoxo
+💏🏿	anniversary, babe, bae, couple, dark skin tone, date, dating, heart, kiss, love, muah, mwah, person, romance, together, xoxo
+👩‍❤‍💋‍👨	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, muah, mwah, person, romance, together, woman, xoxo
+👨‍❤‍💋‍👨	anniversary, babe, bae, couple, date, dating, heart, kiss, love, man, muah, mwah, person, romance, together, xoxo
+👩‍❤‍💋‍👩	anniversary, babe, bae, couple, date, dating, heart, kiss, love, muah, mwah, person, romance, together, woman, xoxo
+🫆	clue, crime, detective, fingerprint, forensics, identity, mystery, print, safety, security, trace
+🦳	grey, hair, old, white
+🦣	animal, extinction, large, mammoth, tusk, woolly, wooly
+🦚	animal, bird, colourful, ornithology, ostentatious, peacock, peahen, pretty, proud
+🐦‍⬛	blackbird
+🐦‍🔥	fantasy, firebird, phoenix, rebirth, reincarnation
+🪴	grow, house, nurturing, plant, potted plant
+🫑	bell pepper, capsicum, pepper, sweet pepper, vegetable
+🥬	bok choy, cabbage, kale, leafy green, lettuce, pak choi
+🧄	flavouring, garlic
+🧅	flavouring, onion
+🫚	beer, ginger root, root, root ginger, spice
+🫜	beetroot, garden, root, turnip, vegetable
 🧇	breakfast, iron, unclear, vague, waffle
 🥩	chop, cut of meat, lamb chop, pork chop, steak
+🧂	condiment, flavour, mad, salt, salty, shaker, taste, upset
+🥫	tinned food
 🍥	cake, fish, fish cake with swirl, narutomaki, pastry, swirl
+🥡	oyster pail, takeaway box, takeout box
+🦑	animal, food, mollusc, squid
 🍶	bar, beverage, bottle, cup, drink, sake, saké
+🧉	drink, maté
+🍴	breakfast, brekkie, cooking, cutlery, delicious, dinner, eat, feed, food, fork, hungry, knife, lunch, restaurant, yum, yummy
+🏺	Aquarius, amphora, drink, jar, jug, zodiac
 🗻	Fuji, Mount Fuji, mountain
 🏛️	classical, classical building, column
 🕌	Islam, Muslim, mosque, religion
 🛕	Hindu, Hindu temple, temple
 🕋	Islam, Kaaba, Muslim, religion
-🚙	4x4, off-road vehicle, sport utility, sport utility vehicle
-🛞	circle, turn, tyre
+🛝	amusement park, play, playground slide, theme park
+🎡	amusement park, ferris, theme park, wheel
+🎢	amusement park, coaster, roller, theme park
+🚃	car, electric, railway, railway carriage, train, tram, trolleybus
+🚙	4x4, car, drive, off-road, recreational, sport, sportutility, suv, utility, vehicle
+🦼	accessibility, powered wheelchair
+🛺	auto rickshaw, tuk tuk, tuk-tuk
+🛞	circle, turn, tyre, wheel
+🛟	float, life preserver, life saver, lifebuoy, rescue, ring buoy, safety
+🛫	aeroplane, airplane, check-in, departure, take-off
+🪂	hang-glide, parachute, parasail, parascend, skydive
+🕧	12.30, 12:30, clock, half past twelve, twelve-thirty
+🕜	1.30, 1:30, clock, half past one, one-thirty
+🕝	2.30, 2:30, clock, half past two, two-thirty
+🕞	3.30, 3:30, clock, half past three, three-thirty
+🕟	4.30, 4:30, clock, four-thirty, half past four
+🕠	5.30, 5:30, clock, five-thirty, half past five
+🕡	6.30, 6:30, clock, half past six, six-thirty
+🕢	7.30, 7:30, clock, half past seven, seven-thirty
+🕣	8.30, 8:30, clock, eight-thirty, half past eight
+🕤	9.30, 9:30, clock, half past nine, nine-thirty
+🕥	10.30, 10:30, clock, half past ten, ten-thirty
+🕦	11.30, 11:30, clock, eleven-thirty, half past eleven
+🎏	Japanese wind socks, carp, carp wind sock, celebration, koinobori, streamer
+⚽️	football
+🏓	table tennis
+🤿	diving, mask, scuba, snorkelling
+🛷	sledge
+🪆	Russian dolls, babushka, doll, matryoshka, nesting dolls, russia
+🎨	art, artist, artsy, arty, colourful, creative, entertainment, museum, painter, painting, palette
+🦺	emergency, hi-vis, high-vis, jacket, life jacket, safety, vest
+👔	tie
+👕	blue, casual, clothes, clothing, collar, dressed, green, shirt, shopping, t shirt, t-shirt, tshirt, weekend
 🩱	bathing suit, one-piece swimsuit, swimming costume
+🩲	bathing suit, briefs, one-piece, pants, swimsuit, underwear
+🩳	bathing suit, boardshorts, shorts, swim shorts, underwear
+🩴	beach sandals, flip-flop, flipflop, sandals, thong sandals, thongs, zori
+👟	athletic, clothes, clothing, fast, kick, running, shoe, shoes, shopping, sneaker, tennis, trainers
 🥿	ballet flat, flat shoe, pump, slip-on, slipper
 📯	post horn
+🎸	guitar, instrument, music
+🪘	conga drum
 💷	banknote, bill, currency, money, note, pound, sterling
 📫️	closed postbox with raised flag, letterbox, mail, mailbox, post, post box, postbox
 📪️	closed postbox with lowered flag, letterbox, lowered, mail, mailbox, post box, postbox
@@ -185,24 +665,53 @@
 🔒️	closed, locked, padlock
 🔓️	lock, open, padlock, unlock, unlocked
 🦯	accessibility, blind, guide cane
+💉	ill, injection, medicine, needle, syringe
 🩹	injury, plaster, sticking plaster
+🛗	lift
+🛁	bath
+🪤	mousetrap
 🪒	cut-throat, razor, sharp, shave
-🪪	ID, credentials, driving, licence, security
+🧴	lotion, lotion bottle, moisturiser, shampoo, sunscreen
+🧷	nappy, punk rock, safety pin
+🧻	paper towels, roll of paper, toilet paper, toilet roll
+🧼	bar, bathing, clean, cleaning, lather, soap, soap dish
+🪪	ID, credentials, driving, identification card, licence, security
+🏧	ATM, automated, bank, cash, cashpoint, money, sign, teller
+🚹️	WC, bathroom, lavatory, loo, man, men’s, room, toilet
+🚺️	WC, bathroom, lavatory, loo, room, toilet, woman, women’s
+🚻	toilets
 🚾	closet, lavatory, restroom, toilet, water, wc
-🔄	anticlockwise, anticlockwise arrows button, arrow, counterclockwise, counterclockwise arrows button, withershins
+↮	left-right arrow with stroke
+🔄	again, anticlockwise, anticlockwise arrows button, arrow, arrows, button, counterclockwise, deja, refresh, rewind, vu
 ✡️	David, Jewish, Judaism, Star of David, religion, star
 ✝️	Christian, Latin cross, cross, religion
 ☦️	Christian, Orthodox cross, cross, religion
 ☪️	Islam, Muslim, religion, star and crescent
-✖️	cancel, heavy multiplication sign, multiplication, sign, x, ×
-➖	-, heavy minus sign, math, maths, sign, −
-🟰	equality, math, maths
-⁉️	!, !?, ?, interrobang, mark, punctuation, question
+🛜	computer, internet, network, wi-fi, wifi, wireless
+⚧️	trans, transgender, transgender symbol
+✖️	cancel, heavy multiplication sign, multiplication, multiply, sign, x, ×
+➕️	+, math, maths, plus, sign
+➖️	-, heavy minus sign, math, maths, minus, sign, −
+🟰	equality, heavy equals sign, math, maths
+⁉️	!, !?, ?, exclamation question mark, interrobang, punctuation, question
+✅️	button, mark, tick, tick button, ✓
+☑️	box, tick, tick box with tick, ✓
+✔️	mark, tick, ✓
 ®️	r, registered, trademark
 🚩	post, red flag, triangular flag
 🏳️	surrender, waving, white flag
+🏳‍🌈	bisexual, flag, gay, genderqueer, glbt, glbtq, lesbian, lgbt, lgbtq, lgbtq+, lgbtqia, pride, queer, rainbow, trans, transgender
+🏳‍⚧	flag, light blue, pink, trans, transgender, white
+🇧🇱	flag: St Barthélemy
+🇰🇳	flag: St Kitts & Nevis
+🇱🇨	flag: St Lucia
+🇲🇫	flag: St Martin
+🇵🇲	flag: St Pierre & Miquelon
+🇸🇭	flag: St Helena
 🇺🇲	flag: US Outlying Islands
+🇻🇨	flag: St Vincent & the Grenadines
 🇻🇮	flag: US Virgin Islands
+£	EGP, GBP, currency, pound, quid, sterling
 ₢	BRB, Brazil, cruzeiro, currency
 ₣	France, French franc, currency, franc
 ₤	Italy, currency, lira
@@ -210,6 +719,8 @@
 ₳	ARA, Argentina, austral, currency
 ₶	France, currency, livre tournois
 ₹	Indian rupee, currency, rupee
+₽	currency, rouble, ruble
+µ	measure, micro sign, mu
 🏻	light skin tone, skin tone
 🏼	medium-light skin tone, skin tone
 🏽	medium skin tone, skin tone

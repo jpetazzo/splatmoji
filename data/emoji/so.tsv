@@ -1,3 +1,4 @@
+‾	leen sare
 _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 -	dhaash, jiitin-gaaban, jiitin-ka jarid, ka jar
 ‐	dhaash, jiitin gaaban
@@ -16,6 +17,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 ?	astaan su’aaleed, calaamadda su’aasha, su’aal
 ¿	astaan su’aaleed rogan, calaamadda su’aasha, rogay, sumadda su’aasha la rogay, su’aal
 ؟	astaan su’aaleeda carabida, calaamadda su’aasha, calaamadda su’aasha carabiga, carabi, su’aal
+‽	calaamad su’aal layaabed
 .	dhibic, joogsi, joogsi buuxa
 …	dhibco, dhibco isxig xiga, dhico isxig xiga, ka tagid
 。	dhibic joogsi, fikrad, muddo, xilli fikirka
@@ -65,7 +67,9 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 ′	hamse
 ″	labo hamse
 ‴	tiro aan qeybsamin, tiro saddex lambar uun u qeybsama, tiro seddex lambar uun u qeybsama
+‸	caret
 ※	astaan tixraac
+⁂	asterism, dinkus, xiddigo
 `	codka, lahjad, lahjad qabow, qabriga
 ´	codka, lahjad, lahjad degdeg ah, qabriga
 ^	Wareeg wareeg ah, awood, calaamada xor, daryeele, koofiyad, lahjad, lahjad wareeg ah, tilmaame, wedge, xakamaynta, xikmad
@@ -73,43 +77,269 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 °	cadeeyn, degree ga, saacada
 ℗	dhawaq, duubaya, xuquuqda daabacaadda, xuquuqda duubista codka
 ←	bidix, falaadh, falaadh bidix u jeedda, fallaar ku aadan bidix
+↚	istarooga falaarta bidix u jeeda
 →	fallaa, fallaarta midigta ku aadan, midig
+↛	istarooga falaarta midig u jeeda
 ↑	fallaar, fallaar kor ku aadan, kor
 ↓	fallaar, fallaar hoos ku aadan, hoos
+↜	fallaarta mawjada ee bidix u jeeda
+↝	fallaarta mawjada ee midig u jeeda
+↞	falaarta labada madax leh ee u jeeda bidix
+↟	falaarta labada madax leh ee u jeeda dhinaca kore
+↠	falaarta labada madax leh ee u jeeda dhinaca midig
+↡	falaarta labada madax leh ee u jeeda dhinaca hoose
+↢	seynta falaarta bidix u jeeda
+↣	seynta falaarta midig u jeeda
+↤	falaarta bidix u jeeda ee dabada ka malaasan
+↥	falaarta kor u jeeda ee dabada ka malaasan
+↦	falaarta midig u jeeda ee dabada ka malaasan
+↧	falaarta hoos u jeeda ee dabada ka malaasan
+↨	falaarta kor hoos ee salka leh, falaarta kor hoose ee salka leh
+↫	wareega falaarta bidixda u jeeda
+↬	wareega falaarta midigta u jeeda
+↭	falaarta mawjada ee bidixda iyo midigta u jeeda
+↯	falaarta sag-saga ee hoos u jeeda, sag-sag
+↰	falaarta kor u jeeda cirifkuna bidixda u jeedo
+↱	falaarta kor u jeeda cirifkuna midigta u jeedo
+↲	falaarta hoos u jeeda cirifkuna bidixda u jeedo
+↳	falaarta hoos u jeeda cirifkuna midigta u jeedo
+↴	falaarta midig u jeeda geeskuna hoos u jeedo
+↵	falaarta hoos u jeeda geeskuna bidix u jeedo
+↶	falaarta lidka jihada saacada ee badh wareega kore
+↷	falaarta jihada saacada ee badh wareega kore
+↸	falaar u jeeda waqooyi galbeed oo afka gabal ka leh
+↹	falaar bidix u jeeda oo afka gabal ka leh oona dul saaran falaar midig u jeeda oo afka gabal ka leh
+↺	falaarta lidka jihada saacada ee wareega furan
+↻	falaarta jihada saacada ee wareega furan
+↼	barb, falaarta dhinaca kore kaliya madaxa ka leh ee bidixda u jeeda
+↽	falaarta dhinaca hoose kaliya madaxa ka leh ee bidixda u jeeda
+↾	barb, falaarta dhinaca midigta kaliya madaxa ka leh ee kor u jeeda
+↿	barb, falaarta dhinaca bidixda kaliya madaxa ka leh ee kor u jeeda
+⇀	barb, falaarta dhinaca bidixda kaliya madaxa ka leh ee midigta u jeeda
+⇁	falaarta dhinaca midigta kaliya madaxa ka leh ee midigta u jeeda
+⇂	falaarta dhinaca midigta kaliya madaxa ka leh ee hoos u jeeda
+⇃	falaarta dhinaca bidixda kaliya madaxa ka leh ee hoos u jeeda
+⇄	falaar dhinac midig u jeeda oo dul saaran falaar dhinaca bidix u jeeda
 ⇅	falaadh, fallaadho kor u jeeda iyo mid hoos u jeeda, fallaaro kor iyo hoos ku aadan, hoos, kor
 ⇆	bidix, fallaar, fallaaro bidix ku aadan oo ka sareeya kuwa midig ku aadan, midig
+⇇	labo falaar oo bidix u wada jeeda
+⇈	labo falaar oo kor u wada jeeda
+⇉	labo falaar oo midig u wada jeeda
+⇊	labo falaar oo hoos u wada jeeda, labo falaar oo midig u wada jeeda
+⇋	falaar hal gees leh oo bidix u jeeda oo dul saaran falaar hal gees leh oo midig u jeeda
+⇌	falaar hal gees leh oo midig u jeeda oo dul saaran falaar hal gees leh oo bidix u jeeda
+⇐	falaar labo jibaaran oo bidix u jeeda
+⇍	falaar labo jibaaran oo bidix u jeeda oo istalaab dhexda ku leh
+⇑	falaar labo jibaaran oo kor u jeeda
+⇒	falaar labo jibaaran oo midig u jeeda
+⇏	falaar labo jibaaran oo midig u jeeda oo istallaab dhexda ku leh
+⇓	falaar labo jibaaran oo hoos u jeeda
+⇔	falaar labo jibaaran oo bidix iyo midig u jeeda
+⇎	falaar labo jibaaran oo bidix iyo midig u jeeda oo istallaab dhexda ku leh
+⇖	falaar labo jibaaran oo waqooyi galbeed u jeeda
+⇗	falaar labo jibaaran oo waqooyi bari u jeeda
+⇘	falaar labo jibaaran oo koonfur bari u jeeda
+⇙	falaar labo jibaaran oo koonfur galbeed u jeeda
+⇚	falaar saddex jibaaran oo bidix u jeeda
+⇛	falaar saddex jibaaran oo midig u jeeda
+⇜	falaar bidix u jeeda oo dhexda leen laablaabmaya ka leh
+⇝	falaar midig u jeeda oo dhexda leen laablaabmaya ka leh
+⇞	falaar kor u jeeda oo labo diilmo leh
+⇟	falaar hoos u jeeda oo labo diilmo leh
+⇠	falaar kala googo’an oo bidix u jeeda
+⇡	falaar kala googo’an oo kor u jeeda
+⇢	falaar kala googo’an oo midig u jeeda
+⇣	falaar kala googo’an oo hoos u jeeda
+⇤	falaar bidix u jeeda oo gabal fidsan hor ku leh
+⇥	falaar midig u jeeda oo gabal fidsan hor ku leh
+⇦	falaar bidix u jeeda oo dhex banaan
+⇧	falaar kor u jeeda oo dhex banaan
+⇨	falaar midig u jeeda oo dhex banaan
+⇩	falaar hoos u jeeda oo dhex banaan
+⇪	falaar kor u jeeda oo dhex banaan oona gabal dhex banaan gadaal ku leh
+⇵	falaar hoos u jeeda falaar bidix oo kor u jeeda
+∀	dhamaan
+∂	differential, partial differential
+∃	waxaa jiraa
+∅	set madhan
 ∆	kordhin, sadex geesood
 ∇	nabla, sadex geesood
 ∈	curiyaha, curiye, isku hagaajin, ka kooban, xubinimada
+∉	aan ahayn curiye
+∋	ka kooban tahay si xubin ah
+∎	dhamaadka cadaynta
+∏	calaamada n-ary
+∑	calaamada isku darka ee n-ary
 +	calamada balaas, ku dar, oo lagu daray, oo lagu daray calaamadda
 ±	balaas-maynas
 ÷	calaamada qaladka, calaamada qaybta, qayb, qaybi
 ×	isku dhufasho, isku dhufo, mar, xalaamada isku dhufashada
 <	ka yar, tag, tag furan
+≮	aan ka yareyn
 =	la mida, la midtahay
 ≠	aan la mid ahayn, ma sinna, sinnaan la’aan
 >	ka wayn, tag, tag xidhan
+≯	aan ka weyneyn
 ¬	diidmo, maya
 |	baaskiil, istaroog, istaroog sheerer, khadka, layn, layn taagan, tuubo, ul, vbar, xariiq qotonta, xariiq toosan
 ~	tilde
 −	calaamad laga jaray, calamada maynas, kalagoyn, laga jaray
 ⁻	calaamada kajar, laga jaray, qoraalka sare
+∓	ka-jarid-ama-ku-darid, ku-darid-ka-jarid
+∕	islaash, islaashta isku qeybinta, istaroog, virgule
+⁄	islaashta jajabka, islaashta jajabta, istaroog, virgule
+∗	calaamada xidigta, xidig
+∘	calaamad, calaamada fargashiga, calaamda fargashiga, hal-abuur
+∙	calaamad, calaamada dhibicda
 √	a saasi ah, hooseeyaha tiro, laba jibbaaran, lambar jajab ah, lambarka laba jibaarma, xididka
+∝	saami ahaan, saami ahaanta
 ∞	aan xad lahayn, calaamada infinity, calaamadda dhammaadka
+∟	xagal toosan, xisaabta
+∠	ba’an, xagal
+∣	isku qeybinaya, isku qeybiye
+∥	diilmo barbaro ah
+∧	ac, atque, jeexid, madax falaadheedhka hoos u jeeda, madax falaadheedka hoos u jeeda
 ∩	is goys, isku hagaajin
 ∪	isku hagaajin, isu gayn, midow
+∫	calculus, integral
+∬	calculus, integral laban laaban
+∮	contour integral
+∴	macquul, sdiaas darteed, sidaas darteed
+∵	macquul, sababtoo ah
+∶	saami
+∷	saami ahan, saami ahanta
+∼	calaamad, calaamada tilde
+∽	calaamada tilde oo rogan, calaamda tilde oo rogan, tilde
+∾	s-ta caajisan ee rogan
+≃	u siman si asymptotical ah
+≅	qiyaas ahan la mid ah
 ≈	ku dhawaad, ku dhawaad la mida, qiyaas
+≌	dhamaan isku mid ah
+≒	qiyaastii la mid ah sawirka
+≖	faraanti isku mid ah
 ≡	ay mataano yihiin, lamid ah, mataano, sadex
+≣	si adag ugu dhigma
 ≤	ka yar, ka yar ama ka siman, ka yar ama la mid ah, sinnaan la’aan, u dhiganta, u dhigma
 ≥	ka wayn ama leeg, ka weyn, ka weyn ama u dhigma, sinnaan la’aan, u dhiganta, u dhigma
+≦	ka yar oo dulsaaran la mid ah
+≧	ka weyn oo dulsaaran la mid ah
+≪	aad uuga yar
+≫	aad uuga weyn
+≬	u dhaxeeya
+≳	ka weyn la mid ah
+≺	ka hor dhacaya
+≻	beddelaya
+⊁	ma beddelayo
 ⊂	hoosaadka, qayb hoosaad, qayb ka mid ah, qeyb
+⊃	calaamad set, superset, xisaabta
+⊆	subset la mid ah
+⊇	superset la mid ah
+⊕	ku daris, ku daris wareegsan
+⊖	ka jaris wareegsan
+⊗	ku dhufasho wareegsan
+⊘	islaash qeybin oo wareegsan
+⊙	calaamad dhibiceed wareegsan
+⊚	calaamada faraantiga oo wareegsan
+⊛	calaamada xidigta oo wareegsan
+⊞	afar gees dhexda ku daritaan ku leh
+⊟	afar gees dhexda ka jaris ku leh
+⊥	leen kor u jeeda oo hoosta leen fidsan ku leh
+⊮	ma qasbaayo
+⊰	ka hor dhacaya si xidhiidh hoos imaada
+⊱	beddelaya si xidhiidh hoos imaada
+⋭	kuma jiro si koox-hoosaad caadi la mid ah
+⊶	asal
+⊹	hermitian conjugate matrix, self-adjoint matrix, square matrix, xisaabta
+⊿	saddex xagaleed midig
+⋁	disjunction, logic, n-ary logical ama
+⋂	kala gosyka n-ary, kala goyska n-ary
+⋃	calaamda set-ka, ururka, ururka n-ary, xisaabta
+⋅	calaamad, calamada dhibicda
+⋆	calaaad, calamada xidigta
+⋈	bowtie, calaamada binary-ga, ku biirista dabiiciga ah
+⋒	labo kala goys
+⋘	aad ugu yar
+⋙	aad ugu weyn
+⋮	seddex dhibic oo toostoos ah
+⋯	seddex dhibic oo jiifjiif ah
+⋰	geesal seddex dhibiceed midigta kore
+⋱	geesal seddex dhibiceed midigta hoose
+■	afar gees dhexdiisa la buuxiyay
+□	afar gees dhex banaan
+▢	afar gees dhex banaan oo geesihiina la wareejiyay
+▣	afar geesle dhex banaan oo kujira afar geesle dhexdiisa la buuxiyay
+▤	afar gees dhexda loo buuxiyay si dheer dheer ah
+▥	afar gees dhexda loo buuxiyay si toosan
+▦	afar gees dhexda loo buuxiyay si siman iyo si toosan
+▧	afar gees dhexda loo buuxiyay si bidix iyo midig ah
+▨	afar gees dhexda loo buuxiyay si midig iyo bidix ah
+▩	afar gees dhexda loo buuxiyay si isku tallaab is dhaafsi ah
+▬	leydi la buuxiyay
+▭	leydi dhex banaan
+▮	leydi toosan oo la buuxiyay
+▰	leydida barbarta u janjeerta oo la buuxiyay
 ▲	allaar, ka buuxda, kor, saddex xagal, saddex xagal buuxda oo kor u taagan
+△	saddex geesle dhex banaan oo kor u jeeda
+▴	saddex geesle yar oo la buuxiyay oo kor u jeeda
+▵	saddex geesle yar oo dhex banaan oo kor u jeeda
+▷	saddex geesle dhex banaan oo midig u jeeda
+▸	saddex geesle yar oo la buuxiyay oo midig u jeeda
+▹	saddex geesle yar oo dhex banaan oo midig u jeeda
+►	tilmaame la buuxiyay oo midig u jeeda
+▻	tilmaame dhex banaan oo midig u jeeda
 ▼	buuxiyey, falaadh, hoos, saddex xagal hoos-u-fiiqan, saddexagal, saddexagal hoos u sii jeeda oo buuxinaya
+▽	seddex geesle dhex banaan oo hoos u jeeda
+▾	seddex geesle la buuxiyay oo hoos u jeeda
+▿	seddex geesle yar dhex banaan oo hoos u jeeda, seddex geesle yar oo dhex banaan oo hoos u jeeda
+◁	seddex geesle dhex banaan oo bidix u jeeda
+◂	seddex geesle yar oo la buuxiyay oo bidix u jeeda
+◃	seddex geesle yar oo dhex banaan oo bidix u jeeda
+◄	tilmaame la buuxiyay oo bidix u jeeda
+◅	tilmaame dhex banaan oo bidix u jeeda
+◆	dheyman gudihiisa la buuxiyay
+◇	dheyman dhex banaan
+◈	dheyman dhex banaan oo uu kujiro dheyman dhexdiisa la buuxiyay
+◉	wareeg dhex banaan oo uu kujiro wareeg dhexdiisa la buuxiyay, wareeg dhex dhibic ku leh
 ◊	dheeman, qaab dheeman, rhombus
 ○	duleelka goobada, faraanti, goobad
+◌	dhibic la goobaabay
+◍	wareeg dhexdiisa sida toosan loo buuxiyay
+◎	goobaabino isku dhex jiraan, labo goobaabin o isku dhex jiraan
 ●	goobaabin, goobaabin buuxiyey, goobada buuxa
+◐	goobaabin badhka bidixda la buuxiyay
+◑	goobaabin badhka midigta la buuxiyay
+◒	goobaabin badhka hoose la buuxiyay
+◓	goobaabin badhka kore la buuxiyay
+◔	goobaabin afar meelood meesha kore ee midigta laga buuxiyay
+◕	goobaabin afar meelood meesha kore ee bidix aan la buuxinin
+◖	goobaabin badhka bidixda la buxiyay
+◗	goobaabin badhka midigta la buxiyay
+◘	bulet rogan
+◙	afar gees uu ku dhex jiro goobaabin dhexda la buuxiyay, goobaabin dhex banaan oo rogan
+◜	qaansada dhinaca bidix kore ee afar gees meelka goobaabinta
+◝	qaansada dhinaca midig kore ee afar gees meelka goobaabinta
+◞	qaansada dhinaca midig hoose ee afar gees meelka goobaabinta
+◟	qaansada dhinaca bidix hoose ee afar gees meelka goobaabinta
+◠	badhka kore ee goobaabinta
+◡	badhka hoose ee goobaabinta
+◢	seddex geesle midigta hoose oo la buuxiyay
+◣	seddex geesle bidixda hoose oo la buuxiyay
+◤	seddex geesle bidixda kore oo la buuxiyay
+◥	seddex geesle midigta kore oo la buuxiyay
+◦	dhibic dhex banaan
 ◯	faraanti, goobad, goobad duleel weeyn
+◳	afar geesle dhex banaan oo afar geesle yar ku leh midigta kore
+◷	afar geesle dhex banaan oo afar geesle yar ku leh midigta kore, goobaabin dhex banaan oo afar geesle yar ku leh midigta kore
+◿	seddex geeslaha dhinaca hoose ee midig
 ♪	fiiro gaar ah, muusigga, sideedaad, xadhiga sideedaad
+⨧	calaamada ku darista oo labo hoos ka leh
+⨯	iskutallaab
+⨼	natiijada gudaha
+⩣	logical ama labo gabal hoos ku leh
+⩽	ka yar siman jiifsan
+⪍	ka yar oo ka sareysa siman la mid ah
+⪚	labo leen la mid ah ka weyn
+⪺	beddelid ka sareysa aan inaba la mid ahayn
 ♭	cod hoose, fidsan, fiiro gaar ah, muusigga
 ♯	Seef ah, calaamada istalaabta, fiiqan, la soco, muusigga
 😀	dareenka wajiga, gariir, wajiga
@@ -161,11 +391,15 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 😬	naxdin, waji, waji naxdin leh
 😮‍💨	foodhyid, hawo qadasho, nafisid, neefsasho, taah, waji afka kala qaday, xanshaashaq
 🤥	jiif, qashin, waji, waji jiifo
+🫨	Ruxida madaxa, dhul gariir, face, gariir, ruxay, ruxitaan
+🙂‍↔	lux, madax u luxida sida jiifsan, maya
+🙂‍↕	haa, lux, madax u luxida sida toosan
 😌	caawin, waji, waji niyad jabn
 😔	caajis, diyaarsan, waji, waji caajisan
 😪	hurdo, waji, waji hurdeysan
 🤤	dhareer, waji, waji dhareer
 😴	hurdo, waji, waji hurdadeysan, waji hurdeysan
+🫩	baagag, caajisan, daahsan, daalay, daallan, hurdeysan, indho, waji, weji ay baagag uga hoos yaalan indhaha
 😷	dhakhtar, qabow, waji, waji maaskaro caafimaad leh
 🤒	heerkulbeegga, jirro, waji, waji leh heerkulbeegga, waji leh heerkulbegga, xanuun
 🤕	dhaawac, dhaawac ah, faashad, waji, waji leh faashad madaxeed, waji leh faashid madaxeed
@@ -252,13 +486,16 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 ❤‍🔥	gubasho, jacayl, lahasho, wadne, wadne ololaya, wadne xurmaysan
 ❤‍🩹	caafimad qaba, fiican, karan, soo boqsanaya, soo kabanaya, wadne dhaawacan
 ❤️	wadno, wadno cas
+🩷	casaan, jacayl, qurxoon, sida, wadnaha casaan ah, wadne
 🧡	oranji, wadno oranji ah
 💛	jaalle, wadno jaalle ah
 💚	cagaar, wadno cagaaran
 💙	buluug, wadno buluug ah
+🩵	buluug khafiif ah, qalbi buluug khafiif ah, wadne
 💜	buluug-guduud, wadno midab buluug-guuud ah, wadno midab-buluug-guddud ah
 🤎	bunni, wadne, wadne bunni ah
 🖤	madoow, wadno madoow, xumaan, xun
+🩶	cawlan, qalbi, qalbi cawlan, qalin, slate
 🤍	cad, wadne, wadne cad (cabsi og)
 💋	bishimo, calaamadda dhunkashada, dhunkasho
 💯	boqol, boqol dhibco, boqol dhico, buuxo, dhibcaha
@@ -292,7 +529,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🖐🏽	far, gacan, gacan iyo faraha ayaa lagu fidiyay, gacan iyo faraha ayaa lagu fidiyay: jidh nooc dhexe, jidh nooc dhexe
 🖐🏾	far, gacan, gacan iyo faraha ayaa lagu fidiyay, gacan iyo faraha ayaa lagu fidiyay: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe
 🖐🏿	far, gacan, gacan iyo faraha ayaa lagu fidiyay, gacan iyo faraha ayaa lagu fidiyay: jidh madaw, jidh madaw
-✋	gacan, gacan kor loo qaaday, gacan kor loo qaday
+✋️	gacan, gacan kor loo qaaday, gacan kor loo qaday
 ✋🏻	gacan, gacan kor loo qaaday, gacan kor loo qaday, gacan kor loo qaday: jidh fudud, jidh fudud
 ✋🏼	gacan, gacan kor loo qaaday, gacan kor loo qaday, gacan kor loo qaday: jidh fudud oo dhexe, jidh fudud oo dhexe
 ✋🏽	gacan, gacan kor loo qaaday, gacan kor loo qaday, gacan kor loo qaday: jidh nooc dhexe, jidh nooc dhexe
@@ -348,6 +585,18 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🫴🏽	Baabacada kore, Baabacada kore: jidh nooc dhexe, imaw, jidh nooc dhexe, q abo, sii, tusaalee
 🫴🏾	Baabacada kore, Baabacada kore: jidh nooc madaw oo dhexe, imaw, jidh nooc madaw oo dhexe, q abo, sii, tusaalee
 🫴🏿	Baabacada kore, Baabacada kore: jidh madaw, imaw, jidh madaw, q abo, sii, tusaalee
+🫷	dhinaca bidix, diid, gacanta u riixaysa dhinaca bidix, jooji, riix, salaan, sug
+🫷🏻	dhinaca bidix, diid, gacanta u riixaysa dhinaca bidix, gacanta u riixaysa dhinaca bidix: jidh fudud, jidh fudud, jooji, riix, salaan, sug
+🫷🏼	dhinaca bidix, diid, gacanta u riixaysa dhinaca bidix, gacanta u riixaysa dhinaca bidix: jidh fudud oo dhexe, jidh fudud oo dhexe, jooji, riix, salaan, sug
+🫷🏽	dhinaca bidix, diid, gacanta u riixaysa dhinaca bidix, gacanta u riixaysa dhinaca bidix: jidh nooc dhexe, jidh nooc dhexe, jooji, riix, salaan, sug
+🫷🏾	dhinaca bidix, diid, gacanta u riixaysa dhinaca bidix, gacanta u riixaysa dhinaca bidix: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, jooji, riix, salaan, sug
+🫷🏿	dhinaca bidix, diid, gacanta u riixaysa dhinaca bidix, gacanta u riixaysa dhinaca bidix: jidh madaw, jidh madaw, jooji, riix, salaan, sug
+🫸	diida, gacanta riixid bidix u socota, joojin, midig, riixo, salaan, sug
+🫸🏻	diida, gacanta riixid bidix u socota, gacanta riixid bidix u socota: jidh fudud, jidh fudud, joojin, midig, riixo, salaan, sug
+🫸🏼	diida, gacanta riixid bidix u socota, gacanta riixid bidix u socota: jidh fudud oo dhexe, jidh fudud oo dhexe, joojin, midig, riixo, salaan, sug
+🫸🏽	diida, gacanta riixid bidix u socota, gacanta riixid bidix u socota: jidh nooc dhexe, jidh nooc dhexe, joojin, midig, riixo, salaan, sug
+🫸🏾	diida, gacanta riixid bidix u socota, gacanta riixid bidix u socota: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, joojin, midig, riixo, salaan, sug
+🫸🏿	diida, gacanta riixid bidix u socota, gacanta riixid bidix u socota: jidh madaw, jidh madaw, joojin, midig, riixo, salaan, sug
 👌	gacan, gacanta saxda ah, sax
 👌🏻	gacan, gacanta saxda ah, gacanta saxda ah: jidh fudud, jidh fudud, sax
 👌🏼	gacan, gacanta saxda ah, gacanta saxda ah: jidh fudud oo dhexe, jidh fudud oo dhexe, sax
@@ -456,7 +705,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👎🏽	-1, gacan, hoos, jidh nooc dhexe, suul, suulka hoos, suulka hoos: jidh nooc dhexe
 👎🏾	-1, gacan, hoos, jidh nooc madaw oo dhexe, suul, suulka hoos, suulka hoos: jidh nooc madaw oo dhexe
 👎🏿	-1, gacan, hoos, jidh madaw, suul, suulka hoos, suulka hoos: jidh madaw
-✊	feer tuur, gacan, kor u qaadid tantoonyo, kor u qaadid tantoonyo (feer), tantoonyo, xannibay
+✊️	feer tuur, gacan, kor u qaadid tantoonyo, kor u qaadid tantoonyo (feer), tantoonyo, xannibay
 ✊🏻	feer tuur, gacan, jidh fudud, kor u qaadid tantoonyo, kor u qaadid tantoonyo (feer), kor u qaadid tantoonyo (feer): jidh fudud, tantoonyo, xannibay
 ✊🏼	feer tuur, gacan, jidh fudud oo dhexe, kor u qaadid tantoonyo, kor u qaadid tantoonyo (feer), kor u qaadid tantoonyo (feer): jidh fudud oo dhexe, tantoonyo, xannibay
 ✊🏽	feer tuur, gacan, jidh nooc dhexe, kor u qaadid tantoonyo, kor u qaadid tantoonyo (feer), kor u qaadid tantoonyo (feer): jidh nooc dhexe, tantoonyo, xannibay
@@ -1126,12 +1375,12 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🤷🏽‍♀	aan danaynayn, garba-ruxid, jaahilnimo, jidh nooc dhexe, naag, naag garba-ruxaysa, naag garba-ruxaysa: jidh nooc dhexe, shaki
 🤷🏾‍♀	aan danaynayn, garba-ruxid, jaahilnimo, jidh nooc madaw oo dhexe, naag, naag garba-ruxaysa, naag garba-ruxaysa: jidh nooc madaw oo dhexe, shaki
 🤷🏿‍♀	aan danaynayn, garba-ruxid, jaahilnimo, jidh madaw, naag, naag garba-ruxaysa, naag garba-ruxaysa: jidh madaw, shaki
-🧑‍⚕	dhaqtar, shaqaale caafimaad, daryeel caafimaad, kalkaaliso, daweeyaha, shaqaale caafimaad
-🧑🏻‍⚕	dhaqtar, shaqaale caafimaad, daryeel caafimaad, kalkaaliso, daweeyaha, jidh fudud, shaqaale caafimaad, shaqaale caafimaad: jidh fudud
-🧑🏼‍⚕	dhaqtar, shaqaale caafimaad, daryeel caafimaad, kalkaaliso, daweeyaha, jidh fudud oo dhexe, shaqaale caafimaad, shaqaale caafimaad: jidh fudud oo dhexe
-🧑🏽‍⚕	dhaqtar, shaqaale caafimaad, daryeel caafimaad, kalkaaliso, daweeyaha, jidh nooc dhexe, shaqaale caafimaad, shaqaale caafimaad: jidh nooc dhexe
-🧑🏾‍⚕	dhaqtar, shaqaale caafimaad, daryeel caafimaad, kalkaaliso, daweeyaha, jidh nooc madaw oo dhexe, shaqaale caafimaad, shaqaale caafimaad: jidh nooc madaw oo dhexe
-🧑🏿‍⚕	dhaqtar, shaqaale caafimaad, daryeel caafimaad, kalkaaliso, daweeyaha, jidh madaw, shaqaale caafimaad, shaqaale caafimaad: jidh madaw
+🧑‍⚕	daryeel caafimaad, daweeyaha, dhaqtar, kalkaaliso, shaqaale caafimaad
+🧑🏻‍⚕	daryeel caafimaad, daweeyaha, dhaqtar, jidh fudud, kalkaaliso, shaqaale caafimaad, shaqaale caafimaad: jidh fudud
+🧑🏼‍⚕	daryeel caafimaad, daweeyaha, dhaqtar, jidh fudud oo dhexe, kalkaaliso, shaqaale caafimaad, shaqaale caafimaad: jidh fudud oo dhexe
+🧑🏽‍⚕	daryeel caafimaad, daweeyaha, dhaqtar, jidh nooc dhexe, kalkaaliso, shaqaale caafimaad, shaqaale caafimaad: jidh nooc dhexe
+🧑🏾‍⚕	daryeel caafimaad, daweeyaha, dhaqtar, jidh nooc madaw oo dhexe, kalkaaliso, shaqaale caafimaad, shaqaale caafimaad: jidh nooc madaw oo dhexe
+🧑🏿‍⚕	daryeel caafimaad, daweeyaha, dhaqtar, jidh madaw, kalkaaliso, shaqaale caafimaad, shaqaale caafimaad: jidh madaw
 👨‍⚕	daryeel caafimaad, daweeye, dhakhtar, kalkaaliye, nin, nin shaqaale caafimaad ah
 👨🏻‍⚕	daryeel caafimaad, daweeye, dhakhtar, jidh fudud, kalkaaliye, nin, nin shaqaale caafimaad ah, nin shaqaale caafimaad ah: jidh fudud
 👨🏼‍⚕	daryeel caafimaad, daweeye, dhakhtar, jidh fudud oo dhexe, kalkaaliye, nin, nin shaqaale caafimaad ah, nin shaqaale caafimaad ah: jidh fudud oo dhexe
@@ -1145,11 +1394,11 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👩🏾‍⚕	daryeel caafimaad, daweeye, dhakhtar, jidh nooc madaw oo dhexe, kalkaaliso, naag, naag shaqaale caafimaad ah, naag shaqaale caafimaad ah: jidh nooc madaw oo dhexe
 👩🏿‍⚕	daryeel caafimaad, daweeye, dhakhtar, jidh madaw, kalkaaliso, naag, naag shaqaale caafimaad ah, naag shaqaale caafimaad ah: jidh madaw
 🧑‍🎓	Arday, arday, qalin jabiye
-🧑🏻‍🎓	Arday, arday, arday: jidh fudud, jidh fudud, qalin jabiye
-🧑🏼‍🎓	Arday, arday, arday: jidh fudud oo dhexe, jidh fudud oo dhexe, qalin jabiye
-🧑🏽‍🎓	Arday, arday, arday: jidh nooc dhexe, jidh nooc dhexe, qalin jabiye
-🧑🏾‍🎓	Arday, arday, arday: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, qalin jabiye
-🧑🏿‍🎓	Arday, arday, arday: jidh madaw, jidh madaw, qalin jabiye
+🧑🏻‍🎓	Arday, arday: jidh fudud, jidh fudud, qalin jabiye
+🧑🏼‍🎓	Arday, arday: jidh fudud oo dhexe, jidh fudud oo dhexe, qalin jabiye
+🧑🏽‍🎓	Arday, arday: jidh nooc dhexe, jidh nooc dhexe, qalin jabiye
+🧑🏾‍🎓	Arday, arday: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, qalin jabiye
+🧑🏿‍🎓	Arday, arday: jidh madaw, jidh madaw, qalin jabiye
 👨‍🎓	arday, nin, nin arday ah, qallinjabin
 👨🏻‍🎓	arday, jidh fudud, nin, nin arday ah, nin arday ah: jidh fudud, qallinjabin
 👨🏼‍🎓	arday, jidh fudud oo dhexe, nin, nin arday ah, nin arday ah: jidh fudud oo dhexe, qallinjabin
@@ -1180,12 +1429,12 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👩🏽‍🏫	barafasoor, hagge, jidh nooc dhexe, macallin, naag, naag macallimad ah, naag macallimad ah: jidh nooc dhexe
 👩🏾‍🏫	barafasoor, hagge, jidh nooc madaw oo dhexe, macallin, naag, naag macallimad ah, naag macallimad ah: jidh nooc madaw oo dhexe
 👩🏿‍🏫	barafasoor, hagge, jidh madaw, macallin, naag, naag macallimad ah, naag macallimad ah: jidh madaw
-🧑‍⚖	qaalli, qaalli, miisaanka
-🧑🏻‍⚖	jidh fudud, qaalli, qaalli, miisaanka, qaalli: jidh fudud
-🧑🏼‍⚖	jidh fudud oo dhexe, qaalli, qaalli, miisaanka, qaalli: jidh fudud oo dhexe
-🧑🏽‍⚖	jidh nooc dhexe, qaalli, qaalli, miisaanka, qaalli: jidh nooc dhexe
-🧑🏾‍⚖	jidh nooc madaw oo dhexe, qaalli, qaalli, miisaanka, qaalli: jidh nooc madaw oo dhexe
-🧑🏿‍⚖	jidh madaw, qaalli, qaalli, miisaanka, qaalli: jidh madaw
+🧑‍⚖	miisaanka, qaalli
+🧑🏻‍⚖	jidh fudud, miisaanka, qaalli, qaalli: jidh fudud
+🧑🏼‍⚖	jidh fudud oo dhexe, miisaanka, qaalli, qaalli: jidh fudud oo dhexe
+🧑🏽‍⚖	jidh nooc dhexe, miisaanka, qaalli, qaalli: jidh nooc dhexe
+🧑🏾‍⚖	jidh nooc madaw oo dhexe, miisaanka, qaalli, qaalli: jidh nooc madaw oo dhexe
+🧑🏿‍⚖	jidh madaw, miisaanka, qaalli, qaalli: jidh madaw
 👨‍⚖	caddaalad, miisaan, nin, nin garsoore ah
 👨🏻‍⚖	caddaalad, jidh fudud, miisaan, nin, nin garsoore ah, nin garsoore ah: jidh fudud
 👨🏼‍⚖	caddaalad, jidh fudud oo dhexe, miisaan, nin, nin garsoore ah, nin garsoore ah: jidh fudud oo dhexe
@@ -1199,11 +1448,11 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👩🏾‍⚖	garsoore, jidh nooc madaw oo dhexe, miisaanka, naag, naag garsoore ah, naag garsoore ah: jidh nooc madaw oo dhexe
 👩🏿‍⚖	garsoore, jidh madaw, miisaanka, naag, naag garsoore ah, naag garsoore ah: jidh madaw
 🧑‍🌾	Beeraley, beeraley. beer ilaaliye, waardiye
-🧑🏻‍🌾	Beeraley, Beeraley: jidh fudud, beeraley. beer ilaaliye, waardiye, jidh fudud
-🧑🏼‍🌾	Beeraley, Beeraley: jidh fudud oo dhexe, beeraley. beer ilaaliye, waardiye, jidh fudud oo dhexe
-🧑🏽‍🌾	Beeraley, Beeraley: jidh nooc dhexe, beeraley. beer ilaaliye, waardiye, jidh nooc dhexe
-🧑🏾‍🌾	Beeraley, Beeraley: jidh nooc madaw oo dhexe, beeraley. beer ilaaliye, waardiye, jidh nooc madaw oo dhexe
-🧑🏿‍🌾	Beeraley, Beeraley: jidh madaw, beeraley. beer ilaaliye, waardiye, jidh madaw
+🧑🏻‍🌾	Beeraley, Beeraley: jidh fudud, beeraley. beer ilaaliye, jidh fudud, waardiye
+🧑🏼‍🌾	Beeraley, Beeraley: jidh fudud oo dhexe, beeraley. beer ilaaliye, jidh fudud oo dhexe, waardiye
+🧑🏽‍🌾	Beeraley, Beeraley: jidh nooc dhexe, beeraley. beer ilaaliye, jidh nooc dhexe, waardiye
+🧑🏾‍🌾	Beeraley, Beeraley: jidh nooc madaw oo dhexe, beeraley. beer ilaaliye, jidh nooc madaw oo dhexe, waardiye
+🧑🏿‍🌾	Beeraley, Beeraley: jidh madaw, beeraley. beer ilaaliye, jidh madaw, waardiye
 👨‍🌾	beer-qote, beeraleey, beerinfoof, nin, nin beeraleey ah
 👨🏻‍🌾	beer-qote, beeraleey, beerinfoof, jidh fudud, nin, nin beeraleey ah, nin beeraleey ah: jidh fudud
 👨🏼‍🌾	beer-qote, beeraleey, beerinfoof, jidh fudud oo dhexe, nin, nin beeraleey ah, nin beeraleey ah: jidh fudud oo dhexe
@@ -1216,12 +1465,12 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👩🏽‍🌾	beer-qote, beeraleey, beerinfoof, jidh nooc dhexe, naag, naag beeraleeyad ah, naag beeraleeyad ah: jidh nooc dhexe
 👩🏾‍🌾	beer-qote, beeraleey, beerinfoof, jidh nooc madaw oo dhexe, naag, naag beeraleeyad ah, naag beeraleeyad ah: jidh nooc madaw oo dhexe
 👩🏿‍🌾	beer-qote, beeraleey, beerinfoof, jidh madaw, naag, naag beeraleeyad ah, naag beeraleeyad ah: jidh madaw
-🧑‍🍳	cunno kariye, madaxa sare, cunno kariye
-🧑🏻‍🍳	cunno kariye, cunno kariye: jidh fudud, jidh fudud, madaxa sare, cunno kariye
-🧑🏼‍🍳	cunno kariye, cunno kariye: jidh fudud oo dhexe, jidh fudud oo dhexe, madaxa sare, cunno kariye
-🧑🏽‍🍳	cunno kariye, cunno kariye: jidh nooc dhexe, jidh nooc dhexe, madaxa sare, cunno kariye
-🧑🏾‍🍳	cunno kariye, cunno kariye: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, madaxa sare, cunno kariye
-🧑🏿‍🍳	cunno kariye, cunno kariye: jidh madaw, jidh madaw, madaxa sare, cunno kariye
+🧑‍🍳	cunno kariye, madaxa sare
+🧑🏻‍🍳	cunno kariye, cunno kariye: jidh fudud, jidh fudud, madaxa sare
+🧑🏼‍🍳	cunno kariye, cunno kariye: jidh fudud oo dhexe, jidh fudud oo dhexe, madaxa sare
+🧑🏽‍🍳	cunno kariye, cunno kariye: jidh nooc dhexe, jidh nooc dhexe, madaxa sare
+🧑🏾‍🍳	cunno kariye, cunno kariye: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, madaxa sare
+🧑🏿‍🍳	cunno kariye, cunno kariye: jidh madaw, jidh madaw, madaxa sare
 👨‍🍳	kariye, madaxa kariyaha, nin, nin kariye ah
 👨🏻‍🍳	jidh fudud, kariye, madaxa kariyaha, nin, nin kariye ah, nin kariye ah: jidh fudud
 👨🏼‍🍳	jidh fudud oo dhexe, kariye, madaxa kariyaha, nin, nin kariye ah, nin kariye ah: jidh fudud oo dhexe
@@ -1270,12 +1519,12 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👩🏽‍🏭	isugeynta, jidh nooc dhexe, naag, naag shaqaale warshad ah, naag shaqaale warshad ah: jidh nooc dhexe, shaqaale, warshad, warshad ah
 👩🏾‍🏭	isugeynta, jidh nooc madaw oo dhexe, naag, naag shaqaale warshad ah, naag shaqaale warshad ah: jidh nooc madaw oo dhexe, shaqaale, warshad, warshad ah
 👩🏿‍🏭	isugeynta, jidh madaw, naag, naag shaqaale warshad ah, naag shaqaale warshad ah: jidh madaw, shaqaale, warshad, warshad ah
-🧑‍💼	ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar, shaqaale xafiis
-🧑🏻‍💼	ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar, jidh fudud, shaqaale xafiis, shaqaale xafiis: jidh fudud
-🧑🏼‍💼	ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar, jidh fudud oo dhexe, shaqaale xafiis, shaqaale xafiis: jidh fudud oo dhexe
-🧑🏽‍💼	ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar, jidh nooc dhexe, shaqaale xafiis, shaqaale xafiis: jidh nooc dhexe
-🧑🏾‍💼	ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar, jidh nooc madaw oo dhexe, shaqaale xafiis, shaqaale xafiis: jidh nooc madaw oo dhexe
-🧑🏿‍💼	ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar, jidh madaw, shaqaale xafiis, shaqaale xafiis: jidh madaw
+🧑‍💼	ajitekjar, ganacsi, maamule, shaqaale xafiis, white-collar
+🧑🏻‍💼	ajitekjar, ganacsi, jidh fudud, maamule, shaqaale xafiis, shaqaale xafiis: jidh fudud, white-collar
+🧑🏼‍💼	ajitekjar, ganacsi, jidh fudud oo dhexe, maamule, shaqaale xafiis, shaqaale xafiis: jidh fudud oo dhexe, white-collar
+🧑🏽‍💼	ajitekjar, ganacsi, jidh nooc dhexe, maamule, shaqaale xafiis, shaqaale xafiis: jidh nooc dhexe, white-collar
+🧑🏾‍💼	ajitekjar, ganacsi, jidh nooc madaw oo dhexe, maamule, shaqaale xafiis, shaqaale xafiis: jidh nooc madaw oo dhexe, white-collar
+🧑🏿‍💼	ajitekjar, ganacsi, jidh madaw, maamule, shaqaale xafiis, shaqaale xafiis: jidh madaw, white-collar
 👨‍💼	ganacsi, maamule, muhindis dhismo, nin, nin shaqaale xafiis ah, shaqo xafiiseed
 👨🏻‍💼	ganacsi, jidh fudud, maamule, muhindis dhismo, nin, nin shaqaale xafiis ah, nin shaqaale xafiis ah: jidh fudud, shaqo xafiiseed
 👨🏼‍💼	ganacsi, jidh fudud oo dhexe, maamule, muhindis dhismo, nin, nin shaqaale xafiis ah, nin shaqaale xafiis ah: jidh fudud oo dhexe, shaqo xafiiseed
@@ -1288,12 +1537,12 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👩🏽‍💼	ganacsi, jidh nooc dhexe, maamule, muhindiska dhismaha, naag, naag shaqaale xafiis ah, naag shaqaale xafiis ah: jidh nooc dhexe, naag xafiis ka shaqaysa, shaqo xafiis
 👩🏾‍💼	ganacsi, jidh nooc madaw oo dhexe, maamule, muhindiska dhismaha, naag, naag shaqaale xafiis ah, naag shaqaale xafiis ah: jidh nooc madaw oo dhexe, naag xafiis ka shaqaysa, shaqo xafiis
 👩🏿‍💼	ganacsi, jidh madaw, maamule, muhindiska dhismaha, naag, naag shaqaale xafiis ah, naag shaqaale xafiis ah: jidh madaw, naag xafiis ka shaqaysa, shaqo xafiis
-🧑‍🔬	biyolojisti, kimistyahan, injineer, fisikyahan, saynisyahan, saynisyahan
-🧑🏻‍🔬	biyolojisti, kimistyahan, injineer, fisikyahan, saynisyahan, jidh fudud, saynisyahan, saynisyahan: jidh fudud
-🧑🏼‍🔬	biyolojisti, kimistyahan, injineer, fisikyahan, saynisyahan, jidh fudud oo dhexe, saynisyahan, saynisyahan: jidh fudud oo dhexe
-🧑🏽‍🔬	biyolojisti, kimistyahan, injineer, fisikyahan, saynisyahan, jidh nooc dhexe, saynisyahan, saynisyahan: jidh nooc dhexe
-🧑🏾‍🔬	biyolojisti, kimistyahan, injineer, fisikyahan, saynisyahan, jidh nooc madaw oo dhexe, saynisyahan, saynisyahan: jidh nooc madaw oo dhexe
-🧑🏿‍🔬	biyolojisti, kimistyahan, injineer, fisikyahan, saynisyahan, jidh madaw, saynisyahan, saynisyahan: jidh madaw
+🧑‍🔬	biyolojisti, fisikyahan, injineer, kimistyahan, saynisyahan
+🧑🏻‍🔬	biyolojisti, fisikyahan, injineer, jidh fudud, kimistyahan, saynisyahan, saynisyahan: jidh fudud
+🧑🏼‍🔬	biyolojisti, fisikyahan, injineer, jidh fudud oo dhexe, kimistyahan, saynisyahan, saynisyahan: jidh fudud oo dhexe
+🧑🏽‍🔬	biyolojisti, fisikyahan, injineer, jidh nooc dhexe, kimistyahan, saynisyahan, saynisyahan: jidh nooc dhexe
+🧑🏾‍🔬	biyolojisti, fisikyahan, injineer, jidh nooc madaw oo dhexe, kimistyahan, saynisyahan, saynisyahan: jidh nooc madaw oo dhexe
+🧑🏿‍🔬	biyolojisti, fisikyahan, injineer, jidh madaw, kimistyahan, saynisyahan, saynisyahan: jidh madaw
 👨‍🔬	cilmiga nafleeyda barta, farmashiiste, injineer, khabiirka cilmiga sayniska, khabiirka fiisikiska, nin, qabiir saynisyahan ah, saynisyahan
 👨🏻‍🔬	cilmiga nafleeyda barta, farmashiiste, injineer, jidh fudud, khabiirka cilmiga sayniska, khabiirka fiisikiska, nin, qabiir saynisyahan ah, qabiir saynisyahan ah: jidh fudud, saynisyahan
 👨🏼‍🔬	cilmiga nafleeyda barta, farmashiiste, injineer, jidh fudud oo dhexe, khabiirka cilmiga sayniska, khabiirka fiisikiska, nin, qabiir saynisyahan ah, qabiir saynisyahan ah: jidh fudud oo dhexe, saynisyahan
@@ -1306,30 +1555,30 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👩🏽‍🔬	cilmiga nafleeyda barta, farmashiiste, haweeney cilmi sayniska taqaan, haweeney cilmi sayniska taqaan: jidh nooc dhexe, injineer, jidh nooc dhexe, khabiirka cilmiga sayniska, khabiirka fiisikiska, naag
 👩🏾‍🔬	cilmiga nafleeyda barta, farmashiiste, haweeney cilmi sayniska taqaan, haweeney cilmi sayniska taqaan: jidh nooc madaw oo dhexe, injineer, jidh nooc madaw oo dhexe, khabiirka cilmiga sayniska, khabiirka fiisikiska, naag
 👩🏿‍🔬	cilmiga nafleeyda barta, farmashiiste, haweeney cilmi sayniska taqaan, haweeney cilmi sayniska taqaan: jidh madaw, injineer, jidh madaw, khabiirka cilmiga sayniska, khabiirka fiisikiska, naag
-🧑‍💻	Tiknoolajiste, koodhar, horumariye, soo saare, softwaayar, tiknoolajiste
-🧑🏻‍💻	Tiknoolajiste, Tiknoolajiste: jidh fudud, jidh fudud, koodhar, horumariye, soo saare, softwaayar, tiknoolajiste
-🧑🏼‍💻	Tiknoolajiste, Tiknoolajiste: jidh fudud oo dhexe, jidh fudud oo dhexe, koodhar, horumariye, soo saare, softwaayar, tiknoolajiste
-🧑🏽‍💻	Tiknoolajiste, Tiknoolajiste: jidh nooc dhexe, jidh nooc dhexe, koodhar, horumariye, soo saare, softwaayar, tiknoolajiste
-🧑🏾‍💻	Tiknoolajiste, Tiknoolajiste: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, koodhar, horumariye, soo saare, softwaayar, tiknoolajiste
-🧑🏿‍💻	Tiknoolajiste, Tiknoolajiste: jidh madaw, jidh madaw, koodhar, horumariye, soo saare, softwaayar, tiknoolajiste
-👨‍💻	Injineer, hindise, injineer, naag, nin tiknoolijiste ah, soo saare, sooftawee, tinkoolijiste
-👨🏻‍💻	Injineer, hindise, injineer, jidh fudud, naag, nin tiknoolijiste ah, nin tiknoolijiste ah: jidh fudud, soo saare, sooftawee, tinkoolijiste
-👨🏼‍💻	Injineer, hindise, injineer, jidh fudud oo dhexe, naag, nin tiknoolijiste ah, nin tiknoolijiste ah: jidh fudud oo dhexe, soo saare, sooftawee, tinkoolijiste
-👨🏽‍💻	Injineer, hindise, injineer, jidh nooc dhexe, naag, nin tiknoolijiste ah, nin tiknoolijiste ah: jidh nooc dhexe, soo saare, sooftawee, tinkoolijiste
-👨🏾‍💻	Injineer, hindise, injineer, jidh nooc madaw oo dhexe, naag, nin tiknoolijiste ah, nin tiknoolijiste ah: jidh nooc madaw oo dhexe, soo saare, sooftawee, tinkoolijiste
-👨🏿‍💻	Injineer, hindise, injineer, jidh madaw, naag, nin tiknoolijiste ah, nin tiknoolijiste ah: jidh madaw, soo saare, sooftawee, tinkoolijiste
+🧑‍💻	Tiknoolajiste, horumariye, koodhar, softwaayar, soo saare
+🧑🏻‍💻	Tiknoolajiste, Tiknoolajiste: jidh fudud, horumariye, jidh fudud, koodhar, softwaayar, soo saare
+🧑🏼‍💻	Tiknoolajiste, Tiknoolajiste: jidh fudud oo dhexe, horumariye, jidh fudud oo dhexe, koodhar, softwaayar, soo saare
+🧑🏽‍💻	Tiknoolajiste, Tiknoolajiste: jidh nooc dhexe, horumariye, jidh nooc dhexe, koodhar, softwaayar, soo saare
+🧑🏾‍💻	Tiknoolajiste, Tiknoolajiste: jidh nooc madaw oo dhexe, horumariye, jidh nooc madaw oo dhexe, koodhar, softwaayar, soo saare
+🧑🏿‍💻	Tiknoolajiste, Tiknoolajiste: jidh madaw, horumariye, jidh madaw, koodhar, softwaayar, soo saare
+👨‍💻	Injineer, hindise, naag, nin tiknoolijiste ah, soo saare, sooftawee, tinkoolijiste
+👨🏻‍💻	Injineer, hindise, jidh fudud, naag, nin tiknoolijiste ah, nin tiknoolijiste ah: jidh fudud, soo saare, sooftawee, tinkoolijiste
+👨🏼‍💻	Injineer, hindise, jidh fudud oo dhexe, naag, nin tiknoolijiste ah, nin tiknoolijiste ah: jidh fudud oo dhexe, soo saare, sooftawee, tinkoolijiste
+👨🏽‍💻	Injineer, hindise, jidh nooc dhexe, naag, nin tiknoolijiste ah, nin tiknoolijiste ah: jidh nooc dhexe, soo saare, sooftawee, tinkoolijiste
+👨🏾‍💻	Injineer, hindise, jidh nooc madaw oo dhexe, naag, nin tiknoolijiste ah, nin tiknoolijiste ah: jidh nooc madaw oo dhexe, soo saare, sooftawee, tinkoolijiste
+👨🏿‍💻	Injineer, hindise, jidh madaw, naag, nin tiknoolijiste ah, nin tiknoolijiste ah: jidh madaw, soo saare, sooftawee, tinkoolijiste
 👩‍💻	hindise, injineer, naag, naag tiknoolijisate ah, soo saare, sooftawee, tiknoolijiste
 👩🏻‍💻	hindise, injineer, jidh fudud, naag, naag tiknoolijisate ah, naag tiknoolijisate ah: jidh fudud, soo saare, sooftawee, tiknoolijiste
 👩🏼‍💻	hindise, injineer, jidh fudud oo dhexe, naag, naag tiknoolijisate ah, naag tiknoolijisate ah: jidh fudud oo dhexe, soo saare, sooftawee, tiknoolijiste
 👩🏽‍💻	hindise, injineer, jidh nooc dhexe, naag, naag tiknoolijisate ah, naag tiknoolijisate ah: jidh nooc dhexe, soo saare, sooftawee, tiknoolijiste
 👩🏾‍💻	hindise, injineer, jidh nooc madaw oo dhexe, naag, naag tiknoolijisate ah, naag tiknoolijisate ah: jidh nooc madaw oo dhexe, soo saare, sooftawee, tiknoolijiste
 👩🏿‍💻	hindise, injineer, jidh madaw, naag, naag tiknoolijisate ah, naag tiknoolijisate ah: jidh madaw, soo saare, sooftawee, tiknoolijiste
-🧑‍🎤	heesaa, jillaa, madadaaliye, rook, heesaa, xidig
-🧑🏻‍🎤	heesaa, heesaa: jidh fudud, jidh fudud, jillaa, madadaaliye, rook, heesaa, xidig
-🧑🏼‍🎤	heesaa, heesaa: jidh fudud oo dhexe, jidh fudud oo dhexe, jillaa, madadaaliye, rook, heesaa, xidig
-🧑🏽‍🎤	heesaa, heesaa: jidh nooc dhexe, jidh nooc dhexe, jillaa, madadaaliye, rook, heesaa, xidig
-🧑🏾‍🎤	heesaa, heesaa: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, jillaa, madadaaliye, rook, heesaa, xidig
-🧑🏿‍🎤	heesaa, heesaa: jidh madaw, jidh madaw, jillaa, madadaaliye, rook, heesaa, xidig
+🧑‍🎤	heesaa, jillaa, madadaaliye, rook, xidig
+🧑🏻‍🎤	heesaa, heesaa: jidh fudud, jidh fudud, jillaa, madadaaliye, rook, xidig
+🧑🏼‍🎤	heesaa, heesaa: jidh fudud oo dhexe, jidh fudud oo dhexe, jillaa, madadaaliye, rook, xidig
+🧑🏽‍🎤	heesaa, heesaa: jidh nooc dhexe, jidh nooc dhexe, jillaa, madadaaliye, rook, xidig
+🧑🏾‍🎤	heesaa, heesaa: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, jillaa, madadaaliye, rook, xidig
+🧑🏿‍🎤	heesaa, heesaa: jidh madaw, jidh madaw, jillaa, madadaaliye, rook, xidig
 👨‍🎤	atoore, fannaan, maddadaaleeye, nin, nin fannaan ah, xiddig, xiddig heesaa
 👨🏻‍🎤	atoore, fannaan, jidh fudud, maddadaaleeye, nin, nin fannaan ah, nin fannaan ah: jidh fudud, xiddig, xiddig heesaa
 👨🏼‍🎤	atoore, fannaan, jidh fudud oo dhexe, maddadaaleeye, nin, nin fannaan ah, nin fannaan ah: jidh fudud oo dhexe, xiddig, xiddig heesaa
@@ -1342,12 +1591,12 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👩🏽‍🎤	atoore, fannaan, jidh nooc dhexe, maddadaaleeye, naag, naag fannaanad ah, naag fannaanad ah: jidh nooc dhexe, xiddig, xiddig heesaa
 👩🏾‍🎤	atoore, fannaan, jidh nooc madaw oo dhexe, maddadaaleeye, naag, naag fannaanad ah, naag fannaanad ah: jidh nooc madaw oo dhexe, xiddig, xiddig heesaa
 👩🏿‍🎤	atoore, fannaan, jidh madaw, maddadaaleeye, naag, naag fannaanad ah, naag fannaanad ah: jidh madaw, xiddig, xiddig heesaa
-🧑‍🎨	fanaan, fanaan, laxan
-🧑🏻‍🎨	fanaan, fanaan, laxan, fanaan: jidh fudud, jidh fudud
-🧑🏼‍🎨	fanaan, fanaan, laxan, fanaan: jidh fudud oo dhexe, jidh fudud oo dhexe
-🧑🏽‍🎨	fanaan, fanaan, laxan, fanaan: jidh nooc dhexe, jidh nooc dhexe
-🧑🏾‍🎨	fanaan, fanaan, laxan, fanaan: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe
-🧑🏿‍🎨	fanaan, fanaan, laxan, fanaan: jidh madaw, jidh madaw
+🧑‍🎨	fanaan, laxan
+🧑🏻‍🎨	fanaan, fanaan: jidh fudud, jidh fudud, laxan
+🧑🏼‍🎨	fanaan, fanaan: jidh fudud oo dhexe, jidh fudud oo dhexe, laxan
+🧑🏽‍🎨	fanaan, fanaan: jidh nooc dhexe, jidh nooc dhexe, laxan
+🧑🏾‍🎨	fanaan, fanaan: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, laxan
+🧑🏿‍🎨	fanaan, fanaan: jidh madaw, jidh madaw, laxan
 👨‍🎨	farsama yaqaan, nin, nin farsama yaqaan ah, qalab farsamo
 👨🏻‍🎨	farsama yaqaan, jidh fudud, nin, nin farsama yaqaan ah, nin farsama yaqaan ah: jidh fudud, qalab farsamo
 👨🏼‍🎨	farsama yaqaan, jidh fudud oo dhexe, nin, nin farsama yaqaan ah, nin farsama yaqaan ah: jidh fudud oo dhexe, qalab farsamo
@@ -1360,12 +1609,12 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👩🏽‍🎨	farsama yaqaan, jidh nooc dhexe, naag, naag farsama yaqaan ah, naag farsama yaqaan ah: jidh nooc dhexe, qalab farsamo
 👩🏾‍🎨	farsama yaqaan, jidh nooc madaw oo dhexe, naag, naag farsama yaqaan ah, naag farsama yaqaan ah: jidh nooc madaw oo dhexe, qalab farsamo
 👩🏿‍🎨	farsama yaqaan, jidh madaw, naag, naag farsama yaqaan ah, naag farsama yaqaan ah: jidh madaw, qalab farsamo
-🧑‍✈	darawal dayuurad, darawal dayuurad, dayuurad
-🧑🏻‍✈	darawal dayuurad, darawal dayuurad, dayuurad, darawal dayuurad: jidh fudud, jidh fudud
-🧑🏼‍✈	darawal dayuurad, darawal dayuurad, dayuurad, darawal dayuurad: jidh fudud oo dhexe, jidh fudud oo dhexe
-🧑🏽‍✈	darawal dayuurad, darawal dayuurad, dayuurad, darawal dayuurad: jidh nooc dhexe, jidh nooc dhexe
-🧑🏾‍✈	darawal dayuurad, darawal dayuurad, dayuurad, darawal dayuurad: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe
-🧑🏿‍✈	darawal dayuurad, darawal dayuurad, dayuurad, darawal dayuurad: jidh madaw, jidh madaw
+🧑‍✈	darawal dayuurad, dayuurad
+🧑🏻‍✈	darawal dayuurad, darawal dayuurad: jidh fudud, dayuurad, jidh fudud
+🧑🏼‍✈	darawal dayuurad, darawal dayuurad: jidh fudud oo dhexe, dayuurad, jidh fudud oo dhexe
+🧑🏽‍✈	darawal dayuurad, darawal dayuurad: jidh nooc dhexe, dayuurad, jidh nooc dhexe
+🧑🏾‍✈	darawal dayuurad, darawal dayuurad: jidh nooc madaw oo dhexe, dayuurad, jidh nooc madaw oo dhexe
+🧑🏿‍✈	darawal dayuurad, darawal dayuurad: jidh madaw, dayuurad, jidh madaw
 👨‍✈	diyaarad, duuliye, nin, nin duuliye ah
 👨🏻‍✈	diyaarad, duuliye, jidh fudud, nin, nin duuliye ah, nin duuliye ah: jidh fudud
 👨🏼‍✈	diyaarad, duuliye, jidh fudud oo dhexe, nin, nin duuliye ah, nin duuliye ah: jidh fudud oo dhexe
@@ -1600,18 +1849,18 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🤱🏽	canug, jidh nooc dhexe, naas, naas-nuujin, naas-nuujin: jidh nooc dhexe, xannaanaynta
 🤱🏾	canug, jidh nooc madaw oo dhexe, naas, naas-nuujin, naas-nuujin: jidh nooc madaw oo dhexe, xannaanaynta
 🤱🏿	canug, jidh madaw, naas, naas-nuujin, naas-nuujin: jidh madaw, xannaanaynta
-👩‍🍼	canug, quudin, kalkaalin,naag, naag canug quudineeysa
-👩🏻‍🍼	canug, quudin, kalkaalin,naag, jidh fudud, naag canug quudineeysa, naag canug quudineeysa: jidh fudud
-👩🏼‍🍼	canug, quudin, kalkaalin,naag, jidh fudud oo dhexe, naag canug quudineeysa, naag canug quudineeysa: jidh fudud oo dhexe
-👩🏽‍🍼	canug, quudin, kalkaalin,naag, jidh nooc dhexe, naag canug quudineeysa, naag canug quudineeysa: jidh nooc dhexe
-👩🏾‍🍼	canug, quudin, kalkaalin,naag, jidh nooc madaw oo dhexe, naag canug quudineeysa, naag canug quudineeysa: jidh nooc madaw oo dhexe
-👩🏿‍🍼	canug, quudin, kalkaalin,naag, jidh madaw, naag canug quudineeysa, naag canug quudineeysa: jidh madaw
-👨‍🍼	canug, quudin, nin, kalkaalin, nin canug quudinaya
-👨🏻‍🍼	canug, quudin, nin, kalkaalin, jidh fudud, nin canug quudinaya, nin canug quudinaya: jidh fudud
-👨🏼‍🍼	canug, quudin, nin, kalkaalin, jidh fudud oo dhexe, nin canug quudinaya, nin canug quudinaya: jidh fudud oo dhexe
-👨🏽‍🍼	canug, quudin, nin, kalkaalin, jidh nooc dhexe, nin canug quudinaya, nin canug quudinaya: jidh nooc dhexe
-👨🏾‍🍼	canug, quudin, nin, kalkaalin, jidh nooc madaw oo dhexe, nin canug quudinaya, nin canug quudinaya: jidh nooc madaw oo dhexe
-👨🏿‍🍼	canug, quudin, nin, kalkaalin, jidh madaw, nin canug quudinaya, nin canug quudinaya: jidh madaw
+👩‍🍼	canug, kalkaalin, naag, naag canug quudineeysa, quudin
+👩🏻‍🍼	canug, jidh fudud, kalkaalin, naag, naag canug quudineeysa, naag canug quudineeysa: jidh fudud, quudin
+👩🏼‍🍼	canug, jidh fudud oo dhexe, kalkaalin, naag, naag canug quudineeysa, naag canug quudineeysa: jidh fudud oo dhexe, quudin
+👩🏽‍🍼	canug, jidh nooc dhexe, kalkaalin, naag, naag canug quudineeysa, naag canug quudineeysa: jidh nooc dhexe, quudin
+👩🏾‍🍼	canug, jidh nooc madaw oo dhexe, kalkaalin, naag, naag canug quudineeysa, naag canug quudineeysa: jidh nooc madaw oo dhexe, quudin
+👩🏿‍🍼	canug, jidh madaw, kalkaalin, naag, naag canug quudineeysa, naag canug quudineeysa: jidh madaw, quudin
+👨‍🍼	canug, kalkaalin, nin, nin canug quudinaya, quudin
+👨🏻‍🍼	canug, jidh fudud, kalkaalin, nin, nin canug quudinaya, nin canug quudinaya: jidh fudud, quudin
+👨🏼‍🍼	canug, jidh fudud oo dhexe, kalkaalin, nin, nin canug quudinaya, nin canug quudinaya: jidh fudud oo dhexe, quudin
+👨🏽‍🍼	canug, jidh nooc dhexe, kalkaalin, nin, nin canug quudinaya, nin canug quudinaya: jidh nooc dhexe, quudin
+👨🏾‍🍼	canug, jidh nooc madaw oo dhexe, kalkaalin, nin, nin canug quudinaya, nin canug quudinaya: jidh nooc madaw oo dhexe, quudin
+👨🏿‍🍼	canug, jidh madaw, kalkaalin, nin, nin canug quudinaya, nin canug quudinaya: jidh madaw, quudin
 🧑‍🍼	canug, kalkaalin, qof, qof canug quudinaya, qof quudinaya canug, quudin
 🧑🏻‍🍼	canug, jidh fudud, kalkaalin, qof, qof canug quudinaya, qof canug quudinaya: jidh fudud, qof quudinaya canug, quudin
 🧑🏼‍🍼	canug, jidh fudud oo dhexe, kalkaalin, qof, qof canug quudinaya, qof canug quudinaya: jidh fudud oo dhexe, qof quudinaya canug, quudin
@@ -1624,12 +1873,12 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👼🏽	canug, jidh nooc dhexe, khiyaali, malaa’ig, malaa’igta caruurta, malaa’igta caruurta: jidh nooc dhexe, sheeko cirfiid, waji
 👼🏾	canug, jidh nooc madaw oo dhexe, khiyaali, malaa’ig, malaa’igta caruurta, malaa’igta caruurta: jidh nooc madaw oo dhexe, sheeko cirfiid, waji
 👼🏿	canug, jidh madaw, khiyaali, malaa’ig, malaa’igta caruurta, malaa’igta caruurta: jidh madaw, sheeko cirfiid, waji
-🎅	Aabaha Ciidda Masiixigga, Aabaha ciidda Masiixigga, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg
-🎅🏻	Aabaha Ciidda Masiixigga, Aabaha Ciidda Masiixigga: jidh fudud, Aabaha ciidda Masiixigga, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg, jidh fudud
-🎅🏼	Aabaha Ciidda Masiixigga, Aabaha Ciidda Masiixigga: jidh fudud oo dhexe, Aabaha ciidda Masiixigga, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg, jidh fudud oo dhexe
-🎅🏽	Aabaha Ciidda Masiixigga, Aabaha Ciidda Masiixigga: jidh nooc dhexe, Aabaha ciidda Masiixigga, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg, jidh nooc dhexe
-🎅🏾	Aabaha Ciidda Masiixigga, Aabaha Ciidda Masiixigga: jidh nooc madaw oo dhexe, Aabaha ciidda Masiixigga, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg, jidh nooc madaw oo dhexe
-🎅🏿	Aabaha Ciidda Masiixigga, Aabaha Ciidda Masiixigga: jidh madaw, Aabaha ciidda Masiixigga, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg, jidh madaw
+🎅	Aabaha Ciidda Masiixigga, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg
+🎅🏻	Aabaha Ciidda Masiixigga, Aabaha Ciidda Masiixigga: jidh fudud, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg, jidh fudud
+🎅🏼	Aabaha Ciidda Masiixigga, Aabaha Ciidda Masiixigga: jidh fudud oo dhexe, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg, jidh fudud oo dhexe
+🎅🏽	Aabaha Ciidda Masiixigga, Aabaha Ciidda Masiixigga: jidh nooc dhexe, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg, jidh nooc dhexe
+🎅🏾	Aabaha Ciidda Masiixigga, Aabaha Ciidda Masiixigga: jidh nooc madaw oo dhexe, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg, jidh nooc madaw oo dhexe
+🎅🏿	Aabaha Ciidda Masiixigga, Aabaha Ciidda Masiixigga: jidh madaw, Alla ka cabsi, Ciidda Masiixigga, aabaha farxdda, aabe, dabbaaldeg, jidh madaw
 🤶	Alla ka cabsi, Marwada Masiixigga, Marwo, ciidda masiixigga, dabbaaldeg, hooyo
 🤶🏻	Alla ka cabsi, Marwada Masiixigga, Marwada Masiixigga: jidh fudud, Marwo, ciidda masiixigga, dabbaaldeg, hooyo, jidh fudud
 🤶🏼	Alla ka cabsi, Marwada Masiixigga, Marwada Masiixigga: jidh fudud oo dhexe, Marwo, ciidda masiixigga, dabbaaldeg, hooyo, jidh fudud oo dhexe
@@ -1829,6 +2078,24 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🚶🏽‍♀	haweeney soconaysa, haweeney soconaysa: jidh nooc dhexe, jidh nooc dhexe, naag, naag socota, socod, socod dheer
 🚶🏾‍♀	haweeney soconaysa, haweeney soconaysa: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, naag, naag socota, socod, socod dheer
 🚶🏿‍♀	haweeney soconaysa, haweeney soconaysa: jidh madaw, jidh madaw, naag, naag socota, socod, socod dheer
+🚶‍➡	qof soconaya, qof soconaya midig u jeeda, socod, socod dheer, socodka
+🚶🏻‍➡	qof soconaya, qof soconaya midig u jeeda, socod, socod dheer, socodka
+🚶🏼‍➡	qof soconaya, qof soconaya midig u jeeda, socod, socod dheer, socodka
+🚶🏽‍➡	qof soconaya, qof soconaya midig u jeeda, socod, socod dheer, socodka
+🚶🏾‍➡	qof soconaya, qof soconaya midig u jeeda, socod, socod dheer, socodka
+🚶🏿‍➡	qof soconaya, qof soconaya midig u jeeda, socod, socod dheer, socodka
+🚶‍♀‍➡	haweeney soconaysa, haweeney soconaysa midig u jeeda, naag, naag socota, socod, socod dheer
+🚶🏻‍♀‍➡	haweeney soconaysa, haweeney soconaysa midig u jeeda, naag, naag socota, socod, socod dheer
+🚶🏼‍♀‍➡	haweeney soconaysa, haweeney soconaysa midig u jeeda, naag, naag socota, socod, socod dheer
+🚶🏽‍♀‍➡	haweeney soconaysa, haweeney soconaysa midig u jeeda, naag, naag socota, socod, socod dheer
+🚶🏾‍♀‍➡	haweeney soconaysa, haweeney soconaysa midig u jeeda, naag, naag socota, socod, socod dheer
+🚶🏿‍♀‍➡	haweeney soconaysa, haweeney soconaysa midig u jeeda, naag, naag socota, socod, socod dheer
+🚶‍♂‍➡	nin, nin soconaya, nin soconaya midig u jeeda, socod, socod dheer
+🚶🏻‍♂‍➡	nin, nin soconaya, nin soconaya midig u jeeda, socod, socod dheer
+🚶🏼‍♂‍➡	nin, nin soconaya, nin soconaya midig u jeeda, socod, socod dheer
+🚶🏽‍♂‍➡	nin, nin soconaya, nin soconaya midig u jeeda, socod, socod dheer
+🚶🏾‍♂‍➡	nin, nin soconaya, nin soconaya midig u jeeda, socod, socod dheer
+🚶🏿‍♂‍➡	nin, nin soconaya, nin soconaya midig u jeeda, socod, socod dheer
 🧍	istaag, qof taaggan, taaggan
 🧍🏻	istaag, jidh fudud, qof taaggan, qof taaggan: jidh fudud, taaggan
 🧍🏼	istaag, jidh fudud oo dhexe, qof taaggan, qof taaggan: jidh fudud oo dhexe, taaggan
@@ -1865,60 +2132,132 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🧎🏽‍♀	jidh nooc dhexe, jilba dhiganayasa, naag, naag jilba dhiganaysa, naag jilba dhiganaysa: jidh nooc dhexe
 🧎🏾‍♀	jidh nooc madaw oo dhexe, jilba dhiganayasa, naag, naag jilba dhiganaysa, naag jilba dhiganaysa: jidh nooc madaw oo dhexe
 🧎🏿‍♀	jidh madaw, jilba dhiganayasa, naag, naag jilba dhiganaysa, naag jilba dhiganaysa: jidh madaw
+🧎‍➡	jilba dhiganaya, jilba dhigo, qof jilbaha dhiganaya, qof jilbaha dhiganaya midig u jeeda
+🧎🏻‍➡	jilba dhiganaya, jilba dhigo, qof jilbaha dhiganaya, qof jilbaha dhiganaya midig u jeeda
+🧎🏼‍➡	jilba dhiganaya, jilba dhigo, qof jilbaha dhiganaya, qof jilbaha dhiganaya midig u jeeda
+🧎🏽‍➡	jilba dhiganaya, jilba dhigo, qof jilbaha dhiganaya, qof jilbaha dhiganaya midig u jeeda
+🧎🏾‍➡	jilba dhiganaya, jilba dhigo, qof jilbaha dhiganaya, qof jilbaha dhiganaya midig u jeeda
+🧎🏿‍➡	jilba dhiganaya, jilba dhigo, qof jilbaha dhiganaya, qof jilbaha dhiganaya midig u jeeda
+🧎‍♀‍➡	jilba dhiganayasa, naag, naag jilba dhiganaysa, naag jilba dhiganaysa midig u jeeda
+🧎🏻‍♀‍➡	jilba dhiganayasa, naag, naag jilba dhiganaysa, naag jilba dhiganaysa midig u jeeda
+🧎🏼‍♀‍➡	jilba dhiganayasa, naag, naag jilba dhiganaysa, naag jilba dhiganaysa midig u jeeda
+🧎🏽‍♀‍➡	jilba dhiganayasa, naag, naag jilba dhiganaysa, naag jilba dhiganaysa midig u jeeda
+🧎🏾‍♀‍➡	jilba dhiganayasa, naag, naag jilba dhiganaysa, naag jilba dhiganaysa midig u jeeda
+🧎🏿‍♀‍➡	jilba dhiganayasa, naag, naag jilba dhiganaysa, naag jilba dhiganaysa midig u jeeda
+🧎‍♂‍➡	jilba dhiganaya, nin, nin jilba dhiganaya, nin jilba dhiganaya midig u jeeda
+🧎🏻‍♂‍➡	jilba dhiganaya, nin, nin jilba dhiganaya, nin jilba dhiganaya midig u jeeda
+🧎🏼‍♂‍➡	jilba dhiganaya, nin, nin jilba dhiganaya, nin jilba dhiganaya midig u jeeda
+🧎🏽‍♂‍➡	jilba dhiganaya, nin, nin jilba dhiganaya, nin jilba dhiganaya midig u jeeda
+🧎🏾‍♂‍➡	jilba dhiganaya, nin, nin jilba dhiganaya, nin jilba dhiganaya midig u jeeda
+🧎🏿‍♂‍➡	jilba dhiganaya, nin, nin jilba dhiganaya, nin jilba dhiganaya midig u jeeda
 🧑‍🦯	indhoole, marin u helid, qof wata bakoorad cas
 🧑🏻‍🦯	indhoole, jidh fudud, marin u helid, qof wata bakoorad cas, qof wata bakoorad cas: jidh fudud
 🧑🏼‍🦯	indhoole, jidh fudud oo dhexe, marin u helid, qof wata bakoorad cas, qof wata bakoorad cas: jidh fudud oo dhexe
 🧑🏽‍🦯	indhoole, jidh nooc dhexe, marin u helid, qof wata bakoorad cas, qof wata bakoorad cas: jidh nooc dhexe
 🧑🏾‍🦯	indhoole, jidh nooc madaw oo dhexe, marin u helid, qof wata bakoorad cas, qof wata bakoorad cas: jidh nooc madaw oo dhexe
 🧑🏿‍🦯	indhoole, jidh madaw, marin u helid, qof wata bakoorad cas, qof wata bakoorad cas: jidh madaw
+🧑‍🦯‍➡	indhoole, marin u helid, qof wata bakoorad cas, qof wata bakoorad cas midig u jeeda
+🧑🏻‍🦯‍➡	indhoole, marin u helid, qof wata bakoorad cas, qof wata bakoorad cas midig u jeeda
+🧑🏼‍🦯‍➡	indhoole, marin u helid, qof wata bakoorad cas, qof wata bakoorad cas midig u jeeda
+🧑🏽‍🦯‍➡	indhoole, marin u helid, qof wata bakoorad cas, qof wata bakoorad cas midig u jeeda
+🧑🏾‍🦯‍➡	indhoole, marin u helid, qof wata bakoorad cas, qof wata bakoorad cas midig u jeeda
+🧑🏿‍🦯‍➡	indhoole, marin u helid, qof wata bakoorad cas, qof wata bakoorad cas midig u jeeda
 👨‍🦯	awood u yeelid, indhoole, nin, nin sita usha cad indhoolaha
 👨🏻‍🦯	awood u yeelid, indhoole, jidh fudud, nin, nin sita usha cad indhoolaha, nin sita usha cad indhoolaha: jidh fudud
 👨🏼‍🦯	awood u yeelid, indhoole, jidh fudud oo dhexe, nin, nin sita usha cad indhoolaha, nin sita usha cad indhoolaha: jidh fudud oo dhexe
 👨🏽‍🦯	awood u yeelid, indhoole, jidh nooc dhexe, nin, nin sita usha cad indhoolaha, nin sita usha cad indhoolaha: jidh nooc dhexe
 👨🏾‍🦯	awood u yeelid, indhoole, jidh nooc madaw oo dhexe, nin, nin sita usha cad indhoolaha, nin sita usha cad indhoolaha: jidh nooc madaw oo dhexe
 👨🏿‍🦯	awood u yeelid, indhoole, jidh madaw, nin, nin sita usha cad indhoolaha, nin sita usha cad indhoolaha: jidh madaw
+👨‍🦯‍➡	awood u yeelid, indhoole, nin, nin sita usha cad indhoolaha, nin sita usha cad indhoolaha midig u jeeda
+👨🏻‍🦯‍➡	awood u yeelid, indhoole, nin, nin sita usha cad indhoolaha, nin sita usha cad indhoolaha midig u jeeda
+👨🏼‍🦯‍➡	awood u yeelid, indhoole, nin, nin sita usha cad indhoolaha, nin sita usha cad indhoolaha midig u jeeda
+👨🏽‍🦯‍➡	awood u yeelid, indhoole, nin, nin sita usha cad indhoolaha, nin sita usha cad indhoolaha midig u jeeda
+👨🏾‍🦯‍➡	awood u yeelid, indhoole, nin, nin sita usha cad indhoolaha, nin sita usha cad indhoolaha midig u jeeda
+👨🏿‍🦯‍➡	awood u yeelid, indhoole, nin, nin sita usha cad indhoolaha, nin sita usha cad indhoolaha midig u jeeda
 👩‍🦯	awood u yeelid, indhoole, naag, naag sidata usha cad indhoolaha
 👩🏻‍🦯	awood u yeelid, indhoole, jidh fudud, naag, naag sidata usha cad indhoolaha, naag sidata usha cad indhoolaha: jidh fudud
 👩🏼‍🦯	awood u yeelid, indhoole, jidh fudud oo dhexe, naag, naag sidata usha cad indhoolaha, naag sidata usha cad indhoolaha: jidh fudud oo dhexe
 👩🏽‍🦯	awood u yeelid, indhoole, jidh nooc dhexe, naag, naag sidata usha cad indhoolaha, naag sidata usha cad indhoolaha: jidh nooc dhexe
 👩🏾‍🦯	awood u yeelid, indhoole, jidh nooc madaw oo dhexe, naag, naag sidata usha cad indhoolaha, naag sidata usha cad indhoolaha: jidh nooc madaw oo dhexe
 👩🏿‍🦯	awood u yeelid, indhoole, jidh madaw, naag, naag sidata usha cad indhoolaha, naag sidata usha cad indhoolaha: jidh madaw
+👩‍🦯‍➡	awood u yeelid, indhoole, naag, naag sidata usha cad indhoolaha, naag sidata usha cad indhoolaha midig u jeeda
+👩🏻‍🦯‍➡	awood u yeelid, indhoole, naag, naag sidata usha cad indhoolaha, naag sidata usha cad indhoolaha midig u jeeda
+👩🏼‍🦯‍➡	awood u yeelid, indhoole, naag, naag sidata usha cad indhoolaha, naag sidata usha cad indhoolaha midig u jeeda
+👩🏽‍🦯‍➡	awood u yeelid, indhoole, naag, naag sidata usha cad indhoolaha, naag sidata usha cad indhoolaha midig u jeeda
+👩🏾‍🦯‍➡	awood u yeelid, indhoole, naag, naag sidata usha cad indhoolaha, naag sidata usha cad indhoolaha midig u jeeda
+👩🏿‍🦯‍➡	awood u yeelid, indhoole, naag, naag sidata usha cad indhoolaha, naag sidata usha cad indhoolaha midig u jeeda
 🧑‍🦼	awoood u yeelid, qof kufadhiya gaari matoor leh, qof saaran gaari matoor leh/ gaari curyaan
 🧑🏻‍🦼	awoood u yeelid, jidh fudud, qof kufadhiya gaari matoor leh, qof kufadhiya gaari matoor leh: jidh fudud, qof saaran gaari matoor leh/ gaari curyaan
 🧑🏼‍🦼	awoood u yeelid, jidh fudud oo dhexe, qof kufadhiya gaari matoor leh, qof kufadhiya gaari matoor leh: jidh fudud oo dhexe, qof saaran gaari matoor leh/ gaari curyaan
 🧑🏽‍🦼	awoood u yeelid, jidh nooc dhexe, qof kufadhiya gaari matoor leh, qof kufadhiya gaari matoor leh: jidh nooc dhexe, qof saaran gaari matoor leh/ gaari curyaan
 🧑🏾‍🦼	awoood u yeelid, jidh nooc madaw oo dhexe, qof kufadhiya gaari matoor leh, qof kufadhiya gaari matoor leh: jidh nooc madaw oo dhexe, qof saaran gaari matoor leh/ gaari curyaan
 🧑🏿‍🦼	awoood u yeelid, jidh madaw, qof kufadhiya gaari matoor leh, qof kufadhiya gaari matoor leh: jidh madaw, qof saaran gaari matoor leh/ gaari curyaan
+🧑‍🦼‍➡	awoood u yeelid, qof kufadhiya gaari matoor leh, qof kufadhiya gaari matoor leh midig u jeeda, qof saaran gaari matoor leh/ gaari curyaan
+🧑🏻‍🦼‍➡	awoood u yeelid, qof kufadhiya gaari matoor leh, qof kufadhiya gaari matoor leh midig u jeeda, qof saaran gaari matoor leh/ gaari curyaan
+🧑🏼‍🦼‍➡	awoood u yeelid, qof kufadhiya gaari matoor leh, qof kufadhiya gaari matoor leh midig u jeeda, qof saaran gaari matoor leh/ gaari curyaan
+🧑🏽‍🦼‍➡	awoood u yeelid, qof kufadhiya gaari matoor leh, qof kufadhiya gaari matoor leh midig u jeeda, qof saaran gaari matoor leh/ gaari curyaan
+🧑🏾‍🦼‍➡	awoood u yeelid, qof kufadhiya gaari matoor leh, qof kufadhiya gaari matoor leh midig u jeeda, qof saaran gaari matoor leh/ gaari curyaan
+🧑🏿‍🦼‍➡	awoood u yeelid, qof kufadhiya gaari matoor leh, qof kufadhiya gaari matoor leh midig u jeeda, qof saaran gaari matoor leh/ gaari curyaan
 👨‍🦼	awood u yeelid, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursiga curyanka koronto ku shaqeeya
 👨🏻‍🦼	awood u yeelid, jidh fudud, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursi curyaan matoor leh: jidh fudud, nin saaran kursiga curyanka koronto ku shaqeeya
 👨🏼‍🦼	awood u yeelid, jidh fudud oo dhexe, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursi curyaan matoor leh: jidh fudud oo dhexe, nin saaran kursiga curyanka koronto ku shaqeeya
 👨🏽‍🦼	awood u yeelid, jidh nooc dhexe, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursi curyaan matoor leh: jidh nooc dhexe, nin saaran kursiga curyanka koronto ku shaqeeya
 👨🏾‍🦼	awood u yeelid, jidh nooc madaw oo dhexe, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursi curyaan matoor leh: jidh nooc madaw oo dhexe, nin saaran kursiga curyanka koronto ku shaqeeya
 👨🏿‍🦼	awood u yeelid, jidh madaw, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursi curyaan matoor leh: jidh madaw, nin saaran kursiga curyanka koronto ku shaqeeya
+👨‍🦼‍➡	awood u yeelid, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursi curyaan matoor leh midig u jeeda, nin saaran kursiga curyanka koronto ku shaqeeya
+👨🏻‍🦼‍➡	awood u yeelid, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursi curyaan matoor leh midig u jeeda, nin saaran kursiga curyanka koronto ku shaqeeya
+👨🏼‍🦼‍➡	awood u yeelid, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursi curyaan matoor leh midig u jeeda, nin saaran kursiga curyanka koronto ku shaqeeya
+👨🏽‍🦼‍➡	awood u yeelid, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursi curyaan matoor leh midig u jeeda, nin saaran kursiga curyanka koronto ku shaqeeya
+👨🏾‍🦼‍➡	awood u yeelid, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursi curyaan matoor leh midig u jeeda, nin saaran kursiga curyanka koronto ku shaqeeya
+👨🏿‍🦼‍➡	awood u yeelid, kursi curyaan, nin, nin saaran kursi curyaan matoor leh, nin saaran kursi curyaan matoor leh midig u jeeda, nin saaran kursiga curyanka koronto ku shaqeeya
 👩‍🦼	awood u yeelid, gabadh saaran kursi curyaan matoor leh, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
 👩🏻‍🦼	awood u yeelid, gabadh saaran kursi curyaan matoor leh, gabadh saaran kursi curyaan matoor leh: jidh fudud, jidh fudud, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
 👩🏼‍🦼	awood u yeelid, gabadh saaran kursi curyaan matoor leh, gabadh saaran kursi curyaan matoor leh: jidh fudud oo dhexe, jidh fudud oo dhexe, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
 👩🏽‍🦼	awood u yeelid, gabadh saaran kursi curyaan matoor leh, gabadh saaran kursi curyaan matoor leh: jidh nooc dhexe, jidh nooc dhexe, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
 👩🏾‍🦼	awood u yeelid, gabadh saaran kursi curyaan matoor leh, gabadh saaran kursi curyaan matoor leh: jidh nooc madaw oo dhexe, jidh nooc madaw oo dhexe, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
 👩🏿‍🦼	awood u yeelid, gabadh saaran kursi curyaan matoor leh, gabadh saaran kursi curyaan matoor leh: jidh madaw, jidh madaw, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
+👩‍🦼‍➡	awood u yeelid, gabadh saaran kursi curyaan matoor leh, gabadh saaran kursi curyaan matoor leh midig u jeeda, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
+👩🏻‍🦼‍➡	awood u yeelid, gabadh saaran kursi curyaan matoor leh, gabadh saaran kursi curyaan matoor leh midig u jeeda, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
+👩🏼‍🦼‍➡	awood u yeelid, gabadh saaran kursi curyaan matoor leh, gabadh saaran kursi curyaan matoor leh midig u jeeda, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
+👩🏽‍🦼‍➡	awood u yeelid, gabadh saaran kursi curyaan matoor leh, gabadh saaran kursi curyaan matoor leh midig u jeeda, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
+👩🏾‍🦼‍➡	awood u yeelid, gabadh saaran kursi curyaan matoor leh, gabadh saaran kursi curyaan matoor leh midig u jeeda, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
+👩🏿‍🦼‍➡	awood u yeelid, gabadh saaran kursi curyaan matoor leh, gabadh saaran kursi curyaan matoor leh midig u jeeda, kursiga curyaanka, naag, naag ku fadhida kursiga curyaanka koronta ku shaqeeya
 🧑‍🦽	awood u yeelid, gaari curyaan, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta
 🧑🏻‍🦽	awood u yeelid, gaari curyaan, jidh fudud, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta: jidh fudud
 🧑🏼‍🦽	awood u yeelid, gaari curyaan, jidh fudud oo dhexe, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta: jidh fudud oo dhexe
 🧑🏽‍🦽	awood u yeelid, gaari curyaan, jidh nooc dhexe, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta: jidh nooc dhexe
 🧑🏾‍🦽	awood u yeelid, gaari curyaan, jidh nooc madaw oo dhexe, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta: jidh nooc madaw oo dhexe
 🧑🏿‍🦽	awood u yeelid, gaari curyaan, jidh madaw, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta: jidh madaw
+🧑‍🦽‍➡	awood u yeelid, gaari curyaan, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta midig u jeeda, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta
+🧑🏻‍🦽‍➡	awood u yeelid, gaari curyaan, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta midig u jeeda, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta
+🧑🏼‍🦽‍➡	awood u yeelid, gaari curyaan, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta midig u jeeda, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta
+🧑🏽‍🦽‍➡	awood u yeelid, gaari curyaan, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta midig u jeeda, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta
+🧑🏾‍🦽‍➡	awood u yeelid, gaari curyaan, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta midig u jeeda, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta
+🧑🏿‍🦽‍➡	awood u yeelid, gaari curyaan, qof ku fadhiya gaari curyaanka gacanta, qof ku fadhiya gaari curyaanka gacanta midig u jeeda, qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta
 👨‍🦽	awood u yeelid, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah
 👨🏻‍🦽	awood u yeelid, jidh fudud, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah, nin saaran kursiga curyaanka macmac ah: jidh fudud
 👨🏼‍🦽	awood u yeelid, jidh fudud oo dhexe, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah, nin saaran kursiga curyaanka macmac ah: jidh fudud oo dhexe
 👨🏽‍🦽	awood u yeelid, jidh nooc dhexe, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah, nin saaran kursiga curyaanka macmac ah: jidh nooc dhexe
 👨🏾‍🦽	awood u yeelid, jidh nooc madaw oo dhexe, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah, nin saaran kursiga curyaanka macmac ah: jidh nooc madaw oo dhexe
 👨🏿‍🦽	awood u yeelid, jidh madaw, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah, nin saaran kursiga curyaanka macmac ah: jidh madaw
+👨‍🦽‍➡	awood u yeelid, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah, nin saaran kursiga curyaanka macmac ah midig u jeeda
+👨🏻‍🦽‍➡	awood u yeelid, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah, nin saaran kursiga curyaanka macmac ah midig u jeeda
+👨🏼‍🦽‍➡	awood u yeelid, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah, nin saaran kursiga curyaanka macmac ah midig u jeeda
+👨🏽‍🦽‍➡	awood u yeelid, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah, nin saaran kursiga curyaanka macmac ah midig u jeeda
+👨🏾‍🦽‍➡	awood u yeelid, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah, nin saaran kursiga curyaanka macmac ah midig u jeeda
+👨🏿‍🦽‍➡	awood u yeelid, kursiga curyaanka, nin, nin saaran kursiga curyaanka macmac ah, nin saaran kursiga curyaanka macmac ah midig u jeeda
 👩‍🦽	awood u yeelid, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah
 👩🏻‍🦽	awood u yeelid, jidh fudud, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah, naag fadhida kursiga curyaanka macmal ah: jidh fudud
 👩🏼‍🦽	awood u yeelid, jidh fudud oo dhexe, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah, naag fadhida kursiga curyaanka macmal ah: jidh fudud oo dhexe
 👩🏽‍🦽	awood u yeelid, jidh nooc dhexe, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah, naag fadhida kursiga curyaanka macmal ah: jidh nooc dhexe
 👩🏾‍🦽	awood u yeelid, jidh nooc madaw oo dhexe, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah, naag fadhida kursiga curyaanka macmal ah: jidh nooc madaw oo dhexe
 👩🏿‍🦽	awood u yeelid, jidh madaw, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah, naag fadhida kursiga curyaanka macmal ah: jidh madaw
+👩‍🦽‍➡	awood u yeelid, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah, naag fadhida kursiga curyaanka macmal ah midig u jeeda
+👩🏻‍🦽‍➡	awood u yeelid, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah, naag fadhida kursiga curyaanka macmal ah midig u jeeda
+👩🏼‍🦽‍➡	awood u yeelid, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah, naag fadhida kursiga curyaanka macmal ah midig u jeeda
+👩🏽‍🦽‍➡	awood u yeelid, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah, naag fadhida kursiga curyaanka macmal ah midig u jeeda
+👩🏾‍🦽‍➡	awood u yeelid, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah, naag fadhida kursiga curyaanka macmal ah midig u jeeda
+👩🏿‍🦽‍➡	awood u yeelid, kursiga curyaanka, naag, naag fadhida kursiga curyaanka macmal ah, naag fadhida kursiga curyaanka macmal ah midig u jeeda
 🏃	maratoon, orodka, qof ordaya
 🏃🏻	jidh fudud, maratoon, orodka, qof ordaya, qof ordaya: jidh fudud
 🏃🏼	jidh fudud oo dhexe, maratoon, orodka, qof ordaya, qof ordaya: jidh fudud oo dhexe
@@ -1937,6 +2276,24 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🏃🏽‍♀	jidh nooc dhexe, maratoon, naag, naag ordaysa, naag ordaysa: jidh nooc dhexe, orod, tartan orod
 🏃🏾‍♀	jidh nooc madaw oo dhexe, maratoon, naag, naag ordaysa, naag ordaysa: jidh nooc madaw oo dhexe, orod, tartan orod
 🏃🏿‍♀	jidh madaw, maratoon, naag, naag ordaysa, naag ordaysa: jidh madaw, orod, tartan orod
+🏃‍➡	maratoon, orodka, qof ordaya, qof ordaya midig u jeeda
+🏃🏻‍➡	maratoon, orodka, qof ordaya, qof ordaya midig u jeeda
+🏃🏼‍➡	maratoon, orodka, qof ordaya, qof ordaya midig u jeeda
+🏃🏽‍➡	maratoon, orodka, qof ordaya, qof ordaya midig u jeeda
+🏃🏾‍➡	maratoon, orodka, qof ordaya, qof ordaya midig u jeeda
+🏃🏿‍➡	maratoon, orodka, qof ordaya, qof ordaya midig u jeeda
+🏃‍♀‍➡	maratoon, naag, naag ordaysa, naag ordaysa midig u jeeda, orod, tartan orod
+🏃🏻‍♀‍➡	maratoon, naag, naag ordaysa, naag ordaysa midig u jeeda, orod, tartan orod
+🏃🏼‍♀‍➡	maratoon, naag, naag ordaysa, naag ordaysa midig u jeeda, orod, tartan orod
+🏃🏽‍♀‍➡	maratoon, naag, naag ordaysa, naag ordaysa midig u jeeda, orod, tartan orod
+🏃🏾‍♀‍➡	maratoon, naag, naag ordaysa, naag ordaysa midig u jeeda, orod, tartan orod
+🏃🏿‍♀‍➡	maratoon, naag, naag ordaysa, naag ordaysa midig u jeeda, orod, tartan orod
+🏃‍♂‍➡	maratoon, nin, nin ordaya, nin ordaya midig u jeeda, orodka, tartan orod
+🏃🏻‍♂‍➡	maratoon, nin, nin ordaya, nin ordaya midig u jeeda, orodka, tartan orod
+🏃🏼‍♂‍➡	maratoon, nin, nin ordaya, nin ordaya midig u jeeda, orodka, tartan orod
+🏃🏽‍♂‍➡	maratoon, nin, nin ordaya, nin ordaya midig u jeeda, orodka, tartan orod
+🏃🏾‍♂‍➡	maratoon, nin, nin ordaya, nin ordaya midig u jeeda, orodka, tartan orod
+🏃🏿‍♂‍➡	maratoon, nin, nin ordaya, nin ordaya midig u jeeda, orodka, tartan orod
 💃	naag, naag qoob-ka-cayaaraysa, qoob-ka-cayaaridda
 💃🏻	jidh fudud, naag, naag qoob-ka-cayaaraysa, naag qoob-ka-cayaaraysa: jidh fudud, qoob-ka-cayaaridda
 💃🏼	jidh fudud oo dhexe, naag, naag qoob-ka-cayaaraysa, naag qoob-ka-cayaaraysa: jidh fudud oo dhexe, qoob-ka-cayaaridda
@@ -2379,7 +2736,6 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👩‍❤‍👨	Jaceyl, lammaane, lammaane is jecel, lammaane is jecel: naag, ninka, naag, ninka
 👨‍❤‍👨	Jaceyl, lammaane, lammaane is jecel, lammaane is jecel: ninka, ninka, ninka
 👩‍❤‍👩	Jaceyl, lammaane, lammaane is jecel, lammaane is jecel: naag, naag, naag
-👪️	Qooys, Qooys caruur ah
 👨‍👩‍👦	Qooys, Qooys caruur ah, Qooys caruur ah: ninka, naag, wiil, naag, ninka, wiil
 👨‍👩‍👧	Qooys, Qooys caruur ah, Qooys caruur ah: ninka, naag, gabar, gabar, naag, ninka
 👨‍👩‍👧‍👦	Qooys, Qooys caruur ah, Qooys caruur ah: ninka, naag, gabar, wiil, gabar, naag, ninka, wiil
@@ -2409,7 +2765,13 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👤	Farshaxan sawir xabad dumar ah, Sawir muuqaal dumar qaarka hore mugdi ah, farshaxan sawir oo mugdi ah, sawir muuqaal rag mugdi ah
 👥	Farshaxan sawir xabad dumar ah, Farshaxan sawir xabad dumar oo mugdi ah, farshaxan sawir oo mugdi ah, sawir muuqaal rag mugdi ah
 🫂	dad hab isi siinaya, hab siin, haloow, macsalaama, mahadsanid
+👪️	Qooys, Qooys caruur ah
+🧑‍🧑‍🧒	ilmo, qof weyn, qoys: qof weyn, qoys: qof weyn, qof weyn, ilmo
+🧑‍🧑‍🧒‍🧒	ilmo, qof weyn, qoys: qof weyn, qoys: qof weyn, qof weyn, ilmo, ilmo
+🧑‍🧒	ilmo, qoys: qof weyn, qoys: qof weyn, ilmo
+🧑‍🧒‍🧒	ilmo, qoys: qof weyn, qoys: qof weyn, ilmo, ilmo
 👣	calaamad, dharka, raad, raadad
+🫆	aqoonsiga, badbaadada, daabac, dambi baadhe, dambiyada, denbi-baarista la adeegsado sawirada faraha, qarsoon, raad, sawirka faraha, tilmaan
 🦰	madax cas, sinjibiil, timo cas
 🦱	timo adag, timo laalaada, timo walaaqan, walaaqan
 🦳	caddaan, gaboobay, sibidhi, timo, timo cad
@@ -2434,6 +2796,8 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🐅	shabeel
 🐆	haramacad
 🐴	faras, waji, waji faras
+🫎	deero maraykan, ilko, naasley, quraanjada, xoolaha
+🫏	baqal, burro, dabo, dameer, madax adag, naasley, xoolaha
 🐎	faras, faras wadid, faraska orodka, tartanka
 🦄	waji, xayawaan khuraafi ah
 🦓	dameer-farow, jiitin
@@ -2489,13 +2853,17 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🕊️	buubid, nabad, qoolleey, shimbir
 🦅	gorgor, shimbir
 🦆	muwaata, shimbir
-🦢	booloboolo, cunug booloboolo, cunug muwaata, shimbir
+🦢	booloboolo, cunug booloboolo, cunug muwaata, shimbir, shimbiraha booloboolada
 🦉	caqli, guumays, shimbir
 🦤	Mauritius, booloboolo, dabar go’a, shimbir boolo, weyn
 🪶	baalal, duulimaad, gooynta, shimbir
 🦩	dhaldhalaalaya, kulaylaha, qudunquuto
 🦚	birbirqaya, daa’uus, dheddig dagiiran, shimbir
 🦜	baqbaqaaq, hadal, shimbir, tuug
+🪽	duulaya, duulista, khuraafaad, malaa’ig, shimbiraha, wing
+🐦‍⬛	madoow, shimbir, shimbir madoow, shimbir tuke xigeen ah, shimbir weyn oo madoow, tuke
+🪿	booloboolo, haad, honk, nacasnimo, shimbiraha
+🐦‍🔥	dib u dhalashada, naf dib ugu dhalashada jidh cusub, phoenix, qiyaali, shinbirta dabka
 🐸	rah, waji
 🐊	yaxaas
 🐢	diin, qubo, qubo dhal ah
@@ -2516,6 +2884,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🐙	farammugo
 🐚	kor u wareegaya, xanjaleel, xanjaleel wareegaya
 🪸	badweynta, dhagax badeed, dhagax dixeed
+🪼	ahaa, badda, gubi, jelly, kaluun qolof leh, laf dhabarta, qaniinyo
 🐌	dixiri qolof leh
 🦋	balanbaalis, cayayaan, qurux badan
 🐛	cayayaan, kutaan
@@ -2543,6 +2912,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🌻	gabbaldaye, qorrax, ubax
 🌼	ubax, ubax geed
 🌷	ubax, ubax caano
+🪻	bluebonnet, hyacinth, lavender, lupine, snapdragon, ubaxa
 🌱	geed naqan, soo baxaya
 🪴	aan waxtar lahayn, caaajis, dhir, dhirta guriga, guri, kobcinta, korin
 🌲	geed, geed abaareed
@@ -2559,11 +2929,13 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🪹	buul faaruq ah, buul samay
 🪺	buul leh ukumo, buul samayn
 🍄	baaraabuq, barkin waraabe
+🪾	abaar, caleen la’aan, dhintay, geed, geed caleen la’aan ah, jiilaalka, jirridda, laamo, madhasho, qaawan, qoryo
 🍇	canab, khudaar
-🍈	khudaar, qare
-🍉	khudaar, xab-xab
-🍊	khudaar, liin, oranji
+🍈	batiikh, mir
+🍉	mir, qare
+🍊	khudaar, liin, liin banbeelo, oranji
 🍋	khudaar, liin bambeelmo, liin dhannaan
+🍋‍🟩	liin, liin dhanaan, lin, miro, trobikal
 🍌	khudaar, moos
 🍍	caananaas, khudaar
 🥭	cambe, khudaar, kulaylaha
@@ -2593,6 +2965,10 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🥜	cunto, khudrad, loows, loowska, mir loows
 🫘	badar, cuntada, digir, kilyaha
 🌰	dhir, loows duban
+🫚	biir, xawaashka, xidid, xidid sinjibiil
+🫛	Qubka digirta, digir, digirta, edamame, hadhuudh, khudradda, podska
+🍄‍🟫	boqoshaa bunni ah, cuntada, dabiici ah, fangaska, khudaar
+🫜	beerta, cuntada, dabocase, khudaar, khudaar cune, khudradda xididka ah, salad, xidid
 🍞	gabal, rooti
 🥐	cunto, faransiis, qureec faransiis macaan, rooti duuban
 🥖	baguette-ka, cunto, faransiis, rooti, rootiga baguette-ka
@@ -2733,7 +3109,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 💒	aroos, caashaq, kaniisad yar
 🗼	Tokyo, munaarad, munaaradda Tokyo
 🗽	Taalada, Taalada Xurriyadda, xurriyadda
-⛪️	Kaniisad, diin, kaniisad, mactab, masiixi
+⛪️	Kaniisad, diin, mactab, masiixi
 🕌	Islaam, Muslim, diin, masaajid
 🛕	hindi, macbadka, macbadka hindida
 🕍	Macbadka, Yuhuud, Yuhuudi, diin, kaniisad Yuhuud
@@ -2833,7 +3209,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 ⌛️	ciid, dhalada saacad-beegtada ah oo dhamaysay, goor-sheegge
 ⏳️	ciid, dhalada saacad-beegtada ah wali ma dhamayn, dhalo saacad-beegta ah, goor-sheegge
 ⌚️	goor-sheeg, ilaalin, saacad
-⏰	qaylo-dhaan, saacad, saacadda qaylo-dhaanta
+⏰️	qaylo-dhaan, saacad, saacadda qaylo-dhaanta
 ⏱️	saacad, saacad-joojin
 ⏲️	goor-sheegge, saacad, saacadda goor-sheegtada ah
 🕰️	qaanadda kore ee saacadda, qaanadda kore saacadda, saacad weyn
@@ -2913,7 +3289,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🎆	dabaaldag, shaqooyinka dabka
 🎇	dabaaldag, dhalaali, dhalaaliye, shaqooyinka dabka
 🧨	dab-demiyeyaasha, qarxaha, shaqooyinka dabka, walxaha qarxo
-✨	*, dhalaali, dhalaalin, xiddig
+✨️	*, dhalaali, dhalaalin, xiddig
 🎈	baaluun, dabaaldag
 🎉	dabaaldag, dhawaaq, dhawaaqa xafladda, tada, xaflad
 🎊	dabaaldag, kubad, kubada qarsoon, qarsoodi ah
@@ -2922,7 +3298,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🎎	Japanese, boombalaha Japanese ka, boombalo, dabaaldag, feesto
 🎏	dabaaldag, socodka, socodka xargaha, xargo
 🎐	dabaaldag, dabeel, dabeesha musqusha, gambaleel, musqul
-🎑	Munaasabada daawashada dayaxa, dabaaldag, dayax, munaasabad, munaasabada daawashada dayaxa
+🎑	Munaasabada daawashada dayaxa, dabaaldag, dayax, munaasabad
 🧧	arag, baqshad gaduudan, baqshad guduudan, hadiyad, hadiyad lacageed, lacag, nasiib wacan
 🎀	dabaaldag, xabo
 🎁	dabaaldag, duuban, hadiyad, hadiyada duuban, imminka, sanduuq
@@ -3013,6 +3389,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🩳	dharka dabaasha, nigis, shoorti, surwaal
 👙	dabaalasho, dhar, nigis iyo keeshali
 👚	dhar, dharka dumarka, dumar
+🪭	kulul, qaboojinta, qoob ka ciyaarka, ruxul, taageere, taageere gacanta laablaaban, xishood
 👛	boorso, dhar, qadaadiic
 👜	boorso, dhar, shandad, shandada gacanta
 👝	boorso, dhar, shandad, shandad yar
@@ -3027,6 +3404,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 👡	dhar, gabadh, kabo, sandhal, sandhalka dumarka
 🩰	kabaha ballet-ka, qoob-ka-cayaarka ballet
 👢	buudh, buudh dumar, dhar, dumar, kabo
+🪮	Afro, shanlada, soo qaado, timaha, timo qaadis
 👑	boqor, boqorad, dhar, taaj
 👒	dhar, dumar, koofiyad, koofiyad dumar
 🎩	dhar, koofiyad, koofiyad dheer, sare
@@ -3065,6 +3443,9 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🪕	gitaar ah, gitaar nooc mareykan ah, muusik
 🥁	durbaan, muusik, ulaha durbaanka
 🪘	ciyaarta konga, durbaan, durbaan dheer, garaac, laxan
+🪇	instrument, maracas, music, percussion, rattle, shake
+🪈	biibiile, dabayl alwaax ah, dhuunta, duube, fife, muusiga
+🪉	cupid, gitaar, jacayl, muusig, qalab, qalab muusig wada-garaacista
 📱	foon, moobil, telefoon, telefoonka gacanta
 📲	foon, helid, moobil, moobil leh xariiq, telefoonka gacanta, xariiq
 ☎️	foon, telefoon
@@ -3090,7 +3471,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 📽️	borojektar, borojektarka filimada, fiidiyow, filim, sinimoo
 🎬️	filim, sacabiye, samuurada bilowga duubista
 📺️	fiidiyow, telefishan, tv
-📷️	fiidiyow, kamarad
+📷️	isnaab, kamarad, muuqaal, sawir, socdaal, tbt
 📸	fiidiyow, kamarad, kamarad khashaafad leh, khashaafad
 📹️	fiidiyow, kamarad, kamarad fiidiyow
 📼	cajalad, cajalad fiidiyow, fiidiyow, vhs
@@ -3102,7 +3483,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🏮	casaan, fidsan, iftiin, siraad, siraad warqad cas
 🪔	diya, feynuus, feynuusta diya, saliid
 📔	buug, buug gal qurux badan leh, gal, la qurxiyay
-📕	buug, buug xidhan, xidhan
+📕	buug, buug xidhan, waxbarasho, xidhan
 📖	buug, buug furan, furan
 📗	akhtar, buug, buug akhtara
 📘	buluug, buug, buug buluuga
@@ -3197,11 +3578,13 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 ⚖️	cadaalad, halbeega Libra, miisaan, misaan, qiyaase
 🦯	awood u yeelid, indhoole, usha cad indhoolaha
 🔗	liinki
+⛓‍💥	jabi, jebin, qeybta gacmaha ee dharka, silsilad, silsilad jabtay, silsillad jabtay, xornimo
 ⛓️	silsilad, silsilado
 🪝	dabin, jilaab, qaabka wax loo gado, qabo, qallooca, qallooci
 🧰	makaanig, qalab, shaf, tuulbogos
 🧲	birlab, birlabaysan, kab faras, soo jiidasho
 🪜	bood, jaranjaro, korid, talaabo
+🪏	badeel, badiil, baraf, beer, dhir, god, majarafad, qod, soo dar, xabaal
 ⚗️	kimistari, qalab, qalab nadiifin
 🧪	kimistari, kimistariyahan, laab, saynis, tijaabin, tuyuubka tijaabinta
 🧫	bakteeriya, bayoolaji, bayoolajiyahan, dhaqan, laab, saxan wax laga dhex arki karo
@@ -3286,6 +3669,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 ↖️	falaadh, falaadh bidix, fallaarta kor ee bidix, jihada, u dhexeeya jihooyinka, waqooyi galbeed
 ↕️	falaadh kor u-jeeda, fallaar, fallaarta kor-hoose
 ↔️	fallaar, fallaarta bidix-midig
+↮	istarooga falaarta bidix midigta u jeeda
 ↩️	fallaar, fallaarta midig u qalloocsan bidix
 ↪️	fallaar, fallaarta bidix u qalloocsan midig
 ⤴️	fallaar, fallaarta midig u qalloocsan kor
@@ -3309,6 +3693,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 ☮️	calaamadda nabadda, nabad
 🕎	caabudidaa shumaca ee Yuhuudda, diin, shumac caabudaan Yuhuudda, shumac weyn, ulaha shumaca
 🔯	maal, xidddig lix geesood oo dhibic leh, xiddig, xiddig lix geeslood oo dhibic leh
+🪯	Sikh, diin, khanda
 ♈️	laxo, mactabka meecaad, wan
 ♉️	baqay, dibbi, dibigga Taurus, mactabka meecaad
 ♊️	mactabka meecaad, mataan, mataanaha
@@ -3321,7 +3706,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 ♑️	cutubka meecaad, ri, riyaha
 ♒️	biyo, cutubka meecaad, cutubka xiddigga biyaha, sidaha
 ♓️	cutubka meecaad, cutubka xiddiga ee kalluunka, kalluun
-⛎	abeeso, cutubka meecaad, mas, sidaha
+⛎️	abeeso, cutubka meecaad, mas, sidaha
 🔀	badhanka muusik daarista, fallaar, iskutallaaban
 🔁	badhanka ku celinta, fallaar, ku celi, saacad-wareegga
 🔂	fallaar, ku celinta halka badhan, mar, saacad-wareegga
@@ -3344,22 +3729,23 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🔅	badhanka daciifka, daciif, dhalaalka, hoos
 🔆	badhanka dhalaalka, dhalaal, dhalaalka
 📶	anteena, moobeel, taleefan, taleefoonka, xariiq, xariiqaha anteenada
+🛜	internet, kumbuyuutar, shabakad, xaraga dhagaha
 📳	gariirka, habka, habka gariirka, moobeel, taleefan, taleefoonka
 📴	dami, dami taleefoonka gacanta, mobeel, taleefan, taleefoonka
 ♀️	calaamad dheddig, haweeney
 ♂️	calaamad lab, nin
 ⚧️	calaamada laba dhidiga, laba dhidig
 ✖️	baajiso, calaamadda isku dhufashada, isku dhufashada, ku dhufo, saxiix, x
-➕	+, calaamadda isugeynta, lagu daray, saxiix, xisaab
-➖	-, calaamad, calaamadda ka jar, ka jar, xisaab, −
-➗	calaamad, calaamadda isu qaybinta, kala qaybinta, qaybi, xisaab, ÷
+➕️	+, calaamadda isugeynta, lagu daray, saxiix, xisaab
+➖️	-, calaamad, calaamadda ka jar, ka jar, xisaab, −
+➗️	calaamad, calaamadda isu qaybinta, kala qaybinta, qaybi, xisaab, ÷
 🟰	calaamado isku mid ah oo culus, sinnaanta, xisaabta
 ♾️	aan xad lahayn, abid, guud ahaan, xad la’aan
 ‼️	!, !!, cajiib, calaamad, dhawaaq, laba calaamadood cajiib ah
 ⁉️	!, !?, ?, cajiib, calaamad, calaamad cajiib su’aal ah, su’aal, xarakayn
 ❓️	?, calaamad, calaamad su’aal, su’aal, xarakayn
-❔	?, calaamad, ccalaamad su’aal cad, kormaris, su’aal, xarakayn
-❕	!, cajiib, calaamad, calaamad cajiib cad, kormaris, xarakayn
+❔️	?, calaamad, ccalaamad su’aal cad, kormaris, su’aal, xarakayn
+❕️	!, cajiib, calaamad, calaamad cajiib cad, kormaris, xarakayn
 ❗️	!, cajiib, calaamad, calaamad cajiib, xarakayn
 〰️	calaamadda qulqulka hirka oo kale, qaab hir oo kale, qulqulka hirka, xarakayn
 💱	bangi, lacag, sarif, sarifka lacagaha
@@ -3371,13 +3757,13 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 📛	calaamad, calaamadda magaca, magac
 🔰	calaamadda Jabbaaka ee dadka bilowga ah, caleen, darajada, qof bilow ah
 ⭕️	cas, goobo, goobo cas dalool leh, o, weyn
-✅	badhan, badhanka calaamadda sax, calaamad, calaamadee, ✓
+✅️	badhan, badhanka calaamadda sax, calaamad, calaamadee, ✓
 ☑️	calaamadee, ku calaamadee sanduuqa sax, sanduuq, ✓
 ✔️	calaamad, calaamadee, ku calaamadee calaamad, ✓
-❌	baajiso, calaamadda iskutallaabta, isku dhufashada, iskutallaab, ku dhufo, sumad, x
-❎	afar jibaar, badhanka calaamadda iskutallaabta, calaamad, x, ×
-➰	laab, laaban, laaban oo sargo’an
-➿	laab, laban-laab, maroogsin sargo’an oo laban-laab, maroogsin sargo’an oo laban-laab ah, sargo’an
+❌️	baajiso, calaamadda iskutallaabta, isku dhufashada, iskutallaab, ku dhufo, sumad, x
+❎️	afar jibaar, badhanka calaamadda iskutallaabta, calaamad, x, ×
+➰️	laab, laaban, laaban oo sargo’an
+➿️	laab, laban-laab, maroogsin sargo’an oo laban-laab, maroogsin sargo’an oo laban-laab ah, sargo’an
 〽️	calaamad, qayb, qaybta calaamadda talantaalliga ah
 ✳️	*, calaamad, siddeed geesood oo isku nooc u taaggan
 ✴️	* xiddig siddeed geeslood oo tilmaama, xiddig, xiddig siddeed geeslood oo tilmaama
@@ -3385,6 +3771,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 ©️	c, xuquuqda daabacaadda
 ®️	diiwaan gashan, r
 ™️	sumadda, sumadda ganacsiga, sumaddaganacsiga, tm
+🫟	dareere, dhibic, firdhiye, holi, khad, qasan, rinji, wasakh, wax daadasho, wax kala firdhismo
 #⃣	daboolka furaha, daboolka furaha: #
 *⃣	daboolka furaha, daboolka furaha: *
 0⃣	daboolka furaha, daboolka furaha: 0
@@ -3590,7 +3977,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🇮🇱	calan, calan: Israaʼiil
 🇮🇲	calan, calan: Jasiiradda Isle of Man
 🇮🇳	calan, calan: Hindiya
-🇮🇴	calan, calan: Dhul xadeedka Badweynta Hindiya ee Biritishka
+🇮🇴	calan, calan: Dhul xadeedka Badweynta Hindiya ee Ingiriiska
 🇮🇶	calan, calan: Ciraaq
 🇮🇷	calan, calan: Iiraan
 🇮🇸	calan, calan: Ayslaand
@@ -3706,7 +4093,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🇹🇭	calan, calan: Taylaand
 🇹🇯	calan, calan: Tajikistan
 🇹🇰	calan, calan: Tokelaaw
-🇹🇱	calan, calan: Timoor
+🇹🇱	calan, calan: Timor-Leste
 🇹🇲	calan, calan: Turkmenistan
 🇹🇳	calan, calan: Tuniisiya
 🇹🇴	calan, calan: Tonga
@@ -3722,7 +4109,7 @@ _	daash, daash hoose, dhaash hoose, xariiq, xariiq hoose
 🇺🇸	calan, calan: Maraykanka
 🇺🇾	calan, calan: Uruguwaay
 🇺🇿	calan, calan: Usbakistan
-🇻🇦	calan, calan: Faatikaan
+🇻🇦	calan, calan: Magaalada Faatikaan
 🇻🇨	calan, calan: St. Finsent & Girenadiins
 🇻🇪	calan, calan: Fenisuweela
 🇻🇬	calan, calan: Biritish Farjin Island
@@ -3751,6 +4138,9 @@ $	USD, beeso, doolar, lacag
 ฿	Baatka Taylaan
 ៛	Riyf kambodiya
 ₡	Kolonka Kosta Riika
+₢	BRB, cruzeiro, lacag
+₣	franc, french franc, lacag
+₤	lacag, lira
 ₥	mil, mill
 ₦	Nairada Neyjeeriya
 ₩	KPW, KRW, guulaystay, won
@@ -3759,10 +4149,14 @@ $	USD, beeso, doolar, lacag
 €	EUR, lacag, yuuro
 ₭	Kib Laoti
 ₮	Tugrikta Mongoliya
+₰	lacag, penny-ga jarmalka, pfennig
 ₱	beeso
 ₲	Guranida Baraguway
+₳	ARA, austral, lacag
 ₴	Hirfiniyada Yukreeyn
 ₵	Sedida Gana
+₶	lacag, livre tournois
+₷	lacag, spesmilo
 ₸	Tengeda Kasakhstan
 ₹	lacagta, rubiis, rubiiska hindiya
 ₺	Liirada Turkiga
@@ -3770,6 +4164,8 @@ $	USD, beeso, doolar, lacag
 ₽	cutub lacageedka raashiya, lacagta
 ₾	Laariga Joorjiya
 ₿	BTC, bitkoyn
+₨	lacag, rupee
+﷼	lacag, rial
 ¹	calaamada koobaad, mid, qoraalka sare
 ²	calaamada labaad, laba, laba jibbaaran, qoraalka sare
 ³	calaamda sadexaad, la saddex jibaaray, qoraalka sare, saddex

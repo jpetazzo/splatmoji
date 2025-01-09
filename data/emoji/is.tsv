@@ -17,6 +17,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ?	spurning, spurningarmerki
 ¿	spurning, spurningarmerki, öfugt, öfugt spurningarmerki
 ؟	arabískt, arabískt spurningarmerki, spurning, spurningarmerki
+‽	hrópspurningarmerki
 .	depill, punktur
 …	punktar, úrfelling, úrfellingarpunktar
 。	myndpunktur, punktur
@@ -24,7 +25,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 '	einföld gæsalöpp, gæsalöpp, prenthögg, úrfellingarmerki
 ‘	einföld gæsalöpp, gæsalöpp, snjallgæsalöpp, vinstra högg, vinstra úrfellingarmerki, úrfellingarmerki
 ’	einföld gæsalöpp, gæsalöpp, hægra högg, hægra úrfellingarmerki, snjallgæsalöpp, úrfellingarmerki
-‚	gæsalöpp, lágstætt hægra högg, lágstætt hægra úrfellingarmerkii, lágstæð gæsalöpp, úrfellingamerki
+‚	gæsalöpp, lágstætt hægra högg, lágstætt hægra úrfellingarmerki, lágstæð gæsalöpp, úrfellingamerki
 “	gæsalöpp, hástætt vinstra tvíhögg, snjalltilvitnun, tilvitnun, tvöföld gæsalöpp, vinstri gæsalappir
 ”	gæsalöpp, hástætt hægra tvíhögg, hægri gæsalappir, snjalltilvitnun, tilvitnun, tvöföld gæsalöpp
 „	gæsalöpp, lágstætt hægra tvíhögg, lágstæð tilvitnun, lágstæðar hægri gæsalappir, snjalltilvitnun, tilvitnun, tvöföld gæsalöpp
@@ -76,23 +77,38 @@ _	lágstrik, niðurstrik, strik, undirstrik
 °	alkóhólstyrkur, gráða, klukkustund
 ℗	hljóð, höfundarréttur, höfundarréttur hljóðupptöku, upptaka
 ←	vinstri, ör, ör sem vísar til vinstri
+↚	ör til vinstri með striki
 →	hægri, ör, ör sem vísar til hægri
+↛	ör til hægri með striki
 ↑	upp, ör, ör sem vísar upp
 ↓	niður, ör, ör sem vísar niður
 ↜	bylgjuör til vinstri
 ↝	bylgjuör til hægri
-↞	tvihöfða ör til vinstri, tvíhöfða ör til vinstri
+↞	tvíhöfða ör til vinstri
 ↟	tvíhöfða ör upp á við
 ↠	tvíhöfða ör til hægri
 ↡	tvíhöfða ör niður á við
 ↢	örvarendi til vinstri
 ↣	örvarendi til hægri
+↤	ör til vinstri frá rönd
+↥	ör upp á við frá rönd
+↦	ör til hægri frá rönd
+↧	ör niður á við frá rönd
+↨	ör upp niður með grunni
+↫	ör til vinstri með lykkju
+↬	ör til hægri með lykkju
 ↭	bylgjuör vinstri hægri
 ↯	sikksakk, sikksakk ör niður á við
 ↰	örvaroddur upp á við til vinstri
 ↱	örvaroddur upp á við til hægri
 ↲	örvaroddur niður á við til vinstri
 ↳	örvaroddur niður á við til hægri
+↴	ör til hægri með beygju niður á við
+↵	ör niður á við með beygju tl vinstri
+↶	ör uppi í hálfhring rangsælis
+↷	ör uppi í hálfhring réttsælis
+↸	norðvestur, átt, ör, ör ská upp til vinstri að rönd
+↹	strik, til hægri, til vinstri, ör, örvar að striki vinstri yfir hægri
 ↺	opin hringör rangsælis
 ↻	opin hringör réttsælis
 ↼	broddur, skutull til vinstri með brodd upp á við
@@ -107,16 +123,19 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ⇅	niður, upp, ör, ör sem vísar upp og ör sem vísar niður
 ⇆	hægri, vinstri, vinstriör yfir hægriör, ör, ör sem vísar til vinstri yfir ör sem vísar til hægri
 ⇇	örvapar til vinstri
-⇈	örvapar upp á við, örvarpar upp á við
-⇉	örvarpar til hægri
-⇊	örvapar niður á við, örvarpar niður á við
+⇈	örvapar upp á við
+⇉	örvapar til hægri
+⇊	örvapar niður á við
 ⇋	skutull til vinstri yfir skutli til hægri
 ⇌	skutull til hægri yfir skutli til vinstri
 ⇐	tvöföld ör til vinstri
+⇍	tvístrikuð ör til vinstri
 ⇑	tvöföld ör upp á við
 ⇒	tvöföld ör til hægri
+⇏	tvístrikuð ör til hægri
 ⇓	tvöföld ör niður á við
 ⇔	tvöföld ör vinstri hægri
+⇎	tvístrikuð ör vinstri hægri
 ⇖	tvöföld ör í norðvestur
 ⇗	tvöföld ör í norðaustur
 ⇘	tvöföld ör í suðaustur
@@ -127,17 +146,28 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ⇝	hlykkjótt ör til hægri
 ⇞	tvístrikuð ör upp á við
 ⇟	tvístrikuð ör niður á við
+⇠	punktalínuör til vinstri
+⇡	punktalínuör upp á við
+⇢	punktalínuör til hægri
+⇣	punktalínuör niður á við
+⇤	ör að striki til vinstri
+⇥	ör að striki til hægri
 ⇦	hol ör til vinstri
 ⇧	hol ör upp á við
 ⇨	hol ör til hægri
 ⇩	hol ör niður á við
+⇪	hol ör upp á við frá rönd
 ⇵	ör niður á við vinstra megin við ör upp á við
+∀	algildi, allt, að gefnu, fyrir allt, öll
+∂	afleiða, hlutafleiða
+∃	er til, til er, tilvist
 ∅	mengjavirkir, stærðfræði, tómamengi
 ∆	aukning, þríhyrningur
 ∇	nafla, þríhyrningur
 ∈	aðild, inniheldur, mengi, stak, stak í
 ∉	ekki stak, stak
 ∋	stak
+∎	endanleg sönnun, halmos, legsteinn, q.e.d., qed
 ∏	margfeldi, n-unda-margfeldi, rökfærsla
 ∑	n-unda-summun, stærðfræði, summun
 +	leggja saman, plús, plúsmerki
@@ -158,15 +188,17 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ∓	mínus-eða-plús, plús-mínus
 ∕	deilingarskástrik
 ⁄	brotaskástrik
-∗	stjarna
+∗	stjarna, stjörnuvirki
+∘	hringvirkir, samsetning, virkir
 ∙	virkir
 √	annað veldi, kvaðratrót, rót, rótarstærð, stofntala, óræð tala
-∝	hlutfallsleiki
+∝	hlutfallsleiki, hlutfallsmerki
 ∞	óendanlegt, óendanlegt-merki
 ∟	rétt horn, stærðfræði
 ∠	horn
 ∣	deilir
 ∥	samsíða
+∧	og, og-röktákn, röktákn
 ∩	mengi, sniðmengi
 ∪	mengi, sammengi, samsafn
 ∫	heildi, örsmæðarreikningur
@@ -178,49 +210,74 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ∷	hlutfallsleiki
 ∼	tilduvirkir, virkir
 ∽	tilda, öfug tilda
+∾	öfugt s á hlið
+≃	stærðfræði, um það bil, undirstrikuð bugða
+≅	einslögun, jafngildi, samsvörun, stærðfræði, tvíundirstrikuð bugða
 ≈	nálgun, námundun, næstum jafnt
-≌	jöfnuður, stærðfræði
-≖	jöfnuður, stærðfræði
+≌	jöfnuður, stærðfræði, öll jöfn
+≒	næstum jafnt eða gildi
+≖	hringur í jafnaðarmerki, jöfnuður, stærðfræði
 ≡	nákvæmlega eins, nákvæmlega eins og, nákvæmur, þrefalt
-≣	jöfnuður, stærðfræði
+≣	aljafnaðarmerki, jöfnuður, stærðfræði
 ≤	jafnt, minna en, minna en eða jafnt, samasem, ójöfnuður
 ≥	jafnt, samasem, stærra en, stærra en eða jafnt, ójöfnuður
 ≦	minna en yfir jafngildi, stærðfræði, ójöfnuður
 ≧	stærra en yfir jafngildi, stærðfræði, ójöfnuður
 ≪	miklu minna en, stærðfræði, ójöfnuður
-≫	miklu stærra en, stærðfræði, ´ójöfnuður
+≫	miklu stærra en, stærðfræði, ójöfnuður
 ≬	á milli
 ≳	stærra en jafngildi, stærðfræði, ójöfnuður
 ≺	kemur á undan, mengjavirkir, stærðfræði
 ≻	kemur á eftir, mengjavirkir, stærðfræði
 ⊁	kemur ekki á eftir, mengjavirkir, stærðfræði
 ⊂	hlutmengi, hlutmengi í, mengi
-⊃	mengjavirkir, stærðfræði
-⊇	jöfnuður, stærðfræði
+⊃	mengjavirkir, stærðfræði, yfirmengistákn
+⊆	hlutmengisjafnaðartákn, mengjavirkir, stærðfræði
+⊇	jöfnuður, stærðfræði, yfirmengisjafnaðartákn
 ⊕	plús, plús í hring
-⊖	mínus í hring
-⊰	mengjavirkir, stærðfræði
-⊱	mengjavirkir, stærðfræði
+⊖	mínus í hring, samhverfur mismunur, upplausn
+⊗	margfeldi, margföldun í hring, þinill
+⊘	deiling, deilingarskástrik í hring, stærðfræði
+⊙	XNOR, depill í hring virki, virki
+⊚	hringur í hring virki
+⊛	stjarna, stjarna í hring virki, virki
+⊞	plús í ferningi, samlagning, stærðfræði
+⊟	frádráttur, mínus í ferningi, stærðfræði
+⊥	hornrétt á, stærðfræði
+⊮	stærðfræði, þvingar ekki
+⊰	kemur á undan í venslum, mengjavirkir, stærðfræði
+⊱	kemur á eftir í venslum, mengjavirkir, stærðfræði
+⋭	grúpufræði, inniheldur ekki sem normleg hlutgrúpa eða jafnt, stærðfræði
+⊶	raðfræði, upprunaleg
+⊹	ferningsfylki, hermískt samoka fylki, sjálfoka fylki, stærðfræði
 ⊿	rétthyrndur þríhyrningur, réttur þríhyrningur, stærðfræði
+⋁	eðun, n-unda-eða-röktákn, rökfræði
 ⋂	mengjavirkir, n-unda-sniðmengi, sniðmengi, stærðfræði
+⋃	mengjavirkir, n-unda-sammengi, sammengi, stærðfræði
 ⋅	punktavirkir, virkir
 ⋆	stjörnuvirkir, virkir
+⋈	eðlileg töflutenging, tvístæður virkir
+⋒	mengjavirkir, sniðmengi, stærðfræði, tvöfalt sniðmengi
 ⋘	mjög miklu minna en, stærðfræði, ójöfnuður
 ⋙	mjög miklu stærra en, stærðfræði, ójöfnuður
 ⋮	lóðrétt úrfellingarmerki, stærðfræði, úrfellingarmerki
-⋯	úrfellingarmerki
-⋰	stærðfræði, úrfellingarmerki
-⋱	stærðfræði, úrfellingarmerki
+⋯	lárétt úrfellingarmerki á miðlínu, úrfellingarmerki
+⋰	stærðfræði, úrfellingarmerki, úrfellingarmerki á ská upp hægri
+⋱	stærðfræði, úrfellingarmerki, úrfellingarmerki á ská niður hægri
 ■	fylltur ferningur
 □	holur ferningur
 ▢	holur ferningur með rúnnuðum hornum
 ▣	fylltur ferningur í holum ferningi
 ▤	ferningur með láréttri fyllingu
 ▥	ferningur með lóðréttri fyllingu
+▦	ferningur fylltur með hornréttum krossstrikum
+▧	ferningur fylltur efra vinstri neðra hægri
+▨	ferningur fylltur efra hægri neðra vinstri
+▩	ferningur fylltur krossstrikum á ská
 ▬	fylltur rétthyrningur
 ▭	holur rétthyrningur
 ▮	fylltur lóðréttur rétthyrningur
-▰	fylltur sams´íðungur, fylltur samsíðungur
+▰	fylltur samsíðungur
 ▲	fylltur, fylltur þríhyrningur sem vísar upp, upp, ör, þríhyrningur
 △	holur þríhyrningur sem vísar upp
 ▴	fylltur lítill þríhyrningur sem vísar upp
@@ -247,19 +304,27 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ○	holur hringflötur, hringflötur, hringur
 ◌	hringur úr punktum
 ◍	hringur með lóðréttri fyllingu
+◎	sammiðja hringir, skotmark, tvöfaldur hringur
 ●	fylltur hringflötur, hringflötur
 ◐	hringur hálffylltur til vinstri
 ◑	hringur hálffylltur til hægri
 ◒	fylltur neðri helmingur hrings
 ◓	fylltur efri helmingur hrings
 ◔	fylltur efri fjórðungsbogi hrings til hægri
+◕	hringur fylltur fyrir utan efri vinstri fjórðung
 ◖	fylltur vinstri helmingur hrings
 ◗	fylltur hægri helmingur hrings
+◘	öfugur merkill
+◙	holur hringur í fylltum ferningi, öfugur holur hringur
+◜	hringbogi í efri vinstri fjórðungi
+◝	hringbogi í efri hægri fjórðungi
+◞	hringbogi í neðri hægri fjórðungi
+◟	hringbogi í neðri vinstri fjórðungi
 ◠	efri helmingur hrings
 ◡	neðri helmingur hrings
 ◢	fylltur neðri þríhyrningur til hægri
 ◣	fylltur neðri þríhyrningur til vinstri
-◤	fylltu efri þríhyrningur til vinstri, fylltur efri þríhyrningur til vinstri
+◤	fylltur efri þríhyrningur til vinstri
 ◥	fylltur efri þríhyrningur til hægri
 ◦	holt áherslumerki
 ◯	hringflötur, hringur, stór holur hringflötur
@@ -267,7 +332,14 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ◷	holur hringur með efri fjórðungsboga til hægri
 ◿	neðri þríhyrningur til hægri
 ♪	nóta, tónlist, áttundapartsnóta, áttungur
-⪚	stærðfræði, ójöfnuður
+⨧	plús og hnéletrað tveir
+⨯	krossfeldi
+⨼	innfeldi
+⩣	röklegt eða tvöfalt undirstrik
+⩽	minna en eða jafnt og hallandi
+⪍	minna en fyrir ofan svipað eða jafnt
+⪚	jafnt eða meira en með tvöfaldri línu, stærðfræði, ójöfnuður
+⪺	kemur á eftir fyrir ofan ekki næstum jafnt
 ♭	bemolle, lækkaður tónn, nóta, tónlist
 ♯	hækkaður tónn, hækkunarmerki, nóta, tónlist
 😀	andlit, glott, glottandi andlit
@@ -302,8 +374,8 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🤗	andlit, faðmandi andlit, faðmar, faðmlag
 🤭	andlit með hendi fyrir munn, úps
 🫢	andlit með opin augu og hendi yfir munni, furða, hræddur, lotning, undrun, vandræðalegur, vantrú
-🫣	andlit með auga að kikja, heillaður, kíkja, stara
-🤫	andilt að segja uss, suss, uss, þögn
+🫣	andlit með auga að kíkja, heillaður, kíkja, stara
+🤫	andlit að segja uss, suss, uss, þögn
 🤔	andlit, hugsandi, hugsandi andlit
 🫡	andlit að heilsa, herlið, hylla, já, sólríkt, í lagi
 🤐	andlit, andlit með rennilás fyrir munninum, munnur, rennilás
@@ -319,11 +391,15 @@ _	lágstrik, niðurstrik, strik, undirstrik
 😬	andlit, andlit með grettu, gretta
 😮‍💨	andköf, andlit að anda frá sér, blístur, hvísl, léttir, stuna, útöndun
 🤥	andlit, gosi, ljúga, lygari, lygi
+🫨	andlit, hristingur, jarðskjálfti, sjokk, skjálfandi andlit, skjálfti
+🙂‍↔	hrista höfuð, hristir höfuðið lárétt, nei
+🙂‍↕	hristir höfuðið lóðrétt, já, kinka kolli
 😌	andlit, andlit sem er létt, léttir
 😔	andlit, í þungum þönkum, íbyggið andlit
 😪	andlit, syfja, syfjað andlit
 🤤	andlit, slefa, slefandi
 😴	andlit, sofandi
+🫩	andlit með poka undir augum, syfjaður, örþreyttur, úrvinda, þreyttur
 😷	andlit, andlit með grímu, andlit með læknagrímu, gríma, kalt, veikindi
 🤒	andlit, andlit með hitamæli í munninum, hitamælir, með flensu, veikur
 🤕	andlit, andlit með sárabindi, meiddur, slasaður, sárabindi
@@ -332,7 +408,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🤧	andlit, hnerra, hnerrandi andlit, hnerri, kvef
 🥵	heitt, með hita, rauður í framan, sviti, sólstingur
 🥶	blár í framan, frostbit, grýlukerti, kalt, ískalt
-🥴	hlykkjóttur munnur, kenderí, ringlað andlit, svima, víma, ójöfn augu
+🥴	hlykkjóttur munnur, ringlað andlit, svima, víma, ójöfn augu, ölvun
 😵	andlit, andlit með svima, svimi
 😵‍💫	andlit með gormaugu, dáleiddur, gormur, hægan, svimar, vandræði
 🤯	splundrað höfuð
@@ -375,7 +451,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 😈	andlit, bros, bros og horn, broskarl með horn, horn
 👿	andlit, djöfull, púki, skratti
 💀	andlit, hauskúpa, líkami, ævintýri
-☠️	andlit, beinleggir, dauði, hausk´úpa og beinleggir, hauskúpa og beinleggir, höfuðkúpa
+☠️	andlit, beinleggir, dauði, hauskúpa og beinleggir, höfuðkúpa
 💩	della, kúkur, skítur
 🤡	andlit, trúður
 👹	andlit, oni, tröll, vera, ævintýri
@@ -410,13 +486,16 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ❤‍🔥	brenna, girnd, heilagt hjarta, hjarta, logandi hjarta, ást
 ❤‍🩹	heilbrigðari, hjarta að gróa, hress, jafna sig, lagast, ná sér, skána
 ❤️	hjarta, rautt hjarta
+🩷	bleikt, bleikt hjarta, hjarta, krútt, sætt, ást
 🧡	appelsínugult, appelsínugult hjarta, hjarta, tilfinningar
 💛	gult, gult hjarta, hjarta, tilfinningar
 💚	grænt, grænt hjarta, hjarta, tilfinningar
 💙	blátt, blátt hjarta, hjarta, tilfinningar
+🩵	blágrænn, hjarta, ljósblár, ljósblátt hjarta, sægrænn
 💜	fjólublátt, fjólublátt hjarta, hjarta, tilfinningar
 🤎	brúnt, brúnt hjarta, hjarta
 🖤	hjarta, illt innræti, svart hjarta, svartur
+🩶	blágrár, grátt, grátt hjarta, hjarta, silfur
 🤍	hjarta, hvítt, hvítt hjarta
 💋	koss, kossafar, rómantík, varir
 💯	100, fullt hús, stig
@@ -450,7 +529,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🖐🏽	fingur, glennt, hönd, líkami, millihúðlitur, upprétt hönd með glennta fingur, upprétt hönd með glennta fingur: millihúðlitur
 🖐🏾	fingur, glennt, hönd, líkami, meðaldökkur húðlitur, upprétt hönd með glennta fingur, upprétt hönd með glennta fingur: meðaldökkur húðlitur
 🖐🏿	dökkur húðlitur, fingur, glennt, hönd, líkami, upprétt hönd með glennta fingur, upprétt hönd með glennta fingur: dökkur húðlitur
-✋	lófi, upprétt hönd
+✋️	lófi, upprétt hönd
 ✋🏻	ljós húðlitur, lófi, lófi: ljós húðlitur, upprétt hönd
 ✋🏼	lófi, lófi: meðalljós húðlitur, meðalljós húðlitur, upprétt hönd
 ✋🏽	lófi, lófi: millihúðlitur, millihúðlitur, upprétt hönd
@@ -506,6 +585,18 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🫴🏽	benda, bjóða, grípa, hendi með lófa upp, hendi með lófa upp: millihúðlitur, koma, millihúðlitur
 🫴🏾	benda, bjóða, grípa, hendi með lófa upp, hendi með lófa upp: meðaldökkur húðlitur, koma, meðaldökkur húðlitur
 🫴🏿	benda, bjóða, dökkur húðlitur, grípa, hendi með lófa upp, hendi með lófa upp: dökkur húðlitur, koma
+🫷	bíddu, fimma, hafna, hönd ýtt til vinstri, stopp, til vinstri, ýta
+🫷🏻	bíddu, fimma, hafna, hönd ýtt til vinstri, hönd ýtt til vinstri: ljós húðlitur, ljós húðlitur, stopp, til vinstri, ýta
+🫷🏼	bíddu, fimma, hafna, hönd ýtt til vinstri, hönd ýtt til vinstri: meðalljós húðlitur, meðalljós húðlitur, stopp, til vinstri, ýta
+🫷🏽	bíddu, fimma, hafna, hönd ýtt til vinstri, hönd ýtt til vinstri: millihúðlitur, millihúðlitur, stopp, til vinstri, ýta
+🫷🏾	bíddu, fimma, hafna, hönd ýtt til vinstri, hönd ýtt til vinstri: meðaldökkur húðlitur, meðaldökkur húðlitur, stopp, til vinstri, ýta
+🫷🏿	bíddu, dökkur húðlitur, fimma, hafna, hönd ýtt til vinstri, hönd ýtt til vinstri: dökkur húðlitur, stopp, til vinstri, ýta
+🫸	bíddu, fimma, hafna, hönd ýtt til hægri, stopp, til hægri, ýta
+🫸🏻	bíddu, fimma, hafna, hönd ýtt til hægri, hönd ýtt til hægri: ljós húðlitur, ljós húðlitur, stopp, til hægri, ýta
+🫸🏼	bíddu, fimma, hafna, hönd ýtt til hægri, hönd ýtt til hægri: meðalljós húðlitur, meðalljós húðlitur, stopp, til hægri, ýta
+🫸🏽	bíddu, fimma, hafna, hönd ýtt til hægri, hönd ýtt til hægri: millihúðlitur, millihúðlitur, stopp, til hægri, ýta
+🫸🏾	bíddu, fimma, hafna, hönd ýtt til hægri, hönd ýtt til hægri: meðaldökkur húðlitur, meðaldökkur húðlitur, stopp, til hægri, ýta
+🫸🏿	bíddu, dökkur húðlitur, fimma, hafna, hönd ýtt til hægri, hönd ýtt til hægri: dökkur húðlitur, stopp, til hægri, ýta
 👌	OK, bending, handarmerki, Í lagi, ókei
 👌🏻	OK, bending, handarmerki, ljós húðlitur, Í lagi, Í lagi: ljós húðlitur, ókei
 👌🏼	OK, bending, handarmerki, meðalljós húðlitur, Í lagi, Í lagi: meðalljós húðlitur, ókei
@@ -614,7 +705,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 👎🏽	bending, hönd, millihúðlitur, þumall niður, þumall niður: millihúðlitur
 👎🏾	bending, hönd, meðaldökkur húðlitur, þumall niður, þumall niður: meðaldökkur húðlitur
 👎🏿	bending, dökkur húðlitur, hönd, þumall niður, þumall niður: dökkur húðlitur
-✊	hnefi, uppréttur hnefi
+✊️	hnefi, uppréttur hnefi
 ✊🏻	hnefi, hnefi: ljós húðlitur, ljós húðlitur, uppréttur hnefi
 ✊🏼	hnefi, hnefi: meðalljós húðlitur, meðalljós húðlitur, uppréttur hnefi
 ✊🏽	hnefi, hnefi: millihúðlitur, millihúðlitur, uppréttur hnefi
@@ -1656,12 +1747,12 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🫅🏽	konunglegt, kóngafólk, manneskja með kórónu, manneskja með kórónu: millihúðlitur, millihúðlitur, tiginn, þjóðhöfðingi
 🫅🏾	konunglegt, kóngafólk, manneskja með kórónu, manneskja með kórónu: meðaldökkur húðlitur, meðaldökkur húðlitur, tiginn, þjóðhöfðingi
 🫅🏿	dökkur húðlitur, konunglegt, kóngafólk, manneskja með kórónu, manneskja með kórónu: dökkur húðlitur, tiginn, þjóðhöfðingi
-🤴	prins
-🤴🏻	ljós húðlitur, prins, prins: ljós húðlitur
-🤴🏼	meðalljós húðlitur, prins, prins: meðalljós húðlitur
-🤴🏽	millihúðlitur, prins, prins: millihúðlitur
-🤴🏾	meðaldökkur húðlitur, prins, prins: meðaldökkur húðlitur
-🤴🏿	dökkur húðlitur, prins, prins: dökkur húðlitur
+🤴	fólk, prins, ævintýri
+🤴🏻	fólk, ljós húðlitur, prins, prins: ljós húðlitur, ævintýri
+🤴🏼	fólk, meðalljós húðlitur, prins, prins: meðalljós húðlitur, ævintýri
+🤴🏽	fólk, millihúðlitur, prins, prins: millihúðlitur, ævintýri
+🤴🏾	fólk, meðaldökkur húðlitur, prins, prins: meðaldökkur húðlitur, ævintýri
+🤴🏿	dökkur húðlitur, fólk, prins, prins: dökkur húðlitur, ævintýri
 👸	fólk, prinsessa, ævintýri
 👸🏻	fólk, ljós húðlitur, prinsessa, prinsessa: ljós húðlitur, ævintýri
 👸🏼	fólk, meðalljós húðlitur, prinsessa, prinsessa: meðalljós húðlitur, ævintýri
@@ -1794,12 +1885,12 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🤶🏽	amma, jól, jólamamma, jólamamma: millihúðlitur, mamma, millihúðlitur
 🤶🏾	amma, jól, jólamamma, jólamamma: meðaldökkur húðlitur, mamma, meðaldökkur húðlitur
 🤶🏿	amma, dökkur húðlitur, jól, jólamamma, jólamamma: dökkur húðlitur, mamma
-🧑‍🎄	Sveinki, jól, frú sveinki
-🧑🏻‍🎄	Sveinki, jól, frú sveinki, frú sveinki: ljós húðlitur, ljós húðlitur
-🧑🏼‍🎄	Sveinki, jól, frú sveinki, frú sveinki: meðalljós húðlitur, meðalljós húðlitur
-🧑🏽‍🎄	Sveinki, jól, frú sveinki, frú sveinki: millihúðlitur, millihúðlitur
-🧑🏾‍🎄	Sveinki, jól, frú sveinki, frú sveinki: meðaldökkur húðlitur, meðaldökkur húðlitur
-🧑🏿‍🎄	Sveinki, jól, dökkur húðlitur, frú sveinki, frú sveinki: dökkur húðlitur
+🧑‍🎄	Sveinki, frú sveinki, jól
+🧑🏻‍🎄	Sveinki, frú sveinki, frú sveinki: ljós húðlitur, jól, ljós húðlitur
+🧑🏼‍🎄	Sveinki, frú sveinki, frú sveinki: meðalljós húðlitur, jól, meðalljós húðlitur
+🧑🏽‍🎄	Sveinki, frú sveinki, frú sveinki: millihúðlitur, jól, millihúðlitur
+🧑🏾‍🎄	Sveinki, frú sveinki, frú sveinki: meðaldökkur húðlitur, jól, meðaldökkur húðlitur
+🧑🏿‍🎄	Sveinki, dökkur húðlitur, frú sveinki, frú sveinki: dökkur húðlitur, jól
 🦸	góð, hetja, kvenhetja, ofurhetja, ofurkraftur
 🦸🏻	góð, hetja, kvenhetja, ljós húðlitur, ofurhetja, ofurhetja: ljós húðlitur, ofurkraftur
 🦸🏼	góð, hetja, kvenhetja, meðalljós húðlitur, ofurhetja, ofurhetja: meðalljós húðlitur, ofurkraftur
@@ -1987,6 +2078,24 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🚶🏽‍♀	ganga, gangandi kona, gangandi kona: millihúðlitur, gönguferð, kona, labba, millihúðlitur
 🚶🏾‍♀	ganga, gangandi kona, gangandi kona: meðaldökkur húðlitur, gönguferð, kona, labba, meðaldökkur húðlitur
 🚶🏿‍♀	dökkur húðlitur, ganga, gangandi kona, gangandi kona: dökkur húðlitur, gönguferð, kona, labba
+🚶‍➡	ganga, gönguferð, labba, vegfarandi, vegfarandi snýr til hægri
+🚶🏻‍➡	ganga, gönguferð, labba, vegfarandi, vegfarandi snýr til hægri
+🚶🏼‍➡	ganga, gönguferð, labba, vegfarandi, vegfarandi snýr til hægri
+🚶🏽‍➡	ganga, gönguferð, labba, vegfarandi, vegfarandi snýr til hægri
+🚶🏾‍➡	ganga, gönguferð, labba, vegfarandi, vegfarandi snýr til hægri
+🚶🏿‍➡	ganga, gönguferð, labba, vegfarandi, vegfarandi snýr til hægri
+🚶‍♀‍➡	ganga, gangandi kona, gangandi kona snýr til hægri, gönguferð, kona, labba
+🚶🏻‍♀‍➡	ganga, gangandi kona, gangandi kona snýr til hægri, gönguferð, kona, labba
+🚶🏼‍♀‍➡	ganga, gangandi kona, gangandi kona snýr til hægri, gönguferð, kona, labba
+🚶🏽‍♀‍➡	ganga, gangandi kona, gangandi kona snýr til hægri, gönguferð, kona, labba
+🚶🏾‍♀‍➡	ganga, gangandi kona, gangandi kona snýr til hægri, gönguferð, kona, labba
+🚶🏿‍♀‍➡	ganga, gangandi kona, gangandi kona snýr til hægri, gönguferð, kona, labba
+🚶‍♂‍➡	ganga, gangandi maður, gangandi maður snýr til hægri, gönguferð, karl, labba
+🚶🏻‍♂‍➡	ganga, gangandi maður, gangandi maður snýr til hægri, gönguferð, karl, labba
+🚶🏼‍♂‍➡	ganga, gangandi maður, gangandi maður snýr til hægri, gönguferð, karl, labba
+🚶🏽‍♂‍➡	ganga, gangandi maður, gangandi maður snýr til hægri, gönguferð, karl, labba
+🚶🏾‍♂‍➡	ganga, gangandi maður, gangandi maður snýr til hægri, gönguferð, karl, labba
+🚶🏿‍♂‍➡	ganga, gangandi maður, gangandi maður snýr til hægri, gönguferð, karl, labba
 🧍	standa, standandi manneskja, stendur
 🧍🏻	ljós húðlitur, standa, standandi manneskja, standandi manneskja: ljós húðlitur, stendur
 🧍🏼	meðalljós húðlitur, standa, standandi manneskja, standandi manneskja: meðalljós húðlitur, stendur
@@ -2023,60 +2132,132 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🧎🏽‍♀	kona, krjúpandi, krjúpandi kona: millihúðlitur, millihúðlitur
 🧎🏾‍♀	kona, krjúpandi, krjúpandi kona: meðaldökkur húðlitur, meðaldökkur húðlitur
 🧎🏿‍♀	dökkur húðlitur, kona, krjúpandi, krjúpandi kona: dökkur húðlitur
+🧎‍➡	krjúpa, krjúpandi, krjúpandi manneskja, krjúpandi manneskja snýr til hægri
+🧎🏻‍➡	krjúpa, krjúpandi, krjúpandi manneskja, krjúpandi manneskja snýr til hægri
+🧎🏼‍➡	krjúpa, krjúpandi, krjúpandi manneskja, krjúpandi manneskja snýr til hægri
+🧎🏽‍➡	krjúpa, krjúpandi, krjúpandi manneskja, krjúpandi manneskja snýr til hægri
+🧎🏾‍➡	krjúpa, krjúpandi, krjúpandi manneskja, krjúpandi manneskja snýr til hægri
+🧎🏿‍➡	krjúpa, krjúpandi, krjúpandi manneskja, krjúpandi manneskja snýr til hægri
+🧎‍♀‍➡	kona, krjúpandi, krjúpandi kona snýr til hægri
+🧎🏻‍♀‍➡	kona, krjúpandi, krjúpandi kona snýr til hægri
+🧎🏼‍♀‍➡	kona, krjúpandi, krjúpandi kona snýr til hægri
+🧎🏽‍♀‍➡	kona, krjúpandi, krjúpandi kona snýr til hægri
+🧎🏾‍♀‍➡	kona, krjúpandi, krjúpandi kona snýr til hægri
+🧎🏿‍♀‍➡	kona, krjúpandi, krjúpandi kona snýr til hægri
+🧎‍♂‍➡	krjúpandi, krjúpandi maður snýr til hægri, maður
+🧎🏻‍♂‍➡	krjúpandi, krjúpandi maður snýr til hægri, maður
+🧎🏼‍♂‍➡	krjúpandi, krjúpandi maður snýr til hægri, maður
+🧎🏽‍♂‍➡	krjúpandi, krjúpandi maður snýr til hægri, maður
+🧎🏾‍♂‍➡	krjúpandi, krjúpandi maður snýr til hægri, maður
+🧎🏿‍♂‍➡	krjúpandi, krjúpandi maður snýr til hægri, maður
 🧑‍🦯	aðgengi, manneskja með blindrastaf, manneskja með hvítan staf, sjónlaus
 🧑🏻‍🦯	aðgengi, ljós húðlitur, manneskja með blindrastaf, manneskja með blindrastaf: ljós húðlitur, manneskja með hvítan staf, sjónlaus
 🧑🏼‍🦯	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf: meðalljós húðlitur, manneskja með hvítan staf, meðalljós húðlitur, sjónlaus
 🧑🏽‍🦯	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf: millihúðlitur, manneskja með hvítan staf, millihúðlitur, sjónlaus
 🧑🏾‍🦯	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf: meðaldökkur húðlitur, manneskja með hvítan staf, meðaldökkur húðlitur, sjónlaus
 🧑🏿‍🦯	aðgengi, dökkur húðlitur, manneskja með blindrastaf, manneskja með blindrastaf: dökkur húðlitur, manneskja með hvítan staf, sjónlaus
+🧑‍🦯‍➡	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf snýr til hægri, manneskja með hvítan staf, sjónlaus
+🧑🏻‍🦯‍➡	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf snýr til hægri, manneskja með hvítan staf, sjónlaus
+🧑🏼‍🦯‍➡	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf snýr til hægri, manneskja með hvítan staf, sjónlaus
+🧑🏽‍🦯‍➡	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf snýr til hægri, manneskja með hvítan staf, sjónlaus
+🧑🏾‍🦯‍➡	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf snýr til hægri, manneskja með hvítan staf, sjónlaus
+🧑🏿‍🦯‍➡	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf snýr til hægri, manneskja með hvítan staf, sjónlaus
 👨‍🦯	aðgengi, blindur, maður, maður með blindrastaf
 👨🏻‍🦯	aðgengi, blindur, ljós húðlitur, maður, maður með blindrastaf, maður með blindrastaf: ljós húðlitur
 👨🏼‍🦯	aðgengi, blindur, maður, maður með blindrastaf, maður með blindrastaf: meðalljós húðlitur, meðalljós húðlitur
 👨🏽‍🦯	aðgengi, blindur, maður, maður með blindrastaf, maður með blindrastaf: millihúðlitur, millihúðlitur
 👨🏾‍🦯	aðgengi, blindur, maður, maður með blindrastaf, maður með blindrastaf: meðaldökkur húðlitur, meðaldökkur húðlitur
 👨🏿‍🦯	aðgengi, blindur, dökkur húðlitur, maður, maður með blindrastaf, maður með blindrastaf: dökkur húðlitur
+👨‍🦯‍➡	aðgengi, blindur, maður, maður með blindrastaf, maður með blindrastaf snýr til hægri
+👨🏻‍🦯‍➡	aðgengi, blindur, maður, maður með blindrastaf, maður með blindrastaf snýr til hægri
+👨🏼‍🦯‍➡	aðgengi, blindur, maður, maður með blindrastaf, maður með blindrastaf snýr til hægri
+👨🏽‍🦯‍➡	aðgengi, blindur, maður, maður með blindrastaf, maður með blindrastaf snýr til hægri
+👨🏾‍🦯‍➡	aðgengi, blindur, maður, maður með blindrastaf, maður með blindrastaf snýr til hægri
+👨🏿‍🦯‍➡	aðgengi, blindur, maður, maður með blindrastaf, maður með blindrastaf snýr til hægri
 👩‍🦯	aðgengi, blind, kona, kona með blindrastaf
 👩🏻‍🦯	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf: ljós húðlitur, ljós húðlitur
 👩🏼‍🦯	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf: meðalljós húðlitur, meðalljós húðlitur
 👩🏽‍🦯	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf: millihúðlitur, millihúðlitur
 👩🏾‍🦯	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf: meðaldökkur húðlitur, meðaldökkur húðlitur
 👩🏿‍🦯	aðgengi, blind, dökkur húðlitur, kona, kona með blindrastaf, kona með blindrastaf: dökkur húðlitur
+👩‍🦯‍➡	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf snýr til hægri
+👩🏻‍🦯‍➡	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf snýr til hægri
+👩🏼‍🦯‍➡	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf snýr til hægri
+👩🏽‍🦯‍➡	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf snýr til hægri
+👩🏾‍🦯‍➡	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf snýr til hægri
+👩🏿‍🦯‍➡	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf snýr til hægri
 🧑‍🦼	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól
 🧑🏻‍🦼	aðgengi, hjólastóll, ljós húðlitur, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól: ljós húðlitur
 🧑🏼‍🦼	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól: meðalljós húðlitur, meðalljós húðlitur
 🧑🏽‍🦼	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól: millihúðlitur, millihúðlitur
 🧑🏾‍🦼	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól: meðaldökkur húðlitur, meðaldökkur húðlitur
 🧑🏿‍🦼	aðgengi, dökkur húðlitur, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól: dökkur húðlitur
+🧑‍🦼‍➡	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól snýr til hægri
+🧑🏻‍🦼‍➡	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól snýr til hægri
+🧑🏼‍🦼‍➡	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól snýr til hægri
+🧑🏽‍🦼‍➡	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól snýr til hægri
+🧑🏾‍🦼‍➡	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól snýr til hægri
+🧑🏿‍🦼‍➡	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól snýr til hægri
 👨‍🦼	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól
 👨🏻‍🦼	aðgengi, hjólastóll, ljós húðlitur, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól: ljós húðlitur
 👨🏼‍🦼	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól: meðalljós húðlitur, meðalljós húðlitur
 👨🏽‍🦼	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól: millihúðlitur, millihúðlitur
 👨🏾‍🦼	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól: meðaldökkur húðlitur, meðaldökkur húðlitur
 👨🏿‍🦼	aðgengi, dökkur húðlitur, hjólastóll, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól: dökkur húðlitur
+👨‍🦼‍➡	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól snýr til hægri
+👨🏻‍🦼‍➡	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól snýr til hægri
+👨🏼‍🦼‍➡	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól snýr til hægri
+👨🏽‍🦼‍➡	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól snýr til hægri
+👨🏾‍🦼‍➡	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól snýr til hægri
+👨🏿‍🦼‍➡	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól snýr til hægri
 👩‍🦼	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól
 👩🏻‍🦼	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól: ljós húðlitur, ljós húðlitur
 👩🏼‍🦼	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól: meðalljós húðlitur, meðalljós húðlitur
 👩🏽‍🦼	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól: millihúðlitur, millihúðlitur
 👩🏾‍🦼	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól: meðaldökkur húðlitur, meðaldökkur húðlitur
 👩🏿‍🦼	aðgengi, dökkur húðlitur, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól: dökkur húðlitur
+👩‍🦼‍➡	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól snýr til hægri
+👩🏻‍🦼‍➡	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól snýr til hægri
+👩🏼‍🦼‍➡	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól snýr til hægri
+👩🏽‍🦼‍➡	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól snýr til hægri
+👩🏾‍🦼‍➡	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól snýr til hægri
+👩🏿‍🦼‍➡	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól snýr til hægri
 🧑‍🦽	aðgengi, hjólastóll, manneskja í hjólastól
 🧑🏻‍🦽	aðgengi, hjólastóll, ljós húðlitur, manneskja í hjólastól, manneskja í hjólastól: ljós húðlitur
 🧑🏼‍🦽	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól: meðalljós húðlitur, meðalljós húðlitur
 🧑🏽‍🦽	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól: millihúðlitur, millihúðlitur
 🧑🏾‍🦽	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól: meðaldökkur húðlitur, meðaldökkur húðlitur
 🧑🏿‍🦽	aðgengi, dökkur húðlitur, hjólastóll, manneskja í hjólastól, manneskja í hjólastól: dökkur húðlitur
+🧑‍🦽‍➡	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól snýr til hægri
+🧑🏻‍🦽‍➡	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól snýr til hægri
+🧑🏼‍🦽‍➡	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól snýr til hægri
+🧑🏽‍🦽‍➡	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól snýr til hægri
+🧑🏾‍🦽‍➡	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól snýr til hægri
+🧑🏿‍🦽‍➡	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól snýr til hægri
 👨‍🦽	aðgengi, hjólastóll, maður, maður í hjólastól
 👨🏻‍🦽	aðgengi, hjólastóll, ljós húðlitur, maður, maður í hjólastól, maður í hjólastól: ljós húðlitur
 👨🏼‍🦽	aðgengi, hjólastóll, maður, maður í hjólastól, maður í hjólastól: meðalljós húðlitur, meðalljós húðlitur
 👨🏽‍🦽	aðgengi, hjólastóll, maður, maður í hjólastól, maður í hjólastól: millihúðlitur, millihúðlitur
 👨🏾‍🦽	aðgengi, hjólastóll, maður, maður í hjólastól, maður í hjólastól: meðaldökkur húðlitur, meðaldökkur húðlitur
 👨🏿‍🦽	aðgengi, dökkur húðlitur, hjólastóll, maður, maður í hjólastól, maður í hjólastól: dökkur húðlitur
+👨‍🦽‍➡	aðgengi, hjólastóll, maður, maður í hjólastól, maður í hjólastól snýr til hægri
+👨🏻‍🦽‍➡	aðgengi, hjólastóll, maður, maður í hjólastól, maður í hjólastól snýr til hægri
+👨🏼‍🦽‍➡	aðgengi, hjólastóll, maður, maður í hjólastól, maður í hjólastól snýr til hægri
+👨🏽‍🦽‍➡	aðgengi, hjólastóll, maður, maður í hjólastól, maður í hjólastól snýr til hægri
+👨🏾‍🦽‍➡	aðgengi, hjólastóll, maður, maður í hjólastól, maður í hjólastól snýr til hægri
+👨🏿‍🦽‍➡	aðgengi, hjólastóll, maður, maður í hjólastól, maður í hjólastól snýr til hægri
 👩‍🦽	aðgengi, hjólastóll, kona, kona í hjólastól
 👩🏻‍🦽	aðgengi, hjólastóll, kona, kona í hjólastól, kona í hjólastól: ljós húðlitur, ljós húðlitur
 👩🏼‍🦽	aðgengi, hjólastóll, kona, kona í hjólastól, kona í hjólastól: meðalljós húðlitur, meðalljós húðlitur
 👩🏽‍🦽	aðgengi, hjólastóll, kona, kona í hjólastól, kona í hjólastól: millihúðlitur, millihúðlitur
 👩🏾‍🦽	aðgengi, hjólastóll, kona, kona í hjólastól, kona í hjólastól: meðaldökkur húðlitur, meðaldökkur húðlitur
 👩🏿‍🦽	aðgengi, dökkur húðlitur, hjólastóll, kona, kona í hjólastól, kona í hjólastól: dökkur húðlitur
+👩‍🦽‍➡	aðgengi, hjólastóll, kona, kona í hjólastól, kona í hjólastól snýr til hægri
+👩🏻‍🦽‍➡	aðgengi, hjólastóll, kona, kona í hjólastól, kona í hjólastól snýr til hægri
+👩🏼‍🦽‍➡	aðgengi, hjólastóll, kona, kona í hjólastól, kona í hjólastól snýr til hægri
+👩🏽‍🦽‍➡	aðgengi, hjólastóll, kona, kona í hjólastól, kona í hjólastól snýr til hægri
+👩🏾‍🦽‍➡	aðgengi, hjólastóll, kona, kona í hjólastól, kona í hjólastól snýr til hægri
+👩🏿‍🦽‍➡	aðgengi, hjólastóll, kona, kona í hjólastól, kona í hjólastól snýr til hægri
 🏃	hlaup, hlaupari, maraþon
 🏃🏻	hlaup, hlaupari, hlaupari: ljós húðlitur, ljós húðlitur, maraþon
 🏃🏼	hlaup, hlaupari, hlaupari: meðalljós húðlitur, maraþon, meðalljós húðlitur
@@ -2095,6 +2276,24 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🏃🏽‍♀	hlaup, hlaupandi kona, hlaupandi kona: millihúðlitur, maraþon, millihúðlitur
 🏃🏾‍♀	hlaup, hlaupandi kona, hlaupandi kona: meðaldökkur húðlitur, maraþon, meðaldökkur húðlitur
 🏃🏿‍♀	dökkur húðlitur, hlaup, hlaupandi kona, hlaupandi kona: dökkur húðlitur, maraþon
+🏃‍➡	hlaup, hlaupari, hlaupari snýr til hægri, maraþon
+🏃🏻‍➡	hlaup, hlaupari, hlaupari snýr til hægri, maraþon
+🏃🏼‍➡	hlaup, hlaupari, hlaupari snýr til hægri, maraþon
+🏃🏽‍➡	hlaup, hlaupari, hlaupari snýr til hægri, maraþon
+🏃🏾‍➡	hlaup, hlaupari, hlaupari snýr til hægri, maraþon
+🏃🏿‍➡	hlaup, hlaupari, hlaupari snýr til hægri, maraþon
+🏃‍♀‍➡	hlaup, hlaupandi kona, hlaupandi kona snýr til hægri, maraþon
+🏃🏻‍♀‍➡	hlaup, hlaupandi kona, hlaupandi kona snýr til hægri, maraþon
+🏃🏼‍♀‍➡	hlaup, hlaupandi kona, hlaupandi kona snýr til hægri, maraþon
+🏃🏽‍♀‍➡	hlaup, hlaupandi kona, hlaupandi kona snýr til hægri, maraþon
+🏃🏾‍♀‍➡	hlaup, hlaupandi kona, hlaupandi kona snýr til hægri, maraþon
+🏃🏿‍♀‍➡	hlaup, hlaupandi kona, hlaupandi kona snýr til hægri, maraþon
+🏃‍♂‍➡	hlaup, hlaupandi maður, hlaupandi maður snýr til hægri, maraþon
+🏃🏻‍♂‍➡	hlaup, hlaupandi maður, hlaupandi maður snýr til hægri, maraþon
+🏃🏼‍♂‍➡	hlaup, hlaupandi maður, hlaupandi maður snýr til hægri, maraþon
+🏃🏽‍♂‍➡	hlaup, hlaupandi maður, hlaupandi maður snýr til hægri, maraþon
+🏃🏾‍♂‍➡	hlaup, hlaupandi maður, hlaupandi maður snýr til hægri, maraþon
+🏃🏿‍♂‍➡	hlaup, hlaupandi maður, hlaupandi maður snýr til hægri, maraþon
 💃	dans, dansandi kona, fólk
 💃🏻	dans, dansandi kona, dansandi kona: ljós húðlitur, fólk, ljós húðlitur
 💃🏼	dans, dansandi kona, dansandi kona: meðalljós húðlitur, fólk, meðalljós húðlitur
@@ -2310,12 +2509,12 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🚵🏽‍♀	fjallahjól, hjólreiðar, kona, kona á fjallahjóli, kona á fjallahjóli: millihúðlitur, millihúðlitur
 🚵🏾‍♀	fjallahjól, hjólreiðar, kona, kona á fjallahjóli, kona á fjallahjóli: meðaldökkur húðlitur, meðaldökkur húðlitur
 🚵🏿‍♀	dökkur húðlitur, fjallahjól, hjólreiðar, kona, kona á fjallahjóli, kona á fjallahjóli: dökkur húðlitur
-🤸	fimleikar, handalaup, hlaup, íþrótt
-🤸🏻	fimleikar, handalaup, handalaup: ljós húðlitur, hlaup, ljós húðlitur, íþrótt
-🤸🏼	fimleikar, handalaup, handalaup: meðalljós húðlitur, hlaup, meðalljós húðlitur, íþrótt
-🤸🏽	fimleikar, handalaup, handalaup: millihúðlitur, hlaup, millihúðlitur, íþrótt
-🤸🏾	fimleikar, handalaup, handalaup: meðaldökkur húðlitur, hlaup, meðaldökkur húðlitur, íþrótt
-🤸🏿	dökkur húðlitur, fimleikar, handalaup, handalaup: dökkur húðlitur, hlaup, íþrótt
+🤸	fimleikar, handahlaup, hlaup, íþrótt
+🤸🏻	fimleikar, handahlaup, handahlaup: ljós húðlitur, hlaup, ljós húðlitur, íþrótt
+🤸🏼	fimleikar, handahlaup, handahlaup: meðalljós húðlitur, hlaup, meðalljós húðlitur, íþrótt
+🤸🏽	fimleikar, handahlaup, handahlaup: millihúðlitur, hlaup, millihúðlitur, íþrótt
+🤸🏾	fimleikar, handahlaup, handahlaup: meðaldökkur húðlitur, hlaup, meðaldökkur húðlitur, íþrótt
+🤸🏿	dökkur húðlitur, fimleikar, handahlaup, handahlaup: dökkur húðlitur, hlaup, íþrótt
 🤸‍♂	fimleikar, handahlaup, karl, maður á handahlaupum
 🤸🏻‍♂	fimleikar, handahlaup, karl, ljós húðlitur, maður á handahlaupum, maður á handahlaupum: ljós húðlitur
 🤸🏼‍♂	fimleikar, handahlaup, karl, maður á handahlaupum, maður á handahlaupum: meðalljós húðlitur, meðalljós húðlitur
@@ -2537,7 +2736,6 @@ _	lágstrik, niðurstrik, strik, undirstrik
 👩‍❤‍👨	fólk, hjarta, karl, kona, par, par með hjarta, par: kona og karl, rómantík
 👨‍❤‍👨	fólk, hjarta, karl, par, par með hjarta, par: karl og karl, rómantík
 👩‍❤‍👩	fólk, hjarta, kona, par, par með hjarta, par: kona og kona, rómantík
-👪️	barn, faðir, fjölskylda, fólk, móðir
 👨‍👩‍👦	barn, drengur, faðir, fjölskylda, fjölskylda: karl, kona og drengur, fólk, karl, kona, móðir
 👨‍👩‍👧	barn, faðir, fjölskylda, fjölskylda: karl, kona og stúlka, fólk, karl, kona, móðir, stúlka
 👨‍👩‍👧‍👦	barn, drengur, faðir, fjölskylda, fjölskylda: karl, kona, stúlka og drengur, fólk, karl, kona, móðir, stúlka
@@ -2567,7 +2765,13 @@ _	lágstrik, niðurstrik, strik, undirstrik
 👤	brjóstmynd, brjóstmynd í skugga, framan á, fólk
 👥	brjóstmynd, brjóstmyndir í skugga, framan á, fólk
 🫂	faðmlag, fólk að faðmast, halló, kveðja, þakklæti
+👪️	barn, faðir, fjölskylda, fólk, móðir
+🧑‍🧑‍🧒	barn, fjölskylda: fullorðinn, fjölskylda: fullorðinn, fullorðinn, barn, fullorðinn
+🧑‍🧑‍🧒‍🧒	barn, fjölskylda: fullorðinn, fjölskylda: fullorðinn, fullorðinn, barn, barn, fullorðinn
+🧑‍🧒	barn, fjölskylda: fullorðinn, fjölskylda: fullorðinn, barn
+🧑‍🧒‍🧒	barn, fjölskylda: fullorðinn, fjölskylda: fullorðinn, barn, barn
 👣	fótspor, fótur, líkami, spor
+🫆	auðkenni, fingrafar, réttarrannsókn, öryggi
 🦰	rautt hár, rauðleitt hár
 🦱	afró, krullað hár, krullur, lokkar
 🦳	gamalt, grátt hár, hvítt, hvítt hár, hár
@@ -2592,11 +2796,13 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🐅	tígrisdýr
 🐆	hlébarði
 🐴	hestshöfuð, hestur, höfuð
+🫎	dýr, elgur, horn, spendýr
+🫏	asni, bjáni, dýr, múlasni, spendýr
 🐎	hestur, veðhlaupahestur
 🦄	andlit, einhyrningur
 🦓	rendur, rönd, sebrahestur
-🦌	dýr, hjörtur, hreindýr, ´hjartardýr
-🦬	Evrópusvísundur, buffali, hjörð, vísundur
+🦌	dýr, hjartardýr, hjörtur, hreindýr
+🦬	Evrópuvísundur, buffali, hjörð, vísundur
 🐮	höfuð, kýr, kýrhöfuð
 🐂	naut, stjörnumerki, uxi
 🐃	buffaló, vatn, vatnabuffaló
@@ -2609,7 +2815,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🐑	fé, kind, sauðfé, ær
 🐐	geit, stjörnumerki
 🐪	drómedari, kryppa, úlfaldi
-🐫	kameldýr
+🐫	hnúður, kameldýr, kameldýr með tvo hnúða
 🦙	alpaka, lamadýr, ull, villt lamadýr, villt suður-amerískt spendýr
 🦒	blettir, doppur, gíraffi
 🐘	fíll
@@ -2654,8 +2860,12 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🦩	flamingói, hitabeltis, litríkur
 🦚	fugl, páfugl, páhæna, stoltur, sýndarmennska
 🦜	fugl, páfagaukur, sjóræningi, tal
+🪽	engill, fljúga, flug, fugl, goðafræði, vængur
+🐦‍⬛	fugl, hrafn, krummi, kráka, svart, svartur, svartur fugl
+🪿	gás, gæs, heiðagæs, steggur
+🐦‍🔥	eldfugl, endurfæðing, endurholdgun, fantasía, fönix
 🐸	andlit, froskur
-🐊	krókódíll, krókókíll
+🐊	krókódíll
 🐢	skjaldbaka
 🦎	eðla, skriðdýr
 🐍	naðra, naðurvaldi, snákur, stjörnumerki
@@ -2674,6 +2884,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🐙	kolkrabbi
 🐚	kuðungur
 🪸	kórall, rif, úthaf
+🪼	bruni, hryggleysingi, marglytta, meiða, sjávarlíf, stinga
 🐌	snigill
 🦋	dýr, fiðrildi, skordýr
 🐛	margfætla, skordýr
@@ -2701,6 +2912,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🌻	blóm, sól, sólblóm
 🌼	blóm, planta
 🌷	blóm, túlípani
+🪻	blóm, garðakornblóm, hýasinta, ljónsmunnur, lofnarblóm, lúpína
 🌱	græðlingur, planta
 🪴	gagnslaus, hús, næra, planta, pottaplanta, vaxa
 🌲	sígrænt, sígrænt tré, tré
@@ -2717,11 +2929,13 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🪹	hreiðurgerð, tómt hreiður
 🪺	hreiður með eggjum, hreiðurgerð
 🍄	sveppur
+🪾	blaðlaust tré, nakið, vetur, ólaufgað, þurrkur
 🍇	vínber, ávöxtur
 🍈	melóna, ávöxtur
 🍉	melóna, vatnsmelóna, ávöxtur
 🍊	appelsína, mandarína, ávöxtur
 🍋	sítrusávöxtur, sítróna, ávöxtur
+🍋‍🟩	hitabeltis, límóna, sítrus, súraldin, ávöxtur
 🍌	banani, ávöxtur
 🍍	ananas, ávöxtur
 🥭	mangó, suðrænn, ávöxtur
@@ -2751,10 +2965,14 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🥜	grænmeti, jarðhneta, jarðhnetur
 🫘	baunabelgur, baunir, matur, nýra
 🌰	hneta, kastanía
+🫚	engifer, engiferrót, kryddjurt, rót
+🫛	baun, baunabelgur, baunir, belgjurt, belgur, edamame, grænmeti
+🍄‍🟫	brúnn sveppur, grænmeti, matur, náttúra
+🫜	garður, grænmeti, næpa, rófa, rót, rótargrænmeti
 🍞	brauð, brauðhleifur
 🥐	Croissant, brauð, franskt, horn, smjördeigshorn, snúður
 🥖	brauð, fransbrauð, franskt, matur
-🫓	arepa, flakaka, flatbrauð, flatkaka, flatkökur, lavash, nan
+🫓	arepa, flatbrauð, flatkaka, flatkökur, lavash, nan
 🥨	saltkringla, snúin
 🥯	bakarí, beygla, smurostur
 🥞	eftirréttur, matur, pönnukökur
@@ -2947,7 +3165,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🏍️	kappakstur, mótorhjól
 🛵	farartæki, hjól, mótorhjól, skellinaðra, vespa
 🦽	aðgengi, hjólastóll
-🦼	aðgengi, vélknúinn hj´ólastóll
+🦼	aðgengi, vélknúinn hjólastóll
 🛺	túk-túk, vélknúinn léttvagn
 🚲️	hjól, hjólreiðar, reiðhjól
 🛴	hjól, hlaupa, hlaupahjól
@@ -2985,13 +3203,13 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🚡	kláfferja á línu, kláfur, loftferja
 🛰️	farartæki, geimur, gervihnöttur
 🚀	eldflaug, farartæki, geimur
-🛸	flj´úgandi furðuhlutur, fljúgandi diskur
+🛸	fljúgandi diskur, fljúgandi furðuhlutur
 🛎️	bjalla, hótel, hótelbjalla
 🧳	farangur, ferðalag, pakka niður, taska
 ⌛️	niðurtalning, sandur, stundaglas
 ⏳️	niðurtalning, sandur, stundaglas, stundaglas með rennandi sandi
 ⌚️	klukka, úr
-⏰	klukka, vekjaraklukka, vekjari
+⏰️	klukka, vekjaraklukka, vekjari
 ⏱️	klukka, skeiðklukka
 ⏲️	klukka, tímamælir
 🕰️	klukka, stássklukka
@@ -3036,7 +3254,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🌝	andlit, bjart, fullt tungl, fullt tungl með andliti, máni, tungl
 🌞	andlit, sól, sól með andliti
 🪐	fálátur, pláneta með hringi, satúrnus
-⭐️	hvít stjarna, stjarna
+⭐️	gul stjarna, stjarna
 🌟	skínandi, skínandi stjarna, stjarna
 🌠	stjarna, stjörnuhrap, óskastjarna
 🌌	geimurinn, vetrarbrautin
@@ -3057,7 +3275,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🌂	klæðnaður, lokuð regnhlíf, regnhlíf, rigning, samanlögð regnhlíf, veður
 ☂️	klæðnaður, regn, regnhlíf, veður
 ☔️	dropi, klæðnaður, regn, regnhlíf, regnhlíf með regndropum
-⛱️	regn, regnhlíf, regnhlíf á jörðinni, sól, veður
+⛱️	regn, regnhlíf, sól, sólhlíf, sólhlíf á jörðinni, veður
 ⚡️	háspenna, lífshætta, rafmagn, spenna
 ❄️	kalt, snjókorn, snjór, veður
 ☃️	kalt, snjókarl í snjókomu, snjór, veður
@@ -3071,11 +3289,11 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🎆	flugeldar, hátíð, áramót
 🎇	blys, hátíð, stjörnuljós, áramót
 🧨	dínamít, flugeldar, púðurkerling, sprengiefni
-✨	glit, neistar, stjörnur
+✨️	glit, neistar, stjörnur
 🎈	blaðra, veisla
 🎉	hátíð, knall, veisla
 🎊	confetti, pappírssnifsi, veisla, veisluskraut
-🎋	Tanabata-tré, borði, fagnaður, japanskt, tanabata-tré, tré
+🎋	Tanabata-tré, borði, fagnaður, japanskt, tré
 🎍	blómaskreyting með furu, fura, hátíð, japanskt, áramót
 🎎	brúðuhátíð, hátíð, japanskar brúður, japanskt
 🎏	fiskveifur, hátíð, veifur
@@ -3171,6 +3389,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🩳	buxur, nærbuxur, nærföt, stuttbuxur, sundföt
 👙	bikíní, klæðnaður, sundföt
 👚	föt, klæðnaður, kona, kvenföt
+🪭	blaka, blævængur, dans, feimni, heitt, kæla
 👛	budda, klæðnaður, peningabudda, smápeningar
 👜	handtaska, klæðnaður, taska
 👝	budda, klæðnaður, smáveski
@@ -3185,11 +3404,12 @@ _	lágstrik, niðurstrik, strik, undirstrik
 👡	klæðnaður, kvensandali, kvenskór, sandali
 🩰	ballet, balletskór, dans
 👢	klæðnaður, kvenskór, kvenstígvél, stígvél
+🪮	afró, greiða, hár, hárkambur, kambur
 👑	klæðnaður, kóróna
 👒	hattur, klæðnaður, kvenhattur
 🎩	hattur, pípuhattur, skemmtun
 🎓️	hátíð, húfa, stúdentshúfa, útskrift, útskriftarhúfa
-🧢	derhúfa, hafnarboltahúfa
+🧢	derhúfa, hafnaboltahúfa
 🪖	her, herinn, hermannahjálmur, hermaður, hjálmur, stríðsmaður
 ⛑️	andlit, björgun, hjálmur, hjálmur með hvítum krossi, hjálp, kross
 📿	bæn, bænaband, föt, hálsmen, perlur, trú
@@ -3223,6 +3443,9 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🪕	banjó, strengir, strengjahljóðfæri, tónlist
 🥁	hljóðfæri, tromma, trommuleikari, trommusett, tónlist
 🪘	handtromma, hrynjandi, kónga, taktur, tromma
+🪇	hljóðfæri, hrista, hristur, skrölt, slagverk, tónlist
+🪈	blokkflauta, flauta, hljóðpípa, tréblásturshljóðfæri, tónlist
+🪉	amor, harpa, hljómsveit, hljóðfæri, tónlist, ást
 📱	farsími, sími
 📲	farsími, farsími með ör, hringja, sími
 ☎️	sími
@@ -3273,7 +3496,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 📄	skjal snýr upp, snýr upp, síða, síða snýr upp
 📰	blað, dagblað, fréttir
 🗞	dagblað, fréttir, pappír, samanrúllað, samanrúllað dagblað
-📑	bókamerki í tölvu, flipar, merki
+📑	bókamerki, flipar, merki, merkiflipar
 🔖	bókamerki, merki
 🏷️	merki, merkimiði
 💰️	peningapoki, peningar, poki
@@ -3355,14 +3578,16 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ⚖️	jafnréttisvog, jafnvægi, vog, vogarskál
 🦯	aðgengi, blindrastafur, blindur, sjónlaus
 🔗	tenglamerki, tenglar, tveir hlekkir
+⛓‍💥	brjóta, fjötrar, frelsi, hlekkir, keðja, slitin keðja, slíta
 ⛓️	keðja
 🪝	bogi, gildra, krækja, krókur
 🧰	kista, tól, verkfærakassi, verkfæri, viðgerðir
 🧲	aðdráttarafl, segull, segulmagn, skeifa
 🪜	klifra, rim, stigi, trappa
+🪏	grafa, hola, malarskófla, moka, skófla
 ⚗️	efnafræði, eimingarflaska
 🧪	efnafræði, efnafræðingur, tilraun, tilraunaglas, tilraunastofa, vísindi
-🧫	baktería, gerlaflóra, líffræði, líffræðingur, petrílskál, tilraunastofa
+🧫	baktería, gerlaflóra, líffræði, líffræðingur, petrískál, tilraunastofa
 🧬	dna, erfðaefni, gen, líf, líffræðingur, þróun
 🔬	smásjá, verkfæri, vísindi
 🔭	sjónauki, verkfæri, vísindi
@@ -3393,7 +3618,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🧺	búskapur, karfa, lautarferð, þvottur
 🧻	klósettpappír, pappírsrúlla, salernispappír
 🪣	fata, skjóla, ílát
-🧼	bað, löður, s´ápudiskur, sápa, sápustykki, þrif
+🧼	bað, löður, sápa, sápudiskur, sápustykki, þrif
 🫧	hreinsa, loftbólur, ropi, sápa, undir vatni
 🪥	baðherbergi, bursti, hreinlæti, hreinn, tannbursti, tannhirða, tennur
 🧽	drekkur í sig, gljúpur, svampur, þrif
@@ -3409,7 +3634,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🪧	kröfuganga, mótmæli, skilti, veggspjald
 🪪	auðkenni, persónuskilríki, skilríki, skírteini, öryggi
 🏧	banki, hraðbanki
-🚮	merki, rusl í ruslatunnu, rusl, ruslafata
+🚮	merki, merki, rusl í ruslatunnu, rusl, rusl í ruslatunnu, ruslafata
 🚰	drykkjarvatn, vatn
 ♿️	aðgengi, fatlaðir, hjólastólaaðgengi, hjólastóll
 🚹️	karl, karlaklósett, klósett, salerni, snyrting
@@ -3444,9 +3669,10 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ↖️	norðvestur, átt, ör, ör ská upp til vinstri
 ↕️	ör, ör upp og niður
 ↔️	ör, ör til vinstri og hægri
+↮	ör vinstri hægri með striki
 ↩️	sveigð ör til vinstri, ör
 ↪️	sveigð ör til hægri, ör
-⤴️	sveig ör upp, ör
+⤴️	sveigð ör upp, ör
 ⤵️	niður, sveigð ör niður, ör
 🔃	endurhlaða, endurhleðslutákn, lóðréttar réttsælisörvar, örvar
 🔄	rangsælis, rangsælis örvar, örvar
@@ -3467,6 +3693,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ☮️	friðartákn, friður
 🕎	ljósastjaki, margálma kertastjaki, menorah-ljósastika, trúarbrögð
 🔯	sexhyrnd, sexhyrnd stjarna, spá, spádómur, stjarna
+🪯	khanda, sikh, trúarbrögð
 ♈️	hrútur, hrúturinn, stjörnumerki
 ♉️	naut, nautið, stjörnumerki
 ♊️	stjörnumerki, tvíburar
@@ -3479,7 +3706,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ♑️	steingeit, stjörnumerki
 ♒️	stjörnumerki, vatnsberi
 ♓️	fiskar, stjörnumerki
-⛎	naðra, naðurvaldi, snákur, stjörnumerki
+⛎️	naðra, naðurvaldi, snákur, stjörnumerki
 🔀	fléttaðar örvar, fléttaðar örvar til hægri, örvar, örvar í kross
 🔁	endurtaka, réttsælis, örvar
 🔂	einu sinni, númer 1, réttsælis, réttsælis örvar, réttsælis örvar með tölunni 1, örvar
@@ -3489,7 +3716,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ⏯	pása, spila, spilunar- og pásuhnappur, spilunar- og pásutakki, ör, þríhyrningur
 ◀	hnappur til að spóla til baka, spóla til baka, vinstri, ör, þríhyrningur
 ⏪	spóla til baka, tvöföld ör til vinstri, vinstri, ör
-⏮	fyrri sena, hnappur til að skipta á síðustu rás, ör, þríhyringingur
+⏮	fyrri sena, hnappur til að skipta á síðustu rás, ör, þríhyrningur
 🔼	hnappur, uppvísandi þríhyrningur, þríhyrningur, þríhyrningur upp
 ⏫	tvöföld uppör, upp, uppör, ör
 🔽	hnappur, niðurvísandi þríhyrningur, þríhyrningur, þríhyrningur niður
@@ -3502,22 +3729,23 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🔅	birta, dimmt, lítil birta, tákn um litla birtu
 🔆	birta, bjart, mikil birta, tákn um mikla birtu
 📶	farsímasamband, farsímastyrkur, farsími, loftnet
+🛜	internet, net, tölva, þráðlaust
 📳	farsími, stilling, sími, titringur
 📴	farsími, slökkt, slökkt á farsíma, slökkt á síma, sími
 ♀️	konur, kvenkyns, kvenkyns merki, merki
 ♂️	karlar, karlkyns, karlkyns merki, merki
 ⚧️	trans, transmerki
 ✖️	hætta við, margfalda, margföldun, margföldunartákn, tákn, x, ×
-➕	+, merki, plús, plúsmerki, stærðfræði
-➖	-, merki, mínus, mínusmerki, stærðfræði, –
-➗	deiling, deilingarmerki, merki, stærðfræði, ÷
+➕️	+, merki, plús, plúsmerki, stærðfræði
+➖️	-, merki, mínus, mínusmerki, stærðfræði, –
+➗️	deiling, deilingarmerki, merki, stærðfræði, ÷
 🟰	jöfnuður, stærðfræði, þungt jafnaðarmerki
 ♾️	algilt, eilífð, takmarkaleysi, óendanleiki
-‼️	greinarmerki, merki, tvöfalt upphrópunarmerki, upphr´ópunarmerki
+‼️	greinarmerki, merki, tvöfalt upphrópunarmerki, upphrópunarmerki
 ⁉️	!, !?, ?, greinarmerki, interrobang, spurningarmerki, upphrópunarmerki, upphrópunarmerki og spurningarmerki
 ❓️	greinarmerki, merki, rautt spurningarmerki, spurning, spurningarmerki
-❔	greinarmerki, hvítt spurningarmerki, merki, spurning
-❕	greinarmerki, hvítt upphrópunarmerki, merki, upphrópun, útlínur
+❔️	greinarmerki, hvítt spurningarmerki, merki, spurning
+❕️	greinarmerki, hvítt upphrópunarmerki, merki, upphrópun, útlínur
 ❗️	greinarmerki, merki, rautt upphrópunarmerki, upphrópun, upphrópunarmerki
 〰️	alda, bugða, bugðustrik, strik
 💱	gjaldmiðlar, gjaldmiðlareikningur, gjaldmiðlaskipti, peningar
@@ -3529,13 +3757,13 @@ _	lágstrik, niðurstrik, strik, undirstrik
 📛	nafn, nafnspjald, spjald
 🔰	byrjandi, græn og gul, græn og gul lauf, japanskt
 ⭕️	holur rauður hringur, hringur, o, rauður, stór
-✅	hak, hakmerki, hnappur, merki
+✅️	hak, hakmerki, hnappur, merki
 ☑️	hak, hakreitur með haki, hakreitur með hakmerki, reitur, ✓
 ✔️	hak, merki, ✓
-❌	hætta við, kross, krossmerki, margfalda, margföldun, x, ×
-❎	ferningur, krosshnappur, merki, ×
-➰	lykkja
-➿	gormur, lykkjur, tvöföld lykkja
+❌️	hætta við, kross, krossmerki, margfalda, margföldun, x, ×
+❎️	ferningur, krosshnappur, merki, ×
+➰️	lykkja
+➿️	gormur, lykkjur, tvöföld lykkja
 〽️	japanskt upphafsmerki söngs, merki
 ✳️	*, stjarna, áttarma stjarna, áttarma stjörnumerki
 ✴️	stjarna, áttarma stjarna
@@ -3543,6 +3771,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 ©️	höfundarréttarmerki, höfundarréttarvarið, höfundarréttur
 ®️	skráð, skráð vörumerki
 ™️	skrásett vörumerki, vörumerki
+🫟	blettur, holi, klessa, málning, sletta
 #⃣	takki, takki: #
 *⃣	takki, takki: *
 0⃣	takki, takki: 0
@@ -3578,12 +3807,12 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🆘	SOS, SOS-skilti, hjálp, skilti
 🆙	UP!, skilti
 🆚	VS, gegn, skilti, versus, versus-skilti
-🈁	hér, japanska, katakana, katakana koko, kassi
-🈂️	japanska, katakana, katakana sa, kassi, þjónustugjald
-🈷	japanska, myndletur, mánaðarleg upphæð, mánaðarleg upphæð, kassi
+🈁	hér, japanska, kassi, katakana, katakana koko, katakana koko, kassi
+🈂️	japanska, kassi, katakana, katakana sa, katakana sa, kassi, þjónustugjald
+🈷	japanska, kassi, myndletur, mánaðarleg upphæð, mánaðarleg upphæð, kassi
 🈶	ekki ókeypis, japanska, myndletur, „Ekki ókeypis“ á japönsku
 🈯	frátekið, japanska, myndletur, „Frátekið“ á japönsku
-🉐	g´óð kaup, japanska, myndletur, „Kjarakaup“ á japönsku
+🉐	góð kaup, japanska, myndletur, „Kjarakaup“ á japönsku
 🈹	afsláttur, japanska, myndletur, „Afsláttur“ á japönsku
 🈚	japanska, myndletur, ókeypis, „Ókeypis“ á japönsku
 🈲	bannað, japanska, myndletur, „Bannað“ á japönsku
@@ -3591,7 +3820,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🈸	beiðni, japanska, myndletur, „Umsókn“ á japönsku
 🈴	japanska, lágmarkseinkunn, myndletur, „Viðunandi einkunn“ á japönsku
 🈳	japanska, myndletur, tómt, „Laust pláss“ á japönsku
-㊗️	japanska, myndletur, til hamingju, „Til hamingju“ ´a japönsku
+㊗️	japanska, myndletur, til hamingju, „Til hamingju“ á japönsku
 ㊙️	japanska, leyndarmál, myndletur, „Leyndarmál“ á japönsku
 🈺	japanska, myndletur, vinna, „Opið“ á japönsku
 🈵	allt fullt, japanska, myndletur, „Allt fullt“ á japönsku
@@ -3855,7 +4084,7 @@ _	lágstrik, niðurstrik, strik, undirstrik
 🇸🇻	fáni, fáni: El Salvador
 🇸🇽	fáni, fáni: Sint Maarten
 🇸🇾	fáni, fáni: Sýrland
-🇸🇿	fáni, fáni: Svasíland
+🇸🇿	fáni, fáni: Esvatíní
 🇹🇦	fáni, fáni: Tristan da Cunha
 🇹🇨	fáni, fáni: Turks- og Caicoseyjar
 🇹🇩	fáni, fáni: Tsjad
@@ -3909,24 +4138,25 @@ $	USD, dalur, peningar, pesi
 ฿	taílenskt bat
 ៛	kambódískt ríal
 ₡	kostarískt kólon
+₢	BRB, cruzeiro, gjaldmiðill
 ₣	franki, franskur franki, gjaldmiðill
 ₤	gjaldmiðill, líra
 ₥	millidalur, millitomma
 ₦	nígerísk næra
-₧	Spænskur peseti
 ₩	KPW, vonn, won
 ₪	nýr ísraelskur sikill
 ₫	víetnamskt dong
 €	EUR, evra, gjaldmiðill
 ₭	laoskt kip
 ₮	mongólskur túríkur
+₰	gjaldmiðill, pfennig, þýskt penní, þýskt pfennig
 ₱	pesi
 ₲	paragvæskt gvaraní
-₳	suðlægur
+₳	ARA, austral, gjaldmiðill
 ₴	úkraínsk hrinja
 ₵	ganverskur sedi
-₶	gjaldmiðill
-₷	gjaldmiðill
+₶	gjaldmiðill, livre tournois
+₷	gjaldmiðill, spesmilo
 ₸	kasakst tengi
 ₹	gjaldmiðill, indversk rúpía, rúpía
 ₺	tyrknesk líra
@@ -3935,10 +4165,11 @@ $	USD, dalur, peningar, pesi
 ₾	georgískur lari
 ₿	BTC, bitcoin
 ₨	gjaldmiðill, rúpía
-﷼	gjaldmiðill
+﷼	gjaldmiðill, ríal
 ¹	brjóstletur, brjóstletur einn, einn
 ²	brjóstletur, brjóstletur tveir, tveir, í öðru veldi
 ³	brjóstletur, brjóstletur þrír, í þriðja veldi, þrír
+₧	Spænskur peseti
 µ	mál, míkró-merki
 🏻	húðlitur, ljós húðlitur, tegund 1–2
 🏼	húðlitur, meðalljós húðlitur, tegund 3

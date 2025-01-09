@@ -108,7 +108,7 @@ _	azpimarra, beheko marra, marra
 ↶	ezkerrerako goi-zirkuluerdiaren gezia
 ↷	eskuinerako goi-zirkuluerdiaren gezia
 ↸	ipar-mendebaldeko gezia barra luzearekin
-↹	ezkerrerako barradun gezia eskuinerako barradun geziaren gainean
+↹	barra, eskuinera, eskuinerantz, ezkerrera, ezkerrerako gezi barraduna eskuinerako gezi barradunaren gainean, ezkerrerantz, gezia
 ↺	ezkerrerako zirkuluerdi irekiaren gezia
 ↻	eskuinerako zirkuluerdi irekiaren gezia
 ↼	bizarra, ezkerrerako goiko arpoi-bizarra
@@ -215,7 +215,7 @@ _	azpimarra, beheko marra, marra
 ≅	berdintasun, gutxi gorabehera berdin, isomorfismo, kongruente, matematika
 ≈	gutxi gorabehera, ia berdin
 ≌	berdintasun, dena berdin, matematika
-≒	irudiaren berdina, gutxi gorabehera
+≒	gutxi gorabehera, irudiaren berdina, irudiaren berdina, gutxi gorabehera
 ≖	berdintasuna, eraztuna berdin barruan, matematika
 ≡	bera, berbera, hirukoitza, honen berbera
 ≣	baliokide zorrotza, berdintasuna, matematika
@@ -343,11 +343,11 @@ _	azpimarra, beheko marra, marra
 ♭	bemola, musika, nota
 ♯	diesea, musika, nota
 😀	aurpegi, barre egiten ari den aurpegia, irribarre
-😃	aho, aurpegi, barre egiten ari den aurpegia, ahoa irekita, ireki, irribarre, irribarre egiten ari den aurpegia, ahoa irekita
-😄	aho, aurpegi, begi, begiez barreka ari den aurpegia, begiez irribarre egiten ari den aurpegia, ahoa irekita, ireki, irribarre
+😃	ahoa, alai, aparta, aupa, aurpegia, barre egiten ari den aurpegia, ahoa irekita, bikaina, egundokoa, haginak, hortzak, irekita, irribarre egiten, irribarre egiten ari den eta ahoa irekita daukan aurpegia, irribarre egiten ari den eta begi handiak dituen aurpegia, irribarrea, irribarreka, itzela, itzelezkoa, pozik, zabalduta, zabalik
+😄	ahoa, alai, aurpegia, barrea, barrez lehertzen, begia, begiez barreka ari den aurpegia, irekita, irri egiten, irria, irribarre egiten, irribarre egiten ari den eta begiez barreka ari den aurpegia, irribarre egiten ari den, ahoa irekita daukan eta begiez irri egiten ari den aurpegia, irribarrea, irribarreka, lol, pozik
 😁	aurpegi, barre, begi, begiez barre egiten ari den aurpegia, irribarre
-😆	aho, asebeteta, aurpegi, barre, barreka ari den aurpegia, begiak itxita, ireki, irribarre, irribarre egiten ari den aurpegia, begiak itxita
-😅	aurpegi, barreka ari den aurpegia, izerdi hotzarekin, hotz, ireki, irribarre, irribarre egiten ari den aurpegia, izerdi hotzarekin eta ahora irekita, izerdi
+😆	ahoa, alai, ase, asebete, aurpegia, barre egin, barrea, barreka ari den aurpegia, begiak itxita, barrez lehertzen, irekita, irri egiten, irria, irribarre egiten, irribarre egiten ari den eta begiak itxita dauzkan aurpegia, irribarre egiten ari den, ahora irekita daukan eta begiak itxita dauzkan aurpegia, irribarrea, irribarreka, karkar, karkarkar, lol, pozik
+😅	aurpegi, barreka ari den aurpegia, barreka ari den aurpegia, izerdi hotzarekin, hotz, ireki, irribarre, irribarre egiten ari den aurpegia, izerdi, izerdi hotzarekin, izerdi hotzarekin eta ahora irekita
 🤣	barrez, barrez leherka, leherka, lehertu
 😂	aurpegi, barre, malko, poz, pozez negar egiten ari den aurpegia
 🙂	apur bat irribarre egiten ari den aurpegia, aurpegi, irribarre
@@ -356,15 +356,15 @@ _	azpimarra, beheko marra, marra
 😉	aurpegi, begiaz keinu egiten ari den aurpegia, keinu
 😊	aurpegi, begi, begiez irribarre egiten ari den aurpegia, gorritu, irribarre
 😇	aingerua, argi-koroa, aurpegia, barreka ari den aurpegia argi-koroarekin, fantasia, inuzentea, irribarre egiten ari den aurpegia argi-koroarekin, irribarrea
-🥰	irri egiten ari den aurpegia, 3 bihotzekin, irribarre egiten ari den aurpegia, 3 bihotzekin, maiteminduta, oso gustuko, txoratze
-😍	aurpegi, aurpegia barreka, bihotz-itxurako begiekin, begi, bihotz, irribarre, irribarre egiten ari den aurpegia, bihotz-itxurako begiekin, maitasun
+🥰	amodioa, amz, aurpegia, bihotza, bihotzak, irri egiten ari den aurpegia, 3 bihotzekin, irribarre egiten ari den aurpegia, bihotzekin, irribarre egiten ari diren bihotzak, irribarrea, maitasuna, maite zaitut, maiteminduta, mz, oso gustukoa, txora-txora eginda, txoratzea
+😍	143, amodioa, amz, aurpegia, aurpegia barreka, bihotz-itxurako begiekin, begia, bihotza, bihotzak, erromantikoa, irribarre egiten ari den aurpegia, bihotz-itxurako begiekin, irribarrea, laztana, maitasuna, maitekorra, maiteminduta, musuak, mz, sentimenduak
 🤩	aurpegi, begiak, irribarretsu, izar
 😘	aurpegi, bihotz, musu, musu bat bidaltzen ari den aurpegia
 😗	aurpegi, musu, musuka ari den aurpegia
 ☺️	aurpegi, erlaxatuta, irribarre, irribarre egiten ari den aurpegia, nabarmen
-😚	aurpegi, begi, itxi, musu, musuka ari den aurpegia, begiak itxita
+😚	143, amz, aurpegia, begia, begiak itxita dituen eta musuka ari den aurpegia, flirtean, geratzea, hitzordua, itxi, itxita, laztana, lotsagorritu, maite-jokoetan, maite-jolasean, maite-kontuetan, musua, musuak, musuka ari den aurpegia, begiak itxita, musutxoak, mz, zita
 😙	aurpegi, begi, irribarre, musu, musuka eta begiez barreka ari den aurpegia, musuka eta begiez irribarre egiten ari den aurpegia
-🥲	barreka ari den aurpegia, malko batekin, esker on, harro, hunkitu, irribarre, irribarre egiten ari den aurpegia, malko batekin, lasaitu, malko
+🥲	alai, alaitasuna, barreka ari den aurpegia, malko batekin, esker ona, esker onekoa, harro, hunkituta, irribarre egiten, irribarre egiten ari den eta malko bat duen aurpegia, irribarrea, irribarreka, irribarretsua, lasai, lasaitu, malkoa, mina, pozik, poztasuna, zoriona
 😋	aurpegi, dastatu, gozo, irribarre, janari gozoa dastatzen ari den aurpegia, mmm
 😛	aurpegi, mingain, mingaina kanpoan duen aurpegia
 😜	aurpegi, begi, keinu, mihia aterata begi-keinuka ari den aurpegia, mingain, mingaina kanpoan duen eta begiaz keinu egiten ari den aurpegia, txantxa
@@ -391,11 +391,15 @@ _	azpimarra, beheko marra, marra
 😬	aurpegi, imintzio, imintzio-aurpegia
 😮‍💨	arnasa botatzen ari den aurpegia, arnasa hartu, arnasestua, hasperena, lasaitua, marmarra, txistua
 🤥	aurpegi, aurpegi gezurtia, gezur, pinotxo
+🫨	ai ene, beldurra, dar-dar egin, dardarka ari den aurpegia, ene, ezustea, ikara, omg, sorpresa, uau, zorabiatu
+🙂‍↔	buruarekin ezetz egin, ez, horizontalki mugitzen ari den burua
+🙂‍↕	bai, bertikalki mugitzen ari den burua, buruarekin baietz egin
 😌	aurpegi, lasaitasun, lasaitasun-aurpegia
 😔	aurpegi, aurpegi pentsakorra, goibel, pentsakor
 😪	aurpegi, lo, logura, logura-aurpegia
 🤤	aurpegi, aurpegia lerdea dariola, lerde
 😴	aurpegi, lo, lo dagoen aurpegia, zzz
+🫩	begien azpian poltsak dituen aurpegia, leher eginda, lehertuta, logalea, logura, nekatuta
 😷	aurpegi, gaixo, hotzeri, maskara, mediku-maskara daraman aurpegia, medikuntza, sendagile
 🤒	aurpegi, gaixo, termometro, termometroa duen aurpegia
 🤕	aurpegi, benda, buruan benda daraman aurpegia, oinaze, zauri
@@ -411,7 +415,7 @@ _	azpimarra, beheko marra, marra
 🤠	aurpegi, behizain, behizain txanodunaren aurpegia, txano, unai
 🥳	adar, festa, kapelu, ospakizun, parrandan dabilen aurpegia
 🥸	aurpegi, betaurrekoak, ezkutu, mozorro, mozorrotutako aurpegia, sudur
-😎	argitasun, aurpegi, aurpegia barreka, eguzkitako betaurrekoekin, begi, cool, eguzkitako betaurreko, irribarre egiten ari den aurpegia, eguzkitako betaurrekoekin
+😎	argitsua, atseden hartzen, aurpegia, aurpegia barreka, eguzkitako betaurrekoekin, bai horixe, betaurrekoak, bikaina, eguzkia, eguzkitako betaurrekoak, erlaxatzen, estiloa, ezin hobe, hondartza, irabazi, irabazlea, irribarre egin, irribarre egiten ari den eta eguzkitako betaurrekoak dituen aurpegia, irribarrea, oso ondo, oso ongi, primeran
 🤓	arraro, arraro-aurpegia, aurpegi, berezi
 🧐	aspergarria, monokulo bat duen aurpegia
 😕	aurpegi, nahasketa-aurpegia, nahastuta
@@ -459,7 +463,7 @@ _	azpimarra, beheko marra, marra
 😺	aho, ahoa irekita duen eta irribarre egiten ari den katu-aurpegia, ahoa irekita duen katu-aurpegi irribarretsua, aurpegi, ireki, irribarre, katu
 😸	aurpegi, barre, begi, begiez barre egiten ari den katu-aurpegia, katu
 😹	aurpegi, katu, malko, poz, pozez negar ari den katu-aurpegia
-😻	aurpegia, begia, bihotz-itxurako begiak dituen eta irribarre egiten ari den katu-aurpegia, bihotza, irribarrea, katu irribarretsua, bihotz-itxurako begiekin, katua, maitasuna
+😻	animalia, aurpegia, begia, bihotz-itxurako begiak dituen eta irribarre egiten ari den katu-aurpegia, bihotz-itxurako begiekin, bihotza, irribarrea, katu irribarretsua, katu irribarretsua, bihotz-itxurako begiekin, katua, maitasuna
 😼	aurpegi, ironiko, irribarre, irribarre maltzurra duen katu-aurpegia, katu, maltzur
 😽	aurpegi, begi, begiak itxita dituen eta musuka ari den katu-aurpegia, begiak itxita musuka ari den katu-aurpegia, katu, musu
 🙀	aurpegi, harritu, katu, leher eginda, leher eginda dagoen katu-aurpegia, nekatu
@@ -482,13 +486,16 @@ _	azpimarra, beheko marra, marra
 ❤‍🔥	bihotz sakratua, bihotza, erre, lizunkeria, maitasuna, sutan dagoen bihotza
 ❤‍🩹	hobetzen, leheneratzen, ondo, osasuntsuago, sendatzen, sendatzen ari den bihotza, suspertzen
 ❤️	bihotz, bihotz gorria
+🩷	143, arrosa, atsegin, bihotz arrosa, bihotza, gogoko, maitagarria, maitasuna, polita
 🧡	bihotz laranja, laranja
 💛	bihotz, bihotz horia, hori
 💚	berde, bihotz, bihotz berdea
 💙	bihotz, bihotz urdina, urdin
+🩵	143, anila, bihotz urdin argia, bihotza, urdin argia, ziana
 💜	bihotz, bihotz morea, more
 🤎	bihotz, bihotz marroia, marroi
 🖤	beltz, bihotz, bihotz beltza, zital, zorigaitz
+🩶	143, arbela, bihotz grisa, bihotza, emozioa, grisa, zilarra, zirrara
 🤍	bihotz, bihotz zuria, zuri
 💋	ezpainak, musu, musu-aztarna
 💯	100, ehun, ehun puntu, oso, puntuazio
@@ -499,11 +506,11 @@ _	azpimarra, beheko marra, marra
 💨	bizi, komiki, korrika, lasterka, ziztu bizian
 🕳️	zulo, zuloa
 💬	bunbuiloa, elkarrizketa, hizketa
-👁‍🗨	begi, begi bat duen bunbuiloa, bunbuilo, lekuko
-🗨️	elkarrizketa, ezkerrera doan bunbuiloa, hizketa
+👁‍🗨	begi bat duen bunbuiloa, begia, bunbuiloa, burbuila, hizketa, lekukoa, puxika
+🗨️	bunbuiloa, burbuila, elkarrizketa, ezkerrera doan bunbuiloa, hizketa, puxika
 🗯️	bunbuilo, eskuinera doan sumindura-bunbuiloa, haserre, sumindu
 💭	bunbuilo, burutazio, burutazio-bunbuiloa, komiki, pentsamendu
-💤	komiki, lo, zzz
+💤	gabon, komikia, lo, zzz
 👋	eskua, gorputza, mugitu, mugitzen ari den eskua
 👋🏻	1–2. mota, eskua, gorputza, mugitu, mugitzen ari den eskua, mugitzen ari den eskua: 1–2. mota
 👋🏼	3. mota, eskua, gorputza, mugitu, mugitzen ari den eskua, mugitzen ari den eskua: 3. mota
@@ -522,7 +529,7 @@ _	azpimarra, beheko marra, marra
 🖐🏽	bitarteko azal-tonua, esku altxatua eta hatz hedatuak, esku altxatua eta hatz hedatuak: bitarteko azal-tonua, eskua, gorputza, hatza, hedatu
 🖐🏾	5. mota, esku altxatua eta hatz hedatuak, esku altxatua eta hatz hedatuak: 5. mota, eskua, gorputza, hatza, hedatu
 🖐🏿	6. mota, esku altxatua eta hatz hedatuak, esku altxatua eta hatz hedatuak: 6. mota, eskua, gorputza, hatza, hedatu
-✋	esku altxatua, eskua
+✋️	esku altxatua, eskua
 ✋🏻	1–2. mota, esku altxatua, esku altxatua: 1–2. mota, eskua
 ✋🏼	3. mota, esku altxatua, esku altxatua: 3. mota, eskua
 ✋🏽	bitarteko azal-tonua, esku altxatua, esku altxatua: bitarteko azal-tonua, eskua
@@ -578,6 +585,18 @@ _	azpimarra, beheko marra, marra
 🫴🏽	bitarteko azal-tonua, eskaini, esku-ahura gora begira duen eskua, esku-ahura gora begira duen eskua: bitarteko azal-tonua, etorri, etorri keinua, harrapatu
 🫴🏾	5. mota, eskaini, esku-ahura gora begira duen eskua, esku-ahura gora begira duen eskua: 5. mota, etorri, etorri keinua, harrapatu
 🫴🏿	6. mota, eskaini, esku-ahura gora begira duen eskua, esku-ahura gora begira duen eskua: 6. mota, etorri, etorri keinua, harrapatu
+🫷	blokeatu, bostekoa, bultza, ezkerrerantz, ezkerrerantz bultza egiten ari den eskua, gelditu, itxaron, sakatu, uko
+🫷🏻	1–2. mota, blokeatu, bostekoa, bultza, ezkerrerantz, ezkerrerantz bultza egiten ari den eskua, ezkerrerantz bultza egiten ari den eskua: 1–2. mota, gelditu, itxaron, sakatu, uko
+🫷🏼	3. mota, blokeatu, bostekoa, bultza, ezkerrerantz, ezkerrerantz bultza egiten ari den eskua, ezkerrerantz bultza egiten ari den eskua: 3. mota, gelditu, itxaron, sakatu, uko
+🫷🏽	bitarteko azal-tonua, blokeatu, bostekoa, bultza, ezkerrerantz, ezkerrerantz bultza egiten ari den eskua, ezkerrerantz bultza egiten ari den eskua: bitarteko azal-tonua, gelditu, itxaron, sakatu, uko
+🫷🏾	5. mota, blokeatu, bostekoa, bultza, ezkerrerantz, ezkerrerantz bultza egiten ari den eskua, ezkerrerantz bultza egiten ari den eskua: 5. mota, gelditu, itxaron, sakatu, uko
+🫷🏿	6. mota, blokeatu, bostekoa, bultza, ezkerrerantz, ezkerrerantz bultza egiten ari den eskua, ezkerrerantz bultza egiten ari den eskua: 6. mota, gelditu, itxaron, sakatu, uko
+🫸	blokeatu, bostekoa, bultza, eskuinerantz, eskuinerantz bultza egiten ari den eskua, gelditu, itxaron, sakatu, uko
+🫸🏻	1–2. mota, blokeatu, bostekoa, bultza, eskuinerantz, eskuinerantz bultza egiten ari den eskua, eskuinerantz bultza egiten ari den eskua: 1–2. mota, gelditu, itxaron, sakatu, uko
+🫸🏼	3. mota, blokeatu, bostekoa, bultza, eskuinerantz, eskuinerantz bultza egiten ari den eskua, eskuinerantz bultza egiten ari den eskua: 3. mota, gelditu, itxaron, sakatu, uko
+🫸🏽	bitarteko azal-tonua, blokeatu, bostekoa, bultza, eskuinerantz, eskuinerantz bultza egiten ari den eskua, eskuinerantz bultza egiten ari den eskua: bitarteko azal-tonua, gelditu, itxaron, sakatu, uko
+🫸🏾	5. mota, blokeatu, bostekoa, bultza, eskuinerantz, eskuinerantz bultza egiten ari den eskua, eskuinerantz bultza egiten ari den eskua: 5. mota, gelditu, itxaron, sakatu, uko
+🫸🏿	6. mota, blokeatu, bostekoa, bultza, eskuinerantz, eskuinerantz bultza egiten ari den eskua, eskuinerantz bultza egiten ari den eskua: 6. mota, gelditu, itxaron, sakatu, uko
 👌	ados, adostasuna adierazten duen eskua, eskua, gorputza, ok
 👌🏻	1–2. mota, ados, adostasuna adierazten duen eskua, adostasuna adierazten duen eskua: 1–2. mota, eskua, gorputza, ok
 👌🏼	3. mota, ados, adostasuna adierazten duen eskua, adostasuna adierazten duen eskua: 3. mota, eskua, gorputza, ok
@@ -608,12 +627,12 @@ _	azpimarra, beheko marra, marra
 🤞🏽	bitarteko azal-tonua, eskua, gurutzatu, hatz gurutzatuak, hatz gurutzatuak: bitarteko azal-tonua, hatza, zortea
 🤞🏾	5. mota, eskua, gurutzatu, hatz gurutzatuak, hatz gurutzatuak: 5. mota, hatza, zortea
 🤞🏿	6. mota, eskua, gurutzatu, hatz gurutzatuak, hatz gurutzatuak: 6. mota, hatza, zortea
-🫰	erakuslea eta erpurua gurutzatuta
-🫰🏻	1–2. mota, erakuslea eta erpurua gurutzatuta, erakuslea eta erpurua gurutzatuta: 1–2. mota
-🫰🏼	3. mota, erakuslea eta erpurua gurutzatuta, erakuslea eta erpurua gurutzatuta: 3. mota
-🫰🏽	bitarteko azal-tonua, erakuslea eta erpurua gurutzatuta, erakuslea eta erpurua gurutzatuta: bitarteko azal-tonua
-🫰🏾	5. mota, erakuslea eta erpurua gurutzatuta, erakuslea eta erpurua gurutzatuta: 5. mota
-🫰🏿	6. mota, erakuslea eta erpurua gurutzatuta, erakuslea eta erpurua gurutzatuta: 6. mota
+🫰	<3, bihotza, dirua, erakuslea eta erpurua gurutzatuta, erakuslea eta erpurua gurutzatuta dauzkan eskua, garestia, klask, klaskatu, kriskitin, maitasuna
+🫰🏻	1–2. mota, <3, bihotza, dirua, erakuslea eta erpurua gurutzatuta, erakuslea eta erpurua gurutzatuta dauzkan eskua, erakuslea eta erpurua gurutzatuta: 1–2. mota, garestia, klask, klaskatu, kriskitin, maitasuna
+🫰🏼	3. mota, <3, bihotza, dirua, erakuslea eta erpurua gurutzatuta, erakuslea eta erpurua gurutzatuta dauzkan eskua, erakuslea eta erpurua gurutzatuta: 3. mota, garestia, klask, klaskatu, kriskitin, maitasuna
+🫰🏽	<3, bihotza, bitarteko azal-tonua, dirua, erakuslea eta erpurua gurutzatuta, erakuslea eta erpurua gurutzatuta dauzkan eskua, erakuslea eta erpurua gurutzatuta: bitarteko azal-tonua, garestia, klask, klaskatu, kriskitin, maitasuna
+🫰🏾	5. mota, <3, bihotza, dirua, erakuslea eta erpurua gurutzatuta, erakuslea eta erpurua gurutzatuta dauzkan eskua, erakuslea eta erpurua gurutzatuta: 5. mota, garestia, klask, klaskatu, kriskitin, maitasuna
+🫰🏿	6. mota, <3, bihotza, dirua, erakuslea eta erpurua gurutzatuta, erakuslea eta erpurua gurutzatuta dauzkan eskua, erakuslea eta erpurua gurutzatuta: 6. mota, garestia, klask, klaskatu, kriskitin, maitasuna
 🤟	adarren keinua, eskua
 🤟🏻	1–2. mota, adarren keinua, adarren keinua: 1–2. mota, eskua
 🤟🏼	3. mota, adarren keinua, adarren keinua: 3. mota, eskua
@@ -686,7 +705,7 @@ _	azpimarra, beheko marra, marra
 👎🏽	behera, bitarteko azal-tonua, erpurua, erpurua behera: bitarteko azal-tonua, eskua, gorputza
 👎🏾	5. mota, behera, erpurua, erpurua behera: 5. mota, eskua, gorputza
 👎🏿	6. mota, behera, erpurua, erpurua behera: 6. mota, eskua, gorputza
-✊	eskua, estutu, ukabil altxatua, ukabila, ukabilkada
+✊️	eskua, estutu, ukabil altxatua, ukabila, ukabilkada
 ✊🏻	1–2. mota, eskua, estutu, ukabil altxatua, ukabil altxatua: 1–2. mota, ukabila, ukabilkada
 ✊🏼	3. mota, eskua, estutu, ukabil altxatua, ukabil altxatua: 3. mota, ukabila, ukabilkada
 ✊🏽	bitarteko azal-tonua, eskua, estutu, ukabil altxatua, ukabil altxatua: bitarteko azal-tonua, ukabila, ukabilkada
@@ -1284,12 +1303,12 @@ _	azpimarra, beheko marra, marra
 🙋🏽‍♀	bitarteko azal-tonua, emakume, emakumezko, eskua altxatuta, eskua altxatzen ari den emakumea, eskua altxatzen ari den emakumea: bitarteko azal-tonua, keinu
 🙋🏾‍♀	5. mota, emakume, emakumezko, eskua altxatuta, eskua altxatzen ari den emakumea, eskua altxatzen ari den emakumea: 5. mota, keinu
 🙋🏿‍♀	6. mota, emakume, emakumezko, eskua altxatuta, eskua altxatzen ari den emakumea, eskua altxatzen ari den emakumea: 6. mota, keinu
-🧏	belarria, enzun, erabilerraztasuna, gorra
-🧏🏻	1–2. mota, belarria, enzun, erabilerraztasuna, gorra, gorra: 1–2. mota
-🧏🏼	3. mota, belarria, enzun, erabilerraztasuna, gorra, gorra: 3. mota
-🧏🏽	belarria, bitarteko azal-tonua, enzun, erabilerraztasuna, gorra, gorra: bitarteko azal-tonua
-🧏🏾	5. mota, belarria, enzun, erabilerraztasuna, gorra, gorra: 5. mota
-🧏🏿	6. mota, belarria, enzun, erabilerraztasuna, gorra, gorra: 6. mota
+🧏	belarria, entzun, erabilerraztasuna, gorra
+🧏🏻	1–2. mota, belarria, entzun, erabilerraztasuna, gorra, gorra: 1–2. mota
+🧏🏼	3. mota, belarria, entzun, erabilerraztasuna, gorra, gorra: 3. mota
+🧏🏽	belarria, bitarteko azal-tonua, entzun, erabilerraztasuna, gorra, gorra: bitarteko azal-tonua
+🧏🏾	5. mota, belarria, entzun, erabilerraztasuna, gorra, gorra: 5. mota
+🧏🏿	6. mota, belarria, entzun, erabilerraztasuna, gorra, gorra: 6. mota
 🧏‍♂	gizon, gizon gorra, gizonezko, gor
 🧏🏻‍♂	1–2. mota, gizon, gizon gorra, gizon gorra: 1–2. mota, gizonezko, gor
 🧏🏼‍♂	3. mota, gizon, gizon gorra, gizon gorra: 3. mota, gizonezko, gor
@@ -1722,12 +1741,12 @@ _	azpimarra, beheko marra, marra
 👷🏽‍♀	bitarteko azal-tonua, emakume, emakume eskulangilea, emakume eskulangilea: bitarteko azal-tonua, emakumezko, eraikuntza, langile
 👷🏾‍♀	5. mota, emakume, emakume eskulangilea, emakume eskulangilea: 5. mota, emakumezko, eraikuntza, langile
 👷🏿‍♀	6. mota, emakume, emakume eskulangilea, emakume eskulangilea: 6. mota, emakumezko, eraikuntza, langile
-🫅	koroadun pertsona
-🫅🏻	1–2. mota, koroadun pertsona, koroadun pertsona: 1–2. mota
-🫅🏼	3. mota, koroadun pertsona, koroadun pertsona: 3. mota
-🫅🏽	bitarteko azal-tonua, koroadun pertsona, koroadun pertsona: bitarteko azal-tonua
-🫅🏾	5. mota, koroadun pertsona, koroadun pertsona: 5. mota
-🫅🏿	6. mota, koroadun pertsona, koroadun pertsona: 6. mota
+🫅	erregea, erregetasuna, erregetza, jauntxoa, koroa bat duen pertsona, monarka, noblea
+🫅🏻	1–2. mota, erregea, erregetasuna, erregetza, jauntxoa, koroa bat duen pertsona, koroa bat duen pertsona: 1–2. mota, monarka, noblea
+🫅🏼	3. mota, erregea, erregetasuna, erregetza, jauntxoa, koroa bat duen pertsona, koroa bat duen pertsona: 3. mota, monarka, noblea
+🫅🏽	bitarteko azal-tonua, erregea, erregetasuna, erregetza, jauntxoa, koroa bat duen pertsona, koroa bat duen pertsona: bitarteko azal-tonua, monarka, noblea
+🫅🏾	5. mota, erregea, erregetasuna, erregetza, jauntxoa, koroa bat duen pertsona, koroa bat duen pertsona: 5. mota, monarka, noblea
+🫅🏿	6. mota, erregea, erregetasuna, erregetza, jauntxoa, koroa bat duen pertsona, koroa bat duen pertsona: 6. mota, monarka, noblea
 🤴	printzea
 🤴🏻	1–2. mota, printzea, printzea: 1–2. mota
 🤴🏼	3. mota, printzea, printzea: 3. mota
@@ -1866,12 +1885,12 @@ _	azpimarra, beheko marra, marra
 🤶🏽	Bizarzuriren emaztea, bitarteko azal-tonua, gabonak, gabonetako ama, gabonetako ama: bitarteko azal-tonua
 🤶🏾	5. mota, Bizarzuriren emaztea, gabonak, gabonetako ama, gabonetako ama: 5. mota
 🤶🏿	6. mota, Bizarzuriren emaztea, gabonak, gabonetako ama, gabonetako ama: 6. mota
-🧑‍🎄	bizar zuri, bizarzuri
-🧑🏻‍🎄	1–2. mota, bizar zuri, bizarzuri, bizarzuri: 1–2. mota
-🧑🏼‍🎄	3. mota, bizar zuri, bizarzuri, bizarzuri: 3. mota
-🧑🏽‍🎄	bitarteko azal-tonua, bizar zuri, bizarzuri, bizarzuri: bitarteko azal-tonua
-🧑🏾‍🎄	5. mota, bizar zuri, bizarzuri, bizarzuri: 5. mota
-🧑🏿‍🎄	6. mota, bizar zuri, bizarzuri, bizarzuri: 6. mota
+🧑‍🎄	bizarzuri, eguberriak, gabonak
+🧑🏻‍🎄	1–2. mota, bizarzuri, bizarzuri: 1–2. mota, eguberriak, gabonak
+🧑🏼‍🎄	3. mota, bizarzuri, bizarzuri: 3. mota, eguberriak, gabonak
+🧑🏽‍🎄	bitarteko azal-tonua, bizarzuri, bizarzuri: bitarteko azal-tonua, eguberriak, gabonak
+🧑🏾‍🎄	5. mota, bizarzuri, bizarzuri: 5. mota, eguberriak, gabonak
+🧑🏿‍🎄	6. mota, bizarzuri, bizarzuri: 6. mota, eguberriak, gabonak
 🦸	heroi, on, superbotere, superheroi
 🦸🏻	1–2. mota, heroi, on, superbotere, superheroi, superheroi: 1–2. mota
 🦸🏼	3. mota, heroi, on, superbotere, superheroi, superheroi: 3. mota
@@ -2059,6 +2078,24 @@ _	azpimarra, beheko marra, marra
 🚶🏽‍♀	bitarteko azal-tonua, emakume, emakumezko, ibili, oinez, oinez ari den emakumea, oinez ari den emakumea: bitarteko azal-tonua
 🚶🏾‍♀	5. mota, emakume, emakumezko, ibili, oinez, oinez ari den emakumea, oinez ari den emakumea: 5. mota
 🚶🏿‍♀	6. mota, emakume, emakumezko, ibili, oinez, oinez ari den emakumea, oinez ari den emakumea: 6. mota
+🚶‍➡	ibili, oinez, oinez ari den pertsona, oinez ari den pertsona eskuinera begira
+🚶🏻‍➡	ibili, oinez, oinez ari den pertsona, oinez ari den pertsona eskuinera begira
+🚶🏼‍➡	ibili, oinez, oinez ari den pertsona, oinez ari den pertsona eskuinera begira
+🚶🏽‍➡	ibili, oinez, oinez ari den pertsona, oinez ari den pertsona eskuinera begira
+🚶🏾‍➡	ibili, oinez, oinez ari den pertsona, oinez ari den pertsona eskuinera begira
+🚶🏿‍➡	ibili, oinez, oinez ari den pertsona, oinez ari den pertsona eskuinera begira
+🚶‍♀‍➡	emakume, emakumezko, ibili, oinez, oinez ari den emakumea, oinez ari den emakumea eskuinera begira
+🚶🏻‍♀‍➡	emakume, emakumezko, ibili, oinez, oinez ari den emakumea, oinez ari den emakumea eskuinera begira
+🚶🏼‍♀‍➡	emakume, emakumezko, ibili, oinez, oinez ari den emakumea, oinez ari den emakumea eskuinera begira
+🚶🏽‍♀‍➡	emakume, emakumezko, ibili, oinez, oinez ari den emakumea, oinez ari den emakumea eskuinera begira
+🚶🏾‍♀‍➡	emakume, emakumezko, ibili, oinez, oinez ari den emakumea, oinez ari den emakumea eskuinera begira
+🚶🏿‍♀‍➡	emakume, emakumezko, ibili, oinez, oinez ari den emakumea, oinez ari den emakumea eskuinera begira
+🚶‍♂‍➡	gizon, gizonezko, ibili, oinez, oinez ari den gizona, oinez ari den gizona eskuinera begira
+🚶🏻‍♂‍➡	gizon, gizonezko, ibili, oinez, oinez ari den gizona, oinez ari den gizona eskuinera begira
+🚶🏼‍♂‍➡	gizon, gizonezko, ibili, oinez, oinez ari den gizona, oinez ari den gizona eskuinera begira
+🚶🏽‍♂‍➡	gizon, gizonezko, ibili, oinez, oinez ari den gizona, oinez ari den gizona eskuinera begira
+🚶🏾‍♂‍➡	gizon, gizonezko, ibili, oinez, oinez ari den gizona, oinez ari den gizona eskuinera begira
+🚶🏿‍♂‍➡	gizon, gizonezko, ibili, oinez, oinez ari den gizona, oinez ari den gizona eskuinera begira
 🧍	zutik, zutik dagoen pertsona, zutitu
 🧍🏻	1–2. mota, zutik, zutik dagoen pertsona, zutik dagoen pertsona: 1–2. mota, zutitu
 🧍🏼	3. mota, zutik, zutik dagoen pertsona, zutik dagoen pertsona: 3. mota, zutitu
@@ -2095,60 +2132,132 @@ _	azpimarra, beheko marra, marra
 🧎🏽‍♀	belauniko, belauniko dagoen emakumea, belauniko dagoen emakumea: bitarteko azal-tonua, bitarteko azal-tonua, emakume, emakumezko
 🧎🏾‍♀	5. mota, belauniko, belauniko dagoen emakumea, belauniko dagoen emakumea: 5. mota, emakume, emakumezko
 🧎🏿‍♀	6. mota, belauniko, belauniko dagoen emakumea, belauniko dagoen emakumea: 6. mota, emakume, emakumezko
+🧎‍➡	belaunikatu, belauniko, belauniko dagoen pertsona, belauniko dagoen pertsona eskuinera begira
+🧎🏻‍➡	belaunikatu, belauniko, belauniko dagoen pertsona, belauniko dagoen pertsona eskuinera begira
+🧎🏼‍➡	belaunikatu, belauniko, belauniko dagoen pertsona, belauniko dagoen pertsona eskuinera begira
+🧎🏽‍➡	belaunikatu, belauniko, belauniko dagoen pertsona, belauniko dagoen pertsona eskuinera begira
+🧎🏾‍➡	belaunikatu, belauniko, belauniko dagoen pertsona, belauniko dagoen pertsona eskuinera begira
+🧎🏿‍➡	belaunikatu, belauniko, belauniko dagoen pertsona, belauniko dagoen pertsona eskuinera begira
+🧎‍♀‍➡	belauniko, belauniko dagoen emakumea, belauniko dagoen emakumea eskuinera begira, emakume, emakumezko
+🧎🏻‍♀‍➡	belauniko, belauniko dagoen emakumea, belauniko dagoen emakumea eskuinera begira, emakume, emakumezko
+🧎🏼‍♀‍➡	belauniko, belauniko dagoen emakumea, belauniko dagoen emakumea eskuinera begira, emakume, emakumezko
+🧎🏽‍♀‍➡	belauniko, belauniko dagoen emakumea, belauniko dagoen emakumea eskuinera begira, emakume, emakumezko
+🧎🏾‍♀‍➡	belauniko, belauniko dagoen emakumea, belauniko dagoen emakumea eskuinera begira, emakume, emakumezko
+🧎🏿‍♀‍➡	belauniko, belauniko dagoen emakumea, belauniko dagoen emakumea eskuinera begira, emakume, emakumezko
+🧎‍♂‍➡	belauniko, belauniko dagoen gizona, belauniko dagoen gizona eskuinera begira, gizon, gizonezko
+🧎🏻‍♂‍➡	belauniko, belauniko dagoen gizona, belauniko dagoen gizona eskuinera begira, gizon, gizonezko
+🧎🏼‍♂‍➡	belauniko, belauniko dagoen gizona, belauniko dagoen gizona eskuinera begira, gizon, gizonezko
+🧎🏽‍♂‍➡	belauniko, belauniko dagoen gizona, belauniko dagoen gizona eskuinera begira, gizon, gizonezko
+🧎🏾‍♂‍➡	belauniko, belauniko dagoen gizona, belauniko dagoen gizona eskuinera begira, gizon, gizonezko
+🧎🏿‍♂‍➡	belauniko, belauniko dagoen gizona, belauniko dagoen gizona eskuinera begira, gizon, gizonezko
 🧑‍🦯	irisgarritasuna, itsu-makila daraman pertsona, itsu-makila zuria daraman pertsona, itsua
 🧑🏻‍🦯	1–2. mota, irisgarritasuna, itsu-makila daraman pertsona, itsu-makila daraman pertsona: 1–2. mota, itsu-makila zuria daraman pertsona, itsua
 🧑🏼‍🦯	3. mota, irisgarritasuna, itsu-makila daraman pertsona, itsu-makila daraman pertsona: 3. mota, itsu-makila zuria daraman pertsona, itsua
 🧑🏽‍🦯	bitarteko azal-tonua, irisgarritasuna, itsu-makila daraman pertsona, itsu-makila daraman pertsona: bitarteko azal-tonua, itsu-makila zuria daraman pertsona, itsua
 🧑🏾‍🦯	5. mota, irisgarritasuna, itsu-makila daraman pertsona, itsu-makila daraman pertsona: 5. mota, itsu-makila zuria daraman pertsona, itsua
 🧑🏿‍🦯	6. mota, irisgarritasuna, itsu-makila daraman pertsona, itsu-makila daraman pertsona: 6. mota, itsu-makila zuria daraman pertsona, itsua
+🧑‍🦯‍➡	irisgarritasuna, itsu-makila daraman pertsona, itsu-makila daraman pertsona eskuinera begira, itsu-makila zuria daraman pertsona, itsua
+🧑🏻‍🦯‍➡	irisgarritasuna, itsu-makila daraman pertsona, itsu-makila daraman pertsona eskuinera begira, itsu-makila zuria daraman pertsona, itsua
+🧑🏼‍🦯‍➡	irisgarritasuna, itsu-makila daraman pertsona, itsu-makila daraman pertsona eskuinera begira, itsu-makila zuria daraman pertsona, itsua
+🧑🏽‍🦯‍➡	irisgarritasuna, itsu-makila daraman pertsona, itsu-makila daraman pertsona eskuinera begira, itsu-makila zuria daraman pertsona, itsua
+🧑🏾‍🦯‍➡	irisgarritasuna, itsu-makila daraman pertsona, itsu-makila daraman pertsona eskuinera begira, itsu-makila zuria daraman pertsona, itsua
+🧑🏿‍🦯‍➡	irisgarritasuna, itsu-makila daraman pertsona, itsu-makila daraman pertsona eskuinera begira, itsu-makila zuria daraman pertsona, itsua
 👨‍🦯	gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona
 👨🏻‍🦯	1–2. mota, gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona, itsu-makila daraman gizona: 1–2. mota
 👨🏼‍🦯	3. mota, gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona, itsu-makila daraman gizona: 3. mota
 👨🏽‍🦯	bitarteko azal-tonua, gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona, itsu-makila daraman gizona: bitarteko azal-tonua
 👨🏾‍🦯	5. mota, gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona, itsu-makila daraman gizona: 5. mota
 👨🏿‍🦯	6. mota, gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona, itsu-makila daraman gizona: 6. mota
+👨‍🦯‍➡	gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona, itsu-makila daraman gizona eskuinera begira
+👨🏻‍🦯‍➡	gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona, itsu-makila daraman gizona eskuinera begira
+👨🏼‍🦯‍➡	gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona, itsu-makila daraman gizona eskuinera begira
+👨🏽‍🦯‍➡	gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona, itsu-makila daraman gizona eskuinera begira
+👨🏾‍🦯‍➡	gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona, itsu-makila daraman gizona eskuinera begira
+👨🏿‍🦯‍➡	gizon, gizonezko, irisgarritasun, itsu, itsu-makila daraman gizona, itsu-makila daraman gizona eskuinera begira
 👩‍🦯	emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea
 👩🏻‍🦯	1–2. mota, emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea, itsu-makila daraman emakumea: 1–2. mota
 👩🏼‍🦯	3. mota, emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea, itsu-makila daraman emakumea: 3. mota
 👩🏽‍🦯	bitarteko azal-tonua, emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea, itsu-makila daraman emakumea: bitarteko azal-tonua
 👩🏾‍🦯	5. mota, emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea, itsu-makila daraman emakumea: 5. mota
 👩🏿‍🦯	6. mota, emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea, itsu-makila daraman emakumea: 6. mota
+👩‍🦯‍➡	emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea, itsu-makila daraman emakumea eskuinera begira
+👩🏻‍🦯‍➡	emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea, itsu-makila daraman emakumea eskuinera begira
+👩🏼‍🦯‍➡	emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea, itsu-makila daraman emakumea eskuinera begira
+👩🏽‍🦯‍➡	emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea, itsu-makila daraman emakumea eskuinera begira
+👩🏾‍🦯‍➡	emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea, itsu-makila daraman emakumea eskuinera begira
+👩🏿‍🦯‍➡	emakume, emakumezko, irisgarritasun, itsu, itsu-makila daraman emakumea, itsu-makila daraman emakumea eskuinera begira
 🧑‍🦼	gurpil-aulki motordunean doan pertsona, gurpil-aulkia, irisgarritasuna
 🧑🏻‍🦼	1–2. mota, gurpil-aulki motordunean doan pertsona, gurpil-aulki motordunean doan pertsona: 1–2. mota, gurpil-aulkia, irisgarritasuna
 🧑🏼‍🦼	3. mota, gurpil-aulki motordunean doan pertsona, gurpil-aulki motordunean doan pertsona: 3. mota, gurpil-aulkia, irisgarritasuna
 🧑🏽‍🦼	bitarteko azal-tonua, gurpil-aulki motordunean doan pertsona, gurpil-aulki motordunean doan pertsona: bitarteko azal-tonua, gurpil-aulkia, irisgarritasuna
 🧑🏾‍🦼	5. mota, gurpil-aulki motordunean doan pertsona, gurpil-aulki motordunean doan pertsona: 5. mota, gurpil-aulkia, irisgarritasuna
 🧑🏿‍🦼	6. mota, gurpil-aulki motordunean doan pertsona, gurpil-aulki motordunean doan pertsona: 6. mota, gurpil-aulkia, irisgarritasuna
+🧑‍🦼‍➡	gurpil-aulki motordunean doan pertsona, gurpil-aulki motordunean doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
+🧑🏻‍🦼‍➡	gurpil-aulki motordunean doan pertsona, gurpil-aulki motordunean doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
+🧑🏼‍🦼‍➡	gurpil-aulki motordunean doan pertsona, gurpil-aulki motordunean doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
+🧑🏽‍🦼‍➡	gurpil-aulki motordunean doan pertsona, gurpil-aulki motordunean doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
+🧑🏾‍🦼‍➡	gurpil-aulki motordunean doan pertsona, gurpil-aulki motordunean doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
+🧑🏿‍🦼‍➡	gurpil-aulki motordunean doan pertsona, gurpil-aulki motordunean doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
 👨‍🦼	gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, irisgarritasun
 👨🏻‍🦼	1–2. mota, gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, gurpil-aulki motordunean doan gizona: 1–2. mota, irisgarritasun
 👨🏼‍🦼	3. mota, gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, gurpil-aulki motordunean doan gizona: 3. mota, irisgarritasun
 👨🏽‍🦼	bitarteko azal-tonua, gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, gurpil-aulki motordunean doan gizona: bitarteko azal-tonua, irisgarritasun
 👨🏾‍🦼	5. mota, gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, gurpil-aulki motordunean doan gizona: 5. mota, irisgarritasun
 👨🏿‍🦼	6. mota, gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, gurpil-aulki motordunean doan gizona: 6. mota, irisgarritasun
+👨‍🦼‍➡	gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, gurpil-aulki motordunean doan gizona eskuinera begira, irisgarritasun
+👨🏻‍🦼‍➡	gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, gurpil-aulki motordunean doan gizona eskuinera begira, irisgarritasun
+👨🏼‍🦼‍➡	gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, gurpil-aulki motordunean doan gizona eskuinera begira, irisgarritasun
+👨🏽‍🦼‍➡	gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, gurpil-aulki motordunean doan gizona eskuinera begira, irisgarritasun
+👨🏾‍🦼‍➡	gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, gurpil-aulki motordunean doan gizona eskuinera begira, irisgarritasun
+👨🏿‍🦼‍➡	gizon, gizonezko, gurpil-aulki, gurpil-aulki motordunean doan gizona, gurpil-aulki motordunean doan gizona eskuinera begira, irisgarritasun
 👩‍🦼	emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, irisgarritasun
 👩🏻‍🦼	1–2. mota, emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, gurpil-aulki motordunean doan emakumea: 1–2. mota, irisgarritasun
 👩🏼‍🦼	3. mota, emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, gurpil-aulki motordunean doan emakumea: 3. mota, irisgarritasun
 👩🏽‍🦼	bitarteko azal-tonua, emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, gurpil-aulki motordunean doan emakumea: bitarteko azal-tonua, irisgarritasun
 👩🏾‍🦼	5. mota, emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, gurpil-aulki motordunean doan emakumea: 5. mota, irisgarritasun
 👩🏿‍🦼	6. mota, emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, gurpil-aulki motordunean doan emakumea: 6. mota, irisgarritasun
+👩‍🦼‍➡	emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, gurpil-aulki motordunean doan emakumea eskuinera begira, irisgarritasun
+👩🏻‍🦼‍➡	emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, gurpil-aulki motordunean doan emakumea eskuinera begira, irisgarritasun
+👩🏼‍🦼‍➡	emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, gurpil-aulki motordunean doan emakumea eskuinera begira, irisgarritasun
+👩🏽‍🦼‍➡	emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, gurpil-aulki motordunean doan emakumea eskuinera begira, irisgarritasun
+👩🏾‍🦼‍➡	emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, gurpil-aulki motordunean doan emakumea eskuinera begira, irisgarritasun
+👩🏿‍🦼‍➡	emakume, emakumezko, gurpil-aulki, gurpil-aulki motordunean doan emakumea, gurpil-aulki motordunean doan emakumea eskuinera begira, irisgarritasun
 🧑‍🦽	eskuzko gurpil-aulkian doan pertsona, gurpil-aulkia, irisgarritasuna
 🧑🏻‍🦽	1–2. mota, eskuzko gurpil-aulkian doan pertsona, eskuzko gurpil-aulkian doan pertsona: 1–2. mota, gurpil-aulkia, irisgarritasuna
 🧑🏼‍🦽	3. mota, eskuzko gurpil-aulkian doan pertsona, eskuzko gurpil-aulkian doan pertsona: 3. mota, gurpil-aulkia, irisgarritasuna
 🧑🏽‍🦽	bitarteko azal-tonua, eskuzko gurpil-aulkian doan pertsona, eskuzko gurpil-aulkian doan pertsona: bitarteko azal-tonua, gurpil-aulkia, irisgarritasuna
 🧑🏾‍🦽	5. mota, eskuzko gurpil-aulkian doan pertsona, eskuzko gurpil-aulkian doan pertsona: 5. mota, gurpil-aulkia, irisgarritasuna
 🧑🏿‍🦽	6. mota, eskuzko gurpil-aulkian doan pertsona, eskuzko gurpil-aulkian doan pertsona: 6. mota, gurpil-aulkia, irisgarritasuna
+🧑‍🦽‍➡	eskuzko gurpil-aulkian doan pertsona, eskuzko gurpil-aulkian doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
+🧑🏻‍🦽‍➡	eskuzko gurpil-aulkian doan pertsona, eskuzko gurpil-aulkian doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
+🧑🏼‍🦽‍➡	eskuzko gurpil-aulkian doan pertsona, eskuzko gurpil-aulkian doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
+🧑🏽‍🦽‍➡	eskuzko gurpil-aulkian doan pertsona, eskuzko gurpil-aulkian doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
+🧑🏾‍🦽‍➡	eskuzko gurpil-aulkian doan pertsona, eskuzko gurpil-aulkian doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
+🧑🏿‍🦽‍➡	eskuzko gurpil-aulkian doan pertsona, eskuzko gurpil-aulkian doan pertsona eskuinera begira, gurpil-aulkia, irisgarritasuna
 👨‍🦽	eskuzko gurpil-aulkian doan gizona, gizon, gizonezko, gurpil-aulki, irisgarritasun
 👨🏻‍🦽	1–2. mota, eskuzko gurpil-aulkian doan gizona, eskuzko gurpil-aulkian doan gizona: 1–2. mota, gizon, gizonezko, gurpil-aulki, irisgarritasun
 👨🏼‍🦽	3. mota, eskuzko gurpil-aulkian doan gizona, eskuzko gurpil-aulkian doan gizona: 3. mota, gizon, gizonezko, gurpil-aulki, irisgarritasun
 👨🏽‍🦽	bitarteko azal-tonua, eskuzko gurpil-aulkian doan gizona, eskuzko gurpil-aulkian doan gizona: bitarteko azal-tonua, gizon, gizonezko, gurpil-aulki, irisgarritasun
 👨🏾‍🦽	5. mota, eskuzko gurpil-aulkian doan gizona, eskuzko gurpil-aulkian doan gizona: 5. mota, gizon, gizonezko, gurpil-aulki, irisgarritasun
 👨🏿‍🦽	6. mota, eskuzko gurpil-aulkian doan gizona, eskuzko gurpil-aulkian doan gizona: 6. mota, gizon, gizonezko, gurpil-aulki, irisgarritasun
+👨‍🦽‍➡	eskuzko gurpil-aulkian doan gizona, eskuzko gurpil-aulkian doan gizona eskuinera begira, gizon, gizonezko, gurpil-aulki, irisgarritasun
+👨🏻‍🦽‍➡	eskuzko gurpil-aulkian doan gizona, eskuzko gurpil-aulkian doan gizona eskuinera begira, gizon, gizonezko, gurpil-aulki, irisgarritasun
+👨🏼‍🦽‍➡	eskuzko gurpil-aulkian doan gizona, eskuzko gurpil-aulkian doan gizona eskuinera begira, gizon, gizonezko, gurpil-aulki, irisgarritasun
+👨🏽‍🦽‍➡	eskuzko gurpil-aulkian doan gizona, eskuzko gurpil-aulkian doan gizona eskuinera begira, gizon, gizonezko, gurpil-aulki, irisgarritasun
+👨🏾‍🦽‍➡	eskuzko gurpil-aulkian doan gizona, eskuzko gurpil-aulkian doan gizona eskuinera begira, gizon, gizonezko, gurpil-aulki, irisgarritasun
+👨🏿‍🦽‍➡	eskuzko gurpil-aulkian doan gizona, eskuzko gurpil-aulkian doan gizona eskuinera begira, gizon, gizonezko, gurpil-aulki, irisgarritasun
 👩‍🦽	emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, gurpil-aulki, irisgarritasun
 👩🏻‍🦽	1–2. mota, emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, eskuzko gurpil-aulkian doan emakumea: 1–2. mota, gurpil-aulki, irisgarritasun
 👩🏼‍🦽	3. mota, emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, eskuzko gurpil-aulkian doan emakumea: 3. mota, gurpil-aulki, irisgarritasun
 👩🏽‍🦽	bitarteko azal-tonua, emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, eskuzko gurpil-aulkian doan emakumea: bitarteko azal-tonua, gurpil-aulki, irisgarritasun
 👩🏾‍🦽	5. mota, emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, eskuzko gurpil-aulkian doan emakumea: 5. mota, gurpil-aulki, irisgarritasun
 👩🏿‍🦽	6. mota, emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, eskuzko gurpil-aulkian doan emakumea: 6. mota, gurpil-aulki, irisgarritasun
+👩‍🦽‍➡	emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, eskuzko gurpil-aulkian doan emakumea eskuinera begira, gurpil-aulki, irisgarritasun
+👩🏻‍🦽‍➡	emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, eskuzko gurpil-aulkian doan emakumea eskuinera begira, gurpil-aulki, irisgarritasun
+👩🏼‍🦽‍➡	emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, eskuzko gurpil-aulkian doan emakumea eskuinera begira, gurpil-aulki, irisgarritasun
+👩🏽‍🦽‍➡	emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, eskuzko gurpil-aulkian doan emakumea eskuinera begira, gurpil-aulki, irisgarritasun
+👩🏾‍🦽‍➡	emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, eskuzko gurpil-aulkian doan emakumea eskuinera begira, gurpil-aulki, irisgarritasun
+👩🏿‍🦽‍➡	emakume, emakumezko, eskuzko gurpil-aulkian doan emakumea, eskuzko gurpil-aulkian doan emakumea eskuinera begira, gurpil-aulki, irisgarritasun
 🏃	korrika, korrika ari den pertsona, maratoi
 🏃🏻	1–2. mota, korrika, korrika ari den pertsona, korrika ari den pertsona: 1–2. mota, maratoi
 🏃🏼	3. mota, korrika, korrika ari den pertsona, korrika ari den pertsona: 3. mota, maratoi
@@ -2167,6 +2276,24 @@ _	azpimarra, beheko marra, marra
 🏃🏽‍♀	bitarteko azal-tonua, emakume, korrika, korrika ari den emakumea, korrika ari den emakumea: bitarteko azal-tonua, lasterketa, maratoi
 🏃🏾‍♀	5. mota, emakume, korrika, korrika ari den emakumea, korrika ari den emakumea: 5. mota, lasterketa, maratoi
 🏃🏿‍♀	6. mota, emakume, korrika, korrika ari den emakumea, korrika ari den emakumea: 6. mota, lasterketa, maratoi
+🏃‍➡	korrika, korrika ari den pertsona, korrika ari den pertsona eskuinera begira, maratoi
+🏃🏻‍➡	korrika, korrika ari den pertsona, korrika ari den pertsona eskuinera begira, maratoi
+🏃🏼‍➡	korrika, korrika ari den pertsona, korrika ari den pertsona eskuinera begira, maratoi
+🏃🏽‍➡	korrika, korrika ari den pertsona, korrika ari den pertsona eskuinera begira, maratoi
+🏃🏾‍➡	korrika, korrika ari den pertsona, korrika ari den pertsona eskuinera begira, maratoi
+🏃🏿‍➡	korrika, korrika ari den pertsona, korrika ari den pertsona eskuinera begira, maratoi
+🏃‍♀‍➡	emakume, korrika, korrika ari den emakumea, korrika ari den emakumea eskuinera begira, lasterketa, maratoi
+🏃🏻‍♀‍➡	emakume, korrika, korrika ari den emakumea, korrika ari den emakumea eskuinera begira, lasterketa, maratoi
+🏃🏼‍♀‍➡	emakume, korrika, korrika ari den emakumea, korrika ari den emakumea eskuinera begira, lasterketa, maratoi
+🏃🏽‍♀‍➡	emakume, korrika, korrika ari den emakumea, korrika ari den emakumea eskuinera begira, lasterketa, maratoi
+🏃🏾‍♀‍➡	emakume, korrika, korrika ari den emakumea, korrika ari den emakumea eskuinera begira, lasterketa, maratoi
+🏃🏿‍♀‍➡	emakume, korrika, korrika ari den emakumea, korrika ari den emakumea eskuinera begira, lasterketa, maratoi
+🏃‍♂‍➡	gizon, korrika, korrika ari den gizona, korrika ari den gizona eskuinera begira, lasterketa, maratoi
+🏃🏻‍♂‍➡	gizon, korrika, korrika ari den gizona, korrika ari den gizona eskuinera begira, lasterketa, maratoi
+🏃🏼‍♂‍➡	gizon, korrika, korrika ari den gizona, korrika ari den gizona eskuinera begira, lasterketa, maratoi
+🏃🏽‍♂‍➡	gizon, korrika, korrika ari den gizona, korrika ari den gizona eskuinera begira, lasterketa, maratoi
+🏃🏾‍♂‍➡	gizon, korrika, korrika ari den gizona, korrika ari den gizona eskuinera begira, lasterketa, maratoi
+🏃🏿‍♂‍➡	gizon, korrika, korrika ari den gizona, korrika ari den gizona eskuinera begira, lasterketa, maratoi
 💃	dantza, dantzan ari den emakumea, emakume
 💃🏻	1–2. mota, dantza, dantzan ari den emakumea, dantzan ari den emakumea: 1–2. mota, emakume
 💃🏼	3. mota, dantza, dantzan ari den emakumea, dantzan ari den emakumea: 3. mota, emakume
@@ -2481,12 +2608,12 @@ _	azpimarra, beheko marra, marra
 🛀🏽	bainu, bainuontzi, bitarteko azal-tonua, pertsona bat bainatzen, pertsona bat bainatzen: bitarteko azal-tonua
 🛀🏾	5. mota, bainu, bainuontzi, pertsona bat bainatzen, pertsona bat bainatzen: 5. mota
 🛀🏿	6. mota, bainu, bainuontzi, pertsona bat bainatzen, pertsona bat bainatzen: 6. mota
-🛌	hotel, lo, pertsona bat ohean
-🛌🏻	1–2. mota, hotel, lo, pertsona bat ohean, pertsona bat ohean: 1–2. mota
-🛌🏼	3. mota, hotel, lo, pertsona bat ohean, pertsona bat ohean: 3. mota
-🛌🏽	bitarteko azal-tonua, hotel, lo, pertsona bat ohean, pertsona bat ohean: bitarteko azal-tonua
-🛌🏾	5. mota, hotel, lo, pertsona bat ohean, pertsona bat ohean: 5. mota
-🛌🏿	6. mota, hotel, lo, pertsona bat ohean, pertsona bat ohean: 6. mota
+🛌	gabon, hotela, lo, pertsona bat ohean
+🛌🏻	1–2. mota, gabon, hotela, lo, pertsona bat ohean, pertsona bat ohean: 1–2. mota
+🛌🏼	3. mota, gabon, hotela, lo, pertsona bat ohean, pertsona bat ohean: 3. mota
+🛌🏽	bitarteko azal-tonua, gabon, hotela, lo, pertsona bat ohean, pertsona bat ohean: bitarteko azal-tonua
+🛌🏾	5. mota, gabon, hotela, lo, pertsona bat ohean, pertsona bat ohean: 5. mota
+🛌🏿	6. mota, gabon, hotela, lo, pertsona bat ohean, pertsona bat ohean: 6. mota
 🧑‍🤝‍🧑	bi pertsona elkarri eskua ematen, bikotea, elkarri eskua ematen, eman, eskua, pertsona
 🧑🏻‍🤝‍🧑🏻	1–2. mota, bi pertsona elkarri eskua ematen, bi pertsona elkarri eskua ematen: 1–2. mota, bikotea, elkarri eskua ematen, eman, eskua, pertsona
 🧑🏻‍🤝‍🧑🏼	1–2. mota, 3. mota, bi pertsona elkarri eskua ematen, bi pertsona elkarri eskua ematen: 1–2. mota eta 3. mota, bikotea, elkarri eskua ematen, eman, eskua, pertsona
@@ -2609,7 +2736,6 @@ _	azpimarra, beheko marra, marra
 👩‍❤‍👨	bihotza, bihotza erdian duen bikotea, bihotza erdian duen bikotea: emakumea eta gizona, bikotea, emakumea, gizona, maitasuna
 👨‍❤‍👨	bihotza, bihotza erdian duen bikotea, bihotza erdian duen bikotea: gizona eta gizona, bikotea, gizona, maitasuna
 👩‍❤‍👩	bihotza, bihotza erdian duen bikotea, bihotza erdian duen bikotea: emakumea eta emakumea, bikotea, emakumea, maitasuna
-👪️	aita, ama, familia, haurra
 👨‍👩‍👦	aita, ama, emakumea, familia, familia: gizona, emakumea eta mutila, gizona, haurra, mutila
 👨‍👩‍👧	aita, ama, emakumea, familia, familia: gizona, emakumea eta neska, gizona, haurra, neska
 👨‍👩‍👧‍👦	aita, ama, emakumea, familia, familia: gizona, emakumea, neska eta mutila, gizona, haurra, mutila, neska
@@ -2639,7 +2765,13 @@ _	azpimarra, beheko marra, marra
 👤	silueta, soin, soinaren silueta
 👥	silueta, soin, soinen siluetak
 🫂	agur, besarkada, elkar besarkatzen ari den jendea, eskerrik asko, kaixo
+👪️	aita, ama, familia, haurra
+🧑‍🧑‍🧒	familia, familia: nagusia, nagusia, haurra, haurra, nagusia
+🧑‍🧑‍🧒‍🧒	familia, familia: nagusia, nagusia, haurra, haurra, haurra, nagusia
+🧑‍🧒	familia, familia: nagusia, haurra, haurra, nagusia
+🧑‍🧒‍🧒	familia, familia: nagusia, haurra, haurra, haurra, nagusia
 👣	arropa, aztarna, gorputz, oin, oin-aztarnak
+🫆	forentsea, hatz-marka, identitatea, nortasuna, segurtasuna
 🦰	ilegorri, kaskagorri
 🦱	afro, ile kizkur, kiribil, kizkur
 🦳	gris, ile, ilezuri, zahar, zuri
@@ -2664,6 +2796,8 @@ _	azpimarra, beheko marra, marra
 🐅	tigrea
 🐆	lehoinabar, lehoinabarra
 🐴	aurpegia, zaldi-aurpegia, zaldia
+🫎	adarrak, altzea, animalia, orein kanadarra, ugaztuna, wapitia
+🫏	animalia, astakiloa, astarra, astoa, astokoa, burugogorra, mandoa, tematia, ugaztuna
 🐎	lasterketa, zaldi, zaldia
 🦄	adarbakar, adarbakarra, aurpegia
 🦓	marra, zebra
@@ -2700,12 +2834,12 @@ _	azpimarra, beheko marra, marra
 🦇	animalia, banpiro, saguzar, saguzarra
 🐻	aurpegia, hartz, hartza
 🐻‍❄	artikoa, hartz zuria, hartza, zuria
-🐨	hartz, koala
+🐨	aurpegia, koala, martsupiala
 🐼	aurpegia, panda
 🦥	alferra, motela, nagia
 🦦	arrantzatu, igaraba, jolastia
 🦨	kiratsa, mofeta
-🦘	Australia, jauzi, kanguru, martsupial, martsupial txiki
+🦘	jauzi egin, jauzia, kanguru, kangurua, kangurukumea, martsupiala, saltatu, saltoa
 🦡	azkonar, azkonar eztijale, gogaitu
 🐾	atzapar, atzapar-aztarnak, aztarna, oin
 🦃	indioilar, indioilarra
@@ -2726,6 +2860,10 @@ _	azpimarra, beheko marra, marra
 🦩	flamenkoa, ikusgarria, tropikala
 🦚	arranditsu, harro, hegazterren, txori
 🦜	hitz egin, loro, pirata, txori
+🪽	abiazioa, aingerua, hegan, hegaz, hegazkinta, hegoa, igo, mitologia, txoria
+🐦‍⬛	belatxiki, belea, beltza, erroi, txori, txori beltza
+🪿	ahatea, antzara, etxeko hegaztia, hegaztia, karran-karran, karranka, ornitologia, samalda, txoria
+🐦‍🔥	berpiztea, berraragiztatzea, birsortzea, biziberritzea, fantasia, fenixa, haragitzea, suzko hegaztia
 🐸	aurpegia, igel-aurpegia, igela
 🐊	krokodilo, krokodiloa
 🐢	dortoka, dortokoa
@@ -2738,7 +2876,7 @@ _	azpimarra, beheko marra, marra
 🐳	aurpegia, balea, ura jaurti, ura jaurtitzen ari den balea
 🐋	bale, balea
 🐬	flipper, izurdea
-🦭	foka, itsas txakur, itsas txakurra
+🦭	foka, itsas lehoia, itsas txakur, itsas txakurra
 🐟️	arrain, pisces, zodiako
 🐠	arrain tropikala, arraina, tropikala
 🐡	arrain, globo-arraina
@@ -2746,6 +2884,7 @@ _	azpimarra, beheko marra, marra
 🐙	olagarro, olagarroa
 🐚	eskola, espirala, oskol espirala
 🪸	arrezifea, korala, ozeanoa
+🪼	erroak, eztena, garroak, gelatina, itsasokoa, itsastarra, marmoka, mina, ornogabea, tentakuluak, ziztada
 🐌	barraskilo, barraskiloa
 🦋	intsektu, pinpilinpauxa, polit
 🐛	intsektu, zomorroa
@@ -2765,7 +2904,7 @@ _	azpimarra, beheko marra, marra
 💐	lore, lore sorta, sorta
 🌸	gereziondo-lorea, gereziondoa, loratu, lorea
 💮	lore, lore zuria
-🪷	India, Vietnam, budismoa, hinduismoa, lorea, lotusa, purutasuna
+🪷	araztasuna, budismoa, garbitasuna, hinduismoa, lorea, lotoa, purutasuna
 🏵️	kondekorazioa, landare, saria
 🌹	arrosa, landare, lore
 🥀	lore zimela, lorea, zimela
@@ -2773,6 +2912,7 @@ _	azpimarra, beheko marra, marra
 🌻	eguzki, ekilorea, landare, lore
 🌼	landare, lore, lorea
 🌷	landare, lore, tulipa
+🪻	anila, dragoi-muturra, hiazintoa, izpilikua, lorea, lupinus, nabar-lorea
 🌱	gazte, kimua, landare
 🪴	etxea, hazi, landarea, loreontziko landare, zaindu
 🌲	hosto iraukorreko zuhaitza, landare, zuhaitz
@@ -2789,11 +2929,13 @@ _	azpimarra, beheko marra, marra
 🪹	habi hutsa, habia
 🪺	habia, habia arrautzekin
 🍄	barrengorria, landare
+🪾	agorra, agorraldia, agortea, antzua, elkorra, hosto gabeko zuhaitza, idorra, idortea, lehorra, lehortea, negua
 🍇	fruitu, landare, mahats, mahatsa
 🍈	fruitu, landare, meloia
 🍉	fruitu, landare, sandia
 🍊	fruitu, landare, laranja, mandarina
 🍋	fruitu, landare, limoi, limoia
+🍋‍🟩	azidoa, freskagarria, fruta, koktela, lima, margarita, mojitoa, tropikala, zitrikoa
 🍌	banana, fruitu, landare
 🍍	anana, fruitu, landare
 🥭	fruta, mango, tropikal
@@ -2823,6 +2965,10 @@ _	azpimarra, beheko marra, marra
 🥜	barazki, intxaur, janari, kakahuete, kakahuetea
 🫘	babarrunak, giltzurrun, janari, lekale
 🌰	gaztaina, landare
+🫚	errizoma, espezia, garagardoa, jengibrea, osasuna, sustraia, zurtoina
+🫛	babak, babarrunak, barazkia, edamamea, ilar-zorroa, ilarra, leka, lekalea, zorroa
+🍄‍🟫	barazkia, janaria, natura, onddoa, perretxiko marroia, pizza, portobelloa, shiitakea
+🫜	arbia, barazkia, beterraba, erremolatxa, erroa, errozerba, frantses-arbia, lorategia, ortuaria, sustraia, tuberkulua, txerri-arbia, zuztarra
 🍞	ogi, xerra
 🥐	Frantzia, croissant, croissanta, janari, opil
 🥖	Francia, baguette, baguettea, janari, ogi
@@ -2914,7 +3060,7 @@ _	azpimarra, beheko marra, marra
 🧉	edaria, matea
 🧊	hotza, iceberga, izotz zatia, izotza
 🥢	hashi, zotzak
-🍽️	janari, labana, plater, platera, sardeska eta labanarekin, sardeska
+🍽️	janaria, labana, platera, platera, sardeska eta labanarekin, sardeska, sardeska eta labanarekin
 🍴	janari, labana, prestatu, sardeska, sardeska eta labana
 🥄	koilara, mahai-tresneria
 🔪	arma, hocho, janari, labana, sukaldeko labana
@@ -3025,7 +3171,7 @@ _	azpimarra, beheko marra, marra
 🛴	kick, patinetea, scooter
 🛹	patinete, skateboard
 🛼	gurpil-lerroa, gurpil-lerroko irristailu, irristailua
-🚏	autobus, autobus-geltokia, geltoki, stop
+🚏	autobus-geltokia, autobusa, geltokia, geralekua
 🛣️	autobide, autobidea, errepide
 🛤️	tren, trenbide, trenbidearen erraila
 🛢️	olio, olio-upela, upel
@@ -3063,7 +3209,7 @@ _	azpimarra, beheko marra, marra
 ⌛️	harea, harea-erloju, tenporizadore
 ⏳️	erloju, harea, harea-erlojua harea dariola, tenporizadore
 ⌚️	erlojua, ordularia
-⏰	alarma, erloju
+⏰️	alarma, erloju
 ⏱️	erloju, kronometroa
 ⏲️	erloju, tenporizadore, tenporizadorea
 🕰️	erloju, mahai gaineko erlojua
@@ -3143,7 +3289,7 @@ _	azpimarra, beheko marra, marra
 🎆	ospakizun, su artifizialak
 🎇	bengala, ospakizun, su artifizialak
 🧨	dinamita, lehergai, petardo, su artifizial
-✨	distira, izar
+✨️	distira, izar
 🎈	ospakizun, puxika
 🎉	aire-serpentina, festa, ospakizuna, serpentina
 🎊	bola, konfeti, konfetiz betetako bola, ospakizun
@@ -3243,6 +3389,7 @@ _	azpimarra, beheko marra, marra
 🩳	azpiko arropa, bainujantzi, galtzak, galtzamotzak
 👙	arropa, bikinia, igeri
 👚	arropa, emakume, emakumeentzako arropa
+🪭	abanikoa, astindu, beroa, dantza, eskuko haizemaile tolesgarria, flamenkoa, freskatu, haizemailea, ligatu, lotsatia
 👛	arropa, diru-zorroa, txanpon
 👜	arropa, eskuko poltsa, poltsa
 👝	arropa, poltsa, zorroa
@@ -3257,6 +3404,7 @@ _	azpimarra, beheko marra, marra
 👡	arropa, emakume, emakumeentzako sandalia, oinetako, sandalia
 🩰	ballet, balleteko oin-puntak, dantza
 👢	arropa, bota, emakume, emakumeentzako bota, oinetako
+🪮	afroa, apain-orrazia, apaindu, apaingarria, flamenkoa, ilea, orrazia, orraztu
 👑	arropa, errege, erregina, koroa
 👒	arropa, emakume, emakumeentzako kapelua, kapelu
 🎩	altu, arropa, kapelu, kapelu altua
@@ -3295,6 +3443,9 @@ _	azpimarra, beheko marra, marra
 🪕	banjoa, hari-instrumentu, musika
 🥁	danbor, danborra, makilak, musika
 🪘	bongoa, danbor luze, danborra, erritmoa, konga
+🪇	astindu, festa, instrumentua, jaia, marakak, musika, musika-tresna, perkusioa
+🪈	grabagailua, musika, piccoloa, tutua, txirula, zurezko haize-instrumentua
+🪉	harpa, instrumentua, kupido, maitasuna, musika, musika-instrumentua, musika-tresna, orkestra
 📱	mugikor, sare, telefono, telefono mugikorra
 📲	dei, gezi, jaso, mugikor, sare, telefono, telefono mugikorra gezi batekin
 ☎️	telefono, telefonoa
@@ -3312,8 +3463,8 @@ _	azpimarra, beheko marra, marra
 🖲️	kontrolagailua, ordenagailu
 💽	disko, minidisc-a, minidisk, optiko, ordenagailu
 💾	diskete, disketea, disko, ordenagailu
-💿️	blu-ray, cd, disko, disko optikoa, dvd, optiko, ordenagailu
-📀	DVD, blu-ray, cd, disko, optiko, ordenagailu
+💿️	CDa, blu-ray, disko optikoa, diskoa, optikoa, ordenagailua
+📀	Blue-ray, CDa, DVD, DVDa, diskoa, optikoa, ordenagailua
 🧮	abakoa, kalkulua
 🎥	bideokamera profesionala, film, kamera, zinema
 🎞️	film, filmeko fotogramak, fotograma, zinema
@@ -3415,7 +3566,7 @@ _	azpimarra, beheko marra, marra
 🗡️	aizto, arma, daga
 ⚔️	arma, ezpata gurutzatuak, ezpatak, gurutzatu
 💣️	komiki, lehergailua
-🪃	aurkakoa, australia, bumeran, bumerana, errebotea, itzulera, kontrakoa
+🪃	aurkakoa, bumeran, bumerana, errebotea, itzulera, kontrakoa
 🏹	arkua, arkua eta gezia, arkularia, arma, gezia, sagittarius, zodiakoa
 🛡️	arma, ezkutua
 🪚	arotza, egurra, tresna, zerra
@@ -3427,11 +3578,13 @@ _	azpimarra, beheko marra, marra
 ⚖️	balantza, balantzak, justizia, libra, oreka, zodiakoa
 🦯	irisgarritasun, itsu, makila
 🔗	kate-maila
+⛓‍💥	apurtu, apurtzen, askatasuna, bilurrak, eskuburdinak, hausten, hautsi, kate hautsia, katea, puskatu, puskatzen
 ⛓️	kate, kateak
 🪝	amu, bihurritu, harrapatu, makurra, okerra, saltokia
 🧰	erreminta, erreminta-kutxa, kutxa, mekaniko
 🧲	erakarpen, ferra, iman, magnetiko
 🪜	eskailera, esku-eskailera, igo, maila
+🪏	aitzurtu, endaia, pala, zulatu, zuloa
 ⚗️	alanbikea, kimika, tresna
 🧪	esperimentu, kimika, kimikari, laborategi, saio-hodi, zientzia
 🧫	Petriren kaxa, bakterio, biologia, biologo, kultura, laborategi
@@ -3480,15 +3633,15 @@ _	azpimarra, beheko marra, marra
 🗿	aurpegi, estatua, moai, moaia, moyai
 🪧	afixa, idazkun, idazkuna, kartela, manifestazioa, seinalea, tantaia, zutoina
 🪪	ID, kredentzial, lizentzia, nortasun-agiria, segurtasun
-🏧	automatiko, banku, kutxazain, kutxazainaren seinalea
+🏧	ATM, automatikoa, automatizatua, bankua, kutxazain automatikoa, kutxazain automatikoaren seinalea, kutxazaina, kutxazainaren seinalea
 🚮	zabor, zaborra ontzira botatzeko seinalea, zaborrontzi, zakarrontzi
 🚰	edan, edateko, edateko ura, ur
 ♿️	erabilerraztasun, gurpil-aulkia
-🚹️	gizon, gizonen komuna, komun, wc
-🚺️	emakume, emakumeen komuna, komun, wc
-🚻	komun, komuna, wc
+🚹️	WC, bainugela, garbigela, gizona, gizonen komuna, gizonezkoa, gizonezkoen komuna, komun-ontzia, komuna
+🚺️	WC, bainugela, emakumea, emakumeen komuna, emakumezkoa, emakumezkoen komuna, garbigela, komun-ontzia, komuna
+🚻	WC, bainugela, garbigela, komun-ontzia, komuna
 🚼️	aldatu, haurtxo, haurtxoen aldagela
-🚾	komun, komunak, ur, wc
+🚾	WC, bainugela, garbigela, komun-ontzia, komuna, komunak
 🛂	kontrol, pasaporte, pasaporte-kontrola
 🛃	aduanak
 🛄	ekipajea, jaso, maletak jasotzeko eremua
@@ -3523,11 +3676,11 @@ _	azpimarra, beheko marra, marra
 ⤵️	behera, behera okertzen den eskuinera gezia, gezi
 🔃	berriro, eskuinera, eskuinera gezi bertikalak, gezi, kargatu
 🔄	ezkerrera, ezkerrera gezien botoia, gezi
-🔙	atzera, atzera gezia, gezi
-🔚	amaiera, amaiera gezia, gezi
-🔛	gezi, markatu, on, “on” testua duen gezia
-🔜	gezi, soon, “soon” testua duen gezia
-🔝	gezi, gora, top, “top” testua duen gezia
+🔙	BACK, atzera, atzera gezia, gezia
+🔚	END, amaiera, amaiera gezia, gezia
+🔛	"on" testua, gezia, marka, “on” testua duen gezia
+🔜	"soon" hitza, SOON, gezia, “soon” testua duen gezia
+🔝	"top" hitza, TOP, gezia, onena, “top” testua duen gezia
 🛐	erlijio, otoitz, otoizlekua
 ⚛️	ateista, atomo, atomoaren ikurra
 🕉️	erlijio, hindu, om
@@ -3540,6 +3693,7 @@ _	azpimarra, beheko marra, marra
 ☮️	bake, bakearen ikurra
 🕎	erlijio, menorah, zutargi
 🔯	erdian puntu bat duen sei puntako izarra, izar, zorte
+🪯	erlijioa, khanda, sikh, sikismoa
 ♈️	aries, zikiro, zodiako
 ♉️	idi, taurus, zezen, zodiako
 ♊️	biki, gemini, zodiako
@@ -3552,7 +3706,7 @@ _	azpimarra, beheko marra, marra
 ♑️	ahuntz, capricornus, zodiako
 ♒️	aquarius, berri-ekarle, ur, zodiako
 ♓️	arrain, pisces, zodiako
-⛎	berri-ekarle, ofiuko, suge, zodiako
+⛎️	berri-ekarle, ofiuko, suge, zodiako
 🔀	abestiak ausaz erreproduzitzeko botoia, gezi, gurutzatu
 🔁	errepikatu, errepikatzeko botoia, eskuinera, gezi
 🔂	behin, behin errepikatzeko botoia, eskuinera, gezi
@@ -3563,9 +3717,9 @@ _	azpimarra, beheko marra, marra
 ◀	alderantziz erreproduzitzeko botoia, atzera, ezker, gezi, hiruki, triangelu
 ⏪	atzera, atzera egiteko botoia, bikoitz, gezi
 ⏮	aurreko abestia, aurreko eszena, azken abestia erreproduzitzeko botoia, gezi, hiruki, triangelu
-🔼	botoi, gezi, gora egiteko botoia, gorri
+🔼	botoia, gezia, gora egiteko botoia
 ⏫	bikoitz, gezi, gora bizkor egiteko botoia
-🔽	behera, behera egiteko botoia, botoi, gezi, gorri
+🔽	behera, behera egiteko botoia, beherantz, botoia, gezia
 ⏬	behera, behera bizkor egiteko botoia, bikoitz, gezi
 ⏸️	barra, bertikal, bikoitz, pausatu, pausatzeko botoia
 ⏹️	gelditu, gelditzeko botoia, karratu, stop
@@ -3575,22 +3729,23 @@ _	azpimarra, beheko marra, marra
 🔅	ahul, argitasun, argitasuna ahultzeko botoia, txiki
 🔆	argi, argitasun, argitasuna igotzeko botoia
 📶	antena, antenen barrak, barra, mugikor, sare, seinale, telefono
+🛜	banda zabala, hari gabe, internet, kablerik gabekoa, ordenagailua, routerra, sarea, wifia, wlan
 📳	bibrazio, bibrazio modua, modu, mugikor, sare, telefono
 📴	itzali, mugikor, sare, telefono, telefono mugikorra itzalita
 ♀️	emakume, emakumeen ikurra, emakumezko
 ♂️	gizon, gizonen ikurra, gizonezko
 ⚧️	transgeneroa, transgeneroen ikurra
 ✖️	biderkatu, biderketa, ikur, utzi, x, ×
-➕	+, ikur, matematika, plus
-➖	ikurra, matematika, minus, −
-➗	ikur, matematika, zatiketa, zatitu, ÷
+➕️	+, ikur, matematika, plus
+➖️	ikurra, matematika, minus, −
+➗️	ikur, matematika, zatiketa, zatitu, ÷
 🟰	berdin-ikur lodia, berdintasuna, matematika
 ♾️	beti, infinitu, mugagabe, unibertsal
 ‼️	!, !!, harridura-marka bikoitza, marka
 ⁉️	!, !?, ?, harridura- eta galdera-ikurra, marka
 ❓️	?, galdera, galdera-marka, galdera-marka gorria, puntuazioa
-❔	galdera, galdera-marka zuria, marka, nabarmendu, puntuazio
-❕	harridura, harridura-marka zuria, marka, nabarmendu, puntuazio
+❔️	galdera, galdera-marka zuria, marka, nabarmendu, puntuazio
+❕️	harridura, harridura-marka zuria, marka, nabarmendu, puntuazio
 ❗️	harridura, harridura-marka, harridura-marka gorria, marka, puntuazioa
 〰️	marratxo, marratxo ondulatua, ondulatu, puntuazio
 💱	banku, diru, moneta, truke, truke-tasa
@@ -3602,20 +3757,21 @@ _	azpimarra, beheko marra, marra
 📛	bereizgarri, izen, izen-bereizgarria
 🔰	berdea, hasiberria, hasiberria irudikatzen duen japonierako ikurra, hasiberriaren japonierako ikurra, hostoa, japoniera, komatxoa
 ⭕️	gorri, handi, o, zirkulu, zirkulu gorri hutsa
-✅	botoi, markatu, tilet, tiletaren botoia, ✓
+✅️	botoi, markatu, tilet, tiletaren botoia, ✓
 ☑️	koadro, tilet, tileta duen koadroa, ✓
 ✔️	hautamarka, markatu, tilet, tileta, ✓
-❌	biderkatu, biderketa, gurutze-ikurra, gurutzea, markatu, utzi, ×
-❎	gurutze-ikurraren botoia, ikur, karratu, x, ×
-➰	malguki, malgukia
-➿	bikoitz, malguki, malguki bikoitza
+❌️	biderkatu, biderketa, gurutze-ikurra, gurutzea, markatu, utzi, ×
+❎️	gurutze-ikurraren botoia, ikur, karratu, x, ×
+➰️	malguki, malgukia
+➿️	bikoitz, malguki, malguki bikoitza
 〽️	markatu, txanda, txanda-markatzailea
 ✳️	izartxo, zortzi puntako izartxoa
 ✴️	izar, zortzi puntako izarra
 ❇️	*, txinparta
-©️	copyright, copyrighta
-®️	erregistratu, marka, marka erregistratua
+©️	C, copyrighta
+®️	R, erregistratu, erregistratuta, marka erregistratua
 ™️	komertzial, marka, marka komertziala, tm
+🫟	erion, holi, isuri, jariatu, margoa, orbana, zapasta, zetaka, zikingunea, ziliporta, zipriztina
 #⃣	Tekla, Tekla: #
 *⃣	Tekla, Tekla: *
 0⃣	Tekla, Tekla: 0
@@ -3634,23 +3790,23 @@ _	azpimarra, beheko marra, marra
 🔢	1234, idazkera, zenbakiak
 🔣	idazketa, ikurrak
 🔤	abc, alfabetoa, hizki latindarrak, latindarra, letrak, sarrera
-🅰️	a, a botoia, odol
-🆎	ab, ab botoia, odol
-🅱️	b, b botoia, odol
-🆑	cl, “cl” testua karratu batean
-🆒	cool, eder, “cool” hitza karratu batean
-🆓	doan, free, libre, “free” hitza karratu batean
+🅰️	a botoia, botoia, odol-taldea, odola
+🆎	AB, ab botoia, botoia, odol-taldea, odola
+🅱️	B, b botoia, botoia, odol-taldea, odola
+🆑	CL, botoia, “cl” testua karratu batean
+🆒	"cool" hitza, COOL, botoia, “cool” hitza karratu batean
+🆓	"free" hitza, FREE, botoia, “free” hitza karratu batean
 ℹ️	i, informazio, informazio-iturburua
-🆔	id, identitate, nortasun, “id” testua karratu batean
-Ⓜ️	m, zirkulu, “m” hizkia zirkulu batean
-🆕	berri, new, “new” hitza zirkulu batean
-🆖	ng, “ng” testua karratu batean
-🅾️	o, odol, “o” botoia
+🆔	"ID" hitza, ID, botoia, nortasuna, “id” testua karratu batean
+Ⓜ️	"m" hitza, M, zirkulu baten barruan, zirkulua, “m” hizkia zirkulu batean
+🆕	"new" hitza, NEW, botoia, “new” hitza zirkulu batean
+🆖	"ng" hitza, NG, botoia, “ng” testua karratu batean
+🅾️	O, botoia, odol-taldea, odola, “o” botoia
 🆗	ados, ok, “ok” testua karratu batean
-🅿️	aparkaleku, parking, “p” botoia
-🆘	laguntza, sos, “sos” hitza karratu batean
-🆙	gora, markatu, up, “up!” botoia
-🆚	versus, vs, “vs” testua karratu batean
+🅿️	"p" letra, P, aparkalekua, botoia, “p” botoia
+🆘	SOS, SOS botoia, laguntza
+🆙	UP, UP!, UP! botoia, gora, marka, markatu
+🆚	"VS" testua, VS, botoia, versus, “vs” testua karratu batean
 🈁	japoniera, katakana koko karratu batean
 🈂️	japoniera, katakana sa karratu batean
 🈷	ilargia irudikatzen duen ideograma karratu batean, japoniera, japonierazko "hileko zenbatekoa" botoia
@@ -3987,7 +4143,6 @@ $	USD, dirua, dolarra, pesoa
 ₤	lira, moneta
 ₥	milarena
 ₦	naira nigeriarra
-₧	pezeta espainiarra
 ₩	KPW, KRW, wona
 ₪	shekel israeldar berria
 ₫	dong vietnamdarra
@@ -4014,6 +4169,7 @@ $	USD, dirua, dolarra, pesoa
 ¹	bat, goi-indize, goi-indizeko bat
 ²	bi, goi-indize, goi-indizeko bi
 ³	goi-indize, goi-indizeko hiru, hiru, kubiko
+₧	pezeta espainiarra
 µ	mikro-ikur, mikro-ikurra, neurketa
 🏻	1–2. mota, azalaren tonua
 🏼	3. mota, azalaren tonua

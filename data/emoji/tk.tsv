@@ -72,7 +72,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 ⁂	ýyldyzlar, ýyldyzçylyk
 `	basym, grawis, grawis belgisi, äheň
 ´	basym, äheň, ýiti, ýiti basym
-^	barlag, basym, görkezgiç, iksor belgisi, kareta, kuwwat, pahna, papak, sirkumfleks, sirkumfleks belgisi, şewron
+^	barlag, basym, dereje, görkezgiç, iksor belgisi, karet, pahna, sirkumfleks, sirkumfleks belgisi, şewron, şlýapa
 ¨	diarezis, trema, umlaut
 °	dereje, sagat, subut
 ℗	awtorlyk hukugy, ses, ses ýazgysy awtorlyk hukugy, ýazdyrmak
@@ -134,38 +134,212 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 ⇒	sagdaky goşa ok
 ⇏	sag tarapdan goşa ok urgysy
 ⇓	aşakdaky goşa ok
+⇔	saga-çepe goşa ok
+⇎	üsti çyzykly saga-çepe goşa ok
+⇖	ýokarky çep burça goşa ok
+⇗	ýokarky sag burça goşa ok
+⇘	aşaky sag burça goşa ok
+⇙	aşaky çep burça goşa ok
+⇚	çepe üç gat ok
+⇛	saga üç gat ok
+⇜	çepe egrem-bugram ok
+⇝	saga egrem-bugram ok
+⇞	goşa çyzykly ýokaryk ok
+⇟	goşa çyzykly aşak ok
+⇠	çepe arasy bölünýän ok
+⇡	ýokaryk arasy bölünýän ok
+⇢	saga arasy bölünýän ok
+⇣	aşak arasy bölünýän ok
+⇤	dik çyzykly çepe ok
+⇥	dik çyzykly saga ok
+⇦	içi boş çepe ok
+⇧	içi boş ýokaryk ok
+⇨	içi boş saga ok
+⇩	içi boş aşak ok
+⇪	sütünjikden ýokaryk içi boş ok
+⇵	aşak ok çepe ýokaryk ok
+∀	berlen, hemmesi üçin, islendik, köpugurly, ählisi, ählisi üçin
+∂	diferensial, gytaklaýyn diferensial
+∃	bar, berlen
+∅	boş köplük, köplük amal edijisi, matematika
 ∆	artdyrma, üçburçlyk
 ∇	nabla, üçburçlyk
 ∈	agza, agzalyk, toplum, ybarat
+∉	element, element däl
+∋	agza hökmünde düzüminde saklaýar, element
+∎	netije, qed, subut edilmeli zat, subut etmegiň soňy
+∏	köpeltme jemi, logika, sanlar hatarynyň köpeltme hasyly
+∑	jemi, matematika, sanlar hatarynyň jemi
 +	goş, goşmak, goşmak belgisi
 ±	goşmak - aýyrmak
 ÷	bölme, bölme nyşany, bölmek, obelýus
 ×	artdyrmak, köpeltme, köpeltme nyşan, köpeltmek
 <	açyş tagmasy, kiçidir, tagma
+≮	-dan kiçi däl, deňsizlik, matematika
 =	deň, deňdir
 ≠	deň däl, deň däldir, deňsizlik
 >	tagma, uludyr, ýapyş tagmasy
+≯	-dan uly däl, deňsizlik, matematika
 ¬	ýok, ýokluk
 |	dik zolak, dik çyzgy, dik çyzyk, pik, taýak, turba, urgy, zolak, çyzyk, şefer urgusy
 ~	tilda
 −	aýyrmak, aýyrmak belgisi, minus
 ⁻	minus, ýokary indeks, ýokary indeks minus
+∓	aýyrmak ýa-da goşmak, goşmak-aýyrmak
+∕	bölmek cyzygy, bölmek çyzygy, gytak çyzyk, çyzyk, ýapgyt çyzyk
+⁄	drob gytak çyzygy, gytak çyzyk, ýapgyt çyzyk
+∗	amal ediji ýyldyzjyk, ýyldyz
+∘	amal ediji, amal ediji halkajyk, düzüm
+∙	amal ediji, amal ediji nokat belgi
 √	hasaplama ulgamyň esasy, irrasionallyk, kwadrat, kwadrat kök, kök
+∝	proporsional, proporsionallyk
 ∞	tükeniksiz, tükeniksiz nyşan
+∟	matematika, sag burç
+∠	burç, ýiti
+∣	bölmek belgisi, bölýär
+∥	parallel
+∧	hem-de, logiki we, çüňk, şeýle hem
 ∩	köpeltme jemi, toplum
 ∪	köplük, toplum, ýygyndy
+∫	integral, matematiki analiz
+∬	goşa integral, matematiki analiz
+∮	egri çyzykly integral
+∴	logika, şonuň üçin
+∵	logika, sebäbi
+∶	gatnaşyk
+∷	proporsionallyk, proporsiýa
+∼	amal ediji, tilda amal ediji, tilda amala ediji
+∽	ters tilda, tilda
+∾	ters ýatan s
+≃	asimptot, asimptotiki deňdir, matematika
+≅	barabarlyk, deňlik, izomorfizm, matematika, çen bilen deň, çen bilen deňdir
 ≈	golaýlatmak, takmynan, takmynan deňdir
+≌	deňlik, hemmesi deňdir, matematika
+≒	çen bilen deň keşbi
+≖	deňdir belgisinde halka, deňlik, matematika
 ≡	birmeňzeş, deň, takyk, üç esse
+≣	deňlik, doly kybapdaş, matematika
 ≤	deň, deňdir, deňsizlik, kiçidir, kiçidir ýa-da deňdir
 ≥	deň, deňdir, deňsizlik, uludyr, uludyr ýa-da deňdir
+≦	deňsizlik, kiçidir deňdiriň üstünde, matematika
+≧	deňsizlik, matematika, uludyr deňdiriň üstünde
+≪	deňsizlik, matematika, örän kiçidir
+≫	deňsizlik, matematika, örän uludyr
+≬	arasynda
+≳	deňsizlik, matematika, uludyr kybapdaş
+≺	hatar amal ediji, matematika, öňünden gelýär
+≻	köplük amal ediji, matematika, yzyndan gelýär
+⊁	köplük amal ediji, matematika, yzyndan gelmeýär
 ⊂	kiçi synp, toplum
+⊃	köplük amal ediji, matematika, uly köplük
+⊆	köplük bölümi deňdir
+⊇	deňlik, matematika, uly köplük deňdir
+⊕	goşmak, tegelekde goşmak, tegelekde goşmak belgisi
+⊖	daralma, simmetrik tapawut, tegelekde aýyrmak, tegelekde aýyrmak belgisi
+⊗	hasyl, tegelekde köpeltmek, tenzor
+⊘	bölmege meňzeş, matematika, tegelekde bölmek çyzygy
+⊙	XNOR, amal ediji, tegelekde nokat amal ediji
+⊚	tegelekde halka amal ediji
+⊛	amal ediji, tegelekde ýyldyzjyk amal ediji, ýyldyzjyk
+⊞	goşmak-meňzeş, kwadratda goşmak, kwadratta goşmak, matematika
+⊟	aýyrmak-meňzeş, kwadratta aýyrmak, matematika
+⊥	myh, nädogry, ters T, ýalan
+⊮	mejbur etmeýär
+⊰	deňeşdirilende öňünden gelýär, köplük amal ediji, matematika
+⊱	deňeşdirilende yzyndan gelýär, köplük amal ediji, matematika
+⋭	adaty topar bölümi hökmünde düzüminde saklamaýar deňdir, matematika, topar teoriýasy
+⊶	asyl
+⊹	ermit baglanyşykly matrisa, kwadrat matrisa, matematika, özbaşdak sazlanýan matrisa
+⊿	göni burç, göni burçly üçburçluk, matematika
+⋁	dizýunksiýa, logika, n-ar logiki ýa-da
+⋂	kesişme, köplük amal ediji, matematika, n-ar kesişme
+⋃	birleşdirme, köplük, matematika, n-ar birleşdirme
+⋅	amal ediji, nokat amal ediji
+⋆	amal ediji, ýyldyz amal ediji
+⋈	bantly galstuk, binar amal ediji, natural birleşme
+⋒	goşa kesişme, kesişme, köplük amal ediji, matematika
+⋘	deňsizlik, esli kiçidir, matematika
+⋙	deňsizlik, esli uludyr, matematika
+⋮	dikligine köp nokat, köp nokat, matematika
+⋯	köp nokat, ortada keseligine köp nokat
+⋰	köp nokat, matematika, ýokary saga diagonal köp nokat
+⋱	aşak saga diagonal köp nokat, köp nokat, matematika
+■	içi doldurylan kwadrat
+□	içi boş kwadrat
+▢	Tegelenen burçly içi boş kwadrat
+▣	içinde doldurylan kwadrat bolan içi boş kwadrat
+▤	keseligine doldurylan kwadrat
+▥	dikligine doldurylan kwadrat
+▦	içi ortogonal kesişýän çyzykly kwdrat
+▧	ýokarky çep we aşaky sag bölegi doldurylan kwadrat
+▨	ýokarky sag we aşaky çep bölegi doldurylan kwadrat
+▩	içi diagonal kesişýän çyzykly kwadrat
+▬	içi doldurylan gönüburçluk
+▭	içi boş gönüburçluk
+▮	içi doldurylan dik gönüburçluk
+▰	içi doldurylan parallelogram
 ▲	doly, doly ýokaryk görkezýän üçburçlyk, ok, üçburçlyk, ýokaryk
+△	içi boş, içi boş, ujy ýokarda üçburçluk, ujy ýokarda üçburçluk
+▴	içi doldurylan, içi doldurylan, ujy ýokarda kiçi üçburçluk, ujy ýokarda kiçi üçburçluk
+▵	içi boş, içi boş, ujy ýokarda kiçi üçburçluk, ujy ýokarda kiçi üçburçluk
+▷	içi boş, içi boş, ujy sagda üçburçluk, ujy sagda üçburçluk
+▸	içi doldurylan, içi doldurylan, ujy sagda kiçi üçburçluk, ujy sagda kiçi üçburçluk
+▹	içi boş, içi boş, ujy sagda kiçi üçburçluk, ujy sagda kiçi üçburçluk
+►	içi doldurylan sag tarapa görkeziji
+▻	içi boş sag tarapa görkeziji
 ▼	aşak, doly, doly aşak görkezýän üçburçlyk, ok, üçburçlyk
+▽	içi boş, içi boş, ujy aşakda üçburçluk, ujy aşakda üçburçluk
+▾	içi doldurylan, içi doldurylan, ujy aşakda kiçi üçburçluk, ujy aşakda kiçi üçburçluk
+▿	içi boş, içi boş, ujy aşakda kiçi üçburçluk, ujy aşakda kiçi üçburçluk
+◁	içi boş, içi boş, ujy çepde üçburçluk, ujy çepde üçburçluk
+◂	içi doldurylan, içi doldurylan, ujy çepde kiçi üçburçluk, ujy çepde kiçi üçburçluk
+◃	içi boş, içi boş, ujy çepde kiçi üçburçluk, ujy çepde kiçi üçburçluk
+◄	içi doldurylan çepe tarap görkeziji
+◅	içi boş çepe tarap görkeziji
+◆	içi doldurylan romb
+◇	içi boş romb
+◈	içi doldurylan rombly içi boş romb
+◉	göz, içi doldurylan halka, içi doldurylan tegelekli içi boş tegelek, tegelegiň içinde nokat, töwerek
 ◊	almaz, romb
 ○	aýlaw, boş aýlaw, tegelek
+◌	nokatlanan tegelek
+◍	içi dik çyzyk doldurylan tegelek
+◎	goşa tegelek, nyşan, umumy merkezli tegelekler
 ●	aýlaw, doly aýlaw
+◐	çep ýarysy doldurylan tegelek
+◑	sag ýarysy doldurylan tegelek
+◒	aşaky ýarysy doldurylan tegelek
+◓	ýokarky ýarysy doldurylan tegelek
+◔	ýokarky sag çärýegi doldurylan tegelek
+◕	ýokarky çep çärýekden başga ýeri doldurylan tegelek
+◖	içi doldurylan çep ýarym tegelek
+◗	içi doldurylan sag ýarym tegelek
+◘	ters belgi
+◙	içi boş tegelekli içi doldurylan kwadrat, ters içi boş tegelek
+◜	tegelegiň ýokarky çep çärýek dugasy
+◝	tegelegiň ýokarky sag çärýek dugasy
+◞	tegelegiň aşaky sag çärýek dugasy
+◟	tegelegiň aşaky çep çärýek dugasy
+◠	ýokarky ýarym aýlaw
+◡	aşaky ýarym aýlaw
+◢	içi doldurylan aşaky sag üçburçluk
+◣	içi doldurylan aşaky çep üçburçluk
+◤	içi doldurylan ýokarky çep üçburçluk
+◥	içi doldurylan ýokarky sag üçburçluk
+◦	içi boş belgi
 ◯	aýlaw, tegelek, uly boş aýlaw
+◳	ýokarky sag çärýekli içi boş kwadrat
+◷	ýokarky sag çärýekli içi boş tegelek
+◿	aşaky sag üçburçluk
 ♪	nota, saz, sekizinji, sekizinji nota
+⨧	setirasty ikilikli goşmak belgisi
+⨯	wektor atanakly köpeltmek hasyly
+⨼	içki köpeltmek hasyly
+⩣	logiki ýa-da goşa aşaky zolak
+⩽	kiçidir-kese deňdir
+⪍	meňzeş deňdiriň üstünde kiçidir alamaty
+⪚	deňsizlik, goşa çyzykly deňdir-uludyr, matematika
+⪺	deň däl diýen ýaly alamatyň üstünde yzyndan gelýär alamaty
 ♭	bemol, nota, saz, ýasy
 ♯	diezis, goşa haç, nota, saz, ýiti
 😀	syrtarma, syrtarýan ýüz, ýüz
@@ -217,11 +391,15 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 😬	ýyrşarmak, ýyrşarýan ýüz, ýüz
 😮‍💨	bugarmak, bugarýan ýüz, demikmek, iňňildi, pyşyrdy, rahatlamak, sykylyk
 🤥	buratino, ýalan, ýalançy ýüz, ýüz
+🫨	titreýan ýüz
+🙂‍↔	saga-çepe sallanýan kelle, salla, ýok
+🙂‍↕	aşak-ýokaryk sallanýan kelle, baş at, hawa
 😌	ynjalan, ynjalan ýüz, ýüz
 😔	gussaly, gussaly ýüz, tukat, ýüz
 😪	ukuly ýüz, uky, ýüz
 🤤	gyllygy akmak, gyllygy akýan ýüz, ýüz
 😴	uhh, uklap ýatan ýüz, uky, ýüz
+🫩	gözüniň aşagy halkaly ýüz, gözüň aşagy halkaly ýüz, lüti süýnen, uky bar, ysgynsyz, ýadaw, ýatasy gelýär
 😷	hassa, lukman, maska, saglyk maskaly ýüz, sowuk, ýüz
 🤒	hassa, kesel, termometr, termometrli ýüz, ýüz
 🤕	kellesi sargyly ýüz, sargy, ynjyly, ýara, ýüz
@@ -255,7 +433,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 😧	jebir çekýän, jebir çekýän ýüz, ýüz
 😨	gorkan, gorkuly, gorkuly ýüz, gorky, ýüz
 😰	der, derli biynjalyk ýüz, gök, howlugan, sowuk, sowuk derli biynjalyk ýüz, ýüz
-😥	gynançly, ýöne ynjalan ýüz, lapykeç, sykylyk, ynjalan, ýüz
+😥	gynançly, gynançly, ýöne ynjalan ýüz, lapykeç, sykylyk, ynjalan, ýöne ynjalan ýüz, ýüz
 😢	aglamak, aglaýan ýüz, gamgyn, gözýaş, ýüz
 😭	aglamak, gamgyn, gözýaş, möňňürýän ýüz, sojamak, ýüz
 😱	gorkan, gorkup çygyrýan ýüz, gorky, çeýnemek, çygyrmak, ýüz
@@ -308,13 +486,16 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 ❤‍🔥	hyjuw, mukaddes ýürek, söýgi, ýanmak, ýanyp duran ýürek, ýürek
 ❤‍🩹	dikelýän, düzelýän, gowulanýan, gowulaşýan, gowulaşýan ýürek, has sagdyn, oňat
 ❤️	gyzyl ýürek, ýürek
+🩷	gülgüne ýürek
 🧡	mämişi, mämişi ýürek
 💛	sary, sary ýürek
 💚	ýaşyl, ýaşyl ýürek
 💙	gök, gök ýürek
+🩵	açyk gök ýürek
 💜	mawy, mawy ýürek
 🤎	goňur, goňur ýürek, ýürek
 🖤	betniýetli, erbet, gara, gara ýürek
+🩶	küljümek ýürek
 🤍	ak, ak ýürek, ýürek
 💋	dodaklar, posa, posa yzy
 💯	100, doly, utuk, ýüz, ýüz utuk
@@ -348,7 +529,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🖐🏽	arasy açylan, barmak, barmaklaryň arasy açylan el, barmaklaryň arasy açylan el: orta deri reňki, el, orta deri reňki
 🖐🏾	arasy açylan, barmak, barmaklaryň arasy açylan el, barmaklaryň arasy açylan el: orta goýy deri reňki, el, orta goýy deri reňki
 🖐🏿	arasy açylan, barmak, barmaklaryň arasy açylan el, barmaklaryň arasy açylan el: goýy deri reňki, el, goýy deri reňki
-✋	el, galdyrylan el
+✋️	el, galdyrylan el
 ✋🏻	açyk deri reňki, el, galdyrylan el, galdyrylan el: açyk deri reňki
 ✋🏼	el, galdyrylan el, galdyrylan el: orta açyk deri reňki, orta açyk deri reňki
 ✋🏽	el, galdyrylan el, galdyrylan el: orta deri reňki, orta deri reňki
@@ -404,6 +585,18 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🫴🏽	aýasy ýokaryk seredýän el, aýasy ýokaryk seredýän el: orta deri reňki, gel, orta deri reňki, teklip, tutmak, çagyrmak
 🫴🏾	aýasy ýokaryk seredýän el, aýasy ýokaryk seredýän el: orta goýy deri reňki, gel, orta goýy deri reňki, teklip, tutmak, çagyrmak
 🫴🏿	aýasy ýokaryk seredýän el, aýasy ýokaryk seredýän el: goýy deri reňki, gel, goýy deri reňki, teklip, tutmak, çagyrmak
+🫷	çepe itýän el
+🫷🏻	açyk deri reňki, çepe itýän el, çepe itýän el: açyk deri reňki
+🫷🏼	orta açyk deri reňki, çepe itýän el, çepe itýän el: orta açyk deri reňki
+🫷🏽	orta deri reňki, çepe itýän el, çepe itýän el: orta deri reňki
+🫷🏾	orta goýy deri reňki, çepe itýän el, çepe itýän el: orta goýy deri reňki
+🫷🏿	goýy deri reňki, çepe itýän el, çepe itýän el: goýy deri reňki
+🫸	saga itýän el
+🫸🏻	açyk deri reňki, saga itýän el, saga itýän el: açyk deri reňki
+🫸🏼	orta açyk deri reňki, saga itýän el, saga itýän el: orta açyk deri reňki
+🫸🏽	orta deri reňki, saga itýän el, saga itýän el: orta deri reňki
+🫸🏾	orta goýy deri reňki, saga itýän el, saga itýän el: orta goýy deri reňki
+🫸🏿	goýy deri reňki, saga itýän el, saga itýän el: goýy deri reňki
 👌	OK eli, bolýar, el
 👌🏻	OK eli, OK eli: açyk deri reňki, açyk deri reňki, bolýar, el
 👌🏼	OK eli, OK eli: orta açyk deri reňki, bolýar, el, orta açyk deri reňki
@@ -512,7 +705,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👎🏽	-1, aşak, başam barmak, başam barmak aşak, başam barmak aşak: orta deri reňki, el, orta deri reňki
 👎🏾	-1, aşak, başam barmak, başam barmak aşak, başam barmak aşak: orta goýy deri reňki, el, orta goýy deri reňki
 👎🏿	-1, aşak, başam barmak, başam barmak aşak, başam barmak aşak: goýy deri reňki, el, goýy deri reňki
-✊	düwülen, el, galdyrylan ýumruk, ýumruk, ýumruklamak
+✊️	düwülen, el, galdyrylan ýumruk, ýumruk, ýumruklamak
 ✊🏻	açyk deri reňki, düwülen, el, galdyrylan ýumruk, galdyrylan ýumruk: açyk deri reňki, ýumruk, ýumruklamak
 ✊🏼	düwülen, el, galdyrylan ýumruk, galdyrylan ýumruk: orta açyk deri reňki, orta açyk deri reňki, ýumruk, ýumruklamak
 ✊🏽	düwülen, el, galdyrylan ýumruk, galdyrylan ýumruk: orta deri reňki, orta deri reňki, ýumruk, ýumruklamak
@@ -663,11 +856,11 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👦🏾	oglan, oglan: orta goýy deri reňki, orta goýy deri reňki, ýaş
 👦🏿	goýy deri reňki, oglan, oglan: goýy deri reňki, ýaş
 👧	Gyz, gyz, täleýnama, ýaş
-👧🏻	Gyz, açyk deri reňki, gyz, gyz: açyk deri reňki, täleýnama, ýaş
-👧🏼	Gyz, gyz, gyz: orta açyk deri reňki, orta açyk deri reňki, täleýnama, ýaş
-👧🏽	Gyz, gyz, gyz: orta deri reňki, orta deri reňki, täleýnama, ýaş
-👧🏾	Gyz, gyz, gyz: orta goýy deri reňki, orta goýy deri reňki, täleýnama, ýaş
-👧🏿	Gyz, goýy deri reňki, gyz, gyz: goýy deri reňki, täleýnama, ýaş
+👧🏻	Gyz, açyk deri reňki, gyz: açyk deri reňki, täleýnama, ýaş
+👧🏼	Gyz, gyz: orta açyk deri reňki, orta açyk deri reňki, täleýnama, ýaş
+👧🏽	Gyz, gyz: orta deri reňki, orta deri reňki, täleýnama, ýaş
+👧🏾	Gyz, gyz: orta goýy deri reňki, orta goýy deri reňki, täleýnama, ýaş
+👧🏿	Gyz, goýy deri reňki, gyz: goýy deri reňki, täleýnama, ýaş
 🧑	adam, jynsyýeti görkezilmedik, jynsyýeti tapawut etmeýän, uly ýaşly, şahs
 🧑🏻	adam, açyk deri reňki, jynsyýeti görkezilmedik, jynsyýeti tapawut etmeýän, uly ýaşly, şahs, şahs: açyk deri reňki
 🧑🏼	adam, jynsyýeti görkezilmedik, jynsyýeti tapawut etmeýän, orta açyk deri reňki, uly ýaşly, şahs, şahs: orta açyk deri reňki
@@ -756,12 +949,12 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🧔🏽	kişi: orta deri reňki, sakal, kişi: sakal, orta deri reňki, sakal, şahs, şahs: sakal
 🧔🏾	kişi: orta goýy deri reňki, sakal, kişi: sakal, orta goýy deri reňki, sakal, şahs, şahs: sakal
 🧔🏿	goýy deri reňki, kişi: goýy deri reňki, sakal, kişi: sakal, sakal, şahs, şahs: sakal
-🧔‍♂	adam, adam: sakal, sakal
-🧔🏻‍♂	adam, adam: açyk deri reňki, sakal, adam: sakal, açyk deri reňki, sakal
-🧔🏼‍♂	adam, adam: orta açyk deri reňki, sakal, adam: sakal, orta açyk deri reňki, sakal
-🧔🏽‍♂	adam, adam: orta deri reňki, sakal, adam: sakal, orta deri reňki, sakal
-🧔🏾‍♂	adam, adam: orta goýy deri reňki, sakal, adam: sakal, orta goýy deri reňki, sakal
-🧔🏿‍♂	adam, adam: goýy deri reňki, sakal, adam: sakal, goýy deri reňki, sakal
+🧔‍♂	adam, adam: sakal, sakal, sakally erkek
+🧔🏻‍♂	adam, adam: açyk deri reňki, sakal, açyk deri reňki, sakal, sakally erkek
+🧔🏼‍♂	adam, adam: orta açyk deri reňki, sakal, orta açyk deri reňki, sakal, sakally erkek
+🧔🏽‍♂	adam, adam: orta deri reňki, sakal, orta deri reňki, sakal, sakally erkek
+🧔🏾‍♂	adam, adam: orta goýy deri reňki, sakal, orta goýy deri reňki, sakal, sakally erkek
+🧔🏿‍♂	adam, adam: goýy deri reňki, sakal, goýy deri reňki, sakal, sakally erkek
 👱‍♂	erkek adam, erkek adam: sary saç, sary saçly, sary saçly erkek adam
 👱🏻‍♂	açyk deri reňki, erkek adam, erkek adam: açyk deri reňki, sary saç, erkek adam: sary saç, sary saç, sary saçly, sary saçly erkek adam
 👱🏼‍♂	erkek adam, erkek adam: orta açyk deri reňki, sary saç, erkek adam: sary saç, orta açyk deri reňki, sary saç, sary saçly, sary saçly erkek adam
@@ -848,12 +1041,12 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👩🏽	orta deri reňki, uly ýaşly, zenan, zenan: orta deri reňki
 👩🏾	orta goýy deri reňki, uly ýaşly, zenan, zenan: orta goýy deri reňki
 👩🏿	goýy deri reňki, uly ýaşly, zenan, zenan: goýy deri reňki
-🧔‍♀	aýal, aýal: sakal, sakal
-🧔🏻‍♀	açyk deri reňki, aýal, aýal: açyk deri reňki, sakal, aýal: sakal, sakal
-🧔🏼‍♀	aýal, aýal: orta açyk deri reňki, sakal, aýal: sakal, orta açyk deri reňki, sakal
-🧔🏽‍♀	aýal, aýal: orta deri reňki, sakal, aýal: sakal, orta deri reňki, sakal
-🧔🏾‍♀	aýal, aýal: orta goýy deri reňki, sakal, aýal: sakal, orta goýy deri reňki, sakal
-🧔🏿‍♀	aýal, aýal: goýy deri reňki, sakal, aýal: sakal, goýy deri reňki, sakal
+🧔‍♀	aýal, aýal: sakal, sakal, sakally
+🧔🏻‍♀	açyk deri reňki, aýal, aýal: açyk deri reňki, sakal, sakal, sakally
+🧔🏼‍♀	aýal, aýal: orta açyk deri reňki, sakal, orta açyk deri reňki, sakal, sakally
+🧔🏽‍♀	aýal, aýal: orta deri reňki, sakal, orta deri reňki, sakal, sakally
+🧔🏾‍♀	aýal, aýal: orta goýy deri reňki, sakal, orta goýy deri reňki, sakal, sakally
+🧔🏿‍♀	aýal, aýal: goýy deri reňki, sakal, goýy deri reňki, sakal, sakally
 👱‍♀	sary saçly, saç, zenan, zenan: sary saçly
 👱🏻‍♀	açyk deri reňki, sary saçly, saç, zenan, zenan: açyk deri reňki, sary saçly, zenan: sary saçly
 👱🏼‍♀	orta açyk deri reňki, sary saçly, saç, zenan, zenan: orta açyk deri reňki, sary saçly, zenan: sary saçly
@@ -1044,18 +1237,18 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🙅🏽	bolanok, el, gadagan, orta deri reňki, ÝOK ümleýän adam, ÝOK ümleýän adam: orta deri reňki, ÝOK ümleýän kişi, üm
 🙅🏾	bolanok, el, gadagan, orta goýy deri reňki, ÝOK ümleýän adam, ÝOK ümleýän adam: orta goýy deri reňki, ÝOK ümleýän kişi, üm
 🙅🏿	bolanok, el, gadagan, goýy deri reňki, ÝOK ümleýän adam, ÝOK ümleýän adam: goýy deri reňki, ÝOK ümleýän kişi, üm
-🙅‍♂	bolanok, el, erkek, gadagan, ÝOK ümleýän erkek, üm
-🙅🏻‍♂	açyk deri reňki, bolanok, el, erkek, gadagan, ÝOK ümleýän erkek, ÝOK ümleýän erkek: açyk deri reňki, üm
-🙅🏼‍♂	bolanok, el, erkek, gadagan, orta açyk deri reňki, ÝOK ümleýän erkek, ÝOK ümleýän erkek: orta açyk deri reňki, üm
-🙅🏽‍♂	bolanok, el, erkek, gadagan, orta deri reňki, ÝOK ümleýän erkek, ÝOK ümleýän erkek: orta deri reňki, üm
-🙅🏾‍♂	bolanok, el, erkek, gadagan, orta goýy deri reňki, ÝOK ümleýän erkek, ÝOK ümleýän erkek: orta goýy deri reňki, üm
-🙅🏿‍♂	bolanok, el, erkek, gadagan, goýy deri reňki, ÝOK ümleýän erkek, ÝOK ümleýän erkek: goýy deri reňki, üm
-🙅‍♀	bolanok, el, gadagan, zenan, ÝOK ümleýän zenan, üm
-🙅🏻‍♀	açyk deri reňki, bolanok, el, gadagan, zenan, ÝOK ümleýän zenan, ÝOK ümleýän zenan: açyk deri reňki, üm
-🙅🏼‍♀	bolanok, el, gadagan, orta açyk deri reňki, zenan, ÝOK ümleýän zenan, ÝOK ümleýän zenan: orta açyk deri reňki, üm
-🙅🏽‍♀	bolanok, el, gadagan, orta deri reňki, zenan, ÝOK ümleýän zenan, ÝOK ümleýän zenan: orta deri reňki, üm
-🙅🏾‍♀	bolanok, el, gadagan, orta goýy deri reňki, zenan, ÝOK ümleýän zenan, ÝOK ümleýän zenan: orta goýy deri reňki, üm
-🙅🏿‍♀	bolanok, el, gadagan, goýy deri reňki, zenan, ÝOK ümleýän zenan, ÝOK ümleýän zenan: goýy deri reňki, üm
+🙅‍♂	bolanok, el, erkek, gadagan, oglan, ÝOK ümleýän erkek, üm, ýigit
+🙅🏻‍♂	açyk deri reňki, bolanok, el, erkek, gadagan, oglan, ÝOK ümleýän erkek, ÝOK ümleýän erkek: açyk deri reňki, üm, ýigit
+🙅🏼‍♂	bolanok, el, erkek, gadagan, oglan, orta açyk deri reňki, ÝOK ümleýän erkek, ÝOK ümleýän erkek: orta açyk deri reňki, üm, ýigit
+🙅🏽‍♂	bolanok, el, erkek, gadagan, oglan, orta deri reňki, ÝOK ümleýän erkek, ÝOK ümleýän erkek: orta deri reňki, üm, ýigit
+🙅🏾‍♂	bolanok, el, erkek, gadagan, oglan, orta goýy deri reňki, ÝOK ümleýän erkek, ÝOK ümleýän erkek: orta goýy deri reňki, üm, ýigit
+🙅🏿‍♂	bolanok, el, erkek, gadagan, goýy deri reňki, oglan, ÝOK ümleýän erkek, ÝOK ümleýän erkek: goýy deri reňki, üm, ýigit
+🙅‍♀	aýal, bolanok, el, gadagan, gyz, zenan, ÝOK ümleýän zenan, üm
+🙅🏻‍♀	açyk deri reňki, aýal, bolanok, el, gadagan, gyz, zenan, ÝOK ümleýän zenan, ÝOK ümleýän zenan: açyk deri reňki, üm
+🙅🏼‍♀	aýal, bolanok, el, gadagan, gyz, orta açyk deri reňki, zenan, ÝOK ümleýän zenan, ÝOK ümleýän zenan: orta açyk deri reňki, üm
+🙅🏽‍♀	aýal, bolanok, el, gadagan, gyz, orta deri reňki, zenan, ÝOK ümleýän zenan, ÝOK ümleýän zenan: orta deri reňki, üm
+🙅🏾‍♀	aýal, bolanok, el, gadagan, gyz, orta goýy deri reňki, zenan, ÝOK ümleýän zenan, ÝOK ümleýän zenan: orta goýy deri reňki, üm
+🙅🏿‍♀	aýal, bolanok, el, gadagan, goýy deri reňki, gyz, zenan, ÝOK ümleýän zenan, ÝOK ümleýän zenan: goýy deri reňki, üm
 🙆	Bolýar ümleýän adam, bolýar, el, üm
 🙆🏻	Bolýar ümleýän adam, Bolýar ümleýän adam: açyk deri reňki, açyk deri reňki, bolýar, el, üm
 🙆🏼	Bolýar ümleýän adam, Bolýar ümleýän adam: orta açyk deri reňki, bolýar, el, orta açyk deri reňki, üm
@@ -1248,12 +1441,12 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👨🏽‍⚖	adalat, erkek, erkek kazy, erkek kazy: orta deri reňki, orta deri reňki, terezi
 👨🏾‍⚖	adalat, erkek, erkek kazy, erkek kazy: orta goýy deri reňki, orta goýy deri reňki, terezi
 👨🏿‍⚖	adalat, erkek, erkek kazy, erkek kazy: goýy deri reňki, goýy deri reňki, terezi
-👩‍⚖	adalat, terezi, zenan, zenan kazy
-👩🏻‍⚖	adalat, açyk deri reňki, terezi, zenan, zenan kazy, zenan kazy: açyk deri reňki
-👩🏼‍⚖	adalat, orta açyk deri reňki, terezi, zenan, zenan kazy, zenan kazy: orta açyk deri reňki
-👩🏽‍⚖	adalat, orta deri reňki, terezi, zenan, zenan kazy, zenan kazy: orta deri reňki
-👩🏾‍⚖	adalat, orta goýy deri reňki, terezi, zenan, zenan kazy, zenan kazy: orta goýy deri reňki
-👩🏿‍⚖	adalat, goýy deri reňki, terezi, zenan, zenan kazy, zenan kazy: goýy deri reňki
+👩‍⚖	adalat, aýal, terezi, zenan, zenan kazy
+👩🏻‍⚖	adalat, açyk deri reňki, aýal, terezi, zenan, zenan kazy, zenan kazy: açyk deri reňki
+👩🏼‍⚖	adalat, aýal, orta açyk deri reňki, terezi, zenan, zenan kazy, zenan kazy: orta açyk deri reňki
+👩🏽‍⚖	adalat, aýal, orta deri reňki, terezi, zenan, zenan kazy, zenan kazy: orta deri reňki
+👩🏾‍⚖	adalat, aýal, orta goýy deri reňki, terezi, zenan, zenan kazy, zenan kazy: orta goýy deri reňki
+👩🏿‍⚖	adalat, aýal, goýy deri reňki, terezi, zenan, zenan kazy, zenan kazy: goýy deri reňki
 🧑‍🌾	bagban, fermer, rançoçy
 🧑🏻‍🌾	açyk deri reňki, bagban, fermer, fermer: açyk deri reňki, rançoçy
 🧑🏼‍🌾	bagban, fermer, fermer: orta açyk deri reňki, orta açyk deri reňki, rançoçy
@@ -1308,12 +1501,12 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👩🏽‍🔧	elektrik, mehanik, orta deri reňki, santehnik, söwdagär, zenan, zenan mehanik: orta deri reňki
 👩🏾‍🔧	elektrik, mehanik, orta goýy deri reňki, santehnik, söwdagär, zenan, zenan mehanik: orta goýy deri reňki
 👩🏿‍🔧	elektrik, goýy deri reňki, mehanik, santehnik, söwdagär, zenan, zenan mehanik: goýy deri reňki
-🧑‍🏭	fabrik, fabrik işçisi, işçi, senagat, ýygnama
-🧑🏻‍🏭	açyk deri reňki, fabrik, fabrik işçisi, fabrik işçisi: açyk deri reňki, işçi, senagat, ýygnama
-🧑🏼‍🏭	fabrik, fabrik işçisi, fabrik işçisi: orta açyk deri reňki, işçi, orta açyk deri reňki, senagat, ýygnama
-🧑🏽‍🏭	fabrik, fabrik işçisi, fabrik işçisi: orta deri reňki, işçi, orta deri reňki, senagat, ýygnama
-🧑🏾‍🏭	fabrik, fabrik işçisi, fabrik işçisi: orta goýy deri reňki, işçi, orta goýy deri reňki, senagat, ýygnama
-🧑🏿‍🏭	fabrik, fabrik işçisi, fabrik işçisi: goýy deri reňki, goýy deri reňki, işçi, senagat, ýygnama
+🧑‍🏭	fabrik, fabrik işçisi, işçi, senagat, zawod, ýygnama
+🧑🏻‍🏭	açyk deri reňki, fabrik, fabrik işçisi, fabrik işçisi: açyk deri reňki, işçi, senagat, zawod, ýygnama
+🧑🏼‍🏭	fabrik, fabrik işçisi, fabrik işçisi: orta açyk deri reňki, işçi, orta açyk deri reňki, senagat, zawod, ýygnama
+🧑🏽‍🏭	fabrik, fabrik işçisi, fabrik işçisi: orta deri reňki, işçi, orta deri reňki, senagat, zawod, ýygnama
+🧑🏾‍🏭	fabrik, fabrik işçisi, fabrik işçisi: orta goýy deri reňki, işçi, orta goýy deri reňki, senagat, zawod, ýygnama
+🧑🏿‍🏭	fabrik, fabrik işçisi, fabrik işçisi: goýy deri reňki, goýy deri reňki, işçi, senagat, zawod, ýygnama
 👨‍🏭	erkek, erkek zawod işçisi, gurnama, işçi, senagat, zawod
 👨🏻‍🏭	açyk deri reňki, erkek, erkek zawod işçisi, erkek zawod işçisi: açyk deri reňki, gurnama, işçi, senagat, zawod
 👨🏼‍🏭	erkek, erkek zawod işçisi, erkek zawod işçisi: orta açyk deri reňki, gurnama, işçi, orta açyk deri reňki, senagat, zawod
@@ -1326,12 +1519,12 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👩🏽‍🏭	gurnama, işçi, orta deri reňki, senagat, zawod, zenan, zenan zawod işçisi, zenan zawod işçisi: orta deri reňki
 👩🏾‍🏭	gurnama, işçi, orta goýy deri reňki, senagat, zawod, zenan, zenan zawod işçisi, zenan zawod işçisi: orta goýy deri reňki
 👩🏿‍🏭	goýy deri reňki, gurnama, işçi, senagat, zawod, zenan, zenan zawod işçisi, zenan zawod işçisi: goýy deri reňki
-🧑‍💼	ak ýaka, binagär, dolandyryjy, edara işçisi, işewürlik
-🧑🏻‍💼	ak ýaka, açyk deri reňki, binagär, dolandyryjy, edara işçisi, edara işçisi: açyk deri reňki, işewürlik
-🧑🏼‍💼	ak ýaka, binagär, dolandyryjy, edara işçisi, edara işçisi: orta açyk deri reňki, işewürlik, orta açyk deri reňki
-🧑🏽‍💼	ak ýaka, binagär, dolandyryjy, edara işçisi, edara işçisi: orta deri reňki, işewürlik, orta deri reňki
-🧑🏾‍💼	ak ýaka, binagär, dolandyryjy, edara işçisi, edara işçisi: orta goýy deri reňki, işewürlik, orta goýy deri reňki
-🧑🏿‍💼	ak ýaka, binagär, dolandyryjy, edara işçisi, edara işçisi: goýy deri reňki, goýy deri reňki, işewürlik
+🧑‍💼	ak ýaka, binagär, dolandyryjy, edara işgäri, edara işçisi, işewürlik, ofis, resmi
+🧑🏻‍💼	ak ýaka, açyk deri reňki, binagär, dolandyryjy, edara işgäri, edara işçisi: açyk deri reňki, işewürlik, ofis, resmi
+🧑🏼‍💼	ak ýaka, binagär, dolandyryjy, edara işgäri, edara işçisi: orta açyk deri reňki, işewürlik, ofis, orta açyk deri reňki, resmi
+🧑🏽‍💼	ak ýaka, binagär, dolandyryjy, edara işgäri, edara işçisi: orta deri reňki, işewürlik, ofis, orta deri reňki, resmi
+🧑🏾‍💼	ak ýaka, binagär, dolandyryjy, edara işgäri, edara işçisi: orta goýy deri reňki, işewürlik, ofis, orta goýy deri reňki, resmi
+🧑🏿‍💼	ak ýaka, binagär, dolandyryjy, edara işgäri, edara işçisi: goýy deri reňki, goýy deri reňki, işewürlik, ofis, resmi
 👨‍💼	binagär, erkek, erkek ofis işgäri, işewürlik, ofis, ofis işgäri, ýolbaşçy
 👨🏻‍💼	açyk deri reňki, binagär, erkek, erkek ofis işgäri, erkek ofis işgäri: açyk deri reňki, işewürlik, ofis, ofis işgäri, ýolbaşçy
 👨🏼‍💼	binagär, erkek, erkek ofis işgäri, erkek ofis işgäri: orta açyk deri reňki, işewürlik, ofis, ofis işgäri, orta açyk deri reňki, ýolbaşçy
@@ -1356,12 +1549,12 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👨🏽‍🔬	alym, biolog, erkek, erkek alym: orta deri reňki, fizik, himik, inžener, orta deri reňki
 👨🏾‍🔬	alym, biolog, erkek, erkek alym: orta goýy deri reňki, fizik, himik, inžener, orta goýy deri reňki
 👨🏿‍🔬	alym, biolog, erkek, erkek alym: goýy deri reňki, fizik, goýy deri reňki, himik, inžener
-👩‍🔬	alym, biolog, fizik, himik, inžener, zenan, zenan alym
-👩🏻‍🔬	alym, açyk deri reňki, biolog, fizik, himik, inžener, zenan, zenan alym: açyk deri reňki
-👩🏼‍🔬	alym, biolog, fizik, himik, inžener, orta açyk deri reňki, zenan, zenan alym: orta açyk deri reňki
-👩🏽‍🔬	alym, biolog, fizik, himik, inžener, orta deri reňki, zenan, zenan alym: orta deri reňki
-👩🏾‍🔬	alym, biolog, fizik, himik, inžener, orta goýy deri reňki, zenan, zenan alym: orta goýy deri reňki
-👩🏿‍🔬	alym, biolog, fizik, goýy deri reňki, himik, inžener, zenan, zenan alym: goýy deri reňki
+👩‍🔬	alym, aýal, biolog, fizik, himik, inžener, zenan, zenan alym
+👩🏻‍🔬	alym, açyk deri reňki, aýal, biolog, fizik, himik, inžener, zenan, zenan alym: açyk deri reňki
+👩🏼‍🔬	alym, aýal, biolog, fizik, himik, inžener, orta açyk deri reňki, zenan, zenan alym: orta açyk deri reňki
+👩🏽‍🔬	alym, aýal, biolog, fizik, himik, inžener, orta deri reňki, zenan, zenan alym: orta deri reňki
+👩🏾‍🔬	alym, aýal, biolog, fizik, himik, inžener, orta goýy deri reňki, zenan, zenan alym: orta goýy deri reňki
+👩🏿‍🔬	alym, aýal, biolog, fizik, goýy deri reňki, himik, inžener, zenan, zenan alym: goýy deri reňki
 🧑‍💻	kodçy, oýlap tapyjy, programma üpjünçiligi, tehnolog, ösdüriji
 🧑🏻‍💻	açyk deri reňki, kodçy, oýlap tapyjy, programma üpjünçiligi, tehnolog, tehnolog: açyk deri reňki, ösdüriji
 🧑🏼‍💻	kodçy, orta açyk deri reňki, oýlap tapyjy, programma üpjünçiligi, tehnolog, tehnolog: orta açyk deri reňki, ösdüriji
@@ -1662,18 +1855,18 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👩🏽‍🍼	aýal, bäbegi emdirýän aýal, bäbegi emdirýän aýal: orta deri reňki, bäbek, emdirýän, ideg, orta deri reňki
 👩🏾‍🍼	aýal, bäbegi emdirýän aýal, bäbegi emdirýän aýal: orta goýy deri reňki, bäbek, emdirýän, ideg, orta goýy deri reňki
 👩🏿‍🍼	aýal, bäbegi emdirýän aýal, bäbegi emdirýän aýal: goýy deri reňki, bäbek, emdirýän, goýy deri reňki, ideg
-👨‍🍼	bäbegi emdirýän erkek, bäbek, emdirýän, erkek, ideg
-👨🏻‍🍼	açyk deri reňki, bäbegi emdirýän erkek, bäbegi emdirýän erkek: açyk deri reňki, bäbek, emdirýän, erkek, ideg
-👨🏼‍🍼	bäbegi emdirýän erkek, bäbegi emdirýän erkek: orta açyk deri reňki, bäbek, emdirýän, erkek, ideg, orta açyk deri reňki
-👨🏽‍🍼	bäbegi emdirýän erkek, bäbegi emdirýän erkek: orta deri reňki, bäbek, emdirýän, erkek, ideg, orta deri reňki
-👨🏾‍🍼	bäbegi emdirýän erkek, bäbegi emdirýän erkek: orta goýy deri reňki, bäbek, emdirýän, erkek, ideg, orta goýy deri reňki
-👨🏿‍🍼	bäbegi emdirýän erkek, bäbegi emdirýän erkek: goýy deri reňki, bäbek, emdirýän, erkek, goýy deri reňki, ideg
-🧑‍🍼	adam, bebek, bäbegi emdirýän adam, emdirýän, ideg
-🧑🏻‍🍼	adam, açyk deri reňki, bebek, bäbegi emdirýän adam, bäbegi emdirýän adam: açyk deri reňki, emdirýän, ideg
-🧑🏼‍🍼	adam, bebek, bäbegi emdirýän adam, bäbegi emdirýän adam: orta açyk deri reňki, emdirýän, ideg, orta açyk deri reňki
-🧑🏽‍🍼	adam, bebek, bäbegi emdirýän adam, bäbegi emdirýän adam: orta deri reňki, emdirýän, ideg, orta deri reňki
-🧑🏾‍🍼	adam, bebek, bäbegi emdirýän adam, bäbegi emdirýän adam: orta goýy deri reňki, emdirýän, ideg, orta goýy deri reňki
-🧑🏿‍🍼	adam, bebek, bäbegi emdirýän adam, bäbegi emdirýän adam: goýy deri reňki, emdirýän, goýy deri reňki, ideg
+👨‍🍼	bäbegi emdirýän erkek, bäbek, emdirýän, erkek, ideg, süýt berýän
+👨🏻‍🍼	açyk deri reňki, bäbegi emdirýän erkek, bäbegi emdirýän erkek: açyk deri reňki, bäbek, emdirýän, erkek, ideg, süýt berýän
+👨🏼‍🍼	bäbegi emdirýän erkek, bäbegi emdirýän erkek: orta açyk deri reňki, bäbek, emdirýän, erkek, ideg, orta açyk deri reňki, süýt berýän
+👨🏽‍🍼	bäbegi emdirýän erkek, bäbegi emdirýän erkek: orta deri reňki, bäbek, emdirýän, erkek, ideg, orta deri reňki, süýt berýän
+👨🏾‍🍼	bäbegi emdirýän erkek, bäbegi emdirýän erkek: orta goýy deri reňki, bäbek, emdirýän, erkek, ideg, orta goýy deri reňki, süýt berýän
+👨🏿‍🍼	bäbegi emdirýän erkek, bäbegi emdirýän erkek: goýy deri reňki, bäbek, emdirýän, erkek, goýy deri reňki, ideg, süýt berýän
+🧑‍🍼	adam, bäbegi emdirýän adam, bäbek, emdirýän, ideg, süýt, süýt berýän
+🧑🏻‍🍼	adam, açyk deri reňki, bäbegi emdirýän adam, bäbegi emdirýän adam: açyk deri reňki, bäbek, emdirýän, ideg, süýt, süýt berýän
+🧑🏼‍🍼	adam, bäbegi emdirýän adam, bäbegi emdirýän adam: orta açyk deri reňki, bäbek, emdirýän, ideg, orta açyk deri reňki, süýt, süýt berýän
+🧑🏽‍🍼	adam, bäbegi emdirýän adam, bäbegi emdirýän adam: orta deri reňki, bäbek, emdirýän, ideg, orta deri reňki, süýt, süýt berýän
+🧑🏾‍🍼	adam, bäbegi emdirýän adam, bäbegi emdirýän adam: orta goýy deri reňki, bäbek, emdirýän, ideg, orta goýy deri reňki, süýt, süýt berýän
+🧑🏿‍🍼	adam, bäbegi emdirýän adam, bäbegi emdirýän adam: goýy deri reňki, bäbek, emdirýän, goýy deri reňki, ideg, süýt, süýt berýän
 👼	bäbek, bäbek perişde, erteki, hyýal, perişde, ýüz
 👼🏻	açyk deri reňki, bäbek, bäbek perişde: açyk deri reňki, erteki, hyýal, perişde, ýüz
 👼🏼	bäbek, bäbek perişde: orta açyk deri reňki, erteki, hyýal, orta açyk deri reňki, perişde, ýüz
@@ -1681,23 +1874,23 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👼🏾	bäbek, bäbek perişde: orta goýy deri reňki, erteki, hyýal, orta goýy deri reňki, perişde, ýüz
 👼🏿	bäbek, bäbek perişde: goýy deri reňki, erteki, goýy deri reňki, hyýal, perişde, ýüz
 🎅	Aýaz baba, Roždestwo, aýaz, baba, baýramçylyk, kaka
-🎅🏻	Aýaz baba, Aýaz baba: açyk deri reňki, Roždestwo, açyk deri reňki, aýaz, baba, baýramçylyk, kaka
-🎅🏼	Aýaz baba, Aýaz baba: orta açyk deri reňki, Roždestwo, aýaz, baba, baýramçylyk, kaka, orta açyk deri reňki
-🎅🏽	Aýaz baba, Aýaz baba: orta deri reňki, Roždestwo, aýaz, baba, baýramçylyk, kaka, orta deri reňki
-🎅🏾	Aýaz baba, Aýaz baba: orta goýy deri reňki, Roždestwo, aýaz, baba, baýramçylyk, kaka, orta goýy deri reňki
-🎅🏿	Aýaz baba, Aýaz baba: goýy deri reňki, Roždestwo, aýaz, baba, baýramçylyk, goýy deri reňki, kaka
+🎅🏻	Aýaz baba: açyk deri reňki, Roždestwo, açyk deri reňki, aýaz, baba, baýramçylyk, kaka
+🎅🏼	Aýaz baba: orta açyk deri reňki, Roždestwo, aýaz, baba, baýramçylyk, kaka, orta açyk deri reňki
+🎅🏽	Aýaz baba: orta deri reňki, Roždestwo, aýaz, baba, baýramçylyk, kaka, orta deri reňki
+🎅🏾	Aýaz baba: orta goýy deri reňki, Roždestwo, aýaz, baba, baýramçylyk, kaka, orta goýy deri reňki
+🎅🏿	Aýaz baba: goýy deri reňki, Roždestwo, aýaz, baba, baýramçylyk, goýy deri reňki, kaka
 🤶	Aýaz mama, Hanym, Roždestwo, baýramçylyk, eje, klaus
 🤶🏻	Aýaz mama, Aýaz mama: açyk deri reňki, Hanym, Roždestwo, açyk deri reňki, baýramçylyk, eje, klaus
 🤶🏼	Aýaz mama, Aýaz mama: orta açyk deri reňki, Hanym, Roždestwo, baýramçylyk, eje, klaus, orta açyk deri reňki
 🤶🏽	Aýaz mama, Aýaz mama: orta deri reňki, Hanym, Roždestwo, baýramçylyk, eje, klaus, orta deri reňki
 🤶🏾	Aýaz mama, Aýaz mama: orta goýy deri reňki, Hanym, Roždestwo, baýramçylyk, eje, klaus, orta goýy deri reňki
 🤶🏿	Aýaz mama, Aýaz mama: goýy deri reňki, Hanym, Roždestwo, baýramçylyk, eje, goýy deri reňki, klaus
-🧑‍🎄	Klaus, roždestwo, maks klaus
-🧑🏻‍🎄	Klaus, roždestwo, açyk deri reňki, maks klaus, maks klaus: açyk deri reňki
-🧑🏼‍🎄	Klaus, roždestwo, maks klaus, maks klaus: orta açyk deri reňki, orta açyk deri reňki
-🧑🏽‍🎄	Klaus, roždestwo, maks klaus, maks klaus: orta deri reňki, orta deri reňki
-🧑🏾‍🎄	Klaus, roždestwo, maks klaus, maks klaus: orta goýy deri reňki, orta goýy deri reňki
-🧑🏿‍🎄	Klaus, roždestwo, goýy deri reňki, maks klaus, maks klaus: goýy deri reňki
+🧑‍🎄	Roždestwo, adam, baýramçylyk, daus, maks klaus, mksklaus, santa, santy, şatlykly Roždestwo, şlýapa
+🧑🏻‍🎄	Roždestwo, adam, açyk deri reňki, baýramçylyk, daus, maks klaus: açyk deri reňki, mksklaus, santa, santy, şatlykly Roždestwo, şlýapa
+🧑🏼‍🎄	Roždestwo, adam, baýramçylyk, daus, maks klaus: orta açyk deri reňki, mksklaus, orta açyk deri reňki, santa, santy, şatlykly Roždestwo, şlýapa
+🧑🏽‍🎄	Roždestwo, adam, baýramçylyk, daus, maks klaus: orta deri reňki, mksklaus, orta deri reňki, santa, santy, şatlykly Roždestwo, şlýapa
+🧑🏾‍🎄	Roždestwo, adam, baýramçylyk, daus, maks klaus: orta goýy deri reňki, mksklaus, orta goýy deri reňki, santa, santy, şatlykly Roždestwo, şlýapa
+🧑🏿‍🎄	Roždestwo, adam, baýramçylyk, daus, goýy deri reňki, maks klaus: goýy deri reňki, mksklaus, santa, santy, şatlykly Roždestwo, şlýapa
 🦸	gahryman, gowy, supergahryman, supergüýç
 🦸🏻	açyk deri reňki, gahryman, gowy, supergahryman, supergahryman: açyk deri reňki, supergüýç
 🦸🏼	gahryman, gowy, orta açyk deri reňki, supergahryman, supergahryman: orta açyk deri reňki, supergüýç
@@ -1885,6 +2078,24 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🚶🏽‍♀	orta deri reňki, uzyn ýöriş, zenan, ýörap barýan zenan, ýörap barýan zenan: orta deri reňki, ýöremek
 🚶🏾‍♀	orta goýy deri reňki, uzyn ýöriş, zenan, ýörap barýan zenan, ýörap barýan zenan: orta goýy deri reňki, ýöremek
 🚶🏿‍♀	goýy deri reňki, uzyn ýöriş, zenan, ýörap barýan zenan, ýörap barýan zenan: goýy deri reňki, ýöremek
+🚶‍➡	uzyn ýöriş, ýöremek, ýöreýän, ýöräp barýan adam, ýöräp barýan adam ýüzi saga
+🚶🏻‍➡	uzyn ýöriş, ýöremek, ýöreýän, ýöräp barýan adam, ýöräp barýan adam ýüzi saga
+🚶🏼‍➡	uzyn ýöriş, ýöremek, ýöreýän, ýöräp barýan adam, ýöräp barýan adam ýüzi saga
+🚶🏽‍➡	uzyn ýöriş, ýöremek, ýöreýän, ýöräp barýan adam, ýöräp barýan adam ýüzi saga
+🚶🏾‍➡	uzyn ýöriş, ýöremek, ýöreýän, ýöräp barýan adam, ýöräp barýan adam ýüzi saga
+🚶🏿‍➡	uzyn ýöriş, ýöremek, ýöreýän, ýöräp barýan adam, ýöräp barýan adam ýüzi saga
+🚶‍♀‍➡	uzyn ýöriş, zenan, ýörap barýan zenan, ýörap barýan zenan ýüzi saga, ýöremek
+🚶🏻‍♀‍➡	uzyn ýöriş, zenan, ýörap barýan zenan, ýörap barýan zenan ýüzi saga, ýöremek
+🚶🏼‍♀‍➡	uzyn ýöriş, zenan, ýörap barýan zenan, ýörap barýan zenan ýüzi saga, ýöremek
+🚶🏽‍♀‍➡	uzyn ýöriş, zenan, ýörap barýan zenan, ýörap barýan zenan ýüzi saga, ýöremek
+🚶🏾‍♀‍➡	uzyn ýöriş, zenan, ýörap barýan zenan, ýörap barýan zenan ýüzi saga, ýöremek
+🚶🏿‍♀‍➡	uzyn ýöriş, zenan, ýörap barýan zenan, ýörap barýan zenan ýüzi saga, ýöremek
+🚶‍♂‍➡	erkek, uzyn ýöriş, ýöremek, ýöräp barýan erkek, ýöräp barýan erkek ýüzi saga
+🚶🏻‍♂‍➡	erkek, uzyn ýöriş, ýöremek, ýöräp barýan erkek, ýöräp barýan erkek ýüzi saga
+🚶🏼‍♂‍➡	erkek, uzyn ýöriş, ýöremek, ýöräp barýan erkek, ýöräp barýan erkek ýüzi saga
+🚶🏽‍♂‍➡	erkek, uzyn ýöriş, ýöremek, ýöräp barýan erkek, ýöräp barýan erkek ýüzi saga
+🚶🏾‍♂‍➡	erkek, uzyn ýöriş, ýöremek, ýöräp barýan erkek, ýöräp barýan erkek ýüzi saga
+🚶🏿‍♂‍➡	erkek, uzyn ýöriş, ýöremek, ýöräp barýan erkek, ýöräp barýan erkek ýüzi saga
 🧍	dik dur, dik duran adam, dik durmak
 🧍🏻	açyk deri reňki, dik dur, dik duran adam, dik duran adam: açyk deri reňki, dik durmak
 🧍🏼	dik dur, dik duran adam, dik duran adam: orta açyk deri reňki, dik durmak, orta açyk deri reňki
@@ -1921,78 +2132,168 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🧎🏽‍♀	dyza çöken, dyza çöken zenan, dyza çöken zenan: orta deri reňki, orta deri reňki, zenan
 🧎🏾‍♀	dyza çöken, dyza çöken zenan, dyza çöken zenan: orta goýy deri reňki, orta goýy deri reňki, zenan
 🧎🏿‍♀	dyza çöken, dyza çöken zenan, dyza çöken zenan: goýy deri reňki, goýy deri reňki, zenan
-🧑‍🦯	ak hasaly kişi, elýeterlilik, kör, kör hasaly adam
-🧑🏻‍🦯	ak hasaly kişi, açyk deri reňki, elýeterlilik, kör, kör hasaly adam, kör hasaly adam: açyk deri reňki
-🧑🏼‍🦯	ak hasaly kişi, elýeterlilik, kör, kör hasaly adam, kör hasaly adam: orta açyk deri reňki, orta açyk deri reňki
-🧑🏽‍🦯	ak hasaly kişi, elýeterlilik, kör, kör hasaly adam, kör hasaly adam: orta deri reňki, orta deri reňki
-🧑🏾‍🦯	ak hasaly kişi, elýeterlilik, kör, kör hasaly adam, kör hasaly adam: orta goýy deri reňki, orta goýy deri reňki
-🧑🏿‍🦯	ak hasaly kişi, elýeterlilik, goýy deri reňki, kör, kör hasaly adam, kör hasaly adam: goýy deri reňki
+🧎‍➡	dyza çök, dyza çöken, dyza çöken adam, dyza çöken adam ýüzi saga
+🧎🏻‍➡	dyza çök, dyza çöken, dyza çöken adam, dyza çöken adam ýüzi saga
+🧎🏼‍➡	dyza çök, dyza çöken, dyza çöken adam, dyza çöken adam ýüzi saga
+🧎🏽‍➡	dyza çök, dyza çöken, dyza çöken adam, dyza çöken adam ýüzi saga
+🧎🏾‍➡	dyza çök, dyza çöken, dyza çöken adam, dyza çöken adam ýüzi saga
+🧎🏿‍➡	dyza çök, dyza çöken, dyza çöken adam, dyza çöken adam ýüzi saga
+🧎‍♀‍➡	dyza çöken, dyza çöken zenan, dyza çöken zenan ýüzi saga, zenan
+🧎🏻‍♀‍➡	dyza çöken, dyza çöken zenan, dyza çöken zenan ýüzi saga, zenan
+🧎🏼‍♀‍➡	dyza çöken, dyza çöken zenan, dyza çöken zenan ýüzi saga, zenan
+🧎🏽‍♀‍➡	dyza çöken, dyza çöken zenan, dyza çöken zenan ýüzi saga, zenan
+🧎🏾‍♀‍➡	dyza çöken, dyza çöken zenan, dyza çöken zenan ýüzi saga, zenan
+🧎🏿‍♀‍➡	dyza çöken, dyza çöken zenan, dyza çöken zenan ýüzi saga, zenan
+🧎‍♂‍➡	dyza çöken, dyza çöken erkek, dyza çöken erkek ýüzi saga, erkek
+🧎🏻‍♂‍➡	dyza çöken, dyza çöken erkek, dyza çöken erkek ýüzi saga, erkek
+🧎🏼‍♂‍➡	dyza çöken, dyza çöken erkek, dyza çöken erkek ýüzi saga, erkek
+🧎🏽‍♂‍➡	dyza çöken, dyza çöken erkek, dyza çöken erkek ýüzi saga, erkek
+🧎🏾‍♂‍➡	dyza çöken, dyza çöken erkek, dyza çöken erkek ýüzi saga, erkek
+🧎🏿‍♂‍➡	dyza çöken, dyza çöken erkek, dyza çöken erkek ýüzi saga, erkek
+🧑‍🦯	ak hasaly kişi, elýeterlilik, gözi görmeýän, hasa, kör, kör hasaly adam, taýak
+🧑🏻‍🦯	ak hasaly kişi, açyk deri reňki, elýeterlilik, gözi görmeýän, hasa, kör, kör hasaly adam, kör hasaly adam: açyk deri reňki, taýak
+🧑🏼‍🦯	ak hasaly kişi, elýeterlilik, gözi görmeýän, hasa, kör, kör hasaly adam, kör hasaly adam: orta açyk deri reňki, orta açyk deri reňki, taýak
+🧑🏽‍🦯	ak hasaly kişi, elýeterlilik, gözi görmeýän, hasa, kör, kör hasaly adam, kör hasaly adam: orta deri reňki, orta deri reňki, taýak
+🧑🏾‍🦯	ak hasaly kişi, elýeterlilik, gözi görmeýän, hasa, kör, kör hasaly adam, kör hasaly adam: orta goýy deri reňki, orta goýy deri reňki, taýak
+🧑🏿‍🦯	ak hasaly kişi, elýeterlilik, goýy deri reňki, gözi görmeýän, hasa, kör, kör hasaly adam, kör hasaly adam: goýy deri reňki, taýak
+🧑‍🦯‍➡	ak hasaly kişi, elýeterlilik, gözi görmeýän, hasa, kör, kör hasaly adam, kör hasaly adam ýüzi saga, taýak
+🧑🏻‍🦯‍➡	ak hasaly kişi, elýeterlilik, gözi görmeýän, hasa, kör, kör hasaly adam, kör hasaly adam ýüzi saga, taýak
+🧑🏼‍🦯‍➡	ak hasaly kişi, elýeterlilik, gözi görmeýän, hasa, kör, kör hasaly adam, kör hasaly adam ýüzi saga, taýak
+🧑🏽‍🦯‍➡	ak hasaly kişi, elýeterlilik, gözi görmeýän, hasa, kör, kör hasaly adam, kör hasaly adam ýüzi saga, taýak
+🧑🏾‍🦯‍➡	ak hasaly kişi, elýeterlilik, gözi görmeýän, hasa, kör, kör hasaly adam, kör hasaly adam ýüzi saga, taýak
+🧑🏿‍🦯‍➡	ak hasaly kişi, elýeterlilik, gözi görmeýän, hasa, kör, kör hasaly adam, kör hasaly adam ýüzi saga, taýak
 👨‍🦯	elýeterlilik, erkek, kör, kör hasaly erkek
 👨🏻‍🦯	açyk deri reňki, elýeterlilik, erkek, kör, kör hasaly erkek, kör hasaly erkek: açyk deri reňki
 👨🏼‍🦯	elýeterlilik, erkek, kör, kör hasaly erkek, kör hasaly erkek: orta açyk deri reňki, orta açyk deri reňki
 👨🏽‍🦯	elýeterlilik, erkek, kör, kör hasaly erkek, kör hasaly erkek: orta deri reňki, orta deri reňki
 👨🏾‍🦯	elýeterlilik, erkek, kör, kör hasaly erkek, kör hasaly erkek: orta goýy deri reňki, orta goýy deri reňki
 👨🏿‍🦯	elýeterlilik, erkek, goýy deri reňki, kör, kör hasaly erkek, kör hasaly erkek: goýy deri reňki
+👨‍🦯‍➡	elýeterlilik, erkek, kör, kör hasaly erkek, kör hasaly erkek ýüzi saga
+👨🏻‍🦯‍➡	elýeterlilik, erkek, kör, kör hasaly erkek, kör hasaly erkek ýüzi saga
+👨🏼‍🦯‍➡	elýeterlilik, erkek, kör, kör hasaly erkek, kör hasaly erkek ýüzi saga
+👨🏽‍🦯‍➡	elýeterlilik, erkek, kör, kör hasaly erkek, kör hasaly erkek ýüzi saga
+👨🏾‍🦯‍➡	elýeterlilik, erkek, kör, kör hasaly erkek, kör hasaly erkek ýüzi saga
+👨🏿‍🦯‍➡	elýeterlilik, erkek, kör, kör hasaly erkek, kör hasaly erkek ýüzi saga
 👩‍🦯	elýeterlilik, kör, kör hasaly zenan, zenan
 👩🏻‍🦯	açyk deri reňki, elýeterlilik, kör, kör hasaly zenan, kör hasaly zenan: açyk deri reňki, zenan
 👩🏼‍🦯	elýeterlilik, kör, kör hasaly zenan, kör hasaly zenan: orta açyk deri reňki, orta açyk deri reňki, zenan
 👩🏽‍🦯	elýeterlilik, kör, kör hasaly zenan, kör hasaly zenan: orta deri reňki, orta deri reňki, zenan
 👩🏾‍🦯	elýeterlilik, kör, kör hasaly zenan, kör hasaly zenan: orta goýy deri reňki, orta goýy deri reňki, zenan
 👩🏿‍🦯	elýeterlilik, goýy deri reňki, kör, kör hasaly zenan, kör hasaly zenan: goýy deri reňki, zenan
-🧑‍🦼	elýeterlilik, motorly arabajykdaky adam, tigirçekli oturgyç
-🧑🏻‍🦼	açyk deri reňki, elýeterlilik, motorly arabajykdaky adam, motorly arabajykdaky adam: açyk deri reňki, tigirçekli oturgyç
-🧑🏼‍🦼	elýeterlilik, motorly arabajykdaky adam, motorly arabajykdaky adam: orta açyk deri reňki, orta açyk deri reňki, tigirçekli oturgyç
-🧑🏽‍🦼	elýeterlilik, motorly arabajykdaky adam, motorly arabajykdaky adam: orta deri reňki, orta deri reňki, tigirçekli oturgyç
-🧑🏾‍🦼	elýeterlilik, motorly arabajykdaky adam, motorly arabajykdaky adam: orta goýy deri reňki, orta goýy deri reňki, tigirçekli oturgyç
-🧑🏿‍🦼	elýeterlilik, goýy deri reňki, motorly arabajykdaky adam, motorly arabajykdaky adam: goýy deri reňki, tigirçekli oturgyç
+👩‍🦯‍➡	elýeterlilik, kör, kör hasaly zenan, kör hasaly zenan ýüzi saga, zenan
+👩🏻‍🦯‍➡	elýeterlilik, kör, kör hasaly zenan, kör hasaly zenan ýüzi saga, zenan
+👩🏼‍🦯‍➡	elýeterlilik, kör, kör hasaly zenan, kör hasaly zenan ýüzi saga, zenan
+👩🏽‍🦯‍➡	elýeterlilik, kör, kör hasaly zenan, kör hasaly zenan ýüzi saga, zenan
+👩🏾‍🦯‍➡	elýeterlilik, kör, kör hasaly zenan, kör hasaly zenan ýüzi saga, zenan
+👩🏿‍🦯‍➡	elýeterlilik, kör, kör hasaly zenan, kör hasaly zenan ýüzi saga, zenan
+🧑‍🦼	elýeterlilik, maýyp arabasy, motorly arabajykdaky adam, tigirçekli oturgyç
+🧑🏻‍🦼	açyk deri reňki, elýeterlilik, maýyp arabasy, motorly arabajykdaky adam: açyk deri reňki, tigirçekli oturgyç
+🧑🏼‍🦼	elýeterlilik, maýyp arabasy, motorly arabajykdaky adam: orta açyk deri reňki, orta açyk deri reňki, tigirçekli oturgyç
+🧑🏽‍🦼	elýeterlilik, maýyp arabasy, motorly arabajykdaky adam: orta deri reňki, orta deri reňki, tigirçekli oturgyç
+🧑🏾‍🦼	elýeterlilik, maýyp arabasy, motorly arabajykdaky adam: orta goýy deri reňki, orta goýy deri reňki, tigirçekli oturgyç
+🧑🏿‍🦼	elýeterlilik, goýy deri reňki, maýyp arabasy, motorly arabajykdaky adam: goýy deri reňki, tigirçekli oturgyç
+🧑‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly arabajykdaky adam ýüzi saga, tigirçekli oturgyç
+🧑🏻‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly arabajykdaky adam ýüzi saga, tigirçekli oturgyç
+🧑🏼‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly arabajykdaky adam ýüzi saga, tigirçekli oturgyç
+🧑🏽‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly arabajykdaky adam ýüzi saga, tigirçekli oturgyç
+🧑🏾‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly arabajykdaky adam ýüzi saga, tigirçekli oturgyç
+🧑🏿‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly arabajykdaky adam ýüzi saga, tigirçekli oturgyç
 👨‍🦼	elýeterlilik, erkek, maýyp arabasy, motorly maýyp arabasynda erkek
 👨🏻‍🦼	açyk deri reňki, elýeterlilik, erkek, maýyp arabasy, motorly maýyp arabasynda erkek, motorly maýyp arabasynda erkek: açyk deri reňki
 👨🏼‍🦼	elýeterlilik, erkek, maýyp arabasy, motorly maýyp arabasynda erkek, motorly maýyp arabasynda erkek: orta açyk deri reňki, orta açyk deri reňki
 👨🏽‍🦼	elýeterlilik, erkek, maýyp arabasy, motorly maýyp arabasynda erkek, motorly maýyp arabasynda erkek: orta deri reňki, orta deri reňki
 👨🏾‍🦼	elýeterlilik, erkek, maýyp arabasy, motorly maýyp arabasynda erkek, motorly maýyp arabasynda erkek: orta goýy deri reňki, orta goýy deri reňki
 👨🏿‍🦼	elýeterlilik, erkek, goýy deri reňki, maýyp arabasy, motorly maýyp arabasynda erkek, motorly maýyp arabasynda erkek: goýy deri reňki
+👨‍🦼‍➡	elýeterlilik, erkek, maýyp arabasy, motorly maýyp arabasynda erkek, motorly maýyp arabasynda erkek ýüzi saga
+👨🏻‍🦼‍➡	elýeterlilik, erkek, maýyp arabasy, motorly maýyp arabasynda erkek, motorly maýyp arabasynda erkek ýüzi saga
+👨🏼‍🦼‍➡	elýeterlilik, erkek, maýyp arabasy, motorly maýyp arabasynda erkek, motorly maýyp arabasynda erkek ýüzi saga
+👨🏽‍🦼‍➡	elýeterlilik, erkek, maýyp arabasy, motorly maýyp arabasynda erkek, motorly maýyp arabasynda erkek ýüzi saga
+👨🏾‍🦼‍➡	elýeterlilik, erkek, maýyp arabasy, motorly maýyp arabasynda erkek, motorly maýyp arabasynda erkek ýüzi saga
+👨🏿‍🦼‍➡	elýeterlilik, erkek, maýyp arabasy, motorly maýyp arabasynda erkek, motorly maýyp arabasynda erkek ýüzi saga
 👩‍🦼	elýeterlilik, maýyp arabasy, motorly maýyp arabasynda zenan, zenan
 👩🏻‍🦼	açyk deri reňki, elýeterlilik, maýyp arabasy, motorly maýyp arabasynda zenan, motorly maýyp arabasynda zenan: açyk deri reňki, zenan
 👩🏼‍🦼	elýeterlilik, maýyp arabasy, motorly maýyp arabasynda zenan, motorly maýyp arabasynda zenan: orta açyk deri reňki, orta açyk deri reňki, zenan
 👩🏽‍🦼	elýeterlilik, maýyp arabasy, motorly maýyp arabasynda zenan, motorly maýyp arabasynda zenan: orta deri reňki, orta deri reňki, zenan
 👩🏾‍🦼	elýeterlilik, maýyp arabasy, motorly maýyp arabasynda zenan, motorly maýyp arabasynda zenan: orta goýy deri reňki, orta goýy deri reňki, zenan
 👩🏿‍🦼	elýeterlilik, goýy deri reňki, maýyp arabasy, motorly maýyp arabasynda zenan, motorly maýyp arabasynda zenan: goýy deri reňki, zenan
-🧑‍🦽	el bilen işleýän tigirçekli oturgyçdaky adam, elýeterlilik, tigirçekli oturgyç
-🧑🏻‍🦽	açyk deri reňki, el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam: açyk deri reňki, elýeterlilik, tigirçekli oturgyç
-🧑🏼‍🦽	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam: orta açyk deri reňki, elýeterlilik, orta açyk deri reňki, tigirçekli oturgyç
-🧑🏽‍🦽	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam: orta deri reňki, elýeterlilik, orta deri reňki, tigirçekli oturgyç
-🧑🏾‍🦽	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam: orta goýy deri reňki, elýeterlilik, orta goýy deri reňki, tigirçekli oturgyç
-🧑🏿‍🦽	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam: goýy deri reňki, elýeterlilik, goýy deri reňki, tigirçekli oturgyç
+👩‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly maýyp arabasynda zenan, motorly maýyp arabasynda zenan ýüzi saga, zenan
+👩🏻‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly maýyp arabasynda zenan, motorly maýyp arabasynda zenan ýüzi saga, zenan
+👩🏼‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly maýyp arabasynda zenan, motorly maýyp arabasynda zenan ýüzi saga, zenan
+👩🏽‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly maýyp arabasynda zenan, motorly maýyp arabasynda zenan ýüzi saga, zenan
+👩🏾‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly maýyp arabasynda zenan, motorly maýyp arabasynda zenan ýüzi saga, zenan
+👩🏿‍🦼‍➡	elýeterlilik, maýyp arabasy, motorly maýyp arabasynda zenan, motorly maýyp arabasynda zenan ýüzi saga, zenan
+🧑‍🦽	el bilen işleýän tigirçekli oturgyçdaky adam, elýeterlilik, maýyp arabasy, tigirçekli oturgyç
+🧑🏻‍🦽	açyk deri reňki, el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam: açyk deri reňki, elýeterlilik, maýyp arabasy, tigirçekli oturgyç
+🧑🏼‍🦽	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam: orta açyk deri reňki, elýeterlilik, maýyp arabasy, orta açyk deri reňki, tigirçekli oturgyç
+🧑🏽‍🦽	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam: orta deri reňki, elýeterlilik, maýyp arabasy, orta deri reňki, tigirçekli oturgyç
+🧑🏾‍🦽	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam: orta goýy deri reňki, elýeterlilik, maýyp arabasy, orta goýy deri reňki, tigirçekli oturgyç
+🧑🏿‍🦽	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam: goýy deri reňki, elýeterlilik, goýy deri reňki, maýyp arabasy, tigirçekli oturgyç
+🧑‍🦽‍➡	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam ýüzi saga, elýeterlilik, maýyp arabasy, tigirçekli oturgyç
+🧑🏻‍🦽‍➡	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam ýüzi saga, elýeterlilik, maýyp arabasy, tigirçekli oturgyç
+🧑🏼‍🦽‍➡	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam ýüzi saga, elýeterlilik, maýyp arabasy, tigirçekli oturgyç
+🧑🏽‍🦽‍➡	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam ýüzi saga, elýeterlilik, maýyp arabasy, tigirçekli oturgyç
+🧑🏾‍🦽‍➡	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam ýüzi saga, elýeterlilik, maýyp arabasy, tigirçekli oturgyç
+🧑🏿‍🦽‍➡	el bilen işleýän tigirçekli oturgyçdaky adam, el bilen işleýän tigirçekli oturgyçdaky adam ýüzi saga, elýeterlilik, maýyp arabasy, tigirçekli oturgyç
 👨‍🦽	el maýyp arabasynda erkek, elýeterlilik, erkek, maýyp arabasy
 👨🏻‍🦽	açyk deri reňki, el maýyp arabasynda erkek, el maýyp arabasynda erkek: açyk deri reňki, elýeterlilik, erkek, maýyp arabasy
 👨🏼‍🦽	el maýyp arabasynda erkek, el maýyp arabasynda erkek: orta açyk deri reňki, elýeterlilik, erkek, maýyp arabasy, orta açyk deri reňki
 👨🏽‍🦽	el maýyp arabasynda erkek, el maýyp arabasynda erkek: orta deri reňki, elýeterlilik, erkek, maýyp arabasy, orta deri reňki
 👨🏾‍🦽	el maýyp arabasynda erkek, el maýyp arabasynda erkek: orta goýy deri reňki, elýeterlilik, erkek, maýyp arabasy, orta goýy deri reňki
 👨🏿‍🦽	el maýyp arabasynda erkek, el maýyp arabasynda erkek: goýy deri reňki, elýeterlilik, erkek, goýy deri reňki, maýyp arabasy
+👨‍🦽‍➡	el maýyp arabasynda erkek, el maýyp arabasynda erkek ýüzi saga, elýeterlilik, erkek, maýyp arabasy
+👨🏻‍🦽‍➡	el maýyp arabasynda erkek, el maýyp arabasynda erkek ýüzi saga, elýeterlilik, erkek, maýyp arabasy
+👨🏼‍🦽‍➡	el maýyp arabasynda erkek, el maýyp arabasynda erkek ýüzi saga, elýeterlilik, erkek, maýyp arabasy
+👨🏽‍🦽‍➡	el maýyp arabasynda erkek, el maýyp arabasynda erkek ýüzi saga, elýeterlilik, erkek, maýyp arabasy
+👨🏾‍🦽‍➡	el maýyp arabasynda erkek, el maýyp arabasynda erkek ýüzi saga, elýeterlilik, erkek, maýyp arabasy
+👨🏿‍🦽‍➡	el maýyp arabasynda erkek, el maýyp arabasynda erkek ýüzi saga, elýeterlilik, erkek, maýyp arabasy
 👩‍🦽	el maýyp arabasynda zenan, elýeterlilik, maýyp arabasy, zenan
 👩🏻‍🦽	açyk deri reňki, el maýyp arabasynda zenan, el maýyp arabasynda zenan: açyk deri reňki, elýeterlilik, maýyp arabasy, zenan
 👩🏼‍🦽	el maýyp arabasynda zenan, el maýyp arabasynda zenan: orta açyk deri reňki, elýeterlilik, maýyp arabasy, orta açyk deri reňki, zenan
 👩🏽‍🦽	el maýyp arabasynda zenan, el maýyp arabasynda zenan: orta deri reňki, elýeterlilik, maýyp arabasy, orta deri reňki, zenan
 👩🏾‍🦽	el maýyp arabasynda zenan, el maýyp arabasynda zenan: orta goýy deri reňki, elýeterlilik, maýyp arabasy, orta goýy deri reňki, zenan
 👩🏿‍🦽	el maýyp arabasynda zenan, el maýyp arabasynda zenan: goýy deri reňki, elýeterlilik, goýy deri reňki, maýyp arabasy, zenan
+👩‍🦽‍➡	el maýyp arabasynda zenan, el maýyp arabasynda zenan ýüzi saga, elýeterlilik, maýyp arabasy, zenan
+👩🏻‍🦽‍➡	el maýyp arabasynda zenan, el maýyp arabasynda zenan ýüzi saga, elýeterlilik, maýyp arabasy, zenan
+👩🏼‍🦽‍➡	el maýyp arabasynda zenan, el maýyp arabasynda zenan ýüzi saga, elýeterlilik, maýyp arabasy, zenan
+👩🏽‍🦽‍➡	el maýyp arabasynda zenan, el maýyp arabasynda zenan ýüzi saga, elýeterlilik, maýyp arabasy, zenan
+👩🏾‍🦽‍➡	el maýyp arabasynda zenan, el maýyp arabasynda zenan ýüzi saga, elýeterlilik, maýyp arabasy, zenan
+👩🏿‍🦽‍➡	el maýyp arabasynda zenan, el maýyp arabasynda zenan ýüzi saga, elýeterlilik, maýyp arabasy, zenan
 🏃	marafon, ylgap barýan adam, ylgaýan
 🏃🏻	açyk deri reňki, marafon, ylgap barýan adam, ylgap barýan adam: açyk deri reňki, ylgaýan
 🏃🏼	marafon, orta açyk deri reňki, ylgap barýan adam, ylgap barýan adam: orta açyk deri reňki, ylgaýan
 🏃🏽	marafon, orta deri reňki, ylgap barýan adam, ylgap barýan adam: orta deri reňki, ylgaýan
 🏃🏾	marafon, orta goýy deri reňki, ylgap barýan adam, ylgap barýan adam: orta goýy deri reňki, ylgaýan
 🏃🏿	goýy deri reňki, marafon, ylgap barýan adam, ylgap barýan adam: goýy deri reňki, ylgaýan
-🏃‍♂	erkek, marafon, ylgap barýan erkek, ylgaýan, ýaryş
-🏃🏻‍♂	açyk deri reňki, erkek, marafon, ylgap barýan erkek, ylgap barýan erkek: açyk deri reňki, ylgaýan, ýaryş
-🏃🏼‍♂	erkek, marafon, orta açyk deri reňki, ylgap barýan erkek, ylgap barýan erkek: orta açyk deri reňki, ylgaýan, ýaryş
-🏃🏽‍♂	erkek, marafon, orta deri reňki, ylgap barýan erkek, ylgap barýan erkek: orta deri reňki, ylgaýan, ýaryş
-🏃🏾‍♂	erkek, marafon, orta goýy deri reňki, ylgap barýan erkek, ylgap barýan erkek: orta goýy deri reňki, ylgaýan, ýaryş
-🏃🏿‍♂	erkek, goýy deri reňki, marafon, ylgap barýan erkek, ylgap barýan erkek: goýy deri reňki, ylgaýan, ýaryş
+🏃‍♂	derrew, erkek, howlukmaç, marafon, ylga, ylgap barýan erkek, ylgaýan, çalt, ýaryş
+🏃🏻‍♂	açyk deri reňki, derrew, erkek, howlukmaç, marafon, ylga, ylgap barýan erkek, ylgap barýan erkek: açyk deri reňki, ylgaýan, çalt, ýaryş
+🏃🏼‍♂	derrew, erkek, howlukmaç, marafon, orta açyk deri reňki, ylga, ylgap barýan erkek, ylgap barýan erkek: orta açyk deri reňki, ylgaýan, çalt, ýaryş
+🏃🏽‍♂	derrew, erkek, howlukmaç, marafon, orta deri reňki, ylga, ylgap barýan erkek, ylgap barýan erkek: orta deri reňki, ylgaýan, çalt, ýaryş
+🏃🏾‍♂	derrew, erkek, howlukmaç, marafon, orta goýy deri reňki, ylga, ylgap barýan erkek, ylgap barýan erkek: orta goýy deri reňki, ylgaýan, çalt, ýaryş
+🏃🏿‍♂	derrew, erkek, goýy deri reňki, howlukmaç, marafon, ylga, ylgap barýan erkek, ylgap barýan erkek: goýy deri reňki, ylgaýan, çalt, ýaryş
 🏃‍♀	marafon, ylgap barýan zenan, ylgaýan, zenan, ýaryş
 🏃🏻‍♀	açyk deri reňki, marafon, ylgap barýan zenan, ylgap barýan zenan: açyk deri reňki, ylgaýan, zenan, ýaryş
 🏃🏼‍♀	marafon, orta açyk deri reňki, ylgap barýan zenan, ylgap barýan zenan: orta açyk deri reňki, ylgaýan, zenan, ýaryş
 🏃🏽‍♀	marafon, orta deri reňki, ylgap barýan zenan, ylgap barýan zenan: orta deri reňki, ylgaýan, zenan, ýaryş
 🏃🏾‍♀	marafon, orta goýy deri reňki, ylgap barýan zenan, ylgap barýan zenan: orta goýy deri reňki, ylgaýan, zenan, ýaryş
 🏃🏿‍♀	goýy deri reňki, marafon, ylgap barýan zenan, ylgap barýan zenan: goýy deri reňki, ylgaýan, zenan, ýaryş
+🏃‍➡	marafon, ylgap barýan adam, ylgap barýan adam ýüzi saga, ylgaýan
+🏃🏻‍➡	marafon, ylgap barýan adam, ylgap barýan adam ýüzi saga, ylgaýan
+🏃🏼‍➡	marafon, ylgap barýan adam, ylgap barýan adam ýüzi saga, ylgaýan
+🏃🏽‍➡	marafon, ylgap barýan adam, ylgap barýan adam ýüzi saga, ylgaýan
+🏃🏾‍➡	marafon, ylgap barýan adam, ylgap barýan adam ýüzi saga, ylgaýan
+🏃🏿‍➡	marafon, ylgap barýan adam, ylgap barýan adam ýüzi saga, ylgaýan
+🏃‍♀‍➡	marafon, ylgap barýan zenan, ylgap barýan zenan ýüzi saga, ylgaýan, zenan, ýaryş
+🏃🏻‍♀‍➡	marafon, ylgap barýan zenan, ylgap barýan zenan ýüzi saga, ylgaýan, zenan, ýaryş
+🏃🏼‍♀‍➡	marafon, ylgap barýan zenan, ylgap barýan zenan ýüzi saga, ylgaýan, zenan, ýaryş
+🏃🏽‍♀‍➡	marafon, ylgap barýan zenan, ylgap barýan zenan ýüzi saga, ylgaýan, zenan, ýaryş
+🏃🏾‍♀‍➡	marafon, ylgap barýan zenan, ylgap barýan zenan ýüzi saga, ylgaýan, zenan, ýaryş
+🏃🏿‍♀‍➡	marafon, ylgap barýan zenan, ylgap barýan zenan ýüzi saga, ylgaýan, zenan, ýaryş
+🏃‍♂‍➡	derrew, erkek, howlukmaç, marafon, ylga, ylgap barýan erkek, ylgap barýan erkek ýüzi saga, ylgaýan, çalt, ýaryş
+🏃🏻‍♂‍➡	derrew, erkek, howlukmaç, marafon, ylga, ylgap barýan erkek, ylgap barýan erkek ýüzi saga, ylgaýan, çalt, ýaryş
+🏃🏼‍♂‍➡	derrew, erkek, howlukmaç, marafon, ylga, ylgap barýan erkek, ylgap barýan erkek ýüzi saga, ylgaýan, çalt, ýaryş
+🏃🏽‍♂‍➡	derrew, erkek, howlukmaç, marafon, ylga, ylgap barýan erkek, ylgap barýan erkek ýüzi saga, ylgaýan, çalt, ýaryş
+🏃🏾‍♂‍➡	derrew, erkek, howlukmaç, marafon, ylga, ylgap barýan erkek, ylgap barýan erkek ýüzi saga, ylgaýan, çalt, ýaryş
+🏃🏿‍♂‍➡	derrew, erkek, howlukmaç, marafon, ylga, ylgap barýan erkek, ylgap barýan erkek ýüzi saga, ylgaýan, çalt, ýaryş
 💃	tans edýän, tans edýän zenan, zenan
 💃🏻	açyk deri reňki, tans edýän, tans edýän zenan, tans edýän zenan: açyk deri reňki, zenan
 💃🏼	orta açyk deri reňki, tans edýän, tans edýän zenan, tans edýän zenan: orta açyk deri reňki, zenan
@@ -2435,7 +2736,6 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👩‍❤‍👨	erkek, jübüt, söýgi, zenan, ýürekli jübüt, ýürekli jübüt: zenan, erkek
 👨‍❤‍👨	erkek, jübüt, söýgi, ýürekli jübüt, ýürekli jübüt: erkek, erkek
 👩‍❤‍👩	jübüt, söýgi, zenan, ýürekli jübüt, ýürekli jübüt: zenan, zenan
-👪️	maşgala
 👨‍👩‍👦	erkek, maşgala, maşgala: erkek, zenan, oglan, oglan, zenan
 👨‍👩‍👧	erkek, gyz, maşgala, maşgala: erkek, zenan, gyz, zenan
 👨‍👩‍👧‍👦	erkek, gyz, maşgala, maşgala: erkek, zenan, gyz, oglan, oglan, zenan
@@ -2465,7 +2765,13 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👤	býust, sudur, sudury görünýän heýkel
 👥	býust, sudur, sudury görünýän heýkeller
 🫂	gujaklamak, gujaklaşýan adamlar, sag bol, sagbolsun, salam
+👪️	maşgala
+🧑‍🧑‍🧒	maşgala: uly, maşgala: uly, uly, çaga, uly, çaga
+🧑‍🧑‍🧒‍🧒	maşgala: uly, maşgala: uly, uly, çaga, çaga, uly, çaga
+🧑‍🧒	maşgala: uly, maşgala: uly, çaga, çaga
+🧑‍🧒‍🧒	maşgala: uly, maşgala: uly, çaga, çaga, çaga
 👣	aýak yzlary, aýak yzy, eşik, yz
+🫆	barmak yzy, howpsuzlyk, jenaýat derňewi, şahsyýet anyklama
 🦰	gyzyl saç, gyzylsaç, zenjebil
 🦱	afro, buýra, buýra saç, halkajyklar
 🦳	ak, ak saç, garry, saç, çal
@@ -2490,6 +2796,8 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🐅	gaplaň
 🐆	bars
 🐴	at, at ýüz, ýüz
+🫎	deresygyr, sugun, şah
+🫏	aňňyrmak, eşek, iş, işlemek, kürre, taýhar
 🐎	at, çapuw aty, çapyksuwar, çapyşyk
 🦄	ýekeşah, ýüz
 🦓	ala-mula, zebra
@@ -2552,6 +2860,10 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🦩	gyzylinjik, owadan, tropik
 🦚	buýsançly, guş, görnükli, tawus, tawus jüýje
 🦜	garakçy, geplemek, guş, totyguş
+🪽	ganat, guş, jennet, perişde, uç, uçmak
+🐦‍⬛	gara, gara guş, garga, guş, zaw
+🪿	gaz
+🐦‍🔥	feniks, hyýaly, kaknus, reinkarnasiýa, semender, täzeden dogulmak
 🐸	gurbaga, ýüz
 🐊	krokodil
 🐢	pyşbaga, pyşdyl, suw pyşdyly
@@ -2572,6 +2884,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🐙	osminog
 🐚	spiral, spiral çaňňalak, çaňňalak
 🪸	merjen, merjen adasy, umman
+🪼	awuly, awy, deňiz, jandar, meduza, ýak
 🐌	ulitka
 🦋	enaýyja, kebelek, mör-möjek
 🐛	mör-möjek, mör-möjekler
@@ -2599,6 +2912,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🌻	gül, gün, günebakar
 🌼	açylan gül, gül
 🌷	gül, çigildem
+🪻	benewşe, giasint, lawanda
 🌱	ýaş, şine
 🪴	gorşokdaky ösümlik, içgysgynç, peýdasyz, ösmek, ösümlik, öý, ýetişdirmek
 🌲	agaç, hemişe gök öwüsýän agaç
@@ -2615,11 +2929,13 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🪹	boş höwürtge, ýumurtga basmak
 🪺	içi ýumurtgaly höwürtge, ýumurtga basmak
 🍄	kömelek, ýylankömelek
+🪾	guraklyk, guran, gury, gyş, hasylsyz, ýapraksyz agaç
 🍇	miwe, üzüm
 🍈	gawun, miwe
 🍉	garpyz, miwe
 🍊	mandarin, miwe, pyrtykal
 🍋	limon, miwe, sitrus
+🍋‍🟩	laým, miwe, mohito, sitrus, tropiki, turşy
 🍌	banan, miwe
 🍍	ananas, miwe
 🥭	mango, miwe, tropik
@@ -2649,6 +2965,10 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🥜	arahis, gök önüm, hoz, iýmit
 🫘	azyk, böwrek, kösükliler, noýba
 🌰	kaştan, ösümlik
+🫚	hoşboý, kök, ot-çöp, piwo, saglyk, tebigy, zenjebil, zenjebil köki
+🫛	edamame, gök önüm, kösük, kösükli, nohudyň kösügi, nohut, noýba, noýba baldagy, soýa, wegetarian
+🍄‍🟫	goňur kömelek, gök önüm, iýmit, mele kömelek, tebigat
+🫜	gök önüm, kök, köki miweli, mellek, turp, şalgam, şugundyr
 🍞	buhanka, çörek
 🥐	dolama, ertirlik, fransuz, iýmit, kruassan, çörek
 🥖	baget, baget çörek, fransuz, iýmit, çörek
@@ -2714,7 +3034,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🍰	desert, dilim, süýji, süýjülik, tort, tortuň dilimi
 🧁	käse tort, süýji, çörekhana
 🥧	içli, süýjülik, tort
-🍫	desert, plita, süýji, şokolad, şokolad plitasy
+🍫	desert, plitka, süýji, şokolad, şokolad plitasy
 🍬	desert, kemput, süýji
 🍭	desert, horaz-süýji, kemput, süýji
 🍮	desert, puding, süýji, süýji krem
@@ -2889,7 +3209,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 ⌛️	wagt belleýji, çäge, çägeli sagat boldy
 ⏳️	gumsagat, wagt belleýji, çäge, çägeli sagat bolmady
 ⌚️	goşar sagady, sagat
-⏰	oýaryjy, oýaryjy sagat, sagat
+⏰️	oýaryjy, oýaryjy sagat, sagat
 ⏱️	sagat, sekundomer
 ⏲️	sagat, wagt belleýji, wagt belleýji sagat
 🕰️	diregli sagat, sagat
@@ -2969,7 +3289,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🎆	baýramçylyk, feýerwerk
 🎇	baýramçylyk, feýerwerk, uçgun, uçgun çykaryjy
 🧨	dinamit, feýerwerk, partlaýjy, salýut
-✨	*, uçgun, uçgunlar, ýyldyz
+✨️	*, uçgun, uçgunlar, ýyldyz
 🎈	baýramçylyk, şar
 🎉	baýramçylyk, parkyldawaç, tada, şüweleň, şüweleň parkyldawajy
 🎊	baýramçylyk, konfetti, konfetti topy, top
@@ -3069,6 +3389,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🩳	içki geýim, jalbar, suwa düşülýän geýimler, şorty
 👙	bikini, eşik, ýüzmek
 👚	aýal eşikleri, eşik, zenan
+🪭	el çarpmak, eplenýän el ýelpewajy, eplenýän feýer, flirt, gyzgyn, janköýer, pasyrdamak, sowamak, sowaşmak, tans, utanjaň, çapak
 👛	eşik, gapjyk, teňňe
 👜	el sumka, eşik, gapjyk, goşhalta
 👝	eşik, goşhalta, jübi, klaç sumka
@@ -3083,6 +3404,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 👡	aýal çepegi, eşik, köwüş, zenan, şypbyk
 🩰	balet, balet köwşi, tans
 👢	aýal ädigi, eşik, köwüş, zenan, ädik
+🪮	Afro, darak, gazaw, iri darak, saç, saçgysgyç
 👑	eşik, täç, şa, şa aýaly
 👒	aýal şlýapasy, eşik, papak, zenan
 🎩	depe, eşik, papak, çüri papak, çüri şlýapa
@@ -3121,6 +3443,9 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🪕	banjo, kirişli, saz
 🥁	aýdym-saz, deprek, deprek çalynýan taýajyklar
 🪘	bongo, deprek, konga, ritm, urgy, uzyn deprek
+🪇	gural, marakas, saz, silkmek, tans, zarba, ça ça, şakyrdy, şeýker, şüweleň
+🪈	fleýta, fleýtajyk, fleýtaçy, gural, magnitofon, orkestr, pikkolo, saz, surnaý, tüýdük, üflenýän agaç saz guraly, ýöriş orkestri
+🪉	arfa, aýdym, orkestr, saz, saz guraly, sazanda, söýgi
 📱	el telefony, mobil, mobil telefon, telefon, öýjükli
 📲	almak, el telefony, mobil, ok, okly mobil telefon, telefon, öýjükli
 ☎️	telefon, telefon trubkasy
@@ -3139,7 +3464,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 💽	disk, kompýuter, kompýuter diski, mini disk, optiki
 💾	disk, kompýuter, çeýe, çeýe disk
 💿️	cd, disk, kompýuter, optiki, optiki disk
-📀	DVD, blu-ray, disk, dvd, kompýuter, optiki
+📀	Blu-ray, DVD, disk, kompakt disk, kompýuter, optiki
 🧮	hasaplamak, çot
 🎥	kamera, kino, kinokamera, kinoteatr
 🎞️	film, filmden kadrlar, kadrlar, kino, kinoteatr
@@ -3253,11 +3578,13 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 ⚖️	Terezi, adalat, deňagramlylyk, deňagramlylyk terezisi, täleýnama
 🦯	ak hasa, elýeterlilik, kör
 🔗	bag
+⛓‍💥	azatlyk, döwmek, döwük zynjyr, gandal, goparmak, zynjyr
 ⛓️	zynjyr, zynjyrlar
 🪝	egri, ilgençek, mahabat nokady, tora salmak, tutmak, çeňňek
 🧰	gural, gural gutusy, mehanik, ýaşik
 🧲	magnit, nal, çekiş
 🪜	basgançak, dyrmaşmak, merdiwan
+🪏	gazmak, kepje, pil, piljagaz, pilçe, susak, çukur
 ⚗️	gural, himiýa, suwuklyk gaby
 🧪	barlaghana, himik, himiýa, probirka, tejribe, ylym
 🧫	bakteriýa, barlaghana, biolog, biologiýa, kultura, petri çaşkasy
@@ -3302,7 +3629,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🪦	gubur daşy, mazar, mazar daşy, mazarlyk, ýatan ýeri ýagty bolsun
 ⚱️	jynaza, jynaza gorküýzesi, kül, urna, ölüm
 🧿	göz, göz monjuk, monjuk, tumar, ýaman göz
-🪬	Mariýa, Merýem, Patma, el, gorag, gözmonjuk, hamsa
+🪬	Fatima, Mariýa, Merýem, aýa, el, gollanma, gorag, goramak, hamsa, tumar, täleý
 🗿	moai, moýai, statuýa, ýüz
 🪧	bellik, garşy çykma, miting, plakat
 🪪	ID, gorag gullugy, ygtyýarnama, şahsy maglumatlar, şahsyýetnama
@@ -3343,10 +3670,10 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 ↕️	ok, ýokary-aşak ok
 ↔️	ok, çepe-saga ok
 ↮	çep sag ok
-↩️	ok, saga ok, çepe egrelýän
-↪️	ok, çepe ok, saga egrelýän
-⤴️	ok, saga ok, ýokary egrelýän
-⤵️	aşak, ok, saga ok, aşak egrelýän
+↩️	ok, saga ok, saga ok, çepe egrelýän, çepe egrelýän
+↪️	ok, saga egrelýän, çepe ok, çepe ok, saga egrelýän
+⤴️	ok, saga ok, saga ok, ýokary egrelýän, ýokary egrelýän
+⤵️	aşak, aşak egrelýän, ok, saga ok, saga ok, aşak egrelýän
 🔃	gaýtadan ýükle, ok, sagadyň ugruna, sagadyň ugruna dik oklar
 🔄	ok, sagadyň garşysyna, sagadyň tersine, sagadyň tersine oklar düwmesi, yzygiderli oklar
 🔙	BACK oky, ok, yza
@@ -3366,19 +3693,20 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 ☮️	parahatçylygyň nyşany, parahatçylyk
 🕎	din, menora, şem, şemdan
 🔯	nokatly altyburç ýyldyz, pal, ýyldyz
+🪯	Deg Teg Fateh, Halsa, Khanda, Sikh, Sikhizm, din, khanda
 ♈️	Guzy, goç, täleýnama
 ♉️	Sowur, täleýnama, öküz, öküzçe
-♊️	Ekizler, ekizler, täleýnama
+♊️	Ekizler, ekizler, täleýnama, zodiak
 ♋️	Seretan, leňňeç, täleýnama
 ♌️	täleýnama, ýolbars, Şir
 ♍️	Sünbüle, zodiak
 ♎️	Mizan, adalat, deňagramlylyk, terezi, täleýnama
-♏️	Akrap, akrap, içýan, täleýnama
+♏️	Akrap, Içýan, içýan, täleýnama, zodiak
 ♐️	Kowus, okçy, täleýnama
 ♑️	Owlak, geçi, täleýnama
 ♒️	Gowa, göteriji, suw, täleýnama
 ♓️	Hut, balyk, täleýnama
-⛎	göteriji, süýreniji, täleýnama, Ýylançy, ýylan
+⛎️	göteriji, süýreniji, täleýnama, Ýylançy, ýylan
 🔀	atanak, garyşyk düwmesi, ok
 🔁	gaýtala, gaýtala düwmesi, ok, sagadyň ugruna
 🔂	bir gezek, ok, sagadyň ugruna, ýeke gaýtala düwmesi
@@ -3401,22 +3729,23 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🔅	pes, solak, öçügsi düwmesi, ýagtylyk
 🔆	ýagty, ýagty düwmesi, ýagtylyk
 📶	anten, antenna zolaklary, mobil, telefon, zolak, öýjükli
+🛜	birikme ukyby, giň zolakly, internet, kompýuter, router, simsiz, smartfon, tor, wi-fi, wifi, wlan, ýaýlym nokady
 📳	el telefony, mobil, reje, telefon, titreme, titreme tertibi, öýjükli
 📴	el telefony, mobil, mobil telefon ýapyk, telefon, öçürilen, öýjükli
 ♀️	aýal-gyz nyşany, zenan
 ♂️	erkek, erkek nyşany
 ⚧️	transgender, transgender nyşany
 ✖️	alamat, bes et, köpelt, köpeltmek, x, ×
-➕	+, belgi, goşmak, matematika
-➖	-, aýyrmak, belgi, matematika, −
-➗	belgi, böl, bölmek, matematika, ÷
-🟰	deňlik, matematika, ýogyn deňdir belgisi
+➕️	+, belgi, goşmak, matematika
+➖️	-, aýyrmak, belgi, matematika, −
+➗️	belgi, böl, bölmek, matematika, ÷
+🟰	agyr deňdir belgisi, deň, deňdir, deňlik, jogap, matematika, ýogyn deňdir belgisi
 ♾️	baky, tükeniksizlik, uniwersal, çäksiz
 ‼️	belgi, bum-bum, goşa ýüzlenme belgisi, ýüzlenme
 ⁉️	!, !?, ?, belgi, dyngy, sorag, ýüzlenme, ýüzlenme sorag belgisi
 ❓️	?, belgi, dyngy, gyzyl sorag belgisi, sorag, sorag belgisi
-❔	?, ak sorag belgisi, belgi, dyngy, sorag, çarçuwaly
-❕	!, ak ýüzlenme belgisi, belgi, dyngy, çarçuwaly, ýüzlenme
+❔️	?, ak sorag belgisi, belgi, dyngy, sorag, çarçuwaly
+❕️	!, ak ýüzlenme belgisi, belgi, dyngy, çarçuwaly, ýüzlenme
 ❗️	!, belgi, dyngy, gyzyl ýüzlenme belgisi, ýüzlenme, ýüzlenme belgisi
 〰️	dyngy, kese çyzyk, tolkunly, tolkunly kese çyzyk
 💱	alyş-çalyş, bank, pul, pul birligi, walýuta çalşygy
@@ -3428,13 +3757,13 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 📛	at, at tarketkasy, tarketka
 🔰	öwrenje, öwrenjeler üçin ýaponça nyşany, ýapon, ýaprak, şewron
 ⭕️	goýy uly halka, gyzyl, halka, içi boş gyzyl tegelek, o, uly
-✅	barlag, barlag belligi düwmesi, bellik, düwme, ✓
+✅️	barlag, barlag belligi düwmesi, bellik, düwme, ✓
 ☑️	barlag, barlag bellikli barlag gutusy, guty, ✓
 ✔️	barlag, barlag belligi, bellik, ✓
-❌	alamat, atanak, atanak belgisi, bes et, köpelt, köpeltmek, x, ×
-❎	atanak belgili düwme, bellik, inedördül, x, ×
-➰	buýra, buýra halka, halka
-➿	buýra, goşa, goşa buýra halka, halka
+❌️	alamat, atanak, atanak belgisi, bes et, köpelt, köpeltmek, x, ×
+❎️	atanak belgili düwme, bellik, inedördül, x, ×
+➰️	buýra, buýra halka, halka
+➿️	buýra, goşa, goşa buýra halka, halka
 〽️	bellijek, bölek, bölek çalşyk belgisi
 ✳️	*, bellijek, sekiz uçly ýyldyz, ýyldyz
 ✴️	sekiz tikenli ýyldyzjyk, sekiz uçly ýyldyz, ýyldyz
@@ -3442,6 +3771,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 ©️	awtorlyk hukugy, c
 ®️	bellige alnan, r
 ™️	belgi, söwda belgisi, tm
+🫟	boýag, dökülen, reňk, syçramak, syçratgy, syýa, tegmil
 #⃣	klawiş gapagy, klawiş gapagy: #
 *⃣	klawiş gapagy, klawiş gapagy: *
 0⃣	klawiş gapagy, klawiş gapagy: 0
@@ -3479,8 +3809,8 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🆚	VS düwmesi, bilen, vs
 🈁	katakana, ýaponça, ýaponça "şu ýerde" düwmesi, “şu ýerde”, ココ
 🈂️	katakana, ýaponça, ýaponça "hyzmat tölegi" düwmesi, “hyzmat tölegi”, サ
-🈷	ideograf, ýaponça, ýaponça "aýlyk möçber" düwmesi, “aýlyk möçber”, 月
-🈶	ideograf, ýaponça, ýaponça "mugt däl" düwmesi, “mugt däl”, 有
+🈷	"aýlyk möçber", aýlyk möçber, ideograf, ýaponça "aýlyk möçber" düwmesi, ÿaponça, 月
+🈶	"mugt däl", ideograf, mugt däl, ýaponça, ýaponça "mugt däl" düwmesi, 有
 🈯	ideograf, ýaponça, ýaponça "bronlanan" düwmesi, “bronlanan”, 指
 🉐	ideograf, ýaponça, ýaponça "alyş-çalyş" düwmesi, “alyş-çalyş”, 得
 🈹	ideograf, ýaponça, ýaponça "arzanladyş" düwmesi, “arzanladyş”, 割
@@ -3488,7 +3818,7 @@ _	aşagyny çyzmak, aşaky kese çyzyk, aşaky tire, aşaky çyzyk, tire, çyzyk
 🈲	ideograf, ýaponça, ýaponça "gadagan" düwmesi, “gadagan”, 禁
 🉑	ideograf, ýaponça, ýaponça "kabul ederlik" düwmesi, “kabul ederlik”, 可
 🈸	ideograf, ýaponça, ýaponça "ýüz tutmak" düwmesi, “ýüz tutmak”, 申
-🈴	ideograf, ýaponça, ýaponça "kanagatlanarly baha" düwmesi, “kanagatlanarly baha”, 合
+🈴	"kanagatlanarly baha", ideograf, kanagatlanarly baha, ýaponça, ýaponça "kanagatlanarly baha" düwmesi, 合*
 🈳	ideograf, ýaponça, ýaponça "boş iş orny" düwmesi, “boş iş orny”, 空
 ㊗️	ideograf, ýaponça, ýaponça "gutlaglar" düwmesi, “gutlaglar”, 祝
 ㊙️	ideograf, ýaponça, ýaponça "gizlin" düwmesi, “gizlin”, 秘
@@ -3808,6 +4138,9 @@ $	ABŞ, dollar, peso, pul
 ฿	Taýland baty
 ៛	Kamboja riýeli
 ₡	Kosta-Rika kolony
+₢	BRB, kruzeýro, pul birligi
+₣	frank, fransuz franky, pul birligi
+₤	lira, pul birligi
 ₥	mil, mill
 ₦	Nigeriýa naýrasy
 ₩	KPW, KRW, won
@@ -3816,10 +4149,14 @@ $	ABŞ, dollar, peso, pul
 €	EWRO, ewro, pul birligi
 ₭	Laos kipi
 ₮	Mongol tugrigi
+₰	nemes pennisi, pfennig, pul birligi
 ₱	peso
 ₲	Paragwaý guaranisi
+₳	ARA, austral, pul birligi
 ₴	Ukrain griwnasy
 ₵	Gano sedisi
+₶	pul birligi, tur liwri
+₷	pul birligi, spesmilo
 ₸	Gazak teňňesi
 ₹	hindi rupi, pul birligi, rupi
 ₺	Türk lirasy
@@ -3827,6 +4164,8 @@ $	ABŞ, dollar, peso, pul
 ₽	pul birligi, rubl
 ₾	Gruzin larisi
 ₿	BTC, bitkoin
+₨	pul birligi, rupiýa
+﷼	pul birligi, rial
 ¹	bir, ýokary indeks, ýokary indeks bir
 ²	iki, kwadratda, ýokary indeks, ýokary indeks iki
 ³	kubda, üç, ýokary indeks, ýokary indeks üç

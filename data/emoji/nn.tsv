@@ -1,14 +1,12 @@
-‾	overline, vinculum
 -	bindestrek-minus-teikn
 –	bindestrekar, en-dash, halvgefirt, tankestrek
 —	bindestrekar, em-dash, gefirt, lang tankestrek
-―	strek, vassrett strek, vassrett. strek
+―	strek, vassrett strek
 !	utropsteikn
 ¡	opp-ned utropsteikn, utropsteikn
 ?	spørsmål, spørsmålsteikn
 ¿	opp-ned spørsmålsteikn, spørsmål, spørsmålsteikn
 ؟	arabisk spørsmålsteikn, spørsmål, spørsmålsteikn
-‽	interabang, interrobang
 …	ellipse, tre prikkar, utelating
 '	enkelt rett hermeteikn, sitatteikn
 ‘	enkelt krøllete venstre hermeteikn, sitatteikn, smart hermeteikn, start sitat
@@ -19,23 +17,23 @@
 „	dobbelt krøllete lågt venstre hermeteikn, sitatteikn, smart hermeteikn, start sitat
 «	hermeteikn, sitat start, sitatteikn, sjevron, venstre hermeteikn
 »	hermeteikn, høgre hermeteikn, sitat slutt, sitatteikn, sjevron
-)	bogeparentes, parentes, sluttparentes
+)	bogeparentes, høgre parentes, parentes, sluttparentes
 [	firkantparentes, klammeparentes, parentes, starthakeparentes, startparentes, venstre hakeparentes
 ]	firkantparentes, høgre hakeparentes, klammeparentes, parentes, slutthakeparentes, sluttparentes
 {	klammeparentes, krøllparentes, parentes, startparentes, startsløyfeparentes, venstre krøllparentes
-}	høgre krøllparentes, klammeparentes, krøllparentes, parentes, sluttparentes, sluttsløyfeparentes
-〈	parentes, spissparentes, startparentes, startvinkelparentes, vinkelparentes
+}	høgre krøllparentes, klammeparentes, krøllparentes, parentes, sluttparentes
+〈	parentes, spissparentes, startparentes, startvinkelparentes, venstre vinkelparentes, vinkelparentes
 〉	høgre vinkelparentes, parentes, sluttparentes, sluttvinkelparentes, spissparentes, vinkelparentes
 《	dobbel startvinkelparentes, dobbelparentes, parentes, spissparentes, startparentes, venstre dobbel vinkelparentes, vinkelparentes
 》	dobbel sluttvinkelparentes, dobbelparentes, høgre dobbel vinkelparentes, parentes, sluttparentes, spissparentes, vinkelparentes
-「	hjørneparentes, parentes, starthjørneparentes, startparentes, venstre hjørneparentes
+「	starthjørneparentes
 」	hjørneparentes, høgre hjørneparentes, parentes, slutthjørneparentes, sluttparentes
 『	hjørneparentes, hol parentes, hol starthjørneparentes, parentes, startparentes, venstre hol hjørneparentes
 』	hjørneparentes, hol parentes, hol slutthjørneparentes, høgre hol hjørneparentes, parentes, sluttparentes
 【	fylt parentes, linseparentes, parentes, startparentes, svart parentes, svart startlinseparentes, venstre fylt linseparentes
 】	fylt parentes, høgre fylt linseparentes, linseparentes, parentes, sluttparentes, svart parentes, svart sluttlinseparentes
-〔	parentes, skjelpaddeskal, skjelpaddeskalparentes, startparentes, venstre skjelpaddeparentes, venstre skjelpaddeskalparentes
-〕	parentes, skjelpaddeskal, skjelpaddeskalparentes, sluttparentes, sluttparentes skjelpaddeskalparentes
+〔	parentes, skjelpaddeskal, skjelpaddeskalparentes, startparentes, venstre skjelpaddeskalparentes
+〕	høgre skjelpaddeparentes, høgre skjelpaddeskalparentes, parentes, skjelpaddeskal, skjelpaddeskalparentes, sluttparentes
 〖	hol parentes, hol startlinseparentes, linseparentes, parentes, startparentes, venstre hol linseparentes
 〗	hol parentes, hol sluttlinseparentes, høgre hol linseparentes, linseparentes, parentes, sluttparentes
 §	avsnittssteikn, del, paragraf, paragrafteikn, signum sectionis
@@ -54,57 +52,187 @@
 ″	dobbelt primteikn
 ‴	trippelt primteikn
 ‸	innsetjingsteikn
-⁂	asterisme, dinkus, stjerner
 ´	aksent, akutt, høgreaksent, tonem, trykk
 ¨	omlyd, trema, tødlar
 °	alkoholinnhald, grader, gradeteikn, timar
-↚	venstrepil med strek over
 →	aust, høgre, høgrepil, pil høgre, pil mot høgre, retning
-↛	høgrepil med strek over
-↜	bølgeforma pil venstre
-↝	bølgeforma pil høgre
-↞	venstrepil med to spissar
-↟	oppoverpil med to spissar
-↠	høgrepil med to spissar
-↡	nedoverpil med to spissar
-↢	venstrepil med hale
-↣	høgrepil med hale
-↤	venstrepil frå line
-↥	oppoverpil frå line
-↦	høgrepil frå line
-↧	nedoverpil frå line
-↯	sikksakkpil
-⇅	kvar veg, nord-sør, op og ned, opp-ned, pil oppover framfor pil nedover, piler
+↛	høgre, pil, pil høgre med skråstrek, skråstrek
+↜	bylgje, bølge, bølgje, pil, venstre
+↝	bylgje, bølge, bølgepil mot høgre, bølgje, høgre, pil
+↞	mothakar, pil, pil venstre med to mothakar, to, venstre
+↟	mothakar, opp, pil, pil opp med to mothakar, to
+↠	høgre, mothakar, pil, pil høgre med to mothakar, to
+↡	mothakar, ned, pil, pil ned med to mothakar, to
+↣	høgre, pil, pil høgre med styrefjær, styrefjær
+↤	frå, loddrett, pil, pil venstre frå loddrett strek, strek, venstre
+↥	frå, loddrett, opp, pil, pil opp frå vassrett strek, strek
+↦	fra, høgre, loddrett, pil, pil høgre frå loddrett strek, strek
+↧	frå, ned, pil, pil ned frå vassrett strek, strek, vassrett
+↬	høgre, løkke, pil, pil høgre med løkke
+↭	bylgje, bølge, bølgepil mot høgre og venstre, bølgje, høgre, pil, toveis, venstre
+↱	høgre, opp, pil, pil opp med spiss mot høgre, spiss, vinkel
+↳	høgre, ned, pil, pil ned med spiss mot høgre, spiss, vinkel
+↴	hjørne, høgre, ned, pil, pil høgre som snur ned, snur
+↶	halvsirkelpil mot klokka
+↷	halvsirkelpil med klokka
+↹	høgre, pil, pil venstre over pil høgre mot loddrette strek, strek, venstre
+↺	pil open sirkel mot klokka
+↻	pil open sirkel med klokka
+↾	harpunpil opp med mothake mot høgre
+⇀	harpunpil høgre med mothake opp
+⇁	harpunpil høgre med mothake ned
+⇂	harpunpil ned med mothake mot høgre
+⇄	pil høgre over pil venstre
+⇅	kvar veg, nord-sør, opp og ned, opp-ned, pil oppover framfor pil nedover, piler
 ⇆	aust-vest, fram og tilbake, kvar veg, pil mot venstre over pil mot høgre, piler, venstre-høgre
+⇉	parallelle piler mot høgre
+⇋	harpunpil venstre over harpunpil høgre
+⇌	harpunpil høgre over harpunpil venstre
+⇒	dobbel, dobbeltpil høgre, høgre, pil
+⇏	dobbel, dobbeltpil høgre med strek, høgre, pil, strek
+⇔	dobbel, dobbeltpil begge vegar, høgre, pil, tovegs, venstre
+⇎	dobbel, dobbeltpil begge vegar med strek, høgre, pil, strek, tovegs, venstre
+⇗	dobbeltpil nordaust
+⇘	dobbeltpil søraust
+⇛	trippelpil høgre
+⇝	snirkelpil høgre
+⇞	pil opp med to strekar
+⇟	pil ned med to strekar
+⇠	stipla pil venstre
+⇡	stipla pil opp
+⇢	stipla pil høgre
+⇣	stipla pil ned
+⇥	pil høgre mot loddrett strek
+⇦	hol pil venstre
+⇧	hol pil opp
+⇨	hol pil høgre
+⇩	hol pil ned
+⇪	hol pil opp frå vassrett strek
+⇵	dobbel, ned, opp, pil, tovegs
+∃	det eksisterer, det finst, eksistenskvantor
+∅	den tomme mengda, matematikk, matte, mengdeoperator, settoperator
 ∆	dekrement, delta, inkrement, matematisk endring, matematiske teikn, trekant
 ∇	matematiske teikn, nabla, trekant, triangel, vektorfelt, vektoroperator
 ∈	element i, elementsymbol, matematiske teikn, mengdelære
+∉	element, er ikkje element i
+∋	element, inneheld, inneheld som medlem, medlem, som
+∏	logikk, matte, produkt, produkt av n faktorar, produktserie, produktteikn
+∑	matte, sum, sum av ei rekkje, sum av n ledd, summering
 +	addere, leggje til, pluss, plussteikn
 ÷	dele, deleteikn, dividere, divisjon, divisjonsteikn, matematiske teikn
 ×	gonge, gongeteikn, matematiske teikn, multiplikasjon, multiplikasjonsteikn, multiplisere
 <	er mindre enn, mindre enn, starttagg, ulikskap
+≮	er ikkje mindre enn, matte, ulikskap
 =	er lik, likskapsteikn
 ≠	er ikkje lik, ulikskap, ulikskapsteikn
 >	endetagg, er større enn, større enn, ulikskap
+≯	er ikkje større enn, matte, ulikskap
 ¬	ikkje, negasjon
 −	minus, minusteikn, subtrahere, trekkje frå
 ⁻	heva, heva minusteikn, ion, matematiske teikn, minus, negativ ladning
 √	kvadratrot, kvadratrotteikn, matematiske teikn
 ∞	matematiske teikn, uendeleg, uendelegheitsteikn
+∣	divisor, er deleleg med
 ∩	matematiske teikn, mengdelære, snitt, snitteikn
 ∪	foreining, matematiske teikn, mengdelære, union, unionteikn
+∫	integralteikn
+∬	dobbelt integral, dobbeltintegraltegn, dobbeltintegralteikn, kalkulus, matematisk analyse
+∴	derfor, difor
+∽	omvend tilde
+∾	spegelvend liggande s
+≅	isomorf, kongruens, likskap, matte, tilnærma lik
 ≈	avrunda til, er tilnærma lik
+≌	kongruent, likskap, matte
+≒	tilnærma lik biletet
+≖	likskap, matte, ring i likskapsteikn
 ≡	identisk lik, kongruent med, likskapsteikn, matematiske teikn
+≣	likskap, matte, strengt ekvivalent
 ≤	er mindre enn eller lik, likskapsteikn, mindre enn eller lik, ulikskap
 ≥	er større enn eller lik, likskapsteikn, større enn eller lik, ulikskap
+≦	matte, mindre enn over likskapsteikn, ulikskap
+≧	matte, større enn over likskapsteikn, ulikskap
+≪	matte, mykje mindre enn, ulikskap
+≫	matte, mykje større enn, ulikskap
+≳	større enn tilnærma lik
+≺	kjem før, matte, mengdeoperator
+≻	kjem etter, matte, mengdeoperator
+⊁	Kjem ikkje etter, kjem ikkje etter, matte, mengdeoperator
 ⊂	delmengd av, inklusjonsteikn, matematiske teikn, mengdelære
+⊃	matte, mengdeoperator, supermengd
+⊆	delmengd lik, matte, mengdeoperator
+⊇	likskap, matte, mengdeoperator, supermengd lik
+⊕	pluss, plussteikn i sirkel
+⊖	erosjon, minusteikn i sirkel, symmetrisk skilnad
+⊗	gongeteikn i sirkel, multipliseringsteikn i sirkel, produkt, tensor
+⊘	divisjonsliknande, matte, skråstrek for divisjon i sirkel
+⊞	addisjonsliknande, matte, plussteikn i firkant
+⊟	matte, minusteikn i firkant, subtraksjonsliknande
+⊮	tvingar ikkje
+⊰	kjem før under relasjon, matte, mengdeoperator
+⊱	kjem etter under relasjon, matte, mengdeoperator
+⋭	gruppeteori, inneheld ikkje som normal delgruppe lik, matte
+⊿	matematikk, matte, rett vinkel, rettvinkla trekant
+⋈	binæroperator, naturleg skøyt, naturlig join, sløyfe
+⋘	matematikk, matte, ulikskap, veldig mykje mindre enn
+⋙	veldig mykje større enn
+⋯	ellipse, sentrert vassrett ellipse
+⋰	diagonal ellipse opp mot høgre, ellipse, matematikk, matte
+⋱	diagonal ellipse ned mot høgre, ellipse, matematikk, matte
+□	holt kvadrat
+▢	holt kvadrat med avrunda hjørne
+▣	holt kvadrat rundt eit fylt kvadrat
+▤	kvadrat med vassrett fyll
+▦	kvadrat med rettvinkla rutefyll
+▧	kvadrat med diagonalt fyll ned mot høgre
+▭	holt rektangel
 ▲	fylt, fylt trekant som peikar opp, opp, pil, trekant
+△	hol trekant som peikar opp
+▴	liten fylt trekant som peikar opp
+▵	liten hol trekant som peikar opp
+▷	hol trekant som peikar mot høgre
+▸	liten fylt trekant som peikar mot høgre
+▹	liten hol trekant som peikar mot høgre
+►	fylt peikar som peikar mot høgre
+▻	hol peikar som peikar mot høgre
 ▼	fylt, fylt trekant som peikar ned, ned, pil, trekant
+▽	hol trekant som peikar ned
+▾	liten fylt trekant som peikar ned
+▿	liten hol trekant som peikar ned
+◁	hol trekant som peikar mot venstre
+◂	liten fylt trekant som peikar mot venstre
+◃	liten hol trekant som peikar mot venstre
+◄	fylt peikar som peikar mot venstre
+◅	hol peikar som peikar mot venstre
+◇	holt rutersymbol
+◈	holt rutersymbol rundt fylt rutersymbol
+◉	fiskeauge, hol sirkel rundt fylt sirkel, kosentriske sirklar fylt, omkransa prikk
 ◊	diament, holt rombesymbol, holt rutersymbol, rombe, ruter
 ○	hol sirkel, ring, runding, sirkel
+◌	stipla sirkel
+◎	dobbel sirkel, hol sirkel rundt hol sirkel, konsentriske sirklar, mål
+◑	sirkel med høgre halvdel fylt
+◔	sirkel med øvre høgre kvadrant fylt
+◗	fylt høgre halvsirkel
+◘	invertert punktteikn
+◙	fylt kvadrat rundt hol sirkel, invers hol sirkel
+◜	sirkelboge, sirkelboge øvre venstre kvadrant
+◝	boge, høgre, kvadrant, sirkel, sirkelboge øvre høgre kvadrant, øvre
+◞	sirkelboge, sirkelboge nedre høgre kvadrant
+◟	sirkelboge, sirkelboge nedre venstre kvadrant
+◢	fylt trekant med rett vinkel nede til høgre
+◥	fylt trekant med rett vinkel oppe til høgre
+◦	holt punktteikn
 ◯	hol sirkel, ring, runding, sirkel, stor hol sirkel
+◳	holt kvadrat øvre høgre kvadrant
+◷	hol sirkel øvre høgre kvadrant
+◿	hol trekant med rett vinkel nede til høgre
 ♪	musikk, note, åttandedelsnote
-♯	halnote opp, kryss, musikk, note-kryss
+⨧	plussteikn med senka to-tal
+⨯	kryssprodukt av vektorar
+⩣	logisk eller dobbelt understreka
+⩽	mindre enn eller lik med likskapsteikn på skrå
+⪚	likskapsteikn over større enn, matte, ulikskap
+⪺	kjem etter over ikkje tilnærma lik
 😃	fjes, glisande fjes med vidopne auge, latter, munn, open, smil, smilefjes, smilefjes med open munn
 😄	latter, med tenner, morosamt, smil, smilefjes, smilefjes med open munn og smilande auge
 😁	fjes, glis, glisefjes med smilande auge, latter, lol, smil, smilefjes
@@ -115,7 +243,7 @@
 🫠	fjes som smeltar, forsvinn, går i oppløysing, væske
 😉	blunk, blunkande fjes, fjes
 😊	auge, fjes, raudne, smil, smil med smilande auge
-🥰	elskar, forelska, kjærleik, smilefjes med hjarte
+🥰	elskar, forelska, kjærleik, romantikk, smilefjes med hjarte
 😍	auge, fjes, hjarte, hjarteauge, kjærleik, smilefjes med hjarteauge
 🤩	fjes, gliser, smil, stjerner, stjerner i auga
 😘	elskar deg, fjes, glad i deg, hjarte, kyss, slengkyss
@@ -146,10 +274,14 @@
 🙄	auge, fjes, himlar med auga, rullar
 😮‍💨	fjes, gispe, kviskre, letta, plystre, pustar ut, puste ut, sukke
 🤥	fjes, lyg, løgn, pinocchio
+🫨	andlet, ansikt, fjes, jordskjelv, rista, riste, sjokk, skjelva, skjelvande, skjelvande fjes, skjelve
+🙂‍↔	ristande hovud, ristar på hovudet
+🙂‍↕	nikkande hovud, nikkar med hovudet
 😌	fjes, letta
 😔	alvorleg, fjes, lei seg, tankefull
 🤤	fjes, siklar, sikle
-😴	fjes, sovande fjes, søv, zzz
+😴	fjes, gjesp, god natt, godnatt, natt, snork, sove, svevn, søv, søvn, trøytt
+🫩	fjes med posar under auga, sliten, søvnig, trøytt, utsliten
 😷	bakteriemaske, fjes, fjes med munnbind, sjukdom
 🤒	fjes, fjes med termometer, sjuk, termometer
 🤕	bandasje, bandasjert hovud, fjes, skadd, skade
@@ -162,7 +294,7 @@
 🤯	eksploderande hovud, forbløffa, overraska, sjokkert
 🥸	briller, fjes, fjes med forkleding, forkleding, inkognito, nase
 😕	fjes, forvirra
-🫤	fjes, fjes med diagonal munn, fjes med skråstrek, meh, skeptisk, skuffa, usikker
+🫤	fjes, forvirra, frustrert, meh, næsj, skeptisk, skrått, skuffa, tja, tvil, uansett, usikker
 😟	bekymra, fjes
 😮	fjes, forbausa, open munn
 😯	fjes, overraska, stum
@@ -213,16 +345,19 @@
 💟	hjarte, hjartedekorasjon
 ❣️	teikn, teiknsetjing, utrop, utropsteikn, utropsteikn med hjarte
 💔	brot, hjarte, kjensler, knust hjarte
-❤‍🔥	brann, eld, heilag hjarte, hjarte, hjarte i brann, kjærleik, lidenskap
+❤‍🔥	brann, eld, heilagt hjarte, hjarte, hjarte i brann, kjærleik, lidenskap
 ❤‍🩹	betre, bra, forbetring, kome seg, lindra hjarte, lindring, sterkare
 ❤️	hjarte, raudt hjarte
+🩷	elskar, hjarte, liker, rosa, rosa hjarte, søtt
 🧡	hjarte, kjensler, oransje, oransje hjarte
 💛	gul, gult hjarte, hjarte, kjensler
 💚	grøn, grønt hjarte, hjarte, kjensler
 💙	blå, blått hjarte, hjarte, kjensler
+🩵	blågrønt, cyan, hjarte, ljosblått, lysblått, lyseblått, lyseblått hjarte
 💜	hjarte, kjensler, lilla, lilla hjarte
 🤎	brun, brunt hjarte, hjarte
 🖤	hjarte, svart, svart hjarte, vond
+🩶	grått, grått hjarte, hjarte, skifer, sylv, sølv
 🤍	hjarte, kvit, kvitt hjarte
 💢	kjensle, sinne, sinnesymbol, sint, teikneserie
 💥	kjensle, kollisjon, krasj, smell, teikneserie
@@ -253,7 +388,7 @@
 🖐🏽	finger, flat hand med spreidde fingrar, flat hand med spreidde fingrar: hudtype 4, hand, hudtype 4, spreidd
 🖐🏾	finger, flat hand med spreidde fingrar, flat hand med spreidde fingrar: hudtype 5, hand, hudtype 5, spreidd
 🖐🏿	finger, flat hand med spreidde fingrar, flat hand med spreidde fingrar: hudtype 6, hand, hudtype 6, spreidd
-✋	flat hand, handflate, heva hand
+✋️	flat hand, handflate, heva hand
 ✋🏻	flat hand, handflate, heva hand, heva hand: hudtype 1–2, hudtype 1–2
 ✋🏼	flat hand, handflate, heva hand, heva hand: hudtype 3, hudtype 3
 ✋🏽	flat hand, handflate, heva hand, heva hand: hudtype 4, hudtype 4
@@ -309,6 +444,18 @@
 🫴🏽	gripe, handflata opp, handflata opp: hudtype 4, hudtype 4, invitere, kalle på, lokke, tilby
 🫴🏾	gripe, handflata opp, handflata opp: hudtype 5, hudtype 5, invitere, kalle på, lokke, tilby
 🫴🏿	gripe, handflata opp, handflata opp: hudtype 6, hudtype 6, invitere, kalle på, lokke, tilby
+🫷	handflate heva mot venstre, high five, mot venstre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
+🫷🏻	handflate heva mot venstre, handflate heva mot venstre: hudtype 1–2, high five, hudtype 1–2, mot venstre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
+🫷🏼	handflate heva mot venstre, handflate heva mot venstre: hudtype 3, high five, hudtype 3, mot venstre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
+🫷🏽	handflate heva mot venstre, handflate heva mot venstre: hudtype 4, high five, hudtype 4, mot venstre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
+🫷🏾	handflate heva mot venstre, handflate heva mot venstre: hudtype 5, high five, hudtype 5, mot venstre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
+🫷🏿	handflate heva mot venstre, handflate heva mot venstre: hudtype 6, high five, hudtype 6, mot venstre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
+🫸	handflate heva mot høgre, high five, mot høgre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
+🫸🏻	handflate heva mot høgre, handflate heva mot høgre: hudtype 1–2, high five, hudtype 1–2, mot høgre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
+🫸🏼	handflate heva mot høgre, handflate heva mot høgre: hudtype 3, high five, hudtype 3, mot høgre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
+🫸🏽	handflate heva mot høgre, handflate heva mot høgre: hudtype 4, high five, hudtype 4, mot høgre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
+🫸🏾	handflate heva mot høgre, handflate heva mot høgre: hudtype 5, high five, hudtype 5, mot høgre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
+🫸🏿	handflate heva mot høgre, handflate heva mot høgre: hudtype 6, high five, hudtype 6, mot høgre, nekta, nekte, skuva, skuve, skyva, skyve, stopp, vent
 👌	OK, OK-hand, hand, teikn
 👌🏻	OK, OK-hand, OK-hand: hudtype 1–2, hand, hudtype 1–2, teikn
 👌🏼	OK, OK-hand, OK-hand: hudtype 3, hand, hudtype 3, teikn
@@ -417,7 +564,7 @@
 👎🏽	hand, hudtype 4, teikn, tommel, tommel ned
 👎🏾	hand, hudtype 5, teikn, tommel, tommel ned
 👎🏿	hand, hudtype 6, teikn, tommel, tommel ned
-✊	hand, heva knyttneve, knytta neve, neve
+✊️	hand, heva knyttneve, knytta neve, neve
 ✊🏻	hand, heva knyttneve, heva knyttneve: hudtype 1–2, hudtype 1–2, knytta neve, neve
 ✊🏼	hand, heva knyttneve, heva knyttneve: hudtype 3, hudtype 3, knytta neve, neve
 ✊🏽	hand, heva knyttneve, heva knyttneve: hudtype 4, hudtype 4, knytta neve, neve
@@ -841,12 +988,12 @@
 🙍🏽‍♂	hudtype 4, mann, mann som rynkar bryna, mann som rynkar bryna: hudtype 4, mimikk, rynkar panna, skeptisk
 🙍🏾‍♂	hudtype 5, mann, mann som rynkar bryna, mann som rynkar bryna: hudtype 5, mimikk, rynkar panna, skeptisk
 🙍🏿‍♂	hudtype 6, mann, mann som rynkar bryna, mann som rynkar bryna: hudtype 6, mimikk, rynkar panna, skeptisk
-🙍‍♀	kinne som rynkar bryna, kvinne, kvinne som rynkar bryna, mimikk, rynkar panna, skeptisk
-🙍🏻‍♀	hudtype 1–2, kinne som rynkar bryna, kvinne, kvinne som rynkar bryna, kvinne som rynkar bryna: hudtype 1–2, mimikk, rynkar panna, skeptisk
-🙍🏼‍♀	hudtype 3, kinne som rynkar bryna, kvinne, kvinne som rynkar bryna, kvinne som rynkar bryna: hudtype 3, mimikk, rynkar panna, skeptisk
-🙍🏽‍♀	hudtype 4, kinne som rynkar bryna, kvinne, kvinne som rynkar bryna, kvinne som rynkar bryna: hudtype 4, mimikk, rynkar panna, skeptisk
-🙍🏾‍♀	hudtype 5, kinne som rynkar bryna, kvinne, kvinne som rynkar bryna, kvinne som rynkar bryna: hudtype 5, mimikk, rynkar panna, skeptisk
-🙍🏿‍♀	hudtype 6, kinne som rynkar bryna, kvinne, kvinne som rynkar bryna, kvinne som rynkar bryna: hudtype 6, mimikk, rynkar panna, skeptisk
+🙍‍♀	kvinne, kvinne som rynkar bryna, mimikk, rynkar panna, skeptisk
+🙍🏻‍♀	hudtype 1–2, kvinne, kvinne som rynkar bryna, kvinne som rynkar bryna: hudtype 1–2, mimikk, rynkar panna, skeptisk
+🙍🏼‍♀	hudtype 3, kvinne, kvinne som rynkar bryna, kvinne som rynkar bryna: hudtype 3, mimikk, rynkar panna, skeptisk
+🙍🏽‍♀	hudtype 4, kvinne, kvinne som rynkar bryna, kvinne som rynkar bryna: hudtype 4, mimikk, rynkar panna, skeptisk
+🙍🏾‍♀	hudtype 5, kvinne, kvinne som rynkar bryna, kvinne som rynkar bryna: hudtype 5, mimikk, rynkar panna, skeptisk
+🙍🏿‍♀	hudtype 6, kvinne, kvinne som rynkar bryna, kvinne som rynkar bryna: hudtype 6, mimikk, rynkar panna, skeptisk
 🙎	furtar, furting, mimikk, surmuling
 🙎🏻	furtar, furtar: hudtype 1–2, furting, hudtype 1–2, mimikk, surmuling
 🙎🏼	furtar, furtar: hudtype 3, furting, hudtype 3, mimikk, surmuling
@@ -919,24 +1066,24 @@
 💁🏽‍♀	hjelpande kvinne, hjelpande kvinne: hudtype 4, hjelpe, hudtype 4, informasjon, kvinne
 💁🏾‍♀	hjelpande kvinne, hjelpande kvinne: hudtype 5, hjelpe, hudtype 5, informasjon, kvinne
 💁🏿‍♀	hjelpande kvinne, hjelpande kvinne: hudtype 6, hjelpe, hudtype 6, informasjon, kvinne
-🙋	hand, person, rekker opp, rekker opp handa
-🙋🏻	hand, hudtype 1–2, person, rekker opp, rekker opp handa, rekker opp handa: hudtype 1–2
-🙋🏼	hand, hudtype 3, person, rekker opp, rekker opp handa, rekker opp handa: hudtype 3
-🙋🏽	hand, hudtype 4, person, rekker opp, rekker opp handa, rekker opp handa: hudtype 4
-🙋🏾	hand, hudtype 5, person, rekker opp, rekker opp handa, rekker opp handa: hudtype 5
-🙋🏿	hand, hudtype 6, person, rekker opp, rekker opp handa, rekker opp handa: hudtype 6
-🙋‍♂	mann, mann som rekker opp handa, rekke opp handa
-🙋🏻‍♂	hudtype 1–2, mann, mann som rekker opp handa, mann som rekker opp handa: hudtype 1–2, rekke opp handa
-🙋🏼‍♂	hudtype 3, mann, mann som rekker opp handa, mann som rekker opp handa: hudtype 3, rekke opp handa
-🙋🏽‍♂	hudtype 4, mann, mann som rekker opp handa, mann som rekker opp handa: hudtype 4, rekke opp handa
-🙋🏾‍♂	hudtype 5, mann, mann som rekker opp handa, mann som rekker opp handa: hudtype 5, rekke opp handa
-🙋🏿‍♂	hudtype 6, mann, mann som rekker opp handa, mann som rekker opp handa: hudtype 6, rekke opp handa
-🙋‍♀	kinne som rekker opp handa, kvinne, kvinne som rekker opp handa, rekke opp handa
-🙋🏻‍♀	hudtype 1–2, kinne som rekker opp handa, kvinne, kvinne som rekker opp handa, kvinne som rekker opp handa: hudtype 1–2, rekke opp handa
-🙋🏼‍♀	hudtype 3, kinne som rekker opp handa, kvinne, kvinne som rekker opp handa, kvinne som rekker opp handa: hudtype 3, rekke opp handa
-🙋🏽‍♀	hudtype 4, kinne som rekker opp handa, kvinne, kvinne som rekker opp handa, kvinne som rekker opp handa: hudtype 4, rekke opp handa
-🙋🏾‍♀	hudtype 5, kinne som rekker opp handa, kvinne, kvinne som rekker opp handa, kvinne som rekker opp handa: hudtype 5, rekke opp handa
-🙋🏿‍♀	hudtype 6, kinne som rekker opp handa, kvinne, kvinne som rekker opp handa, kvinne som rekker opp handa: hudtype 6, rekke opp handa
+🙋	hand, helsing, person, rekker opp, rekker opp handa
+🙋🏻	hand, helsing, hudtype 1–2, person, rekker opp, rekker opp handa, rekker opp handa: hudtype 1–2
+🙋🏼	hand, helsing, hudtype 3, person, rekker opp, rekker opp handa, rekker opp handa: hudtype 3
+🙋🏽	hand, helsing, hudtype 4, person, rekker opp, rekker opp handa, rekker opp handa: hudtype 4
+🙋🏾	hand, helsing, hudtype 5, person, rekker opp, rekker opp handa, rekker opp handa: hudtype 5
+🙋🏿	hand, helsing, hudtype 6, person, rekker opp, rekker opp handa, rekker opp handa: hudtype 6
+🙋‍♂	helsing, mann, mann som rekker opp handa, rekke opp handa
+🙋🏻‍♂	helsing, hudtype 1–2, mann, mann som rekker opp handa, mann som rekker opp handa: hudtype 1–2, rekke opp handa
+🙋🏼‍♂	helsing, hudtype 3, mann, mann som rekker opp handa, mann som rekker opp handa: hudtype 3, rekke opp handa
+🙋🏽‍♂	helsing, hudtype 4, mann, mann som rekker opp handa, mann som rekker opp handa: hudtype 4, rekke opp handa
+🙋🏾‍♂	helsing, hudtype 5, mann, mann som rekker opp handa, mann som rekker opp handa: hudtype 5, rekke opp handa
+🙋🏿‍♂	helsing, hudtype 6, mann, mann som rekker opp handa, mann som rekker opp handa: hudtype 6, rekke opp handa
+🙋‍♀	helsing, kvinne, kvinne som rekker opp handa, rekke opp handa
+🙋🏻‍♀	helsing, hudtype 1–2, kvinne, kvinne som rekker opp handa, kvinne som rekker opp handa: hudtype 1–2, rekke opp handa
+🙋🏼‍♀	helsing, hudtype 3, kvinne, kvinne som rekker opp handa, kvinne som rekker opp handa: hudtype 3, rekke opp handa
+🙋🏽‍♀	helsing, hudtype 4, kvinne, kvinne som rekker opp handa, kvinne som rekker opp handa: hudtype 4, rekke opp handa
+🙋🏾‍♀	helsing, hudtype 5, kvinne, kvinne som rekker opp handa, kvinne som rekker opp handa: hudtype 5, rekke opp handa
+🙋🏿‍♀	helsing, hudtype 6, kvinne, kvinne som rekker opp handa, kvinne som rekker opp handa: hudtype 6, rekke opp handa
 🧏	døv, døv person, høyre, tilgjenge, øyre
 🧏🏻	døv, døv person, hudtype 1–2, høyre, tilgjenge, øyre
 🧏🏼	døv, døv person, hudtype 3, høyre, tilgjenge, øyre
@@ -967,18 +1114,18 @@
 🤦🏽	andlet, facepalm, fjes, hudtype 4, irritasjon, oppgjeven, slår handa mot panna, slår handa mot panna: hudtype 4, vantru
 🤦🏾	andlet, facepalm, fjes, hudtype 5, irritasjon, oppgjeven, slår handa mot panna, slår handa mot panna: hudtype 5, vantru
 🤦🏿	andlet, facepalm, fjes, hudtype 6, irritasjon, oppgjeven, slår handa mot panna, slår handa mot panna: hudtype 6, vantru
-🤦‍♂	ansikt, facepalm, fjes, irritasjon, mann, mann som slår handa mot panna, oppgjeven, vantru
-🤦🏻‍♂	ansikt, facepalm, fjes, hudtype 1–2, irritasjon, mann, mann som slår handa mot panna, mann som slår handa mot panna: hudtype 1–2, oppgjeven, vantru
-🤦🏼‍♂	ansikt, facepalm, fjes, hudtype 3, irritasjon, mann, mann som slår handa mot panna, mann som slår handa mot panna: hudtype 3, oppgjeven, vantru
-🤦🏽‍♂	ansikt, facepalm, fjes, hudtype 4, irritasjon, mann, mann som slår handa mot panna, mann som slår handa mot panna: hudtype 4, oppgjeven, vantru
-🤦🏾‍♂	ansikt, facepalm, fjes, hudtype 5, irritasjon, mann, mann som slår handa mot panna, mann som slår handa mot panna: hudtype 5, oppgjeven, vantru
-🤦🏿‍♂	ansikt, facepalm, fjes, hudtype 6, irritasjon, mann, mann som slår handa mot panna, mann som slår handa mot panna: hudtype 6, oppgjeven, vantru
-🤦‍♀	ansikt, facepalm, fjes, irritasjon, kvinne, kvinne som slår handa mot panna, oppgjeven, vantru
-🤦🏻‍♀	ansikt, facepalm, fjes, hudtype 1–2, irritasjon, kvinne, kvinne som slår handa mot panna, kvinne som slår handa mot panna: hudtype 1–2, oppgjeven, vantru
-🤦🏼‍♀	ansikt, facepalm, fjes, hudtype 3, irritasjon, kvinne, kvinne som slår handa mot panna, kvinne som slår handa mot panna: hudtype 3, oppgjeven, vantru
-🤦🏽‍♀	ansikt, facepalm, fjes, hudtype 4, irritasjon, kvinne, kvinne som slår handa mot panna, kvinne som slår handa mot panna: hudtype 4, oppgjeven, vantru
-🤦🏾‍♀	ansikt, facepalm, fjes, hudtype 5, irritasjon, kvinne, kvinne som slår handa mot panna, kvinne som slår handa mot panna: hudtype 5, oppgjeven, vantru
-🤦🏿‍♀	ansikt, facepalm, fjes, hudtype 6, irritasjon, kvinne, kvinne som slår handa mot panna, kvinne som slår handa mot panna: hudtype 6, oppgjeven, vantru
+🤦‍♂	andlet, facepalm, fjes, irritasjon, mann, mann som slår handa mot panna, oppgjeven, vantru
+🤦🏻‍♂	andlet, facepalm, fjes, hudtype 1–2, irritasjon, mann, mann som slår handa mot panna, mann som slår handa mot panna: hudtype 1–2, oppgjeven, vantru
+🤦🏼‍♂	andlet, facepalm, fjes, hudtype 3, irritasjon, mann, mann som slår handa mot panna, mann som slår handa mot panna: hudtype 3, oppgjeven, vantru
+🤦🏽‍♂	andlet, facepalm, fjes, hudtype 4, irritasjon, mann, mann som slår handa mot panna, mann som slår handa mot panna: hudtype 4, oppgjeven, vantru
+🤦🏾‍♂	andlet, facepalm, fjes, hudtype 5, irritasjon, mann, mann som slår handa mot panna, mann som slår handa mot panna: hudtype 5, oppgjeven, vantru
+🤦🏿‍♂	andlet, facepalm, fjes, hudtype 6, irritasjon, mann, mann som slår handa mot panna, mann som slår handa mot panna: hudtype 6, oppgjeven, vantru
+🤦‍♀	andlet, facepalm, fjes, irritasjon, kvinne, kvinne som slår handa mot panna, oppgjeven, vantru
+🤦🏻‍♀	andlet, facepalm, fjes, hudtype 1–2, irritasjon, kvinne, kvinne som slår handa mot panna, kvinne som slår handa mot panna: hudtype 1–2, oppgjeven, vantru
+🤦🏼‍♀	andlet, facepalm, fjes, hudtype 3, irritasjon, kvinne, kvinne som slår handa mot panna, kvinne som slår handa mot panna: hudtype 3, oppgjeven, vantru
+🤦🏽‍♀	andlet, facepalm, fjes, hudtype 4, irritasjon, kvinne, kvinne som slår handa mot panna, kvinne som slår handa mot panna: hudtype 4, oppgjeven, vantru
+🤦🏾‍♀	andlet, facepalm, fjes, hudtype 5, irritasjon, kvinne, kvinne som slår handa mot panna, kvinne som slår handa mot panna: hudtype 5, oppgjeven, vantru
+🤦🏿‍♀	andlet, facepalm, fjes, hudtype 6, irritasjon, kvinne, kvinne som slår handa mot panna, kvinne som slår handa mot panna: hudtype 6, oppgjeven, vantru
 🤷	likesæle, skuldretrekning, trekkjer på skuldrene, tvil
 🤷🏻	hudtype 1–2, likesæle, skuldretrekning, trekkjer på skuldrene, trekkjer på skuldrene: hudtype 1–2, tvil
 🤷🏼	hudtype 3, likesæle, skuldretrekning, trekkjer på skuldrene, trekkjer på skuldrene: hudtype 3, tvil
@@ -997,24 +1144,24 @@
 🤷🏽‍♀	hudtype 4, kvinne, kvinne som trekkjer på skuldrene, kvinne som trekkjer på skuldrene: hudtype 4, likesæle, skuldertrekning, tvil
 🤷🏾‍♀	hudtype 5, kvinne, kvinne som trekkjer på skuldrene, kvinne som trekkjer på skuldrene: hudtype 5, likesæle, skuldertrekning, tvil
 🤷🏿‍♀	hudtype 6, kvinne, kvinne som trekkjer på skuldrene, kvinne som trekkjer på skuldrene: hudtype 6, likesæle, skuldertrekning, tvil
-🧑‍⚕	dokter, helsearbeidar, helsevesen, lege, sjukepleiar, terapaut
-🧑🏻‍⚕	dokter, helsearbeidar, helsearbeidar: hudtype 1–2, helsevesen, hudtype 1–2, lege, sjukepleiar, terapaut
-🧑🏼‍⚕	dokter, helsearbeidar, helsearbeidar: hudtype 3, helsevesen, hudtype 3, lege, sjukepleiar, terapaut
-🧑🏽‍⚕	dokter, helsearbeidar, helsearbeidar: hudtype 4, helsevesen, hudtype 4, lege, sjukepleiar, terapaut
-🧑🏾‍⚕	dokter, helsearbeidar, helsearbeidar: hudtype 5, helsevesen, hudtype 5, lege, sjukepleiar, terapaut
-🧑🏿‍⚕	dokter, helsearbeidar, helsearbeidar: hudtype 6, helsevesen, hudtype 6, lege, sjukepleiar, terapaut
-👨‍⚕	dokter, helsevesen, lege, mann, mannleg helsearbeidar, sjukepleiar, terapeut
-👨🏻‍⚕	dokter, helsevesen, hudtype 1–2, lege, mann, mannleg helsearbeidar, mannleg helsearbeidar: hudtype 1–2, sjukepleiar, terapeut
-👨🏼‍⚕	dokter, helsevesen, hudtype 3, lege, mann, mannleg helsearbeidar, mannleg helsearbeidar: hudtype 3, sjukepleiar, terapeut
-👨🏽‍⚕	dokter, helsevesen, hudtype 4, lege, mann, mannleg helsearbeidar, mannleg helsearbeidar: hudtype 4, sjukepleiar, terapeut
-👨🏾‍⚕	dokter, helsevesen, hudtype 5, lege, mann, mannleg helsearbeidar, mannleg helsearbeidar: hudtype 5, sjukepleiar, terapeut
-👨🏿‍⚕	dokter, helsevesen, hudtype 6, lege, mann, mannleg helsearbeidar, mannleg helsearbeidar: hudtype 6, sjukepleiar, terapeut
-👩‍⚕	dokter, helseesen, kvinne, kvinneleg helsearbeidar, lege, sjukepleiar, terapeut
-👩🏻‍⚕	dokter, helseesen, hudtype 1–2, kvinne, kvinneleg helsearbeidar, kvinneleg helsearbeidar: hudtype 1–2, lege, sjukepleiar, terapeut
-👩🏼‍⚕	dokter, helseesen, hudtype 3, kvinne, kvinneleg helsearbeidar, kvinneleg helsearbeidar: hudtype 3, lege, sjukepleiar, terapeut
-👩🏽‍⚕	dokter, helseesen, hudtype 4, kvinne, kvinneleg helsearbeidar, kvinneleg helsearbeidar: hudtype 4, lege, sjukepleiar, terapeut
-👩🏾‍⚕	dokter, helseesen, hudtype 5, kvinne, kvinneleg helsearbeidar, kvinneleg helsearbeidar: hudtype 5, lege, sjukepleiar, terapeut
-👩🏿‍⚕	dokter, helseesen, hudtype 6, kvinne, kvinneleg helsearbeidar, kvinneleg helsearbeidar: hudtype 6, lege, sjukepleiar, terapeut
+🧑‍⚕	dokter, doktor, helsearbeidar, helsevesen, lege, sjukepleiar, terapeut
+🧑🏻‍⚕	dokter, doktor, helsearbeidar, helsearbeidar: hudtype 1–2, helsevesen, hudtype 1–2, lege, sjukepleiar, terapeut
+🧑🏼‍⚕	dokter, doktor, helsearbeidar, helsearbeidar: hudtype 3, helsevesen, hudtype 3, lege, sjukepleiar, terapeut
+🧑🏽‍⚕	dokter, doktor, helsearbeidar, helsearbeidar: hudtype 4, helsevesen, hudtype 4, lege, sjukepleiar, terapeut
+🧑🏾‍⚕	dokter, doktor, helsearbeidar, helsearbeidar: hudtype 5, helsevesen, hudtype 5, lege, sjukepleiar, terapeut
+🧑🏿‍⚕	dokter, doktor, helsearbeidar, helsearbeidar: hudtype 6, helsevesen, hudtype 6, lege, sjukepleiar, terapeut
+👨‍⚕	dokter, doktor, helsevesen, lege, mann, mannleg helsearbeidar, sjukepleiar, terapeut
+👨🏻‍⚕	dokter, doktor, helsevesen, hudtype 1–2, lege, mann, mannleg helsearbeidar, mannleg helsearbeidar: hudtype 1–2, sjukepleiar, terapeut
+👨🏼‍⚕	dokter, doktor, helsevesen, hudtype 3, lege, mann, mannleg helsearbeidar, mannleg helsearbeidar: hudtype 3, sjukepleiar, terapeut
+👨🏽‍⚕	dokter, doktor, helsevesen, hudtype 4, lege, mann, mannleg helsearbeidar, mannleg helsearbeidar: hudtype 4, sjukepleiar, terapeut
+👨🏾‍⚕	dokter, doktor, helsevesen, hudtype 5, lege, mann, mannleg helsearbeidar, mannleg helsearbeidar: hudtype 5, sjukepleiar, terapeut
+👨🏿‍⚕	dokter, doktor, helsevesen, hudtype 6, lege, mann, mannleg helsearbeidar, mannleg helsearbeidar: hudtype 6, sjukepleiar, terapeut
+👩‍⚕	dokter, doktor, helsevesen, kvinne, kvinneleg helsearbeidar, lege, sjukepleiar, terapeut
+👩🏻‍⚕	dokter, doktor, helsevesen, hudtype 1–2, kvinne, kvinneleg helsearbeidar, kvinneleg helsearbeidar: hudtype 1–2, lege, sjukepleiar, terapeut
+👩🏼‍⚕	dokter, doktor, helsevesen, hudtype 3, kvinne, kvinneleg helsearbeidar, kvinneleg helsearbeidar: hudtype 3, lege, sjukepleiar, terapeut
+👩🏽‍⚕	dokter, doktor, helsevesen, hudtype 4, kvinne, kvinneleg helsearbeidar, kvinneleg helsearbeidar: hudtype 4, lege, sjukepleiar, terapeut
+👩🏾‍⚕	dokter, doktor, helsevesen, hudtype 5, kvinne, kvinneleg helsearbeidar, kvinneleg helsearbeidar: hudtype 5, lege, sjukepleiar, terapeut
+👩🏿‍⚕	dokter, doktor, helsevesen, hudtype 6, kvinne, kvinneleg helsearbeidar, kvinneleg helsearbeidar: hudtype 6, lege, sjukepleiar, terapeut
 🧑‍🎓	skule, student, universitet
 🧑🏻‍🎓	hudtype 1–2, skule, student, universitet
 🧑🏼‍🎓	hudtype 3, skule, student, universitet
@@ -1099,12 +1246,12 @@
 👩🏽‍🍳	hudtype 4, kvinne, kvinneleg kokk, kvinneleg kokk: hudtype 4, matlaging, restaurant
 👩🏾‍🍳	hudtype 5, kvinne, kvinneleg kokk, kvinneleg kokk: hudtype 5, matlaging, restaurant
 👩🏿‍🍳	hudtype 6, kvinne, kvinneleg kokk, kvinneleg kokk: hudtype 6, matlaging, restaurant
-🧑‍🔧	bil, elektrikar, handverkar, mekanikar, motor, røyrleggjar
-🧑🏻‍🔧	bil, elektrikar, handverkar, hudtype 1–2, mekanikar, mekanikar: hudtype 1–2, motor, røyrleggjar
-🧑🏼‍🔧	bil, elektrikar, handverkar, hudtype 3, mekanikar, mekanikar: hudtype 3, motor, røyrleggjar
-🧑🏽‍🔧	bil, elektrikar, handverkar, hudtype 4, mekanikar, mekanikar: hudtype 4, motor, røyrleggjar
-🧑🏾‍🔧	bil, elektrikar, handverkar, hudtype 5, mekanikar, mekanikar: hudtype 5, motor, røyrleggjar
-🧑🏿‍🔧	bil, elektrikar, handverkar, hudtype 6, mekanikar, mekanikar: hudtype 6, motor, røyrleggjar
+🧑‍🔧	elektrikar, handverkar, mekanikar, røyrleggar, røyrleggjar
+🧑🏻‍🔧	elektrikar, handverkar, hudtype 1–2, mekanikar, mekanikar: hudtype 1–2, røyrleggar, røyrleggjar
+🧑🏼‍🔧	elektrikar, handverkar, hudtype 3, mekanikar, mekanikar: hudtype 3, røyrleggar, røyrleggjar
+🧑🏽‍🔧	elektrikar, handverkar, hudtype 4, mekanikar, mekanikar: hudtype 4, røyrleggar, røyrleggjar
+🧑🏾‍🔧	elektrikar, handverkar, hudtype 5, mekanikar, mekanikar: hudtype 5, røyrleggar, røyrleggjar
+🧑🏿‍🔧	elektrikar, handverkar, hudtype 6, mekanikar, mekanikar: hudtype 6, røyrleggar, røyrleggjar
 👨‍🔧	bil, elektrikar, handverkar, mann, mannleg mekanikar, mekanikar, motor, røyrleggjar
 👨🏻‍🔧	bil, elektrikar, handverkar, hudtype 1–2, mann, mannleg mekanikar, mannleg mekanikar: hudtype 1–2, mekanikar, motor, røyrleggjar
 👨🏼‍🔧	bil, elektrikar, handverkar, hudtype 3, mann, mannleg mekanikar, mannleg mekanikar: hudtype 3, mekanikar, motor, røyrleggjar
@@ -1129,12 +1276,12 @@
 👨🏽‍🏭	arbeidar, fabrikk, hudtype 4, industri, industriarbeidar, mann, mannleg industriarbeidar, mannleg industriarbeidar: hudtype 4, produksjon
 👨🏾‍🏭	arbeidar, fabrikk, hudtype 5, industri, industriarbeidar, mann, mannleg industriarbeidar, mannleg industriarbeidar: hudtype 5, produksjon
 👨🏿‍🏭	arbeidar, fabrikk, hudtype 6, industri, industriarbeidar, mann, mannleg industriarbeidar, mannleg industriarbeidar: hudtype 6, produksjon
-👩‍🏭	fabrikk, industri, kvinne, kvinneleg industriarbeidar, produksjon
-👩🏻‍🏭	fabrikk, hudtype 1–2, industri, kvinne, kvinneleg industriarbeidar, kvinneleg industriarbeidar: hudtype 1–2, produksjon
-👩🏼‍🏭	fabrikk, hudtype 3, industri, kvinne, kvinneleg industriarbeidar, kvinneleg industriarbeidar: hudtype 3, produksjon
-👩🏽‍🏭	fabrikk, hudtype 4, industri, kvinne, kvinneleg industriarbeidar, kvinneleg industriarbeidar: hudtype 4, produksjon
-👩🏾‍🏭	fabrikk, hudtype 5, industri, kvinne, kvinneleg industriarbeidar, kvinneleg industriarbeidar: hudtype 5, produksjon
-👩🏿‍🏭	fabrikk, hudtype 6, industri, kvinne, kvinneleg industriarbeidar, kvinneleg industriarbeidar: hudtype 6, produksjon
+👩‍🏭	arbeidar, fabrikk, industri, industriarbeidar, kvinne, kvinneleg industriarbeidar, produksjon
+👩🏻‍🏭	arbeidar, fabrikk, hudtype 1–2, industri, industriarbeidar, kvinne, kvinneleg industriarbeidar, kvinneleg industriarbeidar: hudtype 1–2, produksjon
+👩🏼‍🏭	arbeidar, fabrikk, hudtype 3, industri, industriarbeidar, kvinne, kvinneleg industriarbeidar, kvinneleg industriarbeidar: hudtype 3, produksjon
+👩🏽‍🏭	arbeidar, fabrikk, hudtype 4, industri, industriarbeidar, kvinne, kvinneleg industriarbeidar, kvinneleg industriarbeidar: hudtype 4, produksjon
+👩🏾‍🏭	arbeidar, fabrikk, hudtype 5, industri, industriarbeidar, kvinne, kvinneleg industriarbeidar, kvinneleg industriarbeidar: hudtype 5, produksjon
+👩🏿‍🏭	arbeidar, fabrikk, hudtype 6, industri, industriarbeidar, kvinne, kvinneleg industriarbeidar, kvinneleg industriarbeidar: hudtype 6, produksjon
 🧑‍💼	kontor, kontorarbeidar, leiar, næringsliv
 🧑🏻‍💼	hudtype 1–2, kontor, kontorarbeidar, kontorarbeidar: hudtype 1–2, leiar, næringsliv
 🧑🏼‍💼	hudtype 3, kontor, kontorarbeidar, kontorarbeidar: hudtype 3, leiar, næringsliv
@@ -1445,12 +1592,12 @@
 🧞‍♀	djinn, kvinneleg ånd
 🧟‍♂	mannleg zombie, udød, vandød
 🧟‍♀	kvinneleg zombie, udød, vandød
-💆	andlet, andletsmassasje, massasje, venleikssalong
-💆🏻	andlet, andletsmassasje, andletsmassasje: hudtype 1–2, hudtype 1–2, massasje, venleikssalong
-💆🏼	andlet, andletsmassasje, andletsmassasje: hudtype 3, hudtype 3, massasje, venleikssalong
-💆🏽	andlet, andletsmassasje, andletsmassasje: hudtype 4, hudtype 4, massasje, venleikssalong
-💆🏾	andlet, andletsmassasje, andletsmassasje: hudtype 5, hudtype 5, massasje, venleikssalong
-💆🏿	andlet, andletsmassasje, andletsmassasje: hudtype 6, hudtype 6, massasje, venleikssalong
+💆	andlet, andletsmassasje, avslapping, hovudpine, hovudverk, massasje, person, venleikssalong
+💆🏻	andlet, andletsmassasje, andletsmassasje: hudtype 1–2, avslapping, hovudpine, hovudverk, hudtype 1–2, massasje, person, venleikssalong
+💆🏼	andlet, andletsmassasje, andletsmassasje: hudtype 3, avslapping, hovudpine, hovudverk, hudtype 3, massasje, person, venleikssalong
+💆🏽	andlet, andletsmassasje, andletsmassasje: hudtype 4, avslapping, hovudpine, hovudverk, hudtype 4, massasje, person, venleikssalong
+💆🏾	andlet, andletsmassasje, andletsmassasje: hudtype 5, avslapping, hovudpine, hovudverk, hudtype 5, massasje, person, venleikssalong
+💆🏿	andlet, andletsmassasje, andletsmassasje: hudtype 6, avslapping, hovudpine, hovudverk, hudtype 6, massasje, person, venleikssalong
 💆‍♂	andlet, avslapping, hovudmassasje, mann, mann som får andletsmassasje, massasje, velvære
 💆🏻‍♂	andlet, avslapping, hovudmassasje, hudtype 1–2, mann, mann som får andletsmassasje, mann som får andletsmassasje: hudtype 1–2, massasje, velvære
 💆🏼‍♂	andlet, avslapping, hovudmassasje, hudtype 3, mann, mann som får andletsmassasje, mann som får andletsmassasje: hudtype 3, massasje, velvære
@@ -1487,60 +1634,150 @@
 🚶🏽‍♀	fotgjengar, gå, hudtype 4, kvinne, kvinneleg fotgjengar, kvinneleg fotgjengar: hudtype 4, tur
 🚶🏾‍♀	fotgjengar, gå, hudtype 5, kvinne, kvinneleg fotgjengar, kvinneleg fotgjengar: hudtype 5, tur
 🚶🏿‍♀	fotgjengar, gå, hudtype 6, kvinne, kvinneleg fotgjengar, kvinneleg fotgjengar: hudtype 6, tur
+🚶‍➡	fotgjengar, fotgjengar vendt mot høgre, gå, gåande
+🚶🏻‍➡	fotgjengar, fotgjengar vendt mot høgre, gå, gåande
+🚶🏼‍➡	fotgjengar, fotgjengar vendt mot høgre, gå, gåande
+🚶🏽‍➡	fotgjengar, fotgjengar vendt mot høgre, gå, gåande
+🚶🏾‍➡	fotgjengar, fotgjengar vendt mot høgre, gå, gåande
+🚶🏿‍➡	fotgjengar, fotgjengar vendt mot høgre, gå, gåande
+🚶‍♀‍➡	fotgjengar, gå, kvinne, kvinneleg fotgjengar, kvinneleg fotgjengar vendt mot høgre, tur
+🚶🏻‍♀‍➡	fotgjengar, gå, kvinne, kvinneleg fotgjengar, kvinneleg fotgjengar vendt mot høgre, tur
+🚶🏼‍♀‍➡	fotgjengar, gå, kvinne, kvinneleg fotgjengar, kvinneleg fotgjengar vendt mot høgre, tur
+🚶🏽‍♀‍➡	fotgjengar, gå, kvinne, kvinneleg fotgjengar, kvinneleg fotgjengar vendt mot høgre, tur
+🚶🏾‍♀‍➡	fotgjengar, gå, kvinne, kvinneleg fotgjengar, kvinneleg fotgjengar vendt mot høgre, tur
+🚶🏿‍♀‍➡	fotgjengar, gå, kvinne, kvinneleg fotgjengar, kvinneleg fotgjengar vendt mot høgre, tur
+🚶‍♂‍➡	fotgjengar, gå, mann, mannleg fotgjengar, mannleg fotgjengar vendt mot høgre, tur
+🚶🏻‍♂‍➡	fotgjengar, gå, mann, mannleg fotgjengar, mannleg fotgjengar vendt mot høgre, tur
+🚶🏼‍♂‍➡	fotgjengar, gå, mann, mannleg fotgjengar, mannleg fotgjengar vendt mot høgre, tur
+🚶🏽‍♂‍➡	fotgjengar, gå, mann, mannleg fotgjengar, mannleg fotgjengar vendt mot høgre, tur
+🚶🏾‍♂‍➡	fotgjengar, gå, mann, mannleg fotgjengar, mannleg fotgjengar vendt mot høgre, tur
+🚶🏿‍♂‍➡	fotgjengar, gå, mann, mannleg fotgjengar, mannleg fotgjengar vendt mot høgre, tur
+🧎‍➡	person som kneler vendt mot høgre
+🧎🏻‍➡	person som kneler vendt mot høgre
+🧎🏼‍➡	person som kneler vendt mot høgre
+🧎🏽‍➡	person som kneler vendt mot høgre
+🧎🏾‍➡	person som kneler vendt mot høgre
+🧎🏿‍➡	person som kneler vendt mot høgre
+🧎‍♀‍➡	kvinne som kneler vendt mot høgre
+🧎🏻‍♀‍➡	kvinne som kneler vendt mot høgre
+🧎🏼‍♀‍➡	kvinne som kneler vendt mot høgre
+🧎🏽‍♀‍➡	kvinne som kneler vendt mot høgre
+🧎🏾‍♀‍➡	kvinne som kneler vendt mot høgre
+🧎🏿‍♀‍➡	kvinne som kneler vendt mot høgre
+🧎‍♂‍➡	mann som kneler vendt mot høgre
+🧎🏻‍♂‍➡	mann som kneler vendt mot høgre
+🧎🏼‍♂‍➡	mann som kneler vendt mot høgre
+🧎🏽‍♂‍➡	mann som kneler vendt mot høgre
+🧎🏾‍♂‍➡	mann som kneler vendt mot høgre
+🧎🏿‍♂‍➡	mann som kneler vendt mot høgre
 🧑‍🦯	blind, person med blindestokk, tilgjenge
 🧑🏻‍🦯	blind, hudtype 1–2, person med blindestokk, tilgjenge
 🧑🏼‍🦯	blind, hudtype 3, person med blindestokk, tilgjenge
 🧑🏽‍🦯	blind, hudtype 4, person med blindestokk, tilgjenge
 🧑🏾‍🦯	blind, hudtype 5, person med blindestokk, tilgjenge
 🧑🏿‍🦯	blind, hudtype 6, person med blindestokk, tilgjenge
+🧑‍🦯‍➡	blind, person med blindestokk, person med blindestokk vendt mot høgre, tilgjenge
+🧑🏻‍🦯‍➡	blind, person med blindestokk, person med blindestokk vendt mot høgre, tilgjenge
+🧑🏼‍🦯‍➡	blind, person med blindestokk, person med blindestokk vendt mot høgre, tilgjenge
+🧑🏽‍🦯‍➡	blind, person med blindestokk, person med blindestokk vendt mot høgre, tilgjenge
+🧑🏾‍🦯‍➡	blind, person med blindestokk, person med blindestokk vendt mot høgre, tilgjenge
+🧑🏿‍🦯‍➡	blind, person med blindestokk, person med blindestokk vendt mot høgre, tilgjenge
 👨‍🦯	blind, mann, mann med blindestokk, tilgjenge
 👨🏻‍🦯	blind, hudtype 1–2, mann, mann med blindestokk, tilgjenge
 👨🏼‍🦯	blind, hudtype 3, mann, mann med blindestokk, tilgjenge
 👨🏽‍🦯	blind, hudtype 4, mann, mann med blindestokk, tilgjenge
 👨🏾‍🦯	blind, hudtype 5, mann, mann med blindestokk, tilgjenge
 👨🏿‍🦯	blind, hudtype 6, mann, mann med blindestokk, tilgjenge
+👨‍🦯‍➡	blind, mann, mann med blindestokk, mann med blindestokk vendt mot høgre, tilgjenge
+👨🏻‍🦯‍➡	blind, mann, mann med blindestokk, mann med blindestokk vendt mot høgre, tilgjenge
+👨🏼‍🦯‍➡	blind, mann, mann med blindestokk, mann med blindestokk vendt mot høgre, tilgjenge
+👨🏽‍🦯‍➡	blind, mann, mann med blindestokk, mann med blindestokk vendt mot høgre, tilgjenge
+👨🏾‍🦯‍➡	blind, mann, mann med blindestokk, mann med blindestokk vendt mot høgre, tilgjenge
+👨🏿‍🦯‍➡	blind, mann, mann med blindestokk, mann med blindestokk vendt mot høgre, tilgjenge
 👩‍🦯	blind, kvinne, kvinne med blindestokk, tilgjenge
 👩🏻‍🦯	blind, hudtype 1–2, kvinne, kvinne med blindestokk, tilgjenge
 👩🏼‍🦯	blind, hudtype 3, kvinne, kvinne med blindestokk, tilgjenge
 👩🏽‍🦯	blind, hudtype 4, kvinne, kvinne med blindestokk, tilgjenge
 👩🏾‍🦯	blind, hudtype 5, kvinne, kvinne med blindestokk, tilgjenge
 👩🏿‍🦯	blind, hudtype 6, kvinne, kvinne med blindestokk, tilgjenge
+👩‍🦯‍➡	blind, kvinne, kvinne med blindestokk, kvinne med blindestokk vendt mot høgre, tilgjenge
+👩🏻‍🦯‍➡	blind, kvinne, kvinne med blindestokk, kvinne med blindestokk vendt mot høgre, tilgjenge
+👩🏼‍🦯‍➡	blind, kvinne, kvinne med blindestokk, kvinne med blindestokk vendt mot høgre, tilgjenge
+👩🏽‍🦯‍➡	blind, kvinne, kvinne med blindestokk, kvinne med blindestokk vendt mot høgre, tilgjenge
+👩🏾‍🦯‍➡	blind, kvinne, kvinne med blindestokk, kvinne med blindestokk vendt mot høgre, tilgjenge
+👩🏿‍🦯‍➡	blind, kvinne, kvinne med blindestokk, kvinne med blindestokk vendt mot høgre, tilgjenge
 🧑‍🦼	person i motorisert rullestol, rullestol, tilgjenge
 🧑🏻‍🦼	hudtype 1–2, person i motorisert rullestol, rullestol, tilgjenge
 🧑🏼‍🦼	hudtype 3, person i motorisert rullestol, rullestol, tilgjenge
 🧑🏽‍🦼	hudtype 4, person i motorisert rullestol, rullestol, tilgjenge
 🧑🏾‍🦼	hudtype 5, person i motorisert rullestol, rullestol, tilgjenge
 🧑🏿‍🦼	hudtype 6, person i motorisert rullestol, rullestol, tilgjenge
+🧑‍🦼‍➡	person i motorisert rullestol, person i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+🧑🏻‍🦼‍➡	person i motorisert rullestol, person i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+🧑🏼‍🦼‍➡	person i motorisert rullestol, person i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+🧑🏽‍🦼‍➡	person i motorisert rullestol, person i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+🧑🏾‍🦼‍➡	person i motorisert rullestol, person i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+🧑🏿‍🦼‍➡	person i motorisert rullestol, person i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
 👨‍🦼	mann, mann i motorisert rullestol, rullestol, tilgjenge
 👨🏻‍🦼	hudtype 1–2, mann, mann i motorisert rullestol, rullestol, tilgjenge
 👨🏼‍🦼	hudtype 3, mann, mann i motorisert rullestol, rullestol, tilgjenge
 👨🏽‍🦼	hudtype 4, mann, mann i motorisert rullestol, rullestol, tilgjenge
 👨🏾‍🦼	hudtype 5, mann, mann i motorisert rullestol, rullestol, tilgjenge
 👨🏿‍🦼	hudtype 6, mann, mann i motorisert rullestol, rullestol, tilgjenge
+👨‍🦼‍➡	mann, mann i motorisert rullestol, mann i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+👨🏻‍🦼‍➡	mann, mann i motorisert rullestol, mann i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+👨🏼‍🦼‍➡	mann, mann i motorisert rullestol, mann i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+👨🏽‍🦼‍➡	mann, mann i motorisert rullestol, mann i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+👨🏾‍🦼‍➡	mann, mann i motorisert rullestol, mann i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+👨🏿‍🦼‍➡	mann, mann i motorisert rullestol, mann i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
 👩‍🦼	kvinne, kvinne i motorisert rullestol, rullestol, tilgjenge
 👩🏻‍🦼	hudtype 1–2, kvinne, kvinne i motorisert rullestol, rullestol, tilgjenge
 👩🏼‍🦼	hudtype 3, kvinne, kvinne i motorisert rullestol, rullestol, tilgjenge
 👩🏽‍🦼	hudtype 4, kvinne, kvinne i motorisert rullestol, rullestol, tilgjenge
 👩🏾‍🦼	hudtype 5, kvinne, kvinne i motorisert rullestol, rullestol, tilgjenge
 👩🏿‍🦼	hudtype 6, kvinne, kvinne i motorisert rullestol, rullestol, tilgjenge
+👩‍🦼‍➡	kvinne, kvinne i motorisert rullestol, kvinne i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+👩🏻‍🦼‍➡	kvinne, kvinne i motorisert rullestol, kvinne i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+👩🏼‍🦼‍➡	kvinne, kvinne i motorisert rullestol, kvinne i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+👩🏽‍🦼‍➡	kvinne, kvinne i motorisert rullestol, kvinne i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+👩🏾‍🦼‍➡	kvinne, kvinne i motorisert rullestol, kvinne i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
+👩🏿‍🦼‍➡	kvinne, kvinne i motorisert rullestol, kvinne i motorisert rullestol vendt mot høgre, rullestol, tilgjenge
 🧑‍🦽	person i manuell rullestol, rullestol, tilgjenge
 🧑🏻‍🦽	hudtype 1–2, person i manuell rullestol, rullestol, tilgjenge
 🧑🏼‍🦽	hudtype 3, person i manuell rullestol, rullestol, tilgjenge
 🧑🏽‍🦽	hudtype 4, person i manuell rullestol, rullestol, tilgjenge
 🧑🏾‍🦽	hudtype 5, person i manuell rullestol, rullestol, tilgjenge
 🧑🏿‍🦽	hudtype 6, person i manuell rullestol, rullestol, tilgjenge
+🧑‍🦽‍➡	person i manuell rullestol, person i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+🧑🏻‍🦽‍➡	person i manuell rullestol, person i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+🧑🏼‍🦽‍➡	person i manuell rullestol, person i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+🧑🏽‍🦽‍➡	person i manuell rullestol, person i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+🧑🏾‍🦽‍➡	person i manuell rullestol, person i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+🧑🏿‍🦽‍➡	person i manuell rullestol, person i manuell rullestol vendt mot høgre, rullestol, tilgjenge
 👨‍🦽	mann, mann i manuell rullestol, rullestol, tilgjenge
 👨🏻‍🦽	hudtype 1–2, mann, mann i manuell rullestol, rullestol, tilgjenge
 👨🏼‍🦽	hudtype 3, mann, mann i manuell rullestol, rullestol, tilgjenge
 👨🏽‍🦽	hudtype 4, mann, mann i manuell rullestol, rullestol, tilgjenge
 👨🏾‍🦽	hudtype 5, mann, mann i manuell rullestol, rullestol, tilgjenge
 👨🏿‍🦽	hudtype 6, mann, mann i manuell rullestol, rullestol, tilgjenge
+👨‍🦽‍➡	mann, mann i manuell rullestol, mann i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+👨🏻‍🦽‍➡	mann, mann i manuell rullestol, mann i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+👨🏼‍🦽‍➡	mann, mann i manuell rullestol, mann i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+👨🏽‍🦽‍➡	mann, mann i manuell rullestol, mann i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+👨🏾‍🦽‍➡	mann, mann i manuell rullestol, mann i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+👨🏿‍🦽‍➡	mann, mann i manuell rullestol, mann i manuell rullestol vendt mot høgre, rullestol, tilgjenge
 👩‍🦽	kvinne, kvinne i manuell rullestol, rullestol, tilgjenge
 👩🏻‍🦽	hudtype 1–2, kvinne, kvinne i manuell rullestol, rullestol, tilgjenge
 👩🏼‍🦽	hudtype 3, kvinne, kvinne i manuell rullestol, rullestol, tilgjenge
 👩🏽‍🦽	hudtype 4, kvinne, kvinne i manuell rullestol, rullestol, tilgjenge
 👩🏾‍🦽	hudtype 5, kvinne, kvinne i manuell rullestol, rullestol, tilgjenge
 👩🏿‍🦽	hudtype 6, kvinne, kvinne i manuell rullestol, rullestol, tilgjenge
+👩‍🦽‍➡	kvinne, kvinne i manuell rullestol, kvinne i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+👩🏻‍🦽‍➡	kvinne, kvinne i manuell rullestol, kvinne i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+👩🏼‍🦽‍➡	kvinne, kvinne i manuell rullestol, kvinne i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+👩🏽‍🦽‍➡	kvinne, kvinne i manuell rullestol, kvinne i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+👩🏾‍🦽‍➡	kvinne, kvinne i manuell rullestol, kvinne i manuell rullestol vendt mot høgre, rullestol, tilgjenge
+👩🏿‍🦽‍➡	kvinne, kvinne i manuell rullestol, kvinne i manuell rullestol vendt mot høgre, rullestol, tilgjenge
 🏃	joggar, jogging, løpar, løping, maraton, sport
 🏃🏻	hudtype 1–2, joggar, jogging, løpar, løpar: hudtype 1–2, løping, maraton, sport
 🏃🏼	hudtype 3, joggar, jogging, løpar, løpar: hudtype 3, løping, maraton, sport
@@ -1559,6 +1796,24 @@
 🏃🏽‍♀	hudtype 4, jogge, kvineleg løpar, kvineleg løpar: hudtype 4, kvinne, løpe, maraton
 🏃🏾‍♀	hudtype 5, jogge, kvineleg løpar, kvineleg løpar: hudtype 5, kvinne, løpe, maraton
 🏃🏿‍♀	hudtype 6, jogge, kvineleg løpar, kvineleg løpar: hudtype 6, kvinne, løpe, maraton
+🏃‍➡	joggar, jogging, løpar, løpar vendt mot høgre, løping, maraton, sport
+🏃🏻‍➡	joggar, jogging, løpar, løpar vendt mot høgre, løping, maraton, sport
+🏃🏼‍➡	joggar, jogging, løpar, løpar vendt mot høgre, løping, maraton, sport
+🏃🏽‍➡	joggar, jogging, løpar, løpar vendt mot høgre, løping, maraton, sport
+🏃🏾‍➡	joggar, jogging, løpar, løpar vendt mot høgre, løping, maraton, sport
+🏃🏿‍➡	joggar, jogging, løpar, løpar vendt mot høgre, løping, maraton, sport
+🏃‍♀‍➡	jogge, kvineleg løpar, kvineleg løpar vendt mot høgre, kvinne, løpe, maraton
+🏃🏻‍♀‍➡	jogge, kvineleg løpar, kvineleg løpar vendt mot høgre, kvinne, løpe, maraton
+🏃🏼‍♀‍➡	jogge, kvineleg løpar, kvineleg løpar vendt mot høgre, kvinne, løpe, maraton
+🏃🏽‍♀‍➡	jogge, kvineleg løpar, kvineleg løpar vendt mot høgre, kvinne, løpe, maraton
+🏃🏾‍♀‍➡	jogge, kvineleg løpar, kvineleg løpar vendt mot høgre, kvinne, løpe, maraton
+🏃🏿‍♀‍➡	jogge, kvineleg løpar, kvineleg løpar vendt mot høgre, kvinne, løpe, maraton
+🏃‍♂‍➡	jogge, løpe, mann, mannleg løpar, mannleg løpar vendt mot høgre, maraton
+🏃🏻‍♂‍➡	jogge, løpe, mann, mannleg løpar, mannleg løpar vendt mot høgre, maraton
+🏃🏼‍♂‍➡	jogge, løpe, mann, mannleg løpar, mannleg løpar vendt mot høgre, maraton
+🏃🏽‍♂‍➡	jogge, løpe, mann, mannleg løpar, mannleg løpar vendt mot høgre, maraton
+🏃🏾‍♂‍➡	jogge, løpe, mann, mannleg løpar, mannleg løpar vendt mot høgre, maraton
+🏃🏿‍♂‍➡	jogge, løpe, mann, mannleg løpar, mannleg løpar vendt mot høgre, maraton
 💃	dans, dansande kvinne, kvinne
 💃🏻	dans, dansande kvinne, dansande kvinne: hudtype 1–2, hudtype 1–2, kvinne
 💃🏼	dans, dansande kvinne, dansande kvinne: hudtype 3, hudtype 3, kvinne
@@ -1765,58 +2020,58 @@
 🤹🏽‍♀	hudtype 4, kvinne, kvinneleg sjonglør, kvinneleg sjonglør: hudtype 4, multitasking, sirkus, sjonglere
 🤹🏾‍♀	hudtype 5, kvinne, kvinneleg sjonglør, kvinneleg sjonglør: hudtype 5, multitasking, sirkus, sjonglere
 🤹🏿‍♀	hudtype 6, kvinne, kvinneleg sjonglør, kvinneleg sjonglør: hudtype 6, multitasking, sirkus, sjonglere
-🧑‍🤝‍🧑	halde hender, hand, par, personar, personar som leiar
-🧑🏻‍🤝‍🧑🏻	halde hender, hand, hudtype 1–2, par, personar, personar som leiar, personar som leiar: hudtype 1–2
-🧑🏻‍🤝‍🧑🏼	halde hender, hand, hudtype 1–2, hudtype 3, par, personar, personar som leiar, personar som leiar: hudtype 1–2, hudtype 3
-🧑🏻‍🤝‍🧑🏽	halde hender, hand, hudtype 1–2, hudtype 4, par, personar, personar som leiar, personar som leiar: hudtype 1–2, hudtype 4
-🧑🏻‍🤝‍🧑🏾	halde hender, hand, hudtype 1–2, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 1–2, hudtype 5
-🧑🏻‍🤝‍🧑🏿	halde hender, hand, hudtype 1–2, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 1–2, hudtype 6
-🧑🏼‍🤝‍🧑🏻	halde hender, hand, hudtype 1–2, hudtype 3, par, personar, personar som leiar, personar som leiar: hudtype 3, hudtype 1–2
-🧑🏼‍🤝‍🧑🏼	halde hender, hand, hudtype 3, par, personar, personar som leiar, personar som leiar: hudtype 3
-🧑🏼‍🤝‍🧑🏽	halde hender, hand, hudtype 3, hudtype 4, par, personar, personar som leiar, personar som leiar: hudtype 3, hudtype 4
-🧑🏼‍🤝‍🧑🏾	halde hender, hand, hudtype 3, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 3, hudtype 5
-🧑🏼‍🤝‍🧑🏿	halde hender, hand, hudtype 3, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 3, hudtype 6
-🧑🏽‍🤝‍🧑🏻	halde hender, hand, hudtype 1–2, hudtype 4, par, personar, personar som leiar, personar som leiar: hudtype 4, hudtype 1–2
-🧑🏽‍🤝‍🧑🏼	halde hender, hand, hudtype 3, hudtype 4, par, personar, personar som leiar, personar som leiar: hudtype 4, hudtype 3
-🧑🏽‍🤝‍🧑🏽	halde hender, hand, hudtype 4, par, personar, personar som leiar, personar som leiar: hudtype 4
-🧑🏽‍🤝‍🧑🏾	halde hender, hand, hudtype 4, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 4, hudtype 5
-🧑🏽‍🤝‍🧑🏿	halde hender, hand, hudtype 4, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 4, hudtype 6
-🧑🏾‍🤝‍🧑🏻	halde hender, hand, hudtype 1–2, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 5, hudtype 1–2
-🧑🏾‍🤝‍🧑🏼	halde hender, hand, hudtype 3, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 5, hudtype 3
-🧑🏾‍🤝‍🧑🏽	halde hender, hand, hudtype 4, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 5, hudtype 4
-🧑🏾‍🤝‍🧑🏾	halde hender, hand, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 5
-🧑🏾‍🤝‍🧑🏿	halde hender, hand, hudtype 5, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 5, hudtype 6
-🧑🏿‍🤝‍🧑🏻	halde hender, hand, hudtype 1–2, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 6, hudtype 1–2
-🧑🏿‍🤝‍🧑🏼	halde hender, hand, hudtype 3, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 6, hudtype 3
-🧑🏿‍🤝‍🧑🏽	halde hender, hand, hudtype 4, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 6, hudtype 4
-🧑🏿‍🤝‍🧑🏾	halde hender, hand, hudtype 5, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 6, hudtype 5
-🧑🏿‍🤝‍🧑🏿	halde hender, hand, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 6
-👭	halde hender, hand, kinner som leiar, kvinne, kvinner som leiar, par
-👭🏻	halde hender, hand, hudtype 1–2, kinner som leiar, kinner som leiar: hudtype 1–2, kvinne, kvinner som leiar, par
-👩🏻‍🤝‍👩🏼	halde hender, hand, hudtype 1–2, hudtype 3, kinner som leiar, kinner som leiar: hudtype 1–2, hudtype 3, kvinne, kvinner som leiar, par
-👩🏻‍🤝‍👩🏽	halde hender, hand, hudtype 1–2, hudtype 4, kinner som leiar, kinner som leiar: hudtype 1–2, hudtype 4, kvinne, kvinner som leiar, par
-👩🏻‍🤝‍👩🏾	halde hender, hand, hudtype 1–2, hudtype 5, kinner som leiar, kinner som leiar: hudtype 1–2, hudtype 5, kvinne, kvinner som leiar, par
-👩🏻‍🤝‍👩🏿	halde hender, hand, hudtype 1–2, hudtype 6, kinner som leiar, kinner som leiar: hudtype 1–2, hudtype 6, kvinne, kvinner som leiar, par
-👩🏼‍🤝‍👩🏻	halde hender, hand, hudtype 1–2, hudtype 3, kinner som leiar, kinner som leiar: hudtype 3, hudtype 1–2, kvinne, kvinner som leiar, par
-👭🏼	halde hender, hand, hudtype 3, kinner som leiar, kinner som leiar: hudtype 3, kvinne, kvinner som leiar, par
-👩🏼‍🤝‍👩🏽	halde hender, hand, hudtype 3, hudtype 4, kinner som leiar, kinner som leiar: hudtype 3, hudtype 4, kvinne, kvinner som leiar, par
-👩🏼‍🤝‍👩🏾	halde hender, hand, hudtype 3, hudtype 5, kinner som leiar, kinner som leiar: hudtype 3, hudtype 5, kvinne, kvinner som leiar, par
-👩🏼‍🤝‍👩🏿	halde hender, hand, hudtype 3, hudtype 6, kinner som leiar, kinner som leiar: hudtype 3, hudtype 6, kvinne, kvinner som leiar, par
-👩🏽‍🤝‍👩🏻	halde hender, hand, hudtype 1–2, hudtype 4, kinner som leiar, kinner som leiar: hudtype 4, hudtype 1–2, kvinne, kvinner som leiar, par
-👩🏽‍🤝‍👩🏼	halde hender, hand, hudtype 3, hudtype 4, kinner som leiar, kinner som leiar: hudtype 4, hudtype 3, kvinne, kvinner som leiar, par
-👭🏽	halde hender, hand, hudtype 4, kinner som leiar, kinner som leiar: hudtype 4, kvinne, kvinner som leiar, par
-👩🏽‍🤝‍👩🏾	halde hender, hand, hudtype 4, hudtype 5, kinner som leiar, kinner som leiar: hudtype 4, hudtype 5, kvinne, kvinner som leiar, par
-👩🏽‍🤝‍👩🏿	halde hender, hand, hudtype 4, hudtype 6, kinner som leiar, kinner som leiar: hudtype 4, hudtype 6, kvinne, kvinner som leiar, par
-👩🏾‍🤝‍👩🏻	halde hender, hand, hudtype 1–2, hudtype 5, kinner som leiar, kinner som leiar: hudtype 5, hudtype 1–2, kvinne, kvinner som leiar, par
-👩🏾‍🤝‍👩🏼	halde hender, hand, hudtype 3, hudtype 5, kinner som leiar, kinner som leiar: hudtype 5, hudtype 3, kvinne, kvinner som leiar, par
-👩🏾‍🤝‍👩🏽	halde hender, hand, hudtype 4, hudtype 5, kinner som leiar, kinner som leiar: hudtype 5, hudtype 4, kvinne, kvinner som leiar, par
-👭🏾	halde hender, hand, hudtype 5, kinner som leiar, kinner som leiar: hudtype 5, kvinne, kvinner som leiar, par
-👩🏾‍🤝‍👩🏿	halde hender, hand, hudtype 5, hudtype 6, kinner som leiar, kinner som leiar: hudtype 5, hudtype 6, kvinne, kvinner som leiar, par
-👩🏿‍🤝‍👩🏻	halde hender, hand, hudtype 1–2, hudtype 6, kinner som leiar, kinner som leiar: hudtype 6, hudtype 1–2, kvinne, kvinner som leiar, par
-👩🏿‍🤝‍👩🏼	halde hender, hand, hudtype 3, hudtype 6, kinner som leiar, kinner som leiar: hudtype 6, hudtype 3, kvinne, kvinner som leiar, par
-👩🏿‍🤝‍👩🏽	halde hender, hand, hudtype 4, hudtype 6, kinner som leiar, kinner som leiar: hudtype 6, hudtype 4, kvinne, kvinner som leiar, par
-👩🏿‍🤝‍👩🏾	halde hender, hand, hudtype 5, hudtype 6, kinner som leiar, kinner som leiar: hudtype 6, hudtype 5, kvinne, kvinner som leiar, par
-👭🏿	halde hender, hand, hudtype 6, kinner som leiar, kinner som leiar: hudtype 6, kvinne, kvinner som leiar, par
+🧑‍🤝‍🧑	halda hender, hand, par, personar, personar som leiar
+🧑🏻‍🤝‍🧑🏻	halda hender, hand, hudtype 1–2, par, personar, personar som leiar, personar som leiar: hudtype 1–2
+🧑🏻‍🤝‍🧑🏼	halda hender, hand, hudtype 1–2, hudtype 3, par, personar, personar som leiar, personar som leiar: hudtype 1–2, hudtype 3
+🧑🏻‍🤝‍🧑🏽	halda hender, hand, hudtype 1–2, hudtype 4, par, personar, personar som leiar, personar som leiar: hudtype 1–2, hudtype 4
+🧑🏻‍🤝‍🧑🏾	halda hender, hand, hudtype 1–2, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 1–2, hudtype 5
+🧑🏻‍🤝‍🧑🏿	halda hender, hand, hudtype 1–2, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 1–2, hudtype 6
+🧑🏼‍🤝‍🧑🏻	halda hender, hand, hudtype 1–2, hudtype 3, par, personar, personar som leiar, personar som leiar: hudtype 3, hudtype 1–2
+🧑🏼‍🤝‍🧑🏼	halda hender, hand, hudtype 3, par, personar, personar som leiar, personar som leiar: hudtype 3
+🧑🏼‍🤝‍🧑🏽	halda hender, hand, hudtype 3, hudtype 4, par, personar, personar som leiar, personar som leiar: hudtype 3, hudtype 4
+🧑🏼‍🤝‍🧑🏾	halda hender, hand, hudtype 3, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 3, hudtype 5
+🧑🏼‍🤝‍🧑🏿	halda hender, hand, hudtype 3, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 3, hudtype 6
+🧑🏽‍🤝‍🧑🏻	halda hender, hand, hudtype 1–2, hudtype 4, par, personar, personar som leiar, personar som leiar: hudtype 4, hudtype 1–2
+🧑🏽‍🤝‍🧑🏼	halda hender, hand, hudtype 3, hudtype 4, par, personar, personar som leiar, personar som leiar: hudtype 4, hudtype 3
+🧑🏽‍🤝‍🧑🏽	halda hender, hand, hudtype 4, par, personar, personar som leiar, personar som leiar: hudtype 4
+🧑🏽‍🤝‍🧑🏾	halda hender, hand, hudtype 4, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 4, hudtype 5
+🧑🏽‍🤝‍🧑🏿	halda hender, hand, hudtype 4, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 4, hudtype 6
+🧑🏾‍🤝‍🧑🏻	halda hender, hand, hudtype 1–2, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 5, hudtype 1–2
+🧑🏾‍🤝‍🧑🏼	halda hender, hand, hudtype 3, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 5, hudtype 3
+🧑🏾‍🤝‍🧑🏽	halda hender, hand, hudtype 4, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 5, hudtype 4
+🧑🏾‍🤝‍🧑🏾	halda hender, hand, hudtype 5, par, personar, personar som leiar, personar som leiar: hudtype 5
+🧑🏾‍🤝‍🧑🏿	halda hender, hand, hudtype 5, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 5, hudtype 6
+🧑🏿‍🤝‍🧑🏻	halda hender, hand, hudtype 1–2, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 6, hudtype 1–2
+🧑🏿‍🤝‍🧑🏼	halda hender, hand, hudtype 3, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 6, hudtype 3
+🧑🏿‍🤝‍🧑🏽	halda hender, hand, hudtype 4, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 6, hudtype 4
+🧑🏿‍🤝‍🧑🏾	halda hender, hand, hudtype 5, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 6, hudtype 5
+🧑🏿‍🤝‍🧑🏿	halda hender, hand, hudtype 6, par, personar, personar som leiar, personar som leiar: hudtype 6
+👭	halda hender, hand, kvinne, kvinner som leiar, par
+👭🏻	halda hender, hand, hudtype 1–2, kvinne, kvinner som leiar, kvinner som leiar: hudtype 1–2, par
+👩🏻‍🤝‍👩🏼	halda hender, hand, hudtype 1–2, hudtype 3, kvinne, kvinner som leiar, kvinner som leiar: hudtype 1–2, hudtype 3, par
+👩🏻‍🤝‍👩🏽	halda hender, hand, hudtype 1–2, hudtype 4, kvinne, kvinner som leiar, kvinner som leiar: hudtype 1–2, hudtype 4, par
+👩🏻‍🤝‍👩🏾	halda hender, hand, hudtype 1–2, hudtype 5, kvinne, kvinner som leiar, kvinner som leiar: hudtype 1–2, hudtype 5, par
+👩🏻‍🤝‍👩🏿	halda hender, hand, hudtype 1–2, hudtype 6, kvinne, kvinner som leiar, kvinner som leiar: hudtype 1–2, hudtype 6, par
+👩🏼‍🤝‍👩🏻	halda hender, hand, hudtype 1–2, hudtype 3, kvinne, kvinner som leiar, kvinner som leiar: hudtype 3, hudtype 1–2, par
+👭🏼	halda hender, hand, hudtype 3, kvinne, kvinner som leiar, kvinner som leiar: hudtype 3, par
+👩🏼‍🤝‍👩🏽	halda hender, hand, hudtype 3, hudtype 4, kvinne, kvinner som leiar, kvinner som leiar: hudtype 3, hudtype 4, par
+👩🏼‍🤝‍👩🏾	halda hender, hand, hudtype 3, hudtype 5, kvinne, kvinner som leiar, kvinner som leiar: hudtype 3, hudtype 5, par
+👩🏼‍🤝‍👩🏿	halda hender, hand, hudtype 3, hudtype 6, kvinne, kvinner som leiar, kvinner som leiar: hudtype 3, hudtype 6, par
+👩🏽‍🤝‍👩🏻	halda hender, hand, hudtype 1–2, hudtype 4, kvinne, kvinner som leiar, kvinner som leiar: hudtype 4, hudtype 1–2, par
+👩🏽‍🤝‍👩🏼	halda hender, hand, hudtype 3, hudtype 4, kvinne, kvinner som leiar, kvinner som leiar: hudtype 4, hudtype 3, par
+👭🏽	halda hender, hand, hudtype 4, kvinne, kvinner som leiar, kvinner som leiar: hudtype 4, par
+👩🏽‍🤝‍👩🏾	halda hender, hand, hudtype 4, hudtype 5, kvinne, kvinner som leiar, kvinner som leiar: hudtype 4, hudtype 5, par
+👩🏽‍🤝‍👩🏿	halda hender, hand, hudtype 4, hudtype 6, kvinne, kvinner som leiar, kvinner som leiar: hudtype 4, hudtype 6, par
+👩🏾‍🤝‍👩🏻	halda hender, hand, hudtype 1–2, hudtype 5, kvinne, kvinner som leiar, kvinner som leiar: hudtype 5, hudtype 1–2, par
+👩🏾‍🤝‍👩🏼	halda hender, hand, hudtype 3, hudtype 5, kvinne, kvinner som leiar, kvinner som leiar: hudtype 5, hudtype 3, par
+👩🏾‍🤝‍👩🏽	halda hender, hand, hudtype 4, hudtype 5, kvinne, kvinner som leiar, kvinner som leiar: hudtype 5, hudtype 4, par
+👭🏾	halda hender, hand, hudtype 5, kvinne, kvinner som leiar, kvinner som leiar: hudtype 5, par
+👩🏾‍🤝‍👩🏿	halda hender, hand, hudtype 5, hudtype 6, kvinne, kvinner som leiar, kvinner som leiar: hudtype 5, hudtype 6, par
+👩🏿‍🤝‍👩🏻	halda hender, hand, hudtype 1–2, hudtype 6, kvinne, kvinner som leiar, kvinner som leiar: hudtype 6, hudtype 1–2, par
+👩🏿‍🤝‍👩🏼	halda hender, hand, hudtype 3, hudtype 6, kvinne, kvinner som leiar, kvinner som leiar: hudtype 6, hudtype 3, par
+👩🏿‍🤝‍👩🏽	halda hender, hand, hudtype 4, hudtype 6, kvinne, kvinner som leiar, kvinner som leiar: hudtype 6, hudtype 4, par
+👩🏿‍🤝‍👩🏾	halda hender, hand, hudtype 5, hudtype 6, kvinne, kvinner som leiar, kvinner som leiar: hudtype 6, hudtype 5, par
+👭🏿	halda hender, hand, hudtype 6, kvinne, kvinner som leiar, kvinner som leiar: hudtype 6, par
 👫	hand, held hender, kvinne, mann, mann og kvinne som leiar, par
 👫🏻	hand, held hender, hudtype 1–2, kvinne, mann, mann og kvinne som leiar, mann og kvinne som leiar: hudtype 1–2, par
 👩🏻‍🤝‍👨🏼	hand, held hender, hudtype 1–2, hudtype 3, kvinne, mann, mann og kvinne som leiar, mann og kvinne som leiar: hudtype 1–2, hudtype 3, par
@@ -1887,7 +2142,6 @@
 👩‍❤‍👨	hjarte, kjærleik, kvinne, mann, menneske, par med hjarte, par med hjarte: kvinne, mann, romantikk
 👨‍❤‍👨	hjarte, kjærleik, mann, menneske, par med hjarte, par med hjarte: mann, mann, romantikk
 👩‍❤‍👩	hjarte, kjærleik, kvinne, menneske, par med hjarte, par med hjarte: kvinne, kvinne, romantikk
-👪️	barn, familie, far, menneske, mor
 👨‍👩‍👦	barn, familie, familie: mann, kvinne, gut, far, gut, kvinne, mann, menneske, mor
 👨‍👩‍👧	barn, familie, far, jente, kvinne, mann, menneske, mor
 👨‍👩‍👧‍👦	barn, familie, familie: mann, kvinne, jente, gut, far, gut, jente, kvinne, mann, menneske, mor
@@ -1915,6 +2169,12 @@
 👩‍👧‍👧	barn, familie, far, jente, kvinne, menneske, mor
 🗣️	fjes, hovud, profil, silhuett, snakkande hovud i profil, snakkar, snakke
 🫂	farvel, hadet, hei, klem, takk
+👪️	barn, familie, far, menneske, mor
+🧑‍🧑‍🧒	barn, familie, familie: vaksen, vaksen, barn, vaksen
+🧑‍🧑‍🧒‍🧒	barn, familie, familie: vaksen, vaksen, barn, barn, vaksen
+🧑‍🧒	barn, familie, familie: vaksen, barn, vaksen
+🧑‍🧒‍🧒	barn, familie, familie: vaksen, barn, barn, vaksen
+🫆	fingeravtrykk, identitet, kriminalteknisk, tryggleik
 🦰	raudhåring, raudt hår
 🦱	afrikansk, afro, krusete hår, krøllete
 🦳	gamal, grå, grått hår, hår, kvit
@@ -1924,6 +2184,7 @@
 🦮	blind, førarhund, hund, tilgjenge
 🐕‍🦺	hjelp, hund, servicehund, tilgjenge
 🦁	fjes, løva, løve, stjernebilete, stjerneteikn
+🫏	asen, dyr, esel, muldyr, pattedyr, sta
 🦄	einhjørning, fjes
 🐂	dyr, okse, stjernebilete, stjerneteikn, tyren
 🐃	bøffel, dyr, vassbøffel
@@ -1943,6 +2204,8 @@
 🦩	flamingo, prangande, tropisk
 🦚	fugl, prangande, påfugl, stolt
 🦜	dyr, fugl, papegøye, pirat, snakkande, snakkar
+🪽	engleaktig, fly, flyg, flyga, flyr, fugl, mytologi, venge
+🪿	dum, fjørfe, fugl, gås, tuta, tute
 🐢	dyr, skjelpadde
 🐍	dyr, orm, slange, slangeberaren, stjernebilete, stjerneteikn
 🐲	drake, drakefjes, dyr, eventyr, fjes
@@ -1970,6 +2233,7 @@
 🌻	blomster, sol, solsikke
 🌼	blomster, plante
 🌷	blomster, tulipan
+🪻	blome, blomster, hyasint, klokkeblåstjerne, lavendel, lupin, svibel
 🪴	dyrke, hus, keisamt, plante, potteplante, ubrukeleg, vatne
 🌳	blad, lauvtre, tre
 🌿	blad, plante, urt, urteblad
@@ -1979,6 +2243,7 @@
 🪹	byggje reir, slå seg ned, tomt reir
 🪺	byggje reir, reir med egg, slå seg ned
 🍄	flugesopp, sopp
+🪾	bladlaust tre, daudt, dødt, stamme, tre, tørke, tørt, ufruktbart, vinter
 🍉	frukt, melon, vassmelon
 🍎	eple, frukt, raud, raudt, raudt eple
 🍏	eple, frukt, grøn, grønt
@@ -1995,6 +2260,7 @@
 🧄	kvitlauk, smakstilsetjing
 🧅	lauk, smakstilsetjing
 🥜	grønsak, mat, nøtt, peanøtt, peanøtter
+🫜	bete, grønsak, hage, kålrot, nepe, rotgrønsak, turnips
 🍖	kjøt med bein, kjøtbein, restaurant
 🍗	fjørfe, fjørkre, kyllingklubbe, kyllinglår, restaurant
 🥩	biff, kjøtstykke, lammekotelett, lammeskank, svinekotelett
@@ -2013,6 +2279,7 @@
 🦀	dyr, krabbe, krepsen, stjernebilete, stjerneteikn
 🦞	bisque, hummar, klør, sjømat, skaldyr
 🦑	akkar, blautdyr, blekk, blekksprut, dyr, sprut
+🍦	softis
 🍭	slikkepinne, sukkertøy
 🍼	babyflaske, drikke, mjølk, tåteflaske
 🥛	drikke, glas, mjølk, mjølkeglas
@@ -2116,7 +2383,7 @@
 ⌛️	ferdig timeglas, sand, tidtakar
 ⏳️	sand, starta timeglas, tidtakar
 ⌚️	armbandsur, ur
-⏰	alarm, klokke, vekkjarklokke
+⏰️	alarm, klokke, vekkjarklokke
 ⏲️	klokke, nedteljing, tidtakar
 🕛️	0:00, 12:00, 24:00, klokka, klokka tolv, tolv
 🕧	0:30, 12:30, halv eitt, klokka, klokka halv eitt
@@ -2170,12 +2437,12 @@
 🌨️	kaldt, sky, sky med snø, vêr
 🌩️	lyn, sky, sky med lyn, vêr
 🌪️	sky, tornado, vêr
-🌫️	sky, tåke, vÊr
+🌫️	sky, tåke, vêr
 🌬️	blåse, fjes, sky, vind, vindandlet, vêr
 🌈	regn, regnboge, vêr
-🌂	lukka paraply, regn, regnvÊr
+🌂	lukka paraply, regn, regnvêr
 ☂️	klede, paraply, regn, vêr
-☔️	drope, klede, paraply, paraply med regndropar, regn, vÊr
+☔️	drope, klede, paraply, paraply med regndropar, regn, vêr
 ⛱️	paraply, parasoll på bakken, regn, sol, vÊr
 ⚡️	fare, høg, høgspenning, høgspent, lyn, spenning
 ❄️	kaldt, snø, snøfnugg, vêr
@@ -2189,7 +2456,8 @@
 🎄	høgtid, jul, julefeiring, juletre, tre
 🎇	feiring, fyrverkeri, nyttår, stjerneskot på pinne
 🧨	dynamitt, eksplosiv, fyrverkeri, kinaputt
-✨	glitrande, skinande, stjerner
+✨️	glitrande, skinande, stjerner
+🎉	feiring, fest, serpentin, smellbongbong
 🎍	feiring, furudekorasjon, japansk høgtid, nyttår
 🎎	festival, japansk høgtid, japanske dokker
 🎏	feiring, japansk høgtid, karpe, koinobori, papirfisk
@@ -2214,7 +2482,7 @@
 🪀	jojo, leike, opp og ned, yo-yo, yoyo
 🪁	fly, papirdrake, sveve
 🔫	leiketøysvåpen, pistol, vasspistol
-🎱	8, biljard, spel, åttarkule, åtte
+🎱	8, biljard, biljardkule, spel, åttarkule, åtte
 🔮	krystallkule, spådom, spådomar
 🎮️	TV-spel, konsoll, kontrollar, spel, spelkonsoll, spelkontrollar, videospel
 🕹️	joystick, spel, styrespak, styrespake, videospel
@@ -2253,6 +2521,7 @@
 🥻	kjole, klede, sari
 👙	badedrakt, badetøy, bikini, klede
 👚	dameklede, klede
+🪭	avkjøling, blafra, blafre, blyg, dans, handvifte, varmt, vifte
 👛	klede, portemoné, pung
 👜	handveske, klede, veske
 👝	clutch-veske, klede, lita veske
@@ -2289,6 +2558,9 @@
 📻️	radio, radiosignal, teknologi
 🪗	accordeon, concertina, trekkspel
 🎹	instrument, keyboard, musikk, musikkinstrument, piano, tangentar
+🪇	instrument, marakas, musikk, perkusjon, rista, riste, rytmeinstrument
+🪈	blokkfløyte, fløyte, musikk, treblåsar
+🪉	amor, harpe, instrument, kjærleik, musikk, orkester
 📲	mobiltelefon, mobiltelefon med pil, oppkall, oppringing, pil, ring, telefon
 ☎️	fasttelefon, ringje, telefon
 📞	kommunikasjon, telefon, telefonrøyr
@@ -2320,7 +2592,7 @@
 💵	dollar, dollarsetel, pengar, setel
 💶	euro, eurosetel, pengar, setel
 💷	pengar, pund, pundsetel, setel
-💸	bank, flygande setel, pengar, pengar med vinger, setel
+💸	bank, flygande setel, pengar, pengar med venger, setel
 🧾	arkiv, bilag, dokumentasjon, kvittering, rekneskap
 💹	graf, marknad, oppover, pengar, stigande, stigande diagram med yen, trend, yen
 📨	brev, e-post, epost, få, innkomande, innkomande konvolutt, konvolutt
@@ -2352,15 +2624,17 @@
 ⚖️	Vekta, balanse, likearma skålvekt, rettferd, stjerneteiikn, vekt, verktøy
 🦯	blind, blindestokk, tilgjenge
 🔗	lenkje, link, to ringar
+⛓‍💥	broten, broten lenke, lekke, lekkje, lenke, lenkje, ødelagt
 🪝	boga, fange, krok, løfte, løftekrok, salspunkt
 🧲	hestesko, magnet, magnetisk, tiltrekking
+🪏	grave, hol, skuffe, spa, spade
 🧪	eksperiment, forsking, kjemi, kjemikar, lab, prøverøyr, reagensrøyr
 🧬	biolog, dna, evolusjon, gen, genetikk, liv
 🔬	forsking, mikroskop, verktøy, vitskap
 🔭	astronomi, forsking, teleskop, verktøy, vitskap
 💉	medisin, nål, sjuk, sprøyte, vaksine
 🩸	bloddrope, blodgjevar, medisin, mens, menstruasjon
-🩼	hjelpemiddel, krykke, pinne, skadd, stokk, ufør
+🩼	hjelpemiddel, kjepp, krykke, skadd, stokk, ufør
 🩺	hjarte, lege, medisin, stetoskop
 🩻	bein, doktor, lege, ribbein, røntgen, skjelett, undersøking
 🛗	heis, tilgjenge
@@ -2408,14 +2682,14 @@
 ➡️	aust, høgrepil, pil, pil høgre, retning
 ↘️	pil, pil ned -høgre, pil ned-høgre, retning, søraust
 ↔️	pil, pil venstre-høgre
-↮	venstre-/høgrepil med strek over
+↮	høgre, pil, pil begge vegar med skråstrek, skråstrek, tovegs, venstre
 ↪️	pil, pil som bøyer mot høgre
 🔃	last inn på nytt, piler, vertikale piler med klokka
 🔄	mot klokka, piler, piler mot klokka
 🔛	ON, ON!-pil, PÅ, pil, utrop, utropsteikn
 🛐	religion, religiøs samlingsstad, tilbeding
 ☸️	buddhist, dharma, dharmahjulet, hjul, religion
-✝️	kristen, kross, latinsk kross, latisnk kross, religion
+✝️	kristen, kross, latinsk kross, religion
 ☦️	kristen ortodoks, kross, ortodoks kross, religion
 🔯	magi, sekskanta, sekstagga stjerne med prikk, stjerne
 ♈️	Vêren, stjerneteikn, vêr
@@ -2430,7 +2704,7 @@
 ♑️	Steinbukken, geit, stjerneteikn
 ♒️	Vassmannen, stjerneteikn, vatn
 ♓️	Fiskane, fisk, stjerneteikn
-⛎	Slangeberaren, berar, slange, stjerneteikn
+⛎️	Slangeberaren, berar, slange, stjerneteikn
 🔀	bland spor-symbol, kryssa piler mot høgre, piler
 🔁	gjenta-knapp, med klokka, piler
 🔂	1 gong, gjenta eitt spor-knapp, med klokka, piler, éin gong
@@ -2444,17 +2718,18 @@
 🔅	lite lys-knapp, lysstsyrke, låg
 🔆	høg, lysstyrke, mykje lys-knapp
 📶	antenne, mobil, mobilsignal, signal, signalstyrke, telefon
+🛜	datamaskin, internett, nettverk, trådlaust
 ✖️	avbryt, gonge, gongetegn, matte, multiplikasjon, multiplisere, x, ×
-➕	+, addisjon, forteikn, matte, pluss, plussteikn, positivt
-➖	-, forteikn, matte, minus, minusteikn, negativt, subtraksjon, –
-➗	dele, deleteikn, deling, divisjon, divisjonsteikn, matte, ÷
+➕️	+, addisjon, forteikn, matte, pluss, plussteikn, positivt
+➖️	-, forteikn, matte, minus, minusteikn, negativt, subtraksjon, –
+➗️	dele, deleteikn, deling, divisjon, divisjonsteikn, matte, ÷
 🟰	feitt likskapsteikn, likskapsteikn, likskapsteikn i feit skrift, matematikk
 ♾️	for alltid, grenselaus, uendeleg, universal, universell
 ‼️	!, !!, bangbang, dobbelt utropsteikn, teikn, teiknsetjing, utropsteikn
 ⁉️	!, !?, ?, spørsmål, spørsmålsteikn, teikn, teiknsetjing, utrop, utropsteikn, utropsteikn og spørsmålsteikn
 ❓️	?, raudt spørsmålsteikn, spørsmål, spørsmålsteikn
-❔	?, kvitt spørsmålsteikn, spørsmål
-❕	!, kvitt utropsteikn, utrop
+❔️	?, kvitt spørsmålsteikn, spørsmål
+❕️	!, kvitt utropsteikn, utrop
 ❗️	!, raudt utropsteikn, teikn, teiknsetjing, utrop, utropsteikn
 〰️	bølgja bindestrek, bølgje, bølgjestrek, teikn for lang lyd
 💱	bank, pengar, valuta, valutaveksling, veksling
@@ -2464,9 +2739,9 @@
 🔰	grøn og gul, grønt og gult blad, japansk, japansk teikn for nybyrjar, nybyrjar
 ⭕️	o, raud, sirkel, stor, tjukk, tjukk raud sirkel
 ☑️	avkryssa boks, boks, boks med hakemerke, hakemerke, ✓
-❌	X, kryss, raudt kryss, x, ×
-➰	løkke, løkketeikn
-➿	dobbel løkke, dobbel løkke-teikn
+❌️	X, avbryt, kryss, raudt kryss, x, ×
+➰️	løkke, løkketeikn
+➿️	dobbel løkke, dobbel løkke-teikn
 ✳️	*, asterisk, asterisk med åtte spissar, stjerne
 ✴️	*, stjerne, åttetagga stjerne
 #⃣	tastar, tastar: #
@@ -2493,18 +2768,20 @@
 🈶	ideograf, ikkje gratis, japansk, «ikkje gratis» på japansk, 有
 🉐	ideograf, japansk, spesialtilbod, «spesialtilbod» på japansk, 得
 🈲	forbode, ideograf, japansk, «forbode» på japansk, 禁
-㊙️	hemmeleg, ideograf, japansk, «hemmeleg» på japansk, 秘
+㊙️	hemmeleg, ideograf, japansk, knapp, «hemmeleg» på japansk
 🈺	ideograf, japansk, open for handel, «open for handel» på japansk, 営
 🔴	geometrisk, raud, raud sirkel, sirkel
 🟢	grøn, grøn sirkel, sirkel
 ⚪️	geometrisk, kvit sirkel, sirkel
 🟥	kvadrat, raud, raudt, raudt kvadrat
 🟩	grøn, grønt, kvadrat
-⬜️	firkant, geometrisk, kvadrat, stor kvit firkant
+⬜️	firkant, geometrisk, kvadrat, kvit, kvitt, stor, stor kvit firkant
+◻️	firkant, geometrisk, kvadrat, kvit, kvitt, mellomstor, mellomstort, mellomstort kvitt kvadrat
+◽️	firkant, geometrisk, kvadrat, kvit, kvitt, lite/mellomstort, lite/mellomstort kvitt kvadrat, liten/mellomstor
 ▫️	firkant, geometrisk, kvadrat, liten kvit firkant
 🔶	geometrisk, oransje, ruter, stort oransje rombesymbol, stort oransje rutersymbol
 🔺	geometrisk, oppover, raud trekant som peikar opp, trekant
-🔻	gemoetrisk, nedover, raud trekant som peikar ned, trekant
+🔻	geometrisk, nedover, raud trekant som peikar ned, trekant
 🔳	firkant, knapp, kvit firkanta knapp
 🔲	firkant, knapp, svart firkanta knapp
 🚩	golf, posisjon, trekanta, vimpel
@@ -2515,8 +2792,6 @@
 🏴‍☠	Kaptein Sabeltann, pirat, plyndre, sjørøvarflagg, skatt
 🇦🇪	flagg: Dei sameinte arabiske emirata
 🇦🇹	flagg: Austerrike
-🇧🇱	flagg: Saint Barthélemy
-🇧🇾	flagg: Kviterussland
 🇨🇨	flagg: Kokosøyane
 🇨🇩	flagg: Kongo-Kinshasa
 🇨🇫	flagg: Den sentralafrikanske republikken
@@ -2545,7 +2820,7 @@
 🇹🇫	flagg: Dei franske sørterritoria
 🇹🇱	flagg: Aust-Timor
 🇺🇲	flagg: USAs ytre småøyar
-🇺🇳	flagg: SN
+🇺🇳	flagg: Dei sameinte nasjonane
 🇻🇨	flagg: St. Vincent og Grenadinane
 🇻🇬	flagg: Dei britiske Jomfruøyane
 🇻🇮	flagg: Dei amerikanske Jomfruøyane
@@ -2555,6 +2830,7 @@
 ₥	mill, tusendels valutaeining, valuta
 ₪	nye israelske sheklar
 ₲	paraguayanske guaraní
+₺	tyrkiske lira
 ₽	RUB, rublar, russiske rublar, valuta
 ¹	ein, første, heva, heva eittal, i første, opphøgd
 ²	andre, heva, heva total, kvadrat, opphøgd, to

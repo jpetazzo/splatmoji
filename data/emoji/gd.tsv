@@ -99,16 +99,16 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 ↬	saighead dheas le earball lùbte
 ↭	saighead lùbte dheas is chlì
 ↯	fiaradh, saighead a’ fiaradh sìos
-↰	saighead suas leis a’ cheann a’ tionndadh clì, saighead suas ⁊ a ceann a’ tionndadh clì
-↱	saighead suas leis a’ cheann a’ tionndadh deas, saighead suas ⁊ a ceann a’ tionndadh deas
-↲	saighead sìos leis a’ cheann a’ tionndadh clì, saighead sìos ⁊ a ceann a’ tionndadh clì
-↳	saighead sìos leis a’ cheann a’ tionndadh deas, saighead sìos ⁊ a ceann a’ tionndadh deas
+↰	saighead suas agus a ceann a’ tionndadh clì, saighead suas leis a’ cheann a’ tionndadh clì, saighead suas ⁊ a ceann a’ tionndadh clì
+↱	saighead suas agus a ceann a’ tionndadh deas, saighead suas leis a’ cheann a’ tionndadh deas, saighead suas ⁊ a ceann a’ tionndadh deas
+↲	saighead sìos agus a ceann a’ tionndadh clì, saighead sìos leis a’ cheann a’ tionndadh clì, saighead sìos ⁊ a ceann a’ tionndadh clì
+↳	saighead sìos agus a ceann a’ tionndadh deas, saighead sìos leis a’ cheann a’ tionndadh deas, saighead sìos ⁊ a ceann a’ tionndadh deas
 ↴	saighead dheas a’ dol sìos aig an oisean
 ↵	saighead sìos a’ dol clì aig an oisean
 ↶	saighead barra leth-chearcallach a’ dol tuathal, saighead barra leth-chearcallach tuathal
 ↷	saighead barra leth-chearcallach a’ dol deiseil, saighead barra leth-chearcallach deiseil
 ↸	saighead gun iar-dheas le bàr fada
-↹	saighdean clì ⁊ deas ⁊ an cinn ri bàr, saighead chlì ’s a ceann ri bàr os cionn saighead dheas is a ceann ri bàr
+↹	saighdean clì is deas agus an cinn ri bàr, saighdean clì ⁊ deas ⁊ an cinn ri bàr, saighead chlì ’s a ceann ri bàr os cionn saighead dheas is a ceann ri bàr
 ↺	saighead thuathal an cruth cearcaill fhosgailte, saighead thuathal na cearcall fosgailte
 ↻	saighead dheiseil an cruth cearcaill fhosgailte, saighead dheiseil na cearcall fosgailte
 ↼	frioghan, harpùn clì le frioghan suas
@@ -157,7 +157,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 ⇨	saighead fhalamh dheas
 ⇩	saighead fhalamh sìos
 ⇪	saighead fhalamh suas a’ tighinn à bàr
-⇵	saighdean sìos ⁊ suas, saighead sìos air an taobh chlì agus saighead suas air an taobh deas
+⇵	saighdean sìos agus suas, saighdean sìos ⁊ suas, saighead sìos air an taobh chlì agus saighead suas air an taobh deas
 ∀	dhan a h-uile, gin sam bith, sam bith, thoirte, tugta, uile, uile-choitcheann
 ∂	diofarail, diofarail leth-phàirteach
 ∃	ann, tha ann
@@ -357,7 +357,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 😊	aodann, aodann le gàire agus sùilean toilichte, fiamh-ghàire, ruadhadh, sùil
 😇	aingeal, aodann, aodann le gàire agus riomball, fantastach, faoinsgeul, fiamh-ghàire, neoichiontach, riomball
 🥰	ann an gaol, aodann le fiamh-ghàire is cridheachan, gaol, sùil mhòr ort, trom-ghràdh
-😍	aodann, aodann le gàire ⁊ sùilean nan cridheachan, cridhe, fiamh-ghàire, gaol, sùil
+😍	aodann, aodann le gàire agus sùilean nan cridheachan, aodann le gàire ⁊ sùilean nan cridheachan, cridhe, fiamh-ghàire, gaol, sùil
 🤩	aodann, aodann toilichte le rionnagan na shùilean, fiamh-ghàire, rionnag, sùilean
 😘	aodann, aodann a’ caitheamh pòg, pòg
 😗	aodann, aodann pòige, pòg
@@ -367,13 +367,13 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🥲	aodann le fiamh-ghàire is deur, deur, deòir, faochadh, fiamh-ghàire beag, moiteil, pròiseil, taingeil
 😋	aodann, aodann ag ithe biadh blasta, biadh, blasta, fiamh-ghàire, math
 😛	aodann, aodann a’ cur a-mach na teanga, teanga
-😜	aodann, aodann le theanga a-mach ⁊ sùil bheag, aodann le theanga ga cur a-mach ⁊ sùil bheag, fealla-dhà, priobadh, sùil, sùil bheag, teanga
+😜	aodann, aodann le theanga a-mach agus sùil bheag, aodann le theanga a-mach ⁊ sùil bheag, fealla-dhà, priobadh, sùil, sùil bheag, teanga
 🤪	aodann às a rian, beag, mòr, sùil
 😝	aodann, aodann caog-shùileach le theanga a-mach, blas, sùil, teanga, uabhasach
 🤑	airgead, aodann, aodann le sùilean is teanga airgid, beul
 🤗	aodann, aodann a’ pasgadh gàirdeanan timcheall, gàirdeanan, pasgadh, timcheall
 🤭	aodann le làmh air a beul, oich
-🫢	aodann le sùilean fosgailte ⁊ làmh air beul, clisg, eagal, iongantach, iongnadh, nàire
+🫢	aodann le sùilean fosgailte agus làmh air beul, aodann le sùilean fosgailte ⁊ làmh air beul, clisg, eagal, iongantach, iongnadh, nàire
 🫣	aodann le sùil a’ dìdeadh, beò-ghlacte, dìdeach, dìdeil, fàthadaireachd, spleuchd
 🤫	aodann “Ist!”, ist, sàmhach, tost
 🤔	aodann, aodann ri smaoineachadh, smaoineachadh
@@ -391,11 +391,15 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 😬	aodann, aodann le drèin air, drèin
 😮‍💨	anail, aodan a’ leigeil anail, cagar, cnead, cogar, faochadh, fead, leig anail, leig d’ anail, leigeil anail, plosg
 🤥	aodann, aodann nam breug, breug, pinocchio
+🫨	aodann, aodann le crathadh air, clisgeadh, crath, crathadh, crith, crith-talmhainn
+🙂‍↔	an aghaidh, chan eil, crathadh, crathadh-cinn, còmhnard, àicheadh
+🙂‍↕	air a shon, aontachadh, crathadh, crathadh-cinn, cromadh, cromadh-cinn, inghearach, tha
 😌	aodann, aodann a fhuair faochadh, faochadh
 😔	aodann, aodann fo throm-smuain, sprochd, throm-smuain, trom-inntinneach
 😪	aodann, aodann cadalach, cadal
 🤤	aodann, aodann a’ sileadh sglongaid, sglongaid, sileadh
 😴	aodann, aodann na chadal, cadal, zzz
+🫩	aodann le buaile mu shùilean, buaile, claoidh, claoidhte, leigeadh roimhe, sùil, teirbheirt, toirbheart, toirt thairis
 😷	aodann, aodann le masg dotair air, bochd, dotair, fuar, leigheas, lighiche, masg, tinn
 🤒	aodann, aodann le teas-mheidh, bochd, teas-mheidh, tinn
 🤕	aodann, aodann le clobhd air a’ cheann, clobhd, leòinte, leònta
@@ -429,7 +433,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 😧	aodann, aodann àmhghair, àmhghar
 😨	an t-eagal air, aodann, aodann fo eagal, eagal, eagalach
 😰	aodann, aodann le beul fosgailte a’ cur fallas, beul, cabhag, fallas, fosgailte, fuar, gorm
-😥	aodann, aodann a fhuair briseadh-dùil ⁊ faochadh, briseadh-dùil, faochadh
+😥	aodann, aodann a fhuair briseadh-dùil agus faochadh, aodann a fhuair briseadh-dùil ⁊ faochadh, briseadh-dùil, faochadh
 😢	aodann a’ caoineadh, brònach, caoineadh, deur
 😭	aodann a’ rànaich, brònach, caoineadh, deur, gal, rànaich
 😱	an t-eagal air, aodann, aodann a’ leigeil sgreuch eagail, eagal, eagalach, munch, sgread, sgreuch
@@ -482,13 +486,16 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 ❤‍🔥	connan, cridhe, cridhe air theine, cridhe naoimh, deòthas, drùis, gaol, gràdh, lasair, loisg, losgadh
 ❤‍🩹	fallainn, feabhas, gu math, nas fhallainne, nas fheàrr, slàn, slànachadh cridhe
 ❤️	cridhe, cridhe dearg
+🩷	cridhe, crithe pinc, gaol, pinc, stampa, toil
 🧡	cridhe orains, orains
 💛	buidhe, cridhe buidhe
 💚	cridhe uaine, uaine
 💙	cridhe gorm, gorm
+🩵	crann-lach, cridhe, cridhe solleir-ghorm, saidhean, soilleir-ghorm
 💜	cridhe purpaidh, purpaidh
 🤎	cridhe, cridhe donn, donn
 🖤	cridhe dubh, dubh, olc
+🩶	airgead, cridhe, cridhe glas, glas, liath, sgleat
 🤍	cridhe, cridhe geal, geal
 💋	bilean, làrach pòige, pòg
 💯	100, ceud, ceud puing, puing, sgòr, slàn
@@ -522,12 +529,12 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🖐🏽	corrag, làmh, làmh air a togail le corragan sìnte, làmh air a togail le corragan sìnte: tòna meadhanach a’ chraicinn, meur, sìnte, tòna meadhanach a’ chraicinn
 🖐🏾	corrag, làmh, làmh air a togail le corragan sìnte, làmh air a togail le corragan sìnte: tòna meadhanach doilleir a’ chraicinn, meur, sìnte, tòna meadhanach doilleir a’ chraicinn
 🖐🏿	corrag, làmh, làmh air a togail le corragan sìnte, làmh air a togail le corragan sìnte: tòna doilleir a’ chraicinn, meur, sìnte, tòna doilleir a’ chraicinn
-✋	làmh, làmh air a togail
-✋🏻	làmh, làmh air a togail, làmh air a togail: tòna soilleir a’ chraicinn, tòna soilleir a’ chraicinn
-✋🏼	làmh, làmh air a togail, làmh air a togail: tòna meadhanach soilleir a’ chraicinn, tòna meadhanach soilleir a’ chraicinn
-✋🏽	làmh, làmh air a togail, làmh air a togail: tòna meadhanach a’ chraicinn, tòna meadhanach a’ chraicinn
-✋🏾	làmh, làmh air a togail, làmh air a togail: tòna meadhanach doilleir a’ chraicinn, tòna meadhanach doilleir a’ chraicinn
-✋🏿	làmh, làmh air a togail, làmh air a togail: tòna doilleir a’ chraicinn, tòna doilleir a’ chraicinn
+✋️	5 àrd, còig àrd, làmh, làmh air a togail, taghta
+✋🏻	5 àrd, còig àrd, làmh, làmh air a togail, làmh air a togail: tòna soilleir a’ chraicinn, taghta, tòna soilleir a’ chraicinn
+✋🏼	5 àrd, còig àrd, làmh, làmh air a togail, làmh air a togail: tòna meadhanach soilleir a’ chraicinn, taghta, tòna meadhanach soilleir a’ chraicinn
+✋🏽	5 àrd, còig àrd, làmh, làmh air a togail, làmh air a togail: tòna meadhanach a’ chraicinn, taghta, tòna meadhanach a’ chraicinn
+✋🏾	5 àrd, còig àrd, làmh, làmh air a togail, làmh air a togail: tòna meadhanach doilleir a’ chraicinn, taghta, tòna meadhanach doilleir a’ chraicinn
+✋🏿	5 àrd, còig àrd, làmh, làmh air a togail, làmh air a togail: tòna doilleir a’ chraicinn, taghta, tòna doilleir a’ chraicinn
 🖖	beannachd muinntir Vulcan, corrag, làmh, meur, spock, vulcan
 🖖🏻	beannachd muinntir Vulcan, beannachd muinntir Vulcan: tòna soilleir a’ chraicinn, corrag, làmh, meur, spock, tòna soilleir a’ chraicinn, vulcan
 🖖🏼	beannachd muinntir Vulcan, beannachd muinntir Vulcan: tòna meadhanach soilleir a’ chraicinn, corrag, làmh, meur, spock, tòna meadhanach soilleir a’ chraicinn, vulcan
@@ -578,6 +585,18 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🫴🏽	glac, làmh le a bas suas, làmh le a bas suas: tòna meadhanach a’ chraicinn, smèid, tairgse, tairgsinn, thig, tiugainn, tòna meadhanach a’ chraicinn
 🫴🏾	glac, làmh le a bas suas, làmh le a bas suas: tòna meadhanach doilleir a’ chraicinn, smèid, tairgse, tairgsinn, thig, tiugainn, tòna meadhanach doilleir a’ chraicinn
 🫴🏿	glac, làmh le a bas suas, làmh le a bas suas: tòna doilleir a’ chraicinn, smèid, tairgse, tairgsinn, thig, tiugainn, tòna doilleir a’ chraicinn
+🫷	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh chlì, mol, put, ris an taobh chlì, stad
+🫷🏻	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh chlì, làmh a’ putadh dhan taobh chlì: tòna soilleir a’ chraicinn, mol, put, ris an taobh chlì, stad, tòna soilleir a’ chraicinn
+🫷🏼	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh chlì, làmh a’ putadh dhan taobh chlì: tòna meadhanach soilleir a’ chraicinn, mol, put, ris an taobh chlì, stad, tòna meadhanach soilleir a’ chraicinn
+🫷🏽	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh chlì, làmh a’ putadh dhan taobh chlì: tòna meadhanach a’ chraicinn, mol, put, ris an taobh chlì, stad, tòna meadhanach a’ chraicinn
+🫷🏾	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh chlì, làmh a’ putadh dhan taobh chlì: tòna meadhanach doilleir a’ chraicinn, mol, put, ris an taobh chlì, stad, tòna meadhanach doilleir a’ chraicinn
+🫷🏿	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh chlì, làmh a’ putadh dhan taobh chlì: tòna doilleir a’ chraicinn, mol, put, ris an taobh chlì, stad, tòna doilleir a’ chraicinn
+🫸	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh dheas, mol, put, ris an taobh deas, stad
+🫸🏻	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh dheas, làmh a’ putadh dhan taobh dheas: tòna soilleir a’ chraicinn, mol, put, ris an taobh deas, stad, tòna soilleir a’ chraicinn
+🫸🏼	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh dheas, làmh a’ putadh dhan taobh dheas: tòna meadhanach soilleir a’ chraicinn, mol, put, ris an taobh deas, stad, tòna meadhanach soilleir a’ chraicinn
+🫸🏽	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh dheas, làmh a’ putadh dhan taobh dheas: tòna meadhanach a’ chraicinn, mol, put, ris an taobh deas, stad, tòna meadhanach a’ chraicinn
+🫸🏾	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh dheas, làmh a’ putadh dhan taobh dheas: tòna meadhanach doilleir a’ chraicinn, mol, put, ris an taobh deas, stad, tòna meadhanach doilleir a’ chraicinn
+🫸🏿	5 àrd, còig àrd, diùlt, fuirich, làmh a’ putadh dhan taobh dheas, làmh a’ putadh dhan taobh dheas: tòna doilleir a’ chraicinn, mol, put, ris an taobh deas, stad, tòna doilleir a’ chraicinn
 👌	aontachadh, làmh, samhla làimhe OK
 👌🏻	aontachadh, làmh, samhla làimhe OK, samhla làimhe OK: tòna soilleir a’ chraicinn, tòna soilleir a’ chraicinn
 👌🏼	aontachadh, làmh, samhla làimhe OK, samhla làimhe OK: tòna meadhanach soilleir a’ chraicinn, tòna meadhanach soilleir a’ chraicinn
@@ -632,36 +651,36 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🤙🏽	fòn, làmh, làmh a’ comharradh “Cuir fòn thugam”, làmh a’ comharradh “Cuir fòn thugam”: tòna meadhanach a’ chraicinn, tòna meadhanach a’ chraicinn
 🤙🏾	fòn, làmh, làmh a’ comharradh “Cuir fòn thugam”, làmh a’ comharradh “Cuir fòn thugam”: tòna meadhanach doilleir a’ chraicinn, tòna meadhanach doilleir a’ chraicinn
 🤙🏿	fòn, làmh, làmh a’ comharradh “Cuir fòn thugam”, làmh a’ comharradh “Cuir fòn thugam”: tòna doilleir a’ chraicinn, tòna doilleir a’ chraicinn
-👈️	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, làmh, meur, tomhadh
-👈🏻	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, druim na làimhe, colgag a’ tomhadh clì: tòna soilleir a’ chraicinn, làmh, meur, tomhadh, tòna soilleir a’ chraicinn
-👈🏼	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, druim na làimhe, colgag a’ tomhadh clì: tòna meadhanach soilleir a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach soilleir a’ chraicinn
-👈🏽	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, druim na làimhe, colgag a’ tomhadh clì: tòna meadhanach a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach a’ chraicinn
-👈🏾	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, druim na làimhe, colgag a’ tomhadh clì: tòna meadhanach doilleir a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach doilleir a’ chraicinn
-👈🏿	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, druim na làimhe, colgag a’ tomhadh clì: tòna doilleir a’ chraicinn, làmh, meur, tomhadh, tòna doilleir a’ chraicinn
-👉️	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, làmh, meur, tomhadh
-👉🏻	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, druim na làimhe, colgag a’ tomhadh deas: tòna soilleir a’ chraicinn, làmh, meur, tomhadh, tòna soilleir a’ chraicinn
-👉🏼	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, druim na làimhe, colgag a’ tomhadh deas: tòna meadhanach soilleir a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach soilleir a’ chraicinn
-👉🏽	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, druim na làimhe, colgag a’ tomhadh deas: tòna meadhanach a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach a’ chraicinn
-👉🏾	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, druim na làimhe, colgag a’ tomhadh deas: tòna meadhanach doilleir a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach doilleir a’ chraicinn
-👉🏿	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, druim na làimhe, colgag a’ tomhadh deas: tòna doilleir a’ chraicinn, làmh, meur, tomhadh, tòna doilleir a’ chraicinn
-👆️	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, làmh, meur, suas, tomhadh
-👆🏻	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, druim na làimhe, colgag a’ tomhadh suas: tòna soilleir a’ chraicinn, làmh, meur, suas, tomhadh, tòna soilleir a’ chraicinn
-👆🏼	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, druim na làimhe, colgag a’ tomhadh suas: tòna meadhanach soilleir a’ chraicinn, làmh, meur, suas, tomhadh, tòna meadhanach soilleir a’ chraicinn
-👆🏽	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, druim na làimhe, colgag a’ tomhadh suas: tòna meadhanach a’ chraicinn, làmh, meur, suas, tomhadh, tòna meadhanach a’ chraicinn
-👆🏾	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, druim na làimhe, colgag a’ tomhadh suas: tòna meadhanach doilleir a’ chraicinn, làmh, meur, suas, tomhadh, tòna meadhanach doilleir a’ chraicinn
-👆🏿	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, druim na làimhe, colgag a’ tomhadh suas: tòna doilleir a’ chraicinn, làmh, meur, suas, tomhadh, tòna doilleir a’ chraicinn
+👈️	colgag, colgag a’ tomhadh clì, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, làmh, meur, tomhadh
+👈🏻	colgag, colgag a’ tomhadh clì, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, druim na làimhe, colgag a’ tomhadh clì: tòna soilleir a’ chraicinn, làmh, meur, tomhadh, tòna soilleir a’ chraicinn
+👈🏼	colgag, colgag a’ tomhadh clì, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, druim na làimhe, colgag a’ tomhadh clì: tòna meadhanach soilleir a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach soilleir a’ chraicinn
+👈🏽	colgag, colgag a’ tomhadh clì, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, druim na làimhe, colgag a’ tomhadh clì: tòna meadhanach a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach a’ chraicinn
+👈🏾	colgag, colgag a’ tomhadh clì, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, druim na làimhe, colgag a’ tomhadh clì: tòna meadhanach doilleir a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach doilleir a’ chraicinn
+👈🏿	colgag, colgag a’ tomhadh clì, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh clì, druim na làimhe, colgag a’ tomhadh clì: tòna doilleir a’ chraicinn, làmh, meur, tomhadh, tòna doilleir a’ chraicinn
+👉️	colgag, colgag a’ tomhadh deas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, làmh, meur, tomhadh
+👉🏻	colgag, colgag a’ tomhadh deas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, druim na làimhe, colgag a’ tomhadh deas: tòna soilleir a’ chraicinn, làmh, meur, tomhadh, tòna soilleir a’ chraicinn
+👉🏼	colgag, colgag a’ tomhadh deas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, druim na làimhe, colgag a’ tomhadh deas: tòna meadhanach soilleir a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach soilleir a’ chraicinn
+👉🏽	colgag, colgag a’ tomhadh deas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, druim na làimhe, colgag a’ tomhadh deas: tòna meadhanach a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach a’ chraicinn
+👉🏾	colgag, colgag a’ tomhadh deas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, druim na làimhe, colgag a’ tomhadh deas: tòna meadhanach doilleir a’ chraicinn, làmh, meur, tomhadh, tòna meadhanach doilleir a’ chraicinn
+👉🏿	colgag, colgag a’ tomhadh deas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh deas, druim na làimhe, colgag a’ tomhadh deas: tòna doilleir a’ chraicinn, làmh, meur, tomhadh, tòna doilleir a’ chraicinn
+👆️	colgag, colgag a’ tomhadh suas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, làmh, meur, suas, tomhadh
+👆🏻	colgag, colgag a’ tomhadh suas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, druim na làimhe, colgag a’ tomhadh suas: tòna soilleir a’ chraicinn, làmh, meur, suas, tomhadh, tòna soilleir a’ chraicinn
+👆🏼	colgag, colgag a’ tomhadh suas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, druim na làimhe, colgag a’ tomhadh suas: tòna meadhanach soilleir a’ chraicinn, làmh, meur, suas, tomhadh, tòna meadhanach soilleir a’ chraicinn
+👆🏽	colgag, colgag a’ tomhadh suas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, druim na làimhe, colgag a’ tomhadh suas: tòna meadhanach a’ chraicinn, làmh, meur, suas, tomhadh, tòna meadhanach a’ chraicinn
+👆🏾	colgag, colgag a’ tomhadh suas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, druim na làimhe, colgag a’ tomhadh suas: tòna meadhanach doilleir a’ chraicinn, làmh, meur, suas, tomhadh, tòna meadhanach doilleir a’ chraicinn
+👆🏿	colgag, colgag a’ tomhadh suas, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh suas, druim na làimhe, colgag a’ tomhadh suas: tòna doilleir a’ chraicinn, làmh, meur, suas, tomhadh, tòna doilleir a’ chraicinn
 🖕	Fionnlagh Fada / Màiri Fhada, corrag, làmh, meur
 🖕🏻	Fionnlagh Fada / Màiri Fhada, Fionnlagh Fada / Màiri Fhada: tòna soilleir a’ chraicinn, corrag, làmh, meur, tòna soilleir a’ chraicinn
 🖕🏼	Fionnlagh Fada / Màiri Fhada, Fionnlagh Fada / Màiri Fhada: tòna meadhanach soilleir a’ chraicinn, corrag, làmh, meur, tòna meadhanach soilleir a’ chraicinn
 🖕🏽	Fionnlagh Fada / Màiri Fhada, Fionnlagh Fada / Màiri Fhada: tòna meadhanach a’ chraicinn, corrag, làmh, meur, tòna meadhanach a’ chraicinn
 🖕🏾	Fionnlagh Fada / Màiri Fhada, Fionnlagh Fada / Màiri Fhada: tòna meadhanach doilleir a’ chraicinn, corrag, làmh, meur, tòna meadhanach doilleir a’ chraicinn
 🖕🏿	Fionnlagh Fada / Màiri Fhada, Fionnlagh Fada / Màiri Fhada: tòna doilleir a’ chraicinn, corrag, làmh, meur, tòna doilleir a’ chraicinn
-👇️	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, làmh, meur, sìos, tomhadh
-👇🏻	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, druim na làimhe, colgag a’ tomhadh sìos: tòna soilleir a’ chraicinn, làmh, meur, sìos, tomhadh, tòna soilleir a’ chraicinn
-👇🏼	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, druim na làimhe, colgag a’ tomhadh sìos: tòna meadhanach soilleir a’ chraicinn, làmh, meur, sìos, tomhadh, tòna meadhanach soilleir a’ chraicinn
-👇🏽	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, druim na làimhe, colgag a’ tomhadh sìos: tòna meadhanach a’ chraicinn, làmh, meur, sìos, tomhadh, tòna meadhanach a’ chraicinn
-👇🏾	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, druim na làimhe, colgag a’ tomhadh sìos: tòna meadhanach doilleir a’ chraicinn, làmh, meur, sìos, tomhadh, tòna meadhanach doilleir a’ chraicinn
-👇🏿	colgag, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, druim na làimhe, colgag a’ tomhadh sìos: tòna doilleir a’ chraicinn, làmh, meur, sìos, tomhadh, tòna doilleir a’ chraicinn
+👇️	colgag, colgag a’ tomhadh sìos, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, làmh, meur, sìos, tomhadh
+👇🏻	colgag, colgag a’ tomhadh sìos, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, druim na làimhe, colgag a’ tomhadh sìos: tòna soilleir a’ chraicinn, làmh, meur, sìos, tomhadh, tòna soilleir a’ chraicinn
+👇🏼	colgag, colgag a’ tomhadh sìos, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, druim na làimhe, colgag a’ tomhadh sìos: tòna meadhanach soilleir a’ chraicinn, làmh, meur, sìos, tomhadh, tòna meadhanach soilleir a’ chraicinn
+👇🏽	colgag, colgag a’ tomhadh sìos, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, druim na làimhe, colgag a’ tomhadh sìos: tòna meadhanach a’ chraicinn, làmh, meur, sìos, tomhadh, tòna meadhanach a’ chraicinn
+👇🏾	colgag, colgag a’ tomhadh sìos, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, druim na làimhe, colgag a’ tomhadh sìos: tòna meadhanach doilleir a’ chraicinn, làmh, meur, sìos, tomhadh, tòna meadhanach doilleir a’ chraicinn
+👇🏿	colgag, colgag a’ tomhadh sìos, corrag, druim na làimhe, druim na làimhe, colgag a’ tomhadh sìos, druim na làimhe, colgag a’ tomhadh sìos: tòna doilleir a’ chraicinn, làmh, meur, sìos, tomhadh, tòna doilleir a’ chraicinn
 ☝️	colgag, colgag a’ tomhadh suas, corrag, làmh, meur, suas, tomhadh
 ☝🏻	colgag, colgag a’ tomhadh suas, colgag a’ tomhadh suas: tòna soilleir a’ chraicinn, corrag, làmh, meur, suas, tomhadh, tòna soilleir a’ chraicinn
 ☝🏼	colgag, colgag a’ tomhadh suas, colgag a’ tomhadh suas: tòna meadhanach soilleir a’ chraicinn, corrag, làmh, meur, suas, tomhadh, tòna meadhanach soilleir a’ chraicinn
@@ -686,7 +705,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 👎🏽	-1, dona, làmh, mo chreach, mo chreach: tòna meadhanach a’ chraicinn, sìos, tòna meadhanach a’ chraicinn, òrdag
 👎🏾	-1, dona, làmh, mo chreach, mo chreach: tòna meadhanach doilleir a’ chraicinn, sìos, tòna meadhanach doilleir a’ chraicinn, òrdag
 👎🏿	-1, dona, làmh, mo chreach, mo chreach: tòna doilleir a’ chraicinn, sìos, tòna doilleir a’ chraicinn, òrdag
-✊	buille, dòrn, dòrn air a thogail, dùinte, làmh
+✊️	buille, dòrn, dòrn air a thogail, dùinte, làmh
 ✊🏻	buille, dòrn, dòrn air a thogail, dòrn air a thogail: tòna soilleir a’ chraicinn, dùinte, làmh, tòna soilleir a’ chraicinn
 ✊🏼	buille, dòrn, dòrn air a thogail, dòrn air a thogail: tòna meadhanach soilleir a’ chraicinn, dùinte, làmh, tòna meadhanach soilleir a’ chraicinn
 ✊🏽	buille, dòrn, dòrn air a thogail, dòrn air a thogail: tòna meadhanach a’ chraicinn, dùinte, làmh, tòna meadhanach a’ chraicinn
@@ -746,12 +765,12 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🤝🏽	aontachadh, coinneamh, crath, crathadh, crathadh-làimhe, crathadh-làimhe: tòna meadhanach a’ chraicinn, làmh, tòna meadhanach a’ chraicinn
 🤝🏾	aontachadh, coinneamh, crath, crathadh, crathadh-làimhe, crathadh-làimhe: tòna meadhanach doilleir a’ chraicinn, làmh, tòna meadhanach doilleir a’ chraicinn
 🤝🏿	aontachadh, coinneamh, crath, crathadh, crathadh-làimhe, crathadh-làimhe: tòna doilleir a’ chraicinn, làmh, tòna doilleir a’ chraicinn
-🙏	cromadh, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, paisgte, taing, ùrnaigh
-🙏🏻	cromadh, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, làmhan paisgte: tòna soilleir a’ chraicinn, paisgte, taing, tòna soilleir a’ chraicinn, ùrnaigh
-🙏🏼	cromadh, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, làmhan paisgte: tòna meadhanach soilleir a’ chraicinn, paisgte, taing, tòna meadhanach soilleir a’ chraicinn, ùrnaigh
-🙏🏽	cromadh, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, làmhan paisgte: tòna meadhanach a’ chraicinn, paisgte, taing, tòna meadhanach a’ chraicinn, ùrnaigh
-🙏🏾	cromadh, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, làmhan paisgte: tòna meadhanach doilleir a’ chraicinn, paisgte, taing, tòna meadhanach doilleir a’ chraicinn, ùrnaigh
-🙏🏿	cromadh, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, làmhan paisgte: tòna doilleir a’ chraicinn, paisgte, taing, tòna doilleir a’ chraicinn, ùrnaigh
+🙏	5 àrd, cromadh, còig àrd, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, paisgte, taing, ùrnaigh
+🙏🏻	5 àrd, cromadh, còig àrd, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, làmhan paisgte: tòna soilleir a’ chraicinn, paisgte, taing, tòna soilleir a’ chraicinn, ùrnaigh
+🙏🏼	5 àrd, cromadh, còig àrd, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, làmhan paisgte: tòna meadhanach soilleir a’ chraicinn, paisgte, taing, tòna meadhanach soilleir a’ chraicinn, ùrnaigh
+🙏🏽	5 àrd, cromadh, còig àrd, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, làmhan paisgte: tòna meadhanach a’ chraicinn, paisgte, taing, tòna meadhanach a’ chraicinn, ùrnaigh
+🙏🏾	5 àrd, cromadh, còig àrd, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, làmhan paisgte: tòna meadhanach doilleir a’ chraicinn, paisgte, taing, tòna meadhanach doilleir a’ chraicinn, ùrnaigh
+🙏🏿	5 àrd, cromadh, còig àrd, faighneachd, gluasad, iarraidh, làmh, làmhan paisgte, làmhan paisgte: tòna doilleir a’ chraicinn, paisgte, taing, tòna doilleir a’ chraicinn, ùrnaigh
 ✍️	làmh, làmh a’ sgrìobhadh, sgrìobh, sgrìobhadh
 ✍🏻	làmh, làmh a’ sgrìobhadh, làmh a’ sgrìobhadh: tòna soilleir a’ chraicinn, sgrìobh, sgrìobhadh, tòna soilleir a’ chraicinn
 ✍🏼	làmh, làmh a’ sgrìobhadh, làmh a’ sgrìobhadh: tòna meadhanach soilleir a’ chraicinn, sgrìobh, sgrìobhadh, tòna meadhanach soilleir a’ chraicinn
@@ -1248,24 +1267,24 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🙆🏽‍♀	aontachadh, boireannach, boireannach ag aontachadh ri rud, boireannach ag aontachadh ri rud: tòna meadhanach a’ chraicinn, gluasad, làmh, tè, tòna meadhanach a’ chraicinn
 🙆🏾‍♀	aontachadh, boireannach, boireannach ag aontachadh ri rud, boireannach ag aontachadh ri rud: tòna meadhanach doilleir a’ chraicinn, gluasad, làmh, tè, tòna meadhanach doilleir a’ chraicinn
 🙆🏿‍♀	aontachadh, boireannach, boireannach ag aontachadh ri rud, boireannach ag aontachadh ri rud: tòna doilleir a’ chraicinn, gluasad, làmh, tè, tòna doilleir a’ chraicinn
-💁	bas, cobhair, fiosrachadh, làmh, neach le làmh sìnte a-mach, bas air uachdar, neach le làmh sìnte, bas air uachdar, sìnte, taic, uachdar
-💁🏻	bas, cobhair, fiosrachadh, làmh, neach le làmh sìnte a-mach, bas air uachdar, neach le làmh sìnte, bas air uachdar, neach le làmh sìnte, bas air uachdar: tòna soilleir a’ chraicinn, sìnte, taic, tòna soilleir a’ chraicinn, uachdar
-💁🏼	bas, cobhair, fiosrachadh, làmh, neach le làmh sìnte a-mach, bas air uachdar, neach le làmh sìnte, bas air uachdar, neach le làmh sìnte, bas air uachdar: tòna meadhanach soilleir a’ chraicinn, sìnte, taic, tòna meadhanach soilleir a’ chraicinn, uachdar
-💁🏽	bas, cobhair, fiosrachadh, làmh, neach le làmh sìnte a-mach, bas air uachdar, neach le làmh sìnte, bas air uachdar, neach le làmh sìnte, bas air uachdar: tòna meadhanach a’ chraicinn, sìnte, taic, tòna meadhanach a’ chraicinn, uachdar
-💁🏾	bas, cobhair, fiosrachadh, làmh, neach le làmh sìnte a-mach, bas air uachdar, neach le làmh sìnte, bas air uachdar, neach le làmh sìnte, bas air uachdar: tòna meadhanach doilleir a’ chraicinn, sìnte, taic, tòna meadhanach doilleir a’ chraicinn, uachdar
-💁🏿	bas, cobhair, fiosrachadh, làmh, neach le làmh sìnte a-mach, bas air uachdar, neach le làmh sìnte, bas air uachdar, neach le làmh sìnte, bas air uachdar: tòna doilleir a’ chraicinn, sìnte, taic, tòna doilleir a’ chraicinn, uachdar
-💁‍♂	bas, cobhair, duine, duine le làmh sìnte a-mach, bas air uachdar, duine le làmh sìnte, bas air uachdar, fear, fiosrachadh, fireannach, làmh, sìnte, taic, uachdar
-💁🏻‍♂	bas, cobhair, duine, duine le làmh sìnte a-mach, bas air uachdar, duine le làmh sìnte, bas air uachdar, duine le làmh sìnte, bas air uachdar: tòna soilleir a’ chraicinn, fear, fiosrachadh, fireannach, làmh, sìnte, taic, tòna soilleir a’ chraicinn, uachdar
-💁🏼‍♂	bas, cobhair, duine, duine le làmh sìnte a-mach, bas air uachdar, duine le làmh sìnte, bas air uachdar, duine le làmh sìnte, bas air uachdar: tòna meadhanach soilleir a’ chraicinn, fear, fiosrachadh, fireannach, làmh, sìnte, taic, tòna meadhanach soilleir a’ chraicinn, uachdar
-💁🏽‍♂	bas, cobhair, duine, duine le làmh sìnte a-mach, bas air uachdar, duine le làmh sìnte, bas air uachdar, duine le làmh sìnte, bas air uachdar: tòna meadhanach a’ chraicinn, fear, fiosrachadh, fireannach, làmh, sìnte, taic, tòna meadhanach a’ chraicinn, uachdar
-💁🏾‍♂	bas, cobhair, duine, duine le làmh sìnte a-mach, bas air uachdar, duine le làmh sìnte, bas air uachdar, duine le làmh sìnte, bas air uachdar: tòna meadhanach doilleir a’ chraicinn, fear, fiosrachadh, fireannach, làmh, sìnte, taic, tòna meadhanach doilleir a’ chraicinn, uachdar
-💁🏿‍♂	bas, cobhair, duine, duine le làmh sìnte a-mach, bas air uachdar, duine le làmh sìnte, bas air uachdar, duine le làmh sìnte, bas air uachdar: tòna doilleir a’ chraicinn, fear, fiosrachadh, fireannach, làmh, sìnte, taic, tòna doilleir a’ chraicinn, uachdar
-💁‍♀	bas, boireannach, boireannach le làmh sìnte a-mach, bas air uachdar, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, bas air uachdar, uachdar
-💁🏻‍♀	bas, boireannach, boireannach le làmh sìnte a-mach, bas air uachdar, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, bas air uachdar, tè le làmh sìnte a-mach, bas air uachdar: tòna soilleir a’ chraicinn, tòna soilleir a’ chraicinn, uachdar
-💁🏼‍♀	bas, boireannach, boireannach le làmh sìnte a-mach, bas air uachdar, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, bas air uachdar, tè le làmh sìnte a-mach, bas air uachdar: tòna meadhanach soilleir a’ chraicinn, tòna meadhanach soilleir a’ chraicinn, uachdar
-💁🏽‍♀	bas, boireannach, boireannach le làmh sìnte a-mach, bas air uachdar, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, bas air uachdar, tè le làmh sìnte a-mach, bas air uachdar: tòna meadhanach a’ chraicinn, tòna meadhanach a’ chraicinn, uachdar
-💁🏾‍♀	bas, boireannach, boireannach le làmh sìnte a-mach, bas air uachdar, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, bas air uachdar, tè le làmh sìnte a-mach, bas air uachdar: tòna meadhanach doilleir a’ chraicinn, tòna meadhanach doilleir a’ chraicinn, uachdar
-💁🏿‍♀	bas, boireannach, boireannach le làmh sìnte a-mach, bas air uachdar, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, bas air uachdar, tè le làmh sìnte a-mach, bas air uachdar: tòna doilleir a’ chraicinn, tòna doilleir a’ chraicinn, uachdar
+💁	bas, bas air uachdar, cobhair, fiosrachadh, làmh, neach le làmh sìnte, neach le làmh sìnte a-mach, neach le làmh sìnte, bas air uachdar, sìnte, taic, uachdar
+💁🏻	bas, bas air uachdar, cobhair, fiosrachadh, làmh, neach le làmh sìnte, neach le làmh sìnte a-mach, neach le làmh sìnte, bas air uachdar, neach le làmh sìnte, bas air uachdar: tòna soilleir a’ chraicinn, sìnte, taic, tòna soilleir a’ chraicinn, uachdar
+💁🏼	bas, bas air uachdar, cobhair, fiosrachadh, làmh, neach le làmh sìnte, neach le làmh sìnte a-mach, neach le làmh sìnte, bas air uachdar, neach le làmh sìnte, bas air uachdar: tòna meadhanach soilleir a’ chraicinn, sìnte, taic, tòna meadhanach soilleir a’ chraicinn, uachdar
+💁🏽	bas, bas air uachdar, cobhair, fiosrachadh, làmh, neach le làmh sìnte, neach le làmh sìnte a-mach, neach le làmh sìnte, bas air uachdar, neach le làmh sìnte, bas air uachdar: tòna meadhanach a’ chraicinn, sìnte, taic, tòna meadhanach a’ chraicinn, uachdar
+💁🏾	bas, bas air uachdar, cobhair, fiosrachadh, làmh, neach le làmh sìnte, neach le làmh sìnte a-mach, neach le làmh sìnte, bas air uachdar, neach le làmh sìnte, bas air uachdar: tòna meadhanach doilleir a’ chraicinn, sìnte, taic, tòna meadhanach doilleir a’ chraicinn, uachdar
+💁🏿	bas, bas air uachdar, cobhair, fiosrachadh, làmh, neach le làmh sìnte, neach le làmh sìnte a-mach, neach le làmh sìnte, bas air uachdar, neach le làmh sìnte, bas air uachdar: tòna doilleir a’ chraicinn, sìnte, taic, tòna doilleir a’ chraicinn, uachdar
+💁‍♂	bas, bas air uachdar, cobhair, duine, duine le làmh sìnte, duine le làmh sìnte a-mach, duine le làmh sìnte, bas air uachdar, fear, fiosrachadh, fireannach, làmh, sìnte, taic, uachdar
+💁🏻‍♂	bas, bas air uachdar, cobhair, duine, duine le làmh sìnte, duine le làmh sìnte a-mach, duine le làmh sìnte, bas air uachdar, duine le làmh sìnte, bas air uachdar: tòna soilleir a’ chraicinn, fear, fiosrachadh, fireannach, làmh, sìnte, taic, tòna soilleir a’ chraicinn, uachdar
+💁🏼‍♂	bas, bas air uachdar, cobhair, duine, duine le làmh sìnte, duine le làmh sìnte a-mach, duine le làmh sìnte, bas air uachdar, duine le làmh sìnte, bas air uachdar: tòna meadhanach soilleir a’ chraicinn, fear, fiosrachadh, fireannach, làmh, sìnte, taic, tòna meadhanach soilleir a’ chraicinn, uachdar
+💁🏽‍♂	bas, bas air uachdar, cobhair, duine, duine le làmh sìnte, duine le làmh sìnte a-mach, duine le làmh sìnte, bas air uachdar, duine le làmh sìnte, bas air uachdar: tòna meadhanach a’ chraicinn, fear, fiosrachadh, fireannach, làmh, sìnte, taic, tòna meadhanach a’ chraicinn, uachdar
+💁🏾‍♂	bas, bas air uachdar, cobhair, duine, duine le làmh sìnte, duine le làmh sìnte a-mach, duine le làmh sìnte, bas air uachdar, duine le làmh sìnte, bas air uachdar: tòna meadhanach doilleir a’ chraicinn, fear, fiosrachadh, fireannach, làmh, sìnte, taic, tòna meadhanach doilleir a’ chraicinn, uachdar
+💁🏿‍♂	bas, bas air uachdar, cobhair, duine, duine le làmh sìnte, duine le làmh sìnte a-mach, duine le làmh sìnte, bas air uachdar, duine le làmh sìnte, bas air uachdar: tòna doilleir a’ chraicinn, fear, fiosrachadh, fireannach, làmh, sìnte, taic, tòna doilleir a’ chraicinn, uachdar
+💁‍♀	bas, bas air uachdar, boireannach, boireannach le làmh sìnte a-mach, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, tè le làmh sìnte a-mach, bas air uachdar, uachdar
+💁🏻‍♀	bas, bas air uachdar, boireannach, boireannach le làmh sìnte a-mach, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, tè le làmh sìnte a-mach, bas air uachdar, tè le làmh sìnte a-mach, bas air uachdar: tòna soilleir a’ chraicinn, tòna soilleir a’ chraicinn, uachdar
+💁🏼‍♀	bas, bas air uachdar, boireannach, boireannach le làmh sìnte a-mach, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, tè le làmh sìnte a-mach, bas air uachdar, tè le làmh sìnte a-mach, bas air uachdar: tòna meadhanach soilleir a’ chraicinn, tòna meadhanach soilleir a’ chraicinn, uachdar
+💁🏽‍♀	bas, bas air uachdar, boireannach, boireannach le làmh sìnte a-mach, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, tè le làmh sìnte a-mach, bas air uachdar, tè le làmh sìnte a-mach, bas air uachdar: tòna meadhanach a’ chraicinn, tòna meadhanach a’ chraicinn, uachdar
+💁🏾‍♀	bas, bas air uachdar, boireannach, boireannach le làmh sìnte a-mach, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, tè le làmh sìnte a-mach, bas air uachdar, tè le làmh sìnte a-mach, bas air uachdar: tòna meadhanach doilleir a’ chraicinn, tòna meadhanach doilleir a’ chraicinn, uachdar
+💁🏿‍♀	bas, bas air uachdar, boireannach, boireannach le làmh sìnte a-mach, cobhair, fiosrachadh, làmh, sìnte, taic, tè, tè le làmh sìnte a-mach, tè le làmh sìnte a-mach, bas air uachdar, tè le làmh sìnte a-mach, bas air uachdar: tòna doilleir a’ chraicinn, tòna doilleir a’ chraicinn, uachdar
 🙋	gluasad, làmh, neach a’ togail a làmh, tog, togail, toiliche
 🙋🏻	gluasad, làmh, neach a’ togail a làmh, neach a’ togail a làmh: tòna soilleir a’ chraicinn, tog, togail, toiliche, tòna soilleir a’ chraicinn
 🙋🏼	gluasad, làmh, neach a’ togail a làmh, neach a’ togail a làmh: tòna meadhanach soilleir a’ chraicinn, tog, togail, toiliche, tòna meadhanach soilleir a’ chraicinn
@@ -1854,12 +1873,12 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 👼🏽	aingeal, aingeal òg, aingeal òg: tòna meadhanach a’ chraicinn, aodann, fantastach, faoinsgeul, leanabh, naoidhean, tòna meadhanach a’ chraicinn
 👼🏾	aingeal, aingeal òg, aingeal òg: tòna meadhanach doilleir a’ chraicinn, aodann, fantastach, faoinsgeul, leanabh, naoidhean, tòna meadhanach doilleir a’ chraicinn
 👼🏿	aingeal, aingeal òg, aingeal òg: tòna doilleir a’ chraicinn, aodann, fantastach, faoinsgeul, leanabh, naoidhean, tòna doilleir a’ chraicinn
-🎅	Nollaig, athair, bodach na Nollaig, bodach na nollaig, comharrachadh
-🎅🏻	Nollaig, athair, bodach na Nollaig, bodach na Nollaig: tòna soilleir a’ chraicinn, bodach na nollaig, comharrachadh, tòna soilleir a’ chraicinn
-🎅🏼	Nollaig, athair, bodach na Nollaig, bodach na Nollaig: tòna meadhanach soilleir a’ chraicinn, bodach na nollaig, comharrachadh, tòna meadhanach soilleir a’ chraicinn
-🎅🏽	Nollaig, athair, bodach na Nollaig, bodach na Nollaig: tòna meadhanach a’ chraicinn, bodach na nollaig, comharrachadh, tòna meadhanach a’ chraicinn
-🎅🏾	Nollaig, athair, bodach na Nollaig, bodach na Nollaig: tòna meadhanach doilleir a’ chraicinn, bodach na nollaig, comharrachadh, tòna meadhanach doilleir a’ chraicinn
-🎅🏿	Nollaig, athair, bodach na Nollaig, bodach na Nollaig: tòna doilleir a’ chraicinn, bodach na nollaig, comharrachadh, tòna doilleir a’ chraicinn
+🎅	Nollaig, athair, bodach na Nollaig, comharrachadh
+🎅🏻	Nollaig, athair, bodach na Nollaig, bodach na Nollaig: tòna soilleir a’ chraicinn, comharrachadh, tòna soilleir a’ chraicinn
+🎅🏼	Nollaig, athair, bodach na Nollaig, bodach na Nollaig: tòna meadhanach soilleir a’ chraicinn, comharrachadh, tòna meadhanach soilleir a’ chraicinn
+🎅🏽	Nollaig, athair, bodach na Nollaig, bodach na Nollaig: tòna meadhanach a’ chraicinn, comharrachadh, tòna meadhanach a’ chraicinn
+🎅🏾	Nollaig, athair, bodach na Nollaig, bodach na Nollaig: tòna meadhanach doilleir a’ chraicinn, comharrachadh, tòna meadhanach doilleir a’ chraicinn
+🎅🏿	Nollaig, athair, bodach na Nollaig, bodach na Nollaig: tòna doilleir a’ chraicinn, comharrachadh, tòna doilleir a’ chraicinn
 🤶	bean, bean Bodach na Nollaig, bodach na nollaig, comharrachadh, màthair, nollaig
 🤶🏻	bean, bean Bodach na Nollaig, bean Bodach na Nollaig: tòna soilleir a’ chraicinn, bodach na nollaig, comharrachadh, màthair, nollaig, tòna soilleir a’ chraicinn
 🤶🏼	bean, bean Bodach na Nollaig, bean Bodach na Nollaig: tòna meadhanach soilleir a’ chraicinn, bodach na nollaig, comharrachadh, màthair, nollaig, tòna meadhanach soilleir a’ chraicinn
@@ -2059,6 +2078,24 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🚶🏽‍♀	boireannach, boireannach a’ coiseachd, boireannach a’ coiseachd: tòna meadhanach a’ chraicinn, coiseachd, coisich, tè, tòna meadhanach a’ chraicinn
 🚶🏾‍♀	boireannach, boireannach a’ coiseachd, boireannach a’ coiseachd: tòna meadhanach doilleir a’ chraicinn, coiseachd, coisich, tè, tòna meadhanach doilleir a’ chraicinn
 🚶🏿‍♀	boireannach, boireannach a’ coiseachd, boireannach a’ coiseachd: tòna doilleir a’ chraicinn, coiseachd, coisich, tè, tòna doilleir a’ chraicinn
+🚶‍➡	coiseachd, coisich, neach a’ coiseachd, neach a’ coiseachd ris an taobh deas
+🚶🏻‍➡	coiseachd, coisich, neach a’ coiseachd, neach a’ coiseachd ris an taobh deas
+🚶🏼‍➡	coiseachd, coisich, neach a’ coiseachd, neach a’ coiseachd ris an taobh deas
+🚶🏽‍➡	coiseachd, coisich, neach a’ coiseachd, neach a’ coiseachd ris an taobh deas
+🚶🏾‍➡	coiseachd, coisich, neach a’ coiseachd, neach a’ coiseachd ris an taobh deas
+🚶🏿‍➡	coiseachd, coisich, neach a’ coiseachd, neach a’ coiseachd ris an taobh deas
+🚶‍♀‍➡	boireannach, boireannach a’ coiseachd, boireannach a’ coiseachd ris an taobh deas, coiseachd, coisich, tè
+🚶🏻‍♀‍➡	boireannach, boireannach a’ coiseachd, boireannach a’ coiseachd ris an taobh deas, coiseachd, coisich, tè
+🚶🏼‍♀‍➡	boireannach, boireannach a’ coiseachd, boireannach a’ coiseachd ris an taobh deas, coiseachd, coisich, tè
+🚶🏽‍♀‍➡	boireannach, boireannach a’ coiseachd, boireannach a’ coiseachd ris an taobh deas, coiseachd, coisich, tè
+🚶🏾‍♀‍➡	boireannach, boireannach a’ coiseachd, boireannach a’ coiseachd ris an taobh deas, coiseachd, coisich, tè
+🚶🏿‍♀‍➡	boireannach, boireannach a’ coiseachd, boireannach a’ coiseachd ris an taobh deas, coiseachd, coisich, tè
+🚶‍♂‍➡	coiseachd, coisich, duine, duine a’ coiseachd, duine a’ coiseachd ris an taobh deas, fear, fireannach
+🚶🏻‍♂‍➡	coiseachd, coisich, duine, duine a’ coiseachd, duine a’ coiseachd ris an taobh deas, fear, fireannach
+🚶🏼‍♂‍➡	coiseachd, coisich, duine, duine a’ coiseachd, duine a’ coiseachd ris an taobh deas, fear, fireannach
+🚶🏽‍♂‍➡	coiseachd, coisich, duine, duine a’ coiseachd, duine a’ coiseachd ris an taobh deas, fear, fireannach
+🚶🏾‍♂‍➡	coiseachd, coisich, duine, duine a’ coiseachd, duine a’ coiseachd ris an taobh deas, fear, fireannach
+🚶🏿‍♂‍➡	coiseachd, coisich, duine, duine a’ coiseachd, duine a’ coiseachd ris an taobh deas, fear, fireannach
 🧍	neach ’na sheasamh, seas, seasamh
 🧍🏻	neach ’na sheasamh, neach ’na sheasamh: tòna soilleir a’ chraicinn, seas, seasamh, tòna soilleir a’ chraicinn
 🧍🏼	neach ’na sheasamh, neach ’na sheasamh: tòna meadhanach soilleir a’ chraicinn, seas, seasamh, tòna meadhanach soilleir a’ chraicinn
@@ -2095,60 +2132,132 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🧎🏽‍♀	boireanach air a ghlùinean, boireanach air a ghlùinean: tòna meadhanach a’ chraicinn, boireannach, glùin, glùinean, tòna meadhanach a’ chraicinn
 🧎🏾‍♀	boireanach air a ghlùinean, boireanach air a ghlùinean: tòna meadhanach doilleir a’ chraicinn, boireannach, glùin, glùinean, tòna meadhanach doilleir a’ chraicinn
 🧎🏿‍♀	boireanach air a ghlùinean, boireanach air a ghlùinean: tòna doilleir a’ chraicinn, boireannach, glùin, glùinean, tòna doilleir a’ chraicinn
+🧎‍➡	glùin, glùinean, neach air a ghlùinean, neach air a ghlùinean ris an taobh deas
+🧎🏻‍➡	glùin, glùinean, neach air a ghlùinean, neach air a ghlùinean ris an taobh deas
+🧎🏼‍➡	glùin, glùinean, neach air a ghlùinean, neach air a ghlùinean ris an taobh deas
+🧎🏽‍➡	glùin, glùinean, neach air a ghlùinean, neach air a ghlùinean ris an taobh deas
+🧎🏾‍➡	glùin, glùinean, neach air a ghlùinean, neach air a ghlùinean ris an taobh deas
+🧎🏿‍➡	glùin, glùinean, neach air a ghlùinean, neach air a ghlùinean ris an taobh deas
+🧎‍♀‍➡	boireanach air a ghlùinean, boireanach air a ghlùinean ris an taobh deas, boireannach, glùin, glùinean
+🧎🏻‍♀‍➡	boireanach air a ghlùinean, boireanach air a ghlùinean ris an taobh deas, boireannach, glùin, glùinean
+🧎🏼‍♀‍➡	boireanach air a ghlùinean, boireanach air a ghlùinean ris an taobh deas, boireannach, glùin, glùinean
+🧎🏽‍♀‍➡	boireanach air a ghlùinean, boireanach air a ghlùinean ris an taobh deas, boireannach, glùin, glùinean
+🧎🏾‍♀‍➡	boireanach air a ghlùinean, boireanach air a ghlùinean ris an taobh deas, boireannach, glùin, glùinean
+🧎🏿‍♀‍➡	boireanach air a ghlùinean, boireanach air a ghlùinean ris an taobh deas, boireannach, glùin, glùinean
+🧎‍♂‍➡	duine, duine air a ghlùinean, duine air a ghlùinean ris an taobh deas, fireannach, glùin, glùinean
+🧎🏻‍♂‍➡	duine, duine air a ghlùinean, duine air a ghlùinean ris an taobh deas, fireannach, glùin, glùinean
+🧎🏼‍♂‍➡	duine, duine air a ghlùinean, duine air a ghlùinean ris an taobh deas, fireannach, glùin, glùinean
+🧎🏽‍♂‍➡	duine, duine air a ghlùinean, duine air a ghlùinean ris an taobh deas, fireannach, glùin, glùinean
+🧎🏾‍♂‍➡	duine, duine air a ghlùinean, duine air a ghlùinean ris an taobh deas, fireannach, glùin, glùinean
+🧎🏿‍♂‍➡	duine, duine air a ghlùinean, duine air a ghlùinean ris an taobh deas, fireannach, glùin, glùinean
 🧑‍🦯	dall, doille, neach dall le batachan, so-ruigsinneachd
 🧑🏻‍🦯	dall, doille, neach dall le batachan, neach dall le batachan: tòna soilleir a’ chraicinn, so-ruigsinneachd, tòna soilleir a’ chraicinn
 🧑🏼‍🦯	dall, doille, neach dall le batachan, neach dall le batachan: tòna meadhanach soilleir a’ chraicinn, so-ruigsinneachd, tòna meadhanach soilleir a’ chraicinn
 🧑🏽‍🦯	dall, doille, neach dall le batachan, neach dall le batachan: tòna meadhanach a’ chraicinn, so-ruigsinneachd, tòna meadhanach a’ chraicinn
 🧑🏾‍🦯	dall, doille, neach dall le batachan, neach dall le batachan: tòna meadhanach doilleir a’ chraicinn, so-ruigsinneachd, tòna meadhanach doilleir a’ chraicinn
 🧑🏿‍🦯	dall, doille, neach dall le batachan, neach dall le batachan: tòna doilleir a’ chraicinn, so-ruigsinneachd, tòna doilleir a’ chraicinn
+🧑‍🦯‍➡	dall, doille, neach dall le batachan, neach dall le batachan ris an taobh deas, so-ruigsinneachd
+🧑🏻‍🦯‍➡	dall, doille, neach dall le batachan, neach dall le batachan ris an taobh deas, so-ruigsinneachd
+🧑🏼‍🦯‍➡	dall, doille, neach dall le batachan, neach dall le batachan ris an taobh deas, so-ruigsinneachd
+🧑🏽‍🦯‍➡	dall, doille, neach dall le batachan, neach dall le batachan ris an taobh deas, so-ruigsinneachd
+🧑🏾‍🦯‍➡	dall, doille, neach dall le batachan, neach dall le batachan ris an taobh deas, so-ruigsinneachd
+🧑🏿‍🦯‍➡	dall, doille, neach dall le batachan, neach dall le batachan ris an taobh deas, so-ruigsinneachd
 👨‍🦯	dall, doille, duine, duine dall le batachan, fireannach, so-ruigsinneachd
 👨🏻‍🦯	dall, doille, duine, duine dall le batachan, duine dall le batachan: tòna soilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna soilleir a’ chraicinn
 👨🏼‍🦯	dall, doille, duine, duine dall le batachan, duine dall le batachan: tòna meadhanach soilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna meadhanach soilleir a’ chraicinn
 👨🏽‍🦯	dall, doille, duine, duine dall le batachan, duine dall le batachan: tòna meadhanach a’ chraicinn, fireannach, so-ruigsinneachd, tòna meadhanach a’ chraicinn
 👨🏾‍🦯	dall, doille, duine, duine dall le batachan, duine dall le batachan: tòna meadhanach doilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna meadhanach doilleir a’ chraicinn
 👨🏿‍🦯	dall, doille, duine, duine dall le batachan, duine dall le batachan: tòna doilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna doilleir a’ chraicinn
+👨‍🦯‍➡	dall, doille, duine, duine dall le batachan, duine dall le batachan ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏻‍🦯‍➡	dall, doille, duine, duine dall le batachan, duine dall le batachan ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏼‍🦯‍➡	dall, doille, duine, duine dall le batachan, duine dall le batachan ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏽‍🦯‍➡	dall, doille, duine, duine dall le batachan, duine dall le batachan ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏾‍🦯‍➡	dall, doille, duine, duine dall le batachan, duine dall le batachan ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏿‍🦯‍➡	dall, doille, duine, duine dall le batachan, duine dall le batachan ris an taobh deas, fireannach, so-ruigsinneachd
 👩‍🦯	boireannach, boireannach dall le batachan, dall, doille, so-ruigsinneachd
 👩🏻‍🦯	boireannach, boireannach dall le batachan, boireannach dall le batachan: tòna soilleir a’ chraicinn, dall, doille, so-ruigsinneachd, tòna soilleir a’ chraicinn
 👩🏼‍🦯	boireannach, boireannach dall le batachan, boireannach dall le batachan: tòna meadhanach soilleir a’ chraicinn, dall, doille, so-ruigsinneachd, tòna meadhanach soilleir a’ chraicinn
 👩🏽‍🦯	boireannach, boireannach dall le batachan, boireannach dall le batachan: tòna meadhanach a’ chraicinn, dall, doille, so-ruigsinneachd, tòna meadhanach a’ chraicinn
 👩🏾‍🦯	boireannach, boireannach dall le batachan, boireannach dall le batachan: tòna meadhanach doilleir a’ chraicinn, dall, doille, so-ruigsinneachd, tòna meadhanach doilleir a’ chraicinn
 👩🏿‍🦯	boireannach, boireannach dall le batachan, boireannach dall le batachan: tòna doilleir a’ chraicinn, dall, doille, so-ruigsinneachd, tòna doilleir a’ chraicinn
+👩‍🦯‍➡	boireannach, boireannach dall le batachan, boireannach dall le batachan ris an taobh deas, dall, doille, so-ruigsinneachd
+👩🏻‍🦯‍➡	boireannach, boireannach dall le batachan, boireannach dall le batachan ris an taobh deas, dall, doille, so-ruigsinneachd
+👩🏼‍🦯‍➡	boireannach, boireannach dall le batachan, boireannach dall le batachan ris an taobh deas, dall, doille, so-ruigsinneachd
+👩🏽‍🦯‍➡	boireannach, boireannach dall le batachan, boireannach dall le batachan ris an taobh deas, dall, doille, so-ruigsinneachd
+👩🏾‍🦯‍➡	boireannach, boireannach dall le batachan, boireannach dall le batachan ris an taobh deas, dall, doille, so-ruigsinneachd
+👩🏿‍🦯‍➡	boireannach, boireannach dall le batachan, boireannach dall le batachan ris an taobh deas, dall, doille, so-ruigsinneachd
 🧑‍🦼	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, so-ruigsinneachd
 🧑🏻‍🦼	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, neach ann an cathair-chuibhle le einnsein: tòna soilleir a’ chraicinn, so-ruigsinneachd, tòna soilleir a’ chraicinn
 🧑🏼‍🦼	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, neach ann an cathair-chuibhle le einnsein: tòna meadhanach soilleir a’ chraicinn, so-ruigsinneachd, tòna meadhanach soilleir a’ chraicinn
 🧑🏽‍🦼	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, neach ann an cathair-chuibhle le einnsein: tòna meadhanach a’ chraicinn, so-ruigsinneachd, tòna meadhanach a’ chraicinn
 🧑🏾‍🦼	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, neach ann an cathair-chuibhle le einnsein: tòna meadhanach doilleir a’ chraicinn, so-ruigsinneachd, tòna meadhanach doilleir a’ chraicinn
 🧑🏿‍🦼	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, neach ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn, so-ruigsinneachd, tòna doilleir a’ chraicinn
+🧑‍🦼‍➡	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, neach ann an cathair-chuibhle le einnsein ris an taobh deas, so-ruigsinneachd
+🧑🏻‍🦼‍➡	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, neach ann an cathair-chuibhle le einnsein ris an taobh deas, so-ruigsinneachd
+🧑🏼‍🦼‍➡	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, neach ann an cathair-chuibhle le einnsein ris an taobh deas, so-ruigsinneachd
+🧑🏽‍🦼‍➡	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, neach ann an cathair-chuibhle le einnsein ris an taobh deas, so-ruigsinneachd
+🧑🏾‍🦼‍➡	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, neach ann an cathair-chuibhle le einnsein ris an taobh deas, so-ruigsinneachd
+🧑🏿‍🦼‍➡	cathair-chuibhle, neach ann an cathair-chuibhle le einnsein, neach ann an cathair-chuibhle le einnsein ris an taobh deas, so-ruigsinneachd
 👨‍🦼	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, fireannach, so-ruigsinneachd
 👨🏻‍🦼	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, duine ann an cathair-chuibhle le einnsein: tòna soilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna soilleir a’ chraicinn
 👨🏼‍🦼	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, duine ann an cathair-chuibhle le einnsein: tòna meadhanach soilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna meadhanach soilleir a’ chraicinn
 👨🏽‍🦼	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, duine ann an cathair-chuibhle le einnsein: tòna meadhanach a’ chraicinn, fireannach, so-ruigsinneachd, tòna meadhanach a’ chraicinn
 👨🏾‍🦼	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, duine ann an cathair-chuibhle le einnsein: tòna meadhanach doilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna meadhanach doilleir a’ chraicinn
 👨🏿‍🦼	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, duine ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna doilleir a’ chraicinn
+👨‍🦼‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, duine ann an cathair-chuibhle le einnsein ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏻‍🦼‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, duine ann an cathair-chuibhle le einnsein ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏼‍🦼‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, duine ann an cathair-chuibhle le einnsein ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏽‍🦼‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, duine ann an cathair-chuibhle le einnsein ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏾‍🦼‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, duine ann an cathair-chuibhle le einnsein ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏿‍🦼‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle le einnsein, duine ann an cathair-chuibhle le einnsein ris an taobh deas, fireannach, so-ruigsinneachd
 👩‍🦼	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein
 👩🏻‍🦼	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein, tè ann an cathair-chuibhle le einnsein: tòna soilleir a’ chraicinn, tòna soilleir a’ chraicinn
 👩🏼‍🦼	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein, tè ann an cathair-chuibhle le einnsein: tòna meadhanach soilleir a’ chraicinn, tòna meadhanach soilleir a’ chraicinn
 👩🏽‍🦼	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein, tè ann an cathair-chuibhle le einnsein: tòna meadhanach a’ chraicinn, tòna meadhanach a’ chraicinn
 👩🏾‍🦼	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein, tè ann an cathair-chuibhle le einnsein: tòna meadhanach doilleir a’ chraicinn, tòna meadhanach doilleir a’ chraicinn
 👩🏿‍🦼	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein, tè ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn, tòna doilleir a’ chraicinn
+👩‍🦼‍➡	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein, tè ann an cathair-chuibhle le einnsein ris an taobh deas
+👩🏻‍🦼‍➡	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein, tè ann an cathair-chuibhle le einnsein ris an taobh deas
+👩🏼‍🦼‍➡	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein, tè ann an cathair-chuibhle le einnsein ris an taobh deas
+👩🏽‍🦼‍➡	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein, tè ann an cathair-chuibhle le einnsein ris an taobh deas
+👩🏾‍🦼‍➡	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein, tè ann an cathair-chuibhle le einnsein ris an taobh deas
+👩🏿‍🦼‍➡	boireannach, boireannach ann an cathair-chuibhle le einnsein, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle le einnsein, tè ann an cathair-chuibhle le einnsein ris an taobh deas
 🧑‍🦽	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, so-ruigsinneachd
 🧑🏻‍🦽	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, neach ann an cathair-chuibhle a làimh: tòna soilleir a’ chraicinn, so-ruigsinneachd, tòna soilleir a’ chraicinn
 🧑🏼‍🦽	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, neach ann an cathair-chuibhle a làimh: tòna meadhanach soilleir a’ chraicinn, so-ruigsinneachd, tòna meadhanach soilleir a’ chraicinn
 🧑🏽‍🦽	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, neach ann an cathair-chuibhle a làimh: tòna meadhanach a’ chraicinn, so-ruigsinneachd, tòna meadhanach a’ chraicinn
 🧑🏾‍🦽	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, neach ann an cathair-chuibhle a làimh: tòna meadhanach doilleir a’ chraicinn, so-ruigsinneachd, tòna meadhanach doilleir a’ chraicinn
 🧑🏿‍🦽	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, neach ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn, so-ruigsinneachd, tòna doilleir a’ chraicinn
+🧑‍🦽‍➡	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, neach ann an cathair-chuibhle a làimh ris an taobh deas, so-ruigsinneachd
+🧑🏻‍🦽‍➡	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, neach ann an cathair-chuibhle a làimh ris an taobh deas, so-ruigsinneachd
+🧑🏼‍🦽‍➡	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, neach ann an cathair-chuibhle a làimh ris an taobh deas, so-ruigsinneachd
+🧑🏽‍🦽‍➡	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, neach ann an cathair-chuibhle a làimh ris an taobh deas, so-ruigsinneachd
+🧑🏾‍🦽‍➡	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, neach ann an cathair-chuibhle a làimh ris an taobh deas, so-ruigsinneachd
+🧑🏿‍🦽‍➡	cathair-chuibhle, neach ann an cathair-chuibhle a làimh, neach ann an cathair-chuibhle a làimh ris an taobh deas, so-ruigsinneachd
 👨‍🦽	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, fireannach, so-ruigsinneachd
 👨🏻‍🦽	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, duine ann an cathair-chuibhle a làimh: tòna soilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna soilleir a’ chraicinn
 👨🏼‍🦽	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, duine ann an cathair-chuibhle a làimh: tòna meadhanach soilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna meadhanach soilleir a’ chraicinn
 👨🏽‍🦽	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, duine ann an cathair-chuibhle a làimh: tòna meadhanach a’ chraicinn, fireannach, so-ruigsinneachd, tòna meadhanach a’ chraicinn
 👨🏾‍🦽	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, duine ann an cathair-chuibhle a làimh: tòna meadhanach doilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna meadhanach doilleir a’ chraicinn
 👨🏿‍🦽	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, duine ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn, fireannach, so-ruigsinneachd, tòna doilleir a’ chraicinn
+👨‍🦽‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, duine ann an cathair-chuibhle a làimh ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏻‍🦽‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, duine ann an cathair-chuibhle a làimh ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏼‍🦽‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, duine ann an cathair-chuibhle a làimh ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏽‍🦽‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, duine ann an cathair-chuibhle a làimh ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏾‍🦽‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, duine ann an cathair-chuibhle a làimh ris an taobh deas, fireannach, so-ruigsinneachd
+👨🏿‍🦽‍➡	cathair-chuibhle, duine, duine ann an cathair-chuibhle a làimh, duine ann an cathair-chuibhle a làimh ris an taobh deas, fireannach, so-ruigsinneachd
 👩‍🦽	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh
 👩🏻‍🦽	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh, tè ann an cathair-chuibhle a làimh: tòna soilleir a’ chraicinn, tòna soilleir a’ chraicinn
 👩🏼‍🦽	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh, tè ann an cathair-chuibhle a làimh: tòna meadhanach soilleir a’ chraicinn, tòna meadhanach soilleir a’ chraicinn
 👩🏽‍🦽	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh, tè ann an cathair-chuibhle a làimh: tòna meadhanach a’ chraicinn, tòna meadhanach a’ chraicinn
 👩🏾‍🦽	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh, tè ann an cathair-chuibhle a làimh: tòna meadhanach doilleir a’ chraicinn, tòna meadhanach doilleir a’ chraicinn
 👩🏿‍🦽	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh, tè ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn, tòna doilleir a’ chraicinn
+👩‍🦽‍➡	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh, tè ann an cathair-chuibhle a làimh ris an taobh deas
+👩🏻‍🦽‍➡	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh, tè ann an cathair-chuibhle a làimh ris an taobh deas
+👩🏼‍🦽‍➡	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh, tè ann an cathair-chuibhle a làimh ris an taobh deas
+👩🏽‍🦽‍➡	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh, tè ann an cathair-chuibhle a làimh ris an taobh deas
+👩🏾‍🦽‍➡	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh, tè ann an cathair-chuibhle a làimh ris an taobh deas
+👩🏿‍🦽‍➡	boireannach, boireannach ann an cathair-chuibhle a làimh, cathair-chuibhle, so-ruigsinneachd, tè ann an cathair-chuibhle a làimh, tè ann an cathair-chuibhle a làimh ris an taobh deas
 🏃	marathon, neach a’ ruith, ruith
 🏃🏻	marathon, neach a’ ruith, neach a’ ruith: tòna soilleir a’ chraicinn, ruith, tòna soilleir a’ chraicinn
 🏃🏼	marathon, neach a’ ruith, neach a’ ruith: tòna meadhanach soilleir a’ chraicinn, ruith, tòna meadhanach soilleir a’ chraicinn
@@ -2167,6 +2276,24 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🏃🏽‍♀	boireannach, boireannach a’ ruith, boireannach a’ ruith: tòna meadhanach a’ chraicinn, marathon, ruith, rèis, tè, tòna meadhanach a’ chraicinn
 🏃🏾‍♀	boireannach, boireannach a’ ruith, boireannach a’ ruith: tòna meadhanach doilleir a’ chraicinn, marathon, ruith, rèis, tè, tòna meadhanach doilleir a’ chraicinn
 🏃🏿‍♀	boireannach, boireannach a’ ruith, boireannach a’ ruith: tòna doilleir a’ chraicinn, marathon, ruith, rèis, tè, tòna doilleir a’ chraicinn
+🏃‍➡	marathon, neach a’ ruith, neach a’ ruith ris an taobh deas, ruith
+🏃🏻‍➡	marathon, neach a’ ruith, neach a’ ruith ris an taobh deas, ruith
+🏃🏼‍➡	marathon, neach a’ ruith, neach a’ ruith ris an taobh deas, ruith
+🏃🏽‍➡	marathon, neach a’ ruith, neach a’ ruith ris an taobh deas, ruith
+🏃🏾‍➡	marathon, neach a’ ruith, neach a’ ruith ris an taobh deas, ruith
+🏃🏿‍➡	marathon, neach a’ ruith, neach a’ ruith ris an taobh deas, ruith
+🏃‍♀‍➡	boireannach, boireannach a’ ruith, boireannach a’ ruith ris an taobh deas, marathon, ruith, rèis, tè
+🏃🏻‍♀‍➡	boireannach, boireannach a’ ruith, boireannach a’ ruith ris an taobh deas, marathon, ruith, rèis, tè
+🏃🏼‍♀‍➡	boireannach, boireannach a’ ruith, boireannach a’ ruith ris an taobh deas, marathon, ruith, rèis, tè
+🏃🏽‍♀‍➡	boireannach, boireannach a’ ruith, boireannach a’ ruith ris an taobh deas, marathon, ruith, rèis, tè
+🏃🏾‍♀‍➡	boireannach, boireannach a’ ruith, boireannach a’ ruith ris an taobh deas, marathon, ruith, rèis, tè
+🏃🏿‍♀‍➡	boireannach, boireannach a’ ruith, boireannach a’ ruith ris an taobh deas, marathon, ruith, rèis, tè
+🏃‍♂‍➡	duine, duine a’ ruith, duine a’ ruith ris an taobh deas, fear, fireannach, marathon, ruith, rèis
+🏃🏻‍♂‍➡	duine, duine a’ ruith, duine a’ ruith ris an taobh deas, fear, fireannach, marathon, ruith, rèis
+🏃🏼‍♂‍➡	duine, duine a’ ruith, duine a’ ruith ris an taobh deas, fear, fireannach, marathon, ruith, rèis
+🏃🏽‍♂‍➡	duine, duine a’ ruith, duine a’ ruith ris an taobh deas, fear, fireannach, marathon, ruith, rèis
+🏃🏾‍♂‍➡	duine, duine a’ ruith, duine a’ ruith ris an taobh deas, fear, fireannach, marathon, ruith, rèis
+🏃🏿‍♂‍➡	duine, duine a’ ruith, duine a’ ruith ris an taobh deas, fear, fireannach, marathon, ruith, rèis
 💃	boireannach, boireannach a’ dannsadh, dannsa, dannsadh, tè
 💃🏻	boireannach, boireannach a’ dannsadh, boireannach a’ dannsadh: tòna soilleir a’ chraicinn, dannsa, dannsadh, tè, tòna soilleir a’ chraicinn
 💃🏼	boireannach, boireannach a’ dannsadh, boireannach a’ dannsadh: tòna meadhanach soilleir a’ chraicinn, dannsa, dannsadh, tè, tòna meadhanach soilleir a’ chraicinn
@@ -2609,7 +2736,6 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 👩‍❤‍👨	boireannach, càraid, càraid le cridhe, càraid le cridhe: boireannach ’s duine, duine, gaol
 👨‍❤‍👨	càraid, càraid le cridhe, càraid le cridhe: duine ’s duine, duine, gaol
 👩‍❤‍👩	boireannach, càraid, càraid le cridhe, càraid le cridhe: boireannach ’s boireannach, gaol
-👪️	teaghlach
 👨‍👩‍👦	boireannach, duine, gille, teaghlach, teaghlach: duine, boireannach ’s gille
 👨‍👩‍👧	boireannach, caileag, duine, teaghlach, teaghlach: duine, boireannach ’s caileag
 👨‍👩‍👧‍👦	boireannach, caileag, duine, gille, teaghlach, teaghlach: duine, boireannach, caileag ’s gille
@@ -2639,7 +2765,13 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 👤	com, sgàil-dhealbh, sgàil-riochd, sgàil-riochd de chom, silhouette, silhouette de chom
 👥	com, sgàil-dhealbh, sgàil-riochd, sgàil-riochd de chuim, silhouette, silhouette de chuim
 🫂	caidir, caidreabh, dealachadh, fàilte, soraidh slàn, taing
+👪️	teaghlach
+🧑‍🧑‍🧒	clann, duine-cloinne, inbheach, pàiste, teaghlach, teaghlach: dithis inbheach, duine-cloinne, teaghlach: inbheach, teaghlach: inbheach, inbheach, duine-cloinne
+🧑‍🧑‍🧒‍🧒	clann, duine-cloinne, inbheach, pàiste, teaghlach, teaghlach: dithis inbheach, dithis cloinne, teaghlach: inbheach, teaghlach: inbheach, inbheach, duine-cloinne, duine-cloinne
+🧑‍🧒	clann, duine-cloinne, inbheach, pàiste, teaghlach, teaghlach: inbheach, teaghlach: inbheach, duine-cloinne
+🧑‍🧒‍🧒	clann, duine-cloinne, inbheach, pàiste, teaghlach, teaghlach: inbheach, teaghlach: inbheach, dithis cloinne, teaghlach: inbheach, duine-cloinne, duine-cloinne
 👣	aodach, lorg, lorg coise, lorgan coise
+🫆	aisneis, aithne, aithneachadh, eucoir, faisneis, lorg, lorg-mheòir, làrach corraige, làrach òrdaige, meur-lorg, poileas, sàbhailteachd
 🦰	falt, falt ruadh, ruadh
 🦱	Afraganach, bachlach, dualach, falt, falt dualach
 🦳	bàn, falt, falt bàn, liath, sean
@@ -2652,7 +2784,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🐕️	cù, peata
 🦮	cù, cù-iùil, dall, doille, iùl, so-ruigsinneachd, stiùireadh, treòir, treòiriche, treòrachadh
 🐕‍🦺	cù, cù-taice, seirbheis, so-ruigsinneachd, taic
-🐩	cù, poodle
+🐩	cù, poodle, pùdal
 🐺	aodann, madadh-allaidh
 🦊	aodann, madadh-ruadh, sionnach
 🦝	annas, feòrachail, mathan-nighe, seòlta, slìogach, sròn
@@ -2664,6 +2796,8 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🐅	tìgear
 🐆	liopard
 🐴	aodann, aodann eich, each
+🫎	ainmhidh, beathach, beòthach, cabar, cabrach, lon, mamal, ùthach
+🫏	aiseal, asal, dùr, leth-asal, mamal, maoileann, muileid, ùthach
 🐎	each, each rèisidh, marcachd, rèis
 🦄	aodann, aon-adharcach
 🦓	stiall, stiallach, stiallan, sìobra
@@ -2708,7 +2842,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🦘	Astràilia, cangaru, leum, pocanach
 🦡	broc, brocan, buair, buaireadh
 🐾	lorg, lorgan spòige, làrach, spòg
-🦃	cearc, cearc-Fhrangach, coileach-Frangach, coileach-Turcach, eun, eun-Frangach, eun-frangach, eunlaith
+🦃	cearc, cearc-Fhrangach, coileach-Frangach, coileach-Turcach, eun, eun-Frangach, eunlaith
 🐔	cearc, eun, eunlaith
 🐓	coileach, eun, eunlaith
 🐣	eun, eunlaith, gur, isean, isean ga ghur
@@ -2726,6 +2860,10 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🦩	flamingo, spaideil, tropaigeach
 🦚	eucag, eun, feucag, moiteil, peucag, pròiseil, stàirneil, àrdan
 🦜	bruidhinn, eun, pearraid, spùinneadair
+🪽	aingeal, eun, fionn-sgeul, iteal, miotas, sgiath, sgiathadh
+🐦‍⬛	eun, eun-dubh, feannag, fitheach, lon-dubh, ròcas
+🪿	eun, eunlainn, eunlaith, gèadh, gòrach, ràc
+🐦‍🔥	ainneamhag, aiseirigh, ath-cholainneadh, ath-fheòl-ghabhail, eun-teine, fantastachd, tearc-eun
 🐸	aodann, losgann
 🐊	crogall
 🐢	seilche, sligeanach, toirtis, turtar
@@ -2746,6 +2884,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🐙	ochd-chasach
 🐚	slige, slige shnìomhanach, snìomh, snìomhanach
 🪸	coireal, corail, riof
+🪼	buir-tèachd, goirt, loisg, losgadh, muir-tèachd, sgeith-ròin, sgeoltair, sgolltair
 🐌	cramag, gobhar-breac, seilcheag
 🦋	amadan-dè, biastag, bèisteag, bòidheach, dealan-dè, dearbadan-dè, fiolan, meanbh-fhrìde, àlainn
 🐛	biastag, bèisteag, daolag, fiolan, meanbh-fhrìde
@@ -2773,6 +2912,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🌻	flùr, grian, neòinean, neòinean-grèine
 🌼	blàth, flùr
 🌷	flùr, tuiliop
+🪻	bogha-muc, bròg na cuthaige, camais, flùr, fuath-mhuc, lus na tùise, lus-liath, lùpainn
 🌱	sìolag, òg
 🪴	altram, altramadh, dòrainneach, fàs, gun fheum, lus, lus ann am poit, ràsanach, taigh
 🌲	craobh, craobh sìor-uaine
@@ -2789,11 +2929,13 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🪹	nead, nead falamh, neadachadh, neadaich
 🪺	nead, nead le uighean, neadachadh, neadaich
 🍄	balgan-buachair, balgan-buachrach
+🪾	craobh, craobh lom, deasg, fiodh, geamhradh, geugan, lom, maide, marbh, meuran, seasg, stoc, tart
 🍇	fìon-dhearc, fìon-dhearcan, meas
 🍈	meal-bhuc, meas
 🍉	meal-bhuc uisge, meas
 🍊	meas, orainds, orains, tangerine
 🍋	liomaid, meas
+🍋‍🟩	liomaideag, meas, meas-geur, siotras, tropaigeach
 🍌	banana, meas
 🍍	anann, meas
 🥭	mango, meas, tropaigeach
@@ -2823,6 +2965,10 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🥜	biadh, cnò, cnò-thalmhainn, cnòthan-talmhainn, glasraich
 🫘	biadh, dubhan, glasraich, lòn, pònairean, àirne, àra
 🌰	flùr, geanm-chnò, lus
+🫚	beòir dinnseir, dinnsear, leann, leann-dinnseir, spìosrach
+🫛	builgean, builgean-peasrach, edamame, glasraich, peasair, peasraichean, pònair
+🍄‍🟫	balg-buachair donn, balg-buachrach, balgan-buachair, biadh, bolg-losgainn, caileag an achaidh, fungas, glasraich, nàdar, sgàileag a’ bhuachair
+🫜	biadh, biatas, bun-lus, feòil-sheachnair, freumh, glasraich, glasraichear, gàrradh, lios, nèip, raidis, sailead, snèap, tùirneap
 🍞	aran, buileann, lofa
 🥐	aran, biadh, croissant, frangach, rola corranach
 🥖	aran, baguette, biadh, frangach
@@ -2861,7 +3007,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🍘	cnacair, cnacair rìs, cracair, rìs
 🍙	ball, ball rìs, iapanach, rìs, seapanach
 🍚	bruich, rìs, rìs bruich
-🍛	curry, curry is rìs, rìs
+🍛	biadh, coiridh, coiridh is rìs, curry, rìs
 🍜	bobhla, bobhla le ceò às, ceò, nùdail, ramen
 🍝	nùdail, pasta, spaghetti
 🍠	buntàta, buntàta milis ròsta, milis, ròiste, ròsta
@@ -3063,7 +3209,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 ⌛️	gaineamh, glainne-uarach, glainne-uarach dheiseil, tìmear
 ⏳️	gaineamh, glainne-uarach, glainne-uarach nach eil deiseil, tìmear
 ⌚️	cleoc, cloc, gleoc, uaireadair
-⏰	caismeachd, cleoc, cloc, cloc caismeachd, gleoc
+⏰️	caismeachd, cleoc, cloc, cloc caismeachd, gleoc
 ⏱️	cleoc, cloc, gleoc, stad-uaireadair
 ⏲️	cleoc, cleoc tìmeir, cloc, gleoc, tìmear
 🕰️	cleoc, cleoc sgeilpe, cloc, gleoc
@@ -3124,7 +3270,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🌪️	neul, sgòth, tornàdo
 🌫️	ceò, neul
 🌬️	aodann, aodann na gaoithe, gaoth, neul, sgòth, sèideadh
-🌀	cuairt, cuairt-gaoithe, gaoith, tuaineal
+🌀	cearcall-ghaoth, cuairt, cuairt-gaoithe, gaoith, toirm-ghaoth, tuaineal
 🌈	bogha-froise, uisge
 🌂	aodach, sgàilean, sgàilean-uisge dùinte, uisge
 ☂️	aodach, sgàilean-uisge, uisge
@@ -3143,7 +3289,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🎆	cleasan-teine, comharrachadh
 🎇	cleasan-teine, comharrachadh, lainnir, lainnireag, sradag
 🧨	cleasan-teine, dineamait, dìorrasan-fùdair, spreadhach, spreadhadh
-✨	lainnir, lainnirean, reul, rionnag
+✨️	lainnir, lainnirean, reul, rionnag
 🎈	bailiùn, comharrachadh
 🎉	bragadair, bragadair pàrtaidh, comharrachadh, cèilidh, pàrtaidh
 🎊	ball, ball confetti, bàla, comharrachadh, confetti, cèilidh
@@ -3243,6 +3389,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🩳	briogais-ghlùine, briogais-shnàimh, deise-snàmh, fo-aodach
 👙	aodach, bikini, snàmh
 👚	aodach, aodach boireannaich, boireannach
+🪭	dannsa, diùid, fuarachadh, gaotharan, gaotharan-làimhe, teth
 👛	aodach, bonn, sporan
 👜	aodach, baga, baga-làimhe, sporan
 👝	aodach, baga, clutch bag, pùidse
@@ -3257,6 +3404,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 👡	aodach, boireannach, bròg, cuaran, cuaran boireannaich, sandal
 🩰	baileat, ballet, brògan ballet, dannsa
 👢	aodach, boireannach, bròg, bòtann, bòtann boireannaich
+🪮	Afraganach, cìr, cìr bheag, falt
 👑	aodach, bànrigh, crùn, rìgh
 👒	ad, ad boireannaich, aodach, boireannach
 🎩	ad, ad àrd, aodach, àrd
@@ -3295,6 +3443,9 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🪕	bainsio, ceòl, teud, teudan
 🥁	bioran, ceòl, druma
 🪘	buille, conga, druma, druma fada, ruitheam
+🪇	beum, ceòl, crathadh, farm, gleadhran, inneal-ciùil, ionnsramaid, maracas
+🪈	ceòl, cuisle-bhinn, duiseal, feadan, gaoth-ionnsramaid, pìob
+🪉	ceòl, clàrsach, cruit, cupaid, foireann-ciùil, gaol, inneal-ciùil, ionnsramaid, orcastra
 📱	fòn, fòn-làimhe, mobile
 📲	cuir fòn, faigh, faighinn, fòn, fòn-làimhe, fòn-làimhe le saighead, gairm, mobile, saighead
 ☎️	fòn
@@ -3313,7 +3464,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 💽	coimpiutair, diosg, diosga coimpiutair, lèirsinneach, meanbh-dhiosg, minidisk, optaigeach
 💾	bog, coimpiutair, diosg, diosg bog, floppy
 💿️	cd, coimpiutair, diosg, diosg optaigeach, lèirsinneach, optaigeach
-📀	DVD, blu-ray, coimpiutair, diosg, dvd, lèirsinneach, optaigeach
+📀	DVD, blu-ray, coimpiutair, diosg, lèirsinneach, optaigeach
 🧮	abacas, cunntas, àireamhachadh, àireamhaich
 🎥	camara, camara-film, film, taigh-dhealbh
 🎞️	film, frèam, frèamaichean film, taigh-dhealbh
@@ -3417,7 +3568,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 💣️	boma, dealbh-èibhinn
 🪃	Astràilia, ath-leum, buaidh, buil, bùmarang, tilleadh
 🏹	acainn, arm, bogha, bogha agus saighead, boghadair, boghadaireachd, grian-chriosach, inneal, sagittarius, saighdear, saighead
-🛡️	arm, armachd, sgiath
+🛡️	arm, armachd, sgiath, sgiath-dìon
 🪚	acainn, fiodh, inneal, saoirsinneachd, saor, saorsainneachd, sàbh, sàbh saorsainneachd
 🔧	inneal, nupair, spanair, toinnear
 🪛	acainn, inneal, sgriubha, sgriubhaire
@@ -3427,11 +3578,13 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 ⚖️	acainn, britheamh, cothrom, cuideam, grian-chriosach, inneal, libra, meidh, meidh co-chothromach
 🦯	batachan, dall, doille, so-ruigsinneachd
 🔗	bun-dùirn, ceangal, ceangal-dùirn, lùb
+⛓‍💥	briseadh, briste, cuibhreach, glas-làimhe, saorsa, slabhraidh, slabhraidh bhriste, sèine, tèine
 ⛓️	sèine, sèineachan
 🪝	cromag, cròcag, cròicean, dubhan, huca, reic, rib
 🧰	acainn, bogsa, bogsa-innealan, inneal, meacanaig
 🧲	clach-iùil, crudha-eich, magnaiteach, tarraing
 🪜	ceum, dìreadh, dìrich, fàradh, rang, reang, rong, sreap, àradh
+🪏	adhlaic, adhlaich, amhlaig, cab, cladhach, cuir, dìg, gàrradh, siofal, sluaisead, sluaist, sluasaid, sneachda, spaid, tochail, tìodhlaic
 ⚗️	acainn, ceimigeachd, inneal
 🧪	ceimigeachd, ceimigear, cungaidhear, deuchainn, deuchainn-lann, saidheans, tiùb-deuchainne
 🧫	bacerium, baictear, bith-eòlaiche, bith-eòlas, deuchainn, deuchainn-lann, lobhag, soitheach Petri
@@ -3540,6 +3693,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 ☮️	menorah, samhla sìthe
 🕎	coinnlear, coinnlear meurach, creideamh, menorah
 🔯	fortan, reul, rionnag, rionnag shia-rinneach dhotagach
+🪯	Sikh, creideamh, khanda
 ♈️	An Reithe, aries, grian-chrios, grian-chriosach, reithe
 ♉️	An Tarbh, damh, grian-chrios, grian-chriosach, tarbh, taurus
 ♊️	Na Leth-aonan, gemini, grian-chrios, grian-chriosach, leth-aon, leth-aonan
@@ -3552,7 +3706,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 ♑️	An Gobhar, capricorn, gobhar, grian-chrios, grian-chriosach
 ♒️	Am Fear-giùlain Uisge, aquarius, giùlan, grian-chrios, grian-chriosach, uisge
 ♓️	Na h-Èisg, grian-chrios, grian-chriosach, iasg, pisces, èisg
-⛎	An Giùlanair-nathrach, giùlanair, grian-chrios, grian-chriosach, nathair, ophiuchus
+⛎️	An Giùlanair-nathrach, giùlanair, grian-chrios, grian-chriosach, nathair, ophiuchus
 🔀	putan a chuireas tracaichean air thuaiream, saighead, tarsainn
 🔁	ath-chluich, atharrais, cluich a-rithist, deiseil, putan na h-ath-chluich, saighead
 🔂	aon turas, deiseil, putan na h-ath-chluich shingilte, saighead
@@ -3575,22 +3729,23 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🔅	doilleir, doilleirich, putan doilleireachaidh, soilleireachd, ìosal
 🔆	putan soilleireachaidh, soilleir, soilleireachd, soilleirich, àrd
 📶	bàr, crann-sgaoilidh, fòn, fòn-làimhe, iadhaire, iadhaire le bàraichean, siognail
+🛜	WLAN, WiFi, coimpiutair, eadar-lìon, lìonra, uèirleas
 📳	caismeachd, caismeachd crithe, crith, fòn, fòn-làimhe, modh
 📴	dheth, fòn, fòn-làimhe, fòn-làimhe dheth
 ♀️	boireannach, samhla boireann
 ♂️	fireannach, samhla fireann
 ⚧️	samhla tar-ghnèitheach, tar-ghnèitheach
 ✖️	iomadachadh, iomadaich, samhla, sguir dheth, sgur dheth, x, x iomadachaidh throm, ×
-➕	+, cuir ris, cur ris, matamataig, plus, samhla, samhla cuir-ris
-➖	-, matamataig, minus, samhla, samhla toirt air falbh, thoir air falbh, toirt air falbh, –
-➗	/, matamataig, roinn, roinn le, roinneadh, samhla, samhla roinnidh, ÷
+➕️	+, cuir ris, cur ris, matamataig, plus, samhla, samhla cuir-ris
+➖️	-, matamataig, minus, samhla, samhla toirt air falbh, thoir air falbh, toirt air falbh, –
+➗️	/, matamataig, roinn, roinn le, roinneadh, samhla, samhla roinnidh, ÷
 🟰	co-ionnan, co-ionnann, co-ionnannachd, matamataig, samhla co-ionnannachd trom
 ♾️	buan, daonnan, gun chrìch, gun chrìoch, neo-chrìochnachd, uile-choicheann
 ‼️	!, !!, clisg-phuing, clisg-phuing dhùbailte, comharra, dùbailte, puingeachadh
 ⁉️	!, !?, ?, clisg-phuing, clisg-phuing is comharra-ceiste, comharra, comharra-ceiste, puingeachadh
 ❓️	?, comharra, comharra-ceiste, comharra-ceiste dearg, puingeachadh
-❔	?, comharra, comharra-ceiste, comharra-ceiste geal, oir-loidhne, puingeachadh
-❕	!, clisg-phuing, clisg-phuing gheal, comharra, oir-loidhne, puingeachadh
+❔️	?, comharra, comharra-ceiste, comharra-ceiste geal, oir-loidhne, puingeachadh
+❕️	!, clisg-phuing, clisg-phuing gheal, comharra, oir-loidhne, puingeachadh
 ❗️	!, clisg-phuing, clisg-phuing dhearg, comharra, puingeachadh
 〰️	comharra, dais, loidhne, loidhne lùbach, lùbach, puingeachadh
 💱	airgead, airgeadra, banca, iomlaid, iomlaid airgid
@@ -3602,13 +3757,13 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 📛	ainm, baidse, baidse ainm
 🔰	Seapanach, duilleag, iapanach, neach-tòiseachaidh, saidh, samhla Seapanach air neach-tòiseachaidh, samhla Seapanach airson neach-tòiseachaidh, tòiseachadh
 ⭕️	cearcall, cearcall dearg falamh, dearg, mòr, o
-✅	comharra, cromag, putan, putan cromaige
+✅️	comharra, cromag, putan, putan cromaige
 ☑️	bogsa, bogsa-cromaige le cromag, cromag
 ✔️	comharra, cromag, cromag dearbhaidh
-❌	comharra, iomadachadh, iomadaich, samhla croise, sguir dheth, sgur dheth, x, ×
-❎	ceàrnag, comharra, samhla croise ann am putan, x, ×
-➰	dualach, lùb, lùb dhualach
-➿	dualach, dùbailte, lùb, lùb dhualach dhùbailte
+❌️	comharra, iomadachadh, iomadaich, samhla croise, sguir dheth, sgur dheth, x, ×
+❎️	ceàrnag, comharra, samhla croise ann am putan, x, ×
+➰️	dualach, lùb, lùb dhualach
+➿️	dualach, dùbailte, lùb, lùb dhualach dhùbailte
 〽️	atharrachadh, comharra, comharra airson atharrachadh phàirtean, pàirt
 ✳️	*, reultag, reultag le ochd rinnean
 ✴️	*, rionnag, rionnag le ochd rinnean
@@ -3616,6 +3771,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 ©️	(c), c, còir-lethbhreac, ©
 ®️	(r), clàraichte, r, ®
 ™️	comharra, comharra-malairt, tm
+🫟	dòirt, inc, lionn, pèant, salaich, sgluis, sil, slopaig, smal, spot, steallag
 #⃣	còmhdachadh iuchrach, còmhdachadh iuchrach: #
 *⃣	còmhdachadh iuchrach, còmhdachadh iuchrach: *
 0⃣	còmhdachadh iuchrach, còmhdachadh iuchrach: 0
@@ -3632,7 +3788,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🔠	ABCD, ion-chur, ion-chur litrichean mòra Laideann, laideann, litir, litrichean, litrichean mòra, mòr
 🔡	ABCD, beag, ion-chur, ion-chur litrichean beaga Laideann, laideann, litir, litrichean, litrichean beaga
 🔢	1234, ion-chur, ion-chur àireamhan, àireamhan
-🔣	ion-chur, ion-chur shamhlaichean, ⁊%, 〒♪&amp
+🔣	ion-chur, ion-chur shamhlaichean, 〒♪&%
 🔤	abc, aibideil, ion-chur, ion-chur litrichean Laideann, laideann, litir, litrichean
 🅰️	a, fuil, putan A (seòrsa fala), seòrsa fala
 🆎	ab, fuil, putan AB (seòrsa fala), seòrsa fala
@@ -3708,7 +3864,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🏴	bratach dhubh, crathadh, snàmh
 🏳️	bratach gheal, crathadh, snàmh
 🏳‍🌈	bogha-froise, bratach bogha-froise
-🏳‍⚧	bratach, bratach ghorm, phinc is gheal, geal, gorm, pinc, soilleir-ghorm, tar-ghnèitheach
+🏳‍⚧	bratach, bratach ghorm, bratach ghorm, phinc is gheal, geal, gorm, phinc is gheal, pinc, soilleir-ghorm, tar-ghnèitheach
 🏴‍☠	Jolly Roger, bratach spùinneadair, creach, spùinn, spùinneadair, ulaidh
 🇦🇨	bratach, bratach: Eilean na Deasgabhalach
 🇦🇩	bratach, bratach: Andorra
@@ -3761,6 +3917,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🇨🇳	bratach, bratach: An t-Sìn
 🇨🇴	bratach, bratach: Coloimbia
 🇨🇵	bratach, bratach: Eilean Clipperton
+🇨🇶	bratach, bratach: Sarc
 🇨🇷	bratach, bratach: Costa Rìcea
 🇨🇺	bratach, bratach: Cùba
 🇨🇻	bratach, bratach: An Ceap Uaine
@@ -3778,7 +3935,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🇪🇦	bratach, bratach: Ceuta agus Melilla
 🇪🇨	bratach, bratach: Eacuador
 🇪🇪	bratach, bratach: An Eastoin
-🇪🇬	bratach, bratach: An Èiphit
+🇪🇬	bratach, bratach: An Èipheit
 🇪🇭	bratach, bratach: Sathara an Iar
 🇪🇷	bratach, bratach: Eartra
 🇪🇸	bratach, bratach: An Spàinnt
@@ -3810,7 +3967,7 @@ _	dais, fo-loidhne, loidhne foidhe, loidhne ìosal
 🇬🇼	bratach, bratach: Gini-Bioso
 🇬🇾	bratach, bratach: Guidheàna
 🇭🇰	bratach, bratach: Hong Kong SAR na Sìne
-🇭🇲	bratach, bratach: Eilean Heard is MhicDhòmhnaill
+🇭🇲	bratach, bratach: Eilean Heard is Eileanan MhicDhòmhnaill
 🇭🇳	bratach, bratach: Hondùras
 🇭🇷	bratach, bratach: A’ Chròthais
 🇭🇹	bratach, bratach: Haidhti
@@ -3987,9 +4144,8 @@ $	USD, airgead, dolar, dollar, peso
 ₤	airgeadra, lira
 ₥	mil, mill
 ₦	Naira Nigèiriach
-₧	Peseta Spàinnteach
 ₩	KPW, KRW, won
-₪	Sheqel ùr Iosraeleach
+₪	Secel ùr Iosraeleach
 ₫	Dong Bhiet-Namach
 €	EUR, Eòro, airgeadra
 ₭	Kip Làthosach
@@ -4014,6 +4170,7 @@ $	USD, airgead, dolar, dollar, peso
 ¹	a h-aon os-sgrìobhte, aon, os-sgrìobhte
 ²	a dhà os-sgrìobhte, ceàrnagach, ceàrnagaichte, dà, os-sgrìobhte
 ³	a trì os-sgrìobhte, ciùbach, ciùbaichte, os-sgrìobhte, trì
+₧	Peseta Spàinnteach
 µ	samhla micreo, tomhas
 🏻	seòrsa 1–2, tòna a’ chraicinn, tòna soilleir a’ chraicinn
 🏼	seòrsa 3, tòna a’ chraicinn, tòna meadhanach soilleir a’ chraicinn

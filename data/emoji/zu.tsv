@@ -9,6 +9,14 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 ,	ukhefana
 ،	ukhefana wama-arabic
 、	ukhefana, ukhefana we-ideographic, umbono
+;	isemikholoni, semi-colon, semicolon
+؛	arabic, arabic semicolon, isemikholoni ye-arabic, semi-colon
+:	ikholoni
+!	bang, exclamation, exclamation mark, exclamation point, umbabazi
+¡	bang, exclamation, exclamation mark, exclamation point, inverted, isibabazi esihlanekezelwe, isibabazo esihlanekezelwe
+?	umbuzi, umbuzo
+¿	inverted, umbuzi, umbuzi ohlanekezelwe, umbuzo
+؟	arabic, arabic question mark, question, umbuzi, umbuzi wesi-arabic
 ‽	i-interrobang
 .	ichashazi, isikhathi, ungqi
 …	amachashazi, i-ellipsis, okusalayo
@@ -43,14 +51,28 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 〖	hollow lenticular bracket, imbobo yamalensi kabakaki, ubakaki, vula amalensi embobo kabakaki
 〗	hollow lens bracket, hollow lenticular bracket, ubakaki, vala amalensi embobo kabakaki
 §	i-section, ingxenye, isigaba, silcrow
+¶	alinea, isigaba, paragraph, paragraph mark, pilcrow, uphawu lwesigaba
+@	at-sign
+*️	asterisk, star, wildcard
+/	isleshi, isthrokhi, oblique, slash, solidus, virgule, whack
+\	backslash, reverse solidus, whack
+&	ampersand
+#️	hash, hash sign, hashtag, inamba, lb, pound, uphawu lwe-hash
+%	iphesenti
+‰	mil, mille, per, per mille, permil, permille
 †	dagger, obelisk, obelus, uphawu lwe-dagger
 ‡	i-dagger, obelisk, obelus, phinda kabili, uphawu lwe-dagger oluphindeke kabili
 •	ichashaza, ungqi
 ‧	i-hyphen, iphuzu, iphuzu le-hyphenation, udeshi
+′	prime
+″	double prime, prime
+‴	prime, triple prime
 ‸	i-caret
+※	uphawu lwereferensi
 ⁂	i-asterism, i-dinkus, izinkanyezi
+`	accent, grave, grave accent, tone
 ´	i-acute, isimangalo, isimangalo esibi, ithoni
-^	I-chevron, amandla, circumflex, control, inkomba, isibonakaliso se-xor, isigqoko, isimangalo, ukunakekelwa, wedge
+^	I-chevron, amandla, circumflex, circumflex accent, control, inkomba, isibonakaliso se-xor, isigqoko, isimangalo, ukunakekelwa, wedge
 ¨	i-diaeresis, i-tréma, i-umlaut
 °	i-degree, ihora, ubufakazi
 ℗	copyright, i-copyright yokuqopha umsindo, ukuqopha, umsindo
@@ -126,38 +148,200 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 ⇟	i-stroke esingakubili somcibisholo ophansi
 ⇠	umcibisholo wedeshi ongakwesokunxele
 ⇡	umcibisholo wedeshi ophezulu
+⇢	rightwards dashed arrow
+⇣	downwards dashed arrow
+⇤	leftwards arrow bar
+⇥	rightwards arrow bar
+⇦	umcibisholo ongenalutho oyakwesokunxele
+⇧	umcibisholo ongenalutho oya phezulu, upwards hollow arrow
+⇨	rightwards hollow arrow
+⇩	downwards hollow arrow, umcibisholo ongenalutho oya phansi
+⇪	upwards hollow arrow from bar
+⇵	downwards arrow leftwards upwards arrow
+∀	all, any, for all, given, universal
+∂	differential, partial differential
+∃	there exists
+∅	empty set, mathematics, set operator
 ∆	i-increment, triangle
 ∇	i-nabla, ungxantathu
 ∈	element, element of, i-element of, iqukethe, set, ukuba yilungu
+∉	element, not an element
+∋	contains as member, element
+∎	end proof, halmos, q.e.d., qed, tombstone
+∏	logic, n-ary product, product
+∑	mathematics, n-ary summation, summation
 +	hlanganisa, uphawu lokuhlanganisa, yengeza
 ±	hlanganisa-susa
 ÷	hlukanisa, obelus, ukuhlukanisa, uphawu lokuhlukanisa
 ×	izikhathi, ukuphindaphinda, uphawu lokuphindaphinda
 <	ithegi, ncane kune, vula ithegi
+≮	inequality, mathematics, not less-than
 =	lingana, okulingana
 ≠	ngalingani, ukungalingani
 >	ithegi, khulu kuno, vala ithegi
+≯	inequality, mathematics, not greater-than
 ¬	hhayi, i-negation, ukuphikisa
 |	ibha, ibha yokuqonda mpo, induku, ipayipi, ipiki, umugqa, umugqa ome mpo, unhlangothi, unhlangothi owu-sheffer, vbar
 ~	i-tilde
 −	khipha, susa, uphawu lokususa
 ⁻	i-minus, i-superscript minus, superscript
+∓	minus-or-plus, plus-minus
+∕	division slash, slash, stroke, virgule
+⁄	fraction slash, stroke, virgule
+∗	asterisk operator, star
+∘	composition, operator, ring operator
+∙	bullet operator, operator
 √	i-radical, i-square root, radix, root, square, surd
+∝	proportional, proportionality
 ∞	i-infinity, i-infinity sign
+∟	mathematics, right angle
+∠	acute, angle
+∣	divides, divisor
+∥	parallel
+∧	ac, atque, logical and, wedge
 ∩	i-intersection, set
 ∪	i-collection, i-union, set, union
+∫	calculus, integral
+∬	calculus, double integral
+∮	contour integral
+∴	logic, therefore
+∵	because, logic
+∶	ratio
+∷	proportion, proportionality
+∼	operator, tilde operator
+∽	reversed tilde, tilde
+∾	inverted lazy s
+≃	asymptote, asymptotically equal, mathematics
+≅	approximately equal, congruence, equality, isomorphism, mathematics
 ≈	cishe, cishe kulingane, ukusondela
+≌	all equal, equality, mathematics
+≒	approximately equal the image
+≖	equality, mathematics, ring in equal
 ≡	kufana nalokhu, kufana nse, kuthathu, kuyafana
+≣	equality, mathematics, strictly equivalent
 ≤	ncane kune, ncane kune noma ukulingana, ukulingana, ukungalingani
 ≥	khulu kune, lingana, okukhulu kuno noma okulinganayo, okulingana, okungalingani
+≦	inequality, less-than over equal, mathematics
+≧	greater-than over equal, inequality, mathematics
+≪	inequality, mathematics, much less-than
+≫	inequality, mathematics, much greater-than
+≬	between
+≳	greater-than equivalent, inequality, mathematics
+≺	mathematics, precedes, set operator
+≻	mathematics, set operator, succeeds
+⊁	does not succeed, mathematics, set operator
 ⊂	i-set, i-subset of, subset, subset of
+⊃	mathematics, set operator, superset
+⊆	subset equal
+⊇	equality, mathematics, superset equal
+⊕	circled plus, plus
+⊖	circled minus, erosion, symmetric difference
+⊗	circled times, product, tensor
+⊘	circled division slash, division-like, mathematics
+⊙	XNOR, circled dot operator, operator
+⊚	circled ring operator
+⊛	asterisk, circled asterisk operator, operator
+⊞	addition-like, mathematics, squared plus
+⊟	mathematics, squared minus, subtraction-like
+⊥	eet, falsum, tack, up tack
+⊮	does not force
+⊰	mathematics, precedes under relation, set operator
+⊱	mathematics, set operator, succeeds under relation
+⋭	does not contain as normal subgroup equal, group theory, mathematics
+⊶	original
+⊹	hermitian conjugate matrix, mathematics, self-adjoint matrix, square matrix
+⊿	mathematics, right triangle, right-angled triangle
+⋁	disjunction, logic, n-ary logical or
+⋂	intersection, mathematics, n-ary intersection, set operator
+⋃	mathematics, n-ary union, set operator, union
+⋅	dot operator, operator
+⋆	operator, star operator
+⋈	binary operator, bowtie, natural join
+⋒	double intersection, intersection, mathematics, set operator
+⋘	inequality, mathematics, very much less-than
+⋙	inequality, mathematics, very much greater-than
+⋮	ellipsis, mathematics, vertical ellipsis
+⋯	ellipsis, midline horizontal ellipsis
+⋰	ellipsis, mathematics, up right diagonal ellipsis
+⋱	down right diagonal ellipsis, ellipsis, mathematics
+■	filled square
+□	hollow square
+▢	hollow square with rounded corners
+▣	hollow square containing filled square
+▤	square with horizontal fill
+▥	square with vertical fill
+▦	square orthogonal crosshatch fill
+▧	square upper left lower right fill
+▨	square upper right lower left fill
+▩	square diagonal crosshatch fill
+▬	filled rectangle
+▭	hollow rectangle
+▮	filled vertical rectangle
+▰	filled parallelogram
 ▲	egcwele phezulu-ungxantathu okhombayo, phezulu, ugcwele, ugcwele phezulu-ungxantathu okhombayo, umkhonto, ungxantathu
+△	hollow up-pointing triangle
+▴	filled up-pointing small triangle
+▵	hollow up-pointing small triangle
+▷	hollow right-pointing triangle
+▸	filled right-pointing small triangle
+▹	hollow right-pointing small triangle
+►	filled right-pointing pointer
+▻	hollow right-pointing pointer
 ▼	igcwaliswe phansi-okukhomba ungxantathu, phansi, ukugcwalisa, ukugcwalisa phansi-ukukhomba okungxantathu, umkhonto, ungxantathu
+▽	hollow down-pointing triangle
+▾	filled down-pointing small triangle
+▿	hollow down-pointing small triangle
+◁	hollow left-pointing triangle
+◂	filled left-pointing small triangle
+◃	hollow left-pointing small triangle
+◄	filled left-pointing pointer
+◅	hollow left-pointing pointer
+◆	filled diamond
+◇	hollow diamond
+◈	hollow diamond containing filled diamond
+◉	circled dot, concentric cicles filled, fisheye, hollow circle containing filled circle, ward
 ◊	i-lozenge, i-rhombus, idayimani
 ○	indandatho, indilinga, indilinga engenalutho
+◌	dotted circle
+◍	circle with vertical fill
+◎	concentric circles, double circle, target
 ●	indilinga, indilinga egcwele
+◐	circle left half filled
+◑	circle right half filled
+◒	circle lower half filled
+◓	circle upper half filled
+◔	circle upper right quadrant filled
+◕	circle all but upper left quadrant filled
+◖	left half filled circle
+◗	right half filled circle
+◘	inverse bullet
+◙	filled square containing hollow circle, inverse hollow circle
+◜	upper left quadrant circular arc
+◝	upper right quadrant circular arc
+◞	lower right quadrant circular arc
+◟	lower left quadrant circular arc
+◠	upper half circle
+◡	lower half circle
+◢	filled lower right triangle
+◣	filled lower left triangle
+◤	filled upper left triangle
+◥	filled upper right triangle
+◦	hollow bullet
 ◯	indandatho, indilinga, indilinga enkulu engenalutho
+◳	hollow square upper right quadrant
+◷	hollow circle with upper right quadrant
+◿	lower right triangle
 ♪	inothi, inothi yesishiyagalombili, umculo, yesishiyagalombili
+⨧	kanye nokubili okubhaliselwe, plus subscript two
+⨯	umkhiqizo we-vector cross
+⨼	umkhiqizo wangaphakathi
+⩣	ibha yangaphansi enengqondo noma ekabili
+⩽	ngaphansi-kunetshekile elilinganayo
+⪍	okungaphansi-kungaphezu kokulingana okufanayo
+⪚	double-line equal greater-than, inequality, mathematics
+⪺	succeeds above not almost equal
+♭	bemolle, flat, iscaba, music, note
+♯	diesis, dièse, music, note, sharp
 😀	osinekile, ubuso obusinekile
 😃	moyizela, ubuso, ubuso obumoyizelayo obuvule umlomo, umlomo, vula
 😄	ajabule, buvule, ubuso, ubuso obumoyizelayo obuvule umlomo bunamehlo ajabule, umlomo
@@ -168,6 +352,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 😂	intokozo, izinyembezi, ubuso, ubuso obunezinyembezi zentokozo, uhleko
 🙂	moyizela, ubuso, ubuso obumoyizela kancane
 🙃	ubuso, ubuso obupheke phansi, ukubheka phansi
+🫠	amanzi, ncibilika, ubuso obuncibilikayo, ukuncibilika
 😉	cisha ihlo, ubuso, ubuso obucishe ihlo
 😊	amehlo, ihlo, moyizela, ubuso, ubuso obumoyizelayo namehlo ajabule
 😇	ingelosi, insumansumane, moyizela, msulwa, sawubona, ubuso, ubuso obumoyizela nosawubona
@@ -188,24 +373,33 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🤑	imali, ubuso, ubuso obunomlomo wemali, umlomo
 🤗	anga, ubuso, ubuso obangayo, ukwanga
 🤭	ubuso obubekwe isandla emlonyeni, whoops
+🫢	amazement, awe, disbelief, embarrass, face with open eyes and hand over mouth, scared, surprise
+🫣	captivated, face with peeking eye, peep, stare
 🤫	thula, thule, ubuso obuthule
 🤔	cabanga, ubuso, ubuso obucabangayo
+🫡	OK, salute, saluting face, sunny, troops, yes
 🤐	ubuso, ubuso obunoziphu, umlomo, uziphu
 🤨	ubuso obunamashiya aphakanyisiwe, ukungathembi, ukunqikaza
 😐️	buthule, ubuso, ubuso obukahle
 😑	ubuso, ubuso obungavezi lutho, ukungavezi lutho
 😶	ubuso, ubuso obungenamlomo, ukuthula, umlomo
 🫥	ubuso bomugqa onamachashazi
+😶‍🌫	ikhanda elisemafini, ubuso obusemafini, ubuso obusenkungwini, ukungabikho
 😏	nyipha, ubuso, ubuso ubunyiphile
 😒	ubuso, ubuso obungachazekile, ukungajabuli, ukungathokozi
 🙄	amehlo, pheqa amehlo, ubuso, ubuso obupheqa amehlo
 😬	hlina, ubuso, ubuso obuhlinile
+😮‍💨	donsa umoya, khipha umoya, ubuso obudonsa umoya, ubuso obukhipha umoya, ukuhleba, ukukhululeka, ukushaya inkwele
 🤥	amanga, ubuso, upopayi
+🫨	inhlekelele yemvelo, ubuso, ubuso obunyakazayo, ukunyakaza, ukuthuka, ukuvabretha
+🙂‍↔	Qha, ikhanda elibuka le nale, nyakazisa
+🙂‍↕	nikina, ukunikina ikhanda phansi naphezulu, yebo
 😌	khululeka, ubuso, ubuso obukhululekile
 😔	ubuso, ubuso obuphoxiwe, ukuphoxwa
 😪	lala, ubuso, ubuso obuzelayo
 🤤	ubuso, ukuhala
 😴	lala, ubuso, ubuso obulalayo, zzz
+🫩	Ubuso obunezigobhe, bags, bored, exhausted, eyes, face, fatigued, late, sleepy, tired, weary
 😷	banda, dokotela, maski, ubso obufake imaski yobuso kadokotela, ubuso, ukugula, umuthi
 🤒	isihlolakushisa, ubuso, ubuso obunesihlolakushisa, ukugula
 🤕	ibhandishi, ubuhlungu, ubuso, ubuso obufake ibhandishi, ukulimala
@@ -214,8 +408,9 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🤧	impilo, thimula, ubuso, ukuthimula
 🥵	feverish, heat stroke, hot, red-faced, sweating, ubuso obushiselwayo
 🥶	blue-faced, cold, freezing, frostbite, icicles, ubuso obugodolayo
-🥴	dizzy, intoxicated, tipsy, uneven eyes, wavy mouth, woozy face
+🥴	amahlo angalingani, ikanda, ubuso obutsekile, ukubadizi, ukudakwa, umlomo odiniwe, woozy face
 😵	inzululwane, ubuso, ubuso obunenzululwane
+😵‍💫	indingiliza, inkinga, isiyezi, ubuso obunamehlo anendingiliza, uku-hypnotizer, whoa
 🤯	ikhanda eliqhumayo, thukile
 🤠	intombazane yezinkomo, isigqoko, ubuso, umfana wezinkomo
 🥳	celebration, hat, horn, party, ubuso bobumnandi
@@ -224,6 +419,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🤓	isihlakaniphi, ubuso, ubuso besihlakaniphi
 🧐	nuka, ubuso obunelensi eyodwa
 😕	ubuso, ubuso obudidekile, ukudideka
+🫤	disappointed, face with diagonal mouth, meh, skeptical, unsure
 😟	ubuso, ubuso obukhathazekile, ukukhathazeka
 🙁	ubuso, ubuso obubipha kancane, ukubipha
 ☹️	bipha, ubuso, ubuso obubiphile
@@ -232,6 +428,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 😲	ngokugcwele, ubuso, ubuso obuthukile, ukumangala, ukwethuka
 😳	ubuso, ubuso obumuncu, ukumunca, ukwethuka
 🥺	begging, mercy, pleading face, puppy eyes
+🥹	angry, cry, face holding back tears, proud, resist, sad
 😦	bipha, ubuso, ubuso obubiphile obuvule umlomo, umlomo, vula
 😧	ubuso, ubuso obuxakekile, ukuxakela
 😨	ubuso, ubuso obesabayo, ukwesaba, ukwethuka
@@ -287,14 +484,18 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 ❣️	inhliziyo, isibabazi, isibabazi senhliziyo edangele, uphawu
 💔	aphukile, inhliziyo, inhliziyo eyaphukile, ukwaphuka
 ❤‍🔥	inhliziyo ebhakuzayo
+❤‍🩹	inhiziyo ehlanganayo, inhliziyo ehlanganayo, kahle, ukuhlangana, ukululama, ukuphola, ukuthuthuka, ukwelapha
 ❤️	inhliiziyo, inhliziyo ebomvu
+🩷	Qhazisayo, inhliziyo, inhliziyo e-pink, njenge, pink, thando
 🧡	inhliziyo ewolintshi, wolintshi
 💛	inhliziyo, inhliziyo eqanda, qanda
 💚	inhliziyo, inhliziyo eluhlaza satshani, luhlaza satshani
-💙	inhliziyo, inhliziyo eluhlaza sasibhakabhaka, luhlaza sasibhakabhaka
+💙	blue heart, hlaza kwesibhakabhaka, inhliziyo, inhliziyo eluhlaza kwesibhakabhaka
+🩵	cyan, inhiziyo eluhlaza okukhanyayo, inhliziyo, light blue heart, luhlaza olukhanyako, teal
 💜	inhliziyo, inhliziyo ensomi, nsomi
 🤎	inhliziyo, inhliziyo ensundu, insundu
 🖤	inhliziyo, inhliziyo embi, khohlakele, mnyama, ubuthakathi
+🩶	gray, inhliziyo, inhliziyo e-grey, inhliziyo egray, silver, slate
 🤍	inhliziyo, inhliziyo emhlophe, mhlophe
 💋	izindebe, ukuqabula, uphawu lokuqabula
 💯	100, amaphuzu ayikhulu, ikhulu, okugcwele, umphumela
@@ -328,7 +529,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🖐🏽	esivuliwe, isandla, isandla esiphakanyisiwe esivuliwe, isandla esiphakanyisiwe esivuliwe: uhlobo-4, uhlobo-4, umunwe, umzimba
 🖐🏾	esivuliwe, isandla, isandla esiphakanyisiwe esivuliwe, isandla esiphakanyisiwe esivuliwe: uhlobo-5, uhlobo-5, umunwe, umzimba
 🖐🏿	esivuliwe, isandla, isandla esiphakanyisiwe esivuliwe, isandla esiphakanyisiwe esivuliwe: uhlobo-6, uhlobo-6, umunwe, umzimba
-✋	isandla, isandla esiphanyisiwe, umzimba
+✋️	isandla, isandla esiphanyisiwe, umzimba
 ✋🏻	isandla, isandla esiphanyisiwe, isandla esiphanyisiwe: uhlobo-1-2, uhlobo-1-2, umzimba
 ✋🏼	isandla, isandla esiphanyisiwe, isandla esiphanyisiwe: uhlobo-3, uhlobo-3, umzimba
 ✋🏽	isandla, isandla esiphanyisiwe, isandla esiphanyisiwe: uhlobo-4, uhlobo-4, umzimba
@@ -340,6 +541,12 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🖖🏽	i-vulcan salute, i-vulcan salute: uhlobo-4, isandla, uhlobo-4, umunwe, umzimba, vulcan
 🖖🏾	i-vulcan salute, i-vulcan salute: uhlobo-5, isandla, uhlobo-5, umunwe, umzimba, vulcan
 🖖🏿	i-vulcan salute, i-vulcan salute: uhlobo-6, isandla, uhlobo-6, umunwe, umzimba, vulcan
+🫱	hand, right, rightward, rightwards hand
+🫱🏻	hand, right, rightward, rightwards hand, rightwards hand: uhlobo-1-2, uhlobo-1-2
+🫱🏼	hand, right, rightward, rightwards hand, rightwards hand: uhlobo-3, uhlobo-3
+🫱🏽	hand, right, rightward, rightwards hand, rightwards hand: uhlobo-4, uhlobo-4
+🫱🏾	hand, right, rightward, rightwards hand, rightwards hand: uhlobo-5, uhlobo-5
+🫱🏿	hand, right, rightward, rightwards hand, rightwards hand: uhlobo-6, uhlobo-6
 🫱🏻‍🫲🏼	isandla, isivumelwano, nyakazisa, uhlobo-1-2, uhlobo-3, ukuxhawula, umhlangano, xhawula, xhawula: uhlobo-1-2, uhlobo-3
 🫱🏻‍🫲🏽	isandla, isivumelwano, nyakazisa, uhlobo-1-2, uhlobo-4, ukuxhawula, umhlangano, xhawula, xhawula: uhlobo-1-2, uhlobo-4
 🫱🏻‍🫲🏾	isandla, isivumelwano, nyakazisa, uhlobo-1-2, uhlobo-5, ukuxhawula, umhlangano, xhawula, xhawula: uhlobo-1-2, uhlobo-5
@@ -360,6 +567,36 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🫱🏿‍🫲🏼	isandla, isivumelwano, nyakazisa, uhlobo-3, uhlobo-6, ukuxhawula, umhlangano, xhawula, xhawula: uhlobo-6, uhlobo-3
 🫱🏿‍🫲🏽	isandla, isivumelwano, nyakazisa, uhlobo-4, uhlobo-6, ukuxhawula, umhlangano, xhawula, xhawula: uhlobo-6, uhlobo-4
 🫱🏿‍🫲🏾	isandla, isivumelwano, nyakazisa, uhlobo-5, uhlobo-6, ukuxhawula, umhlangano, xhawula, xhawula: uhlobo-6, uhlobo-5
+🫲	hand, left, leftward, leftwards hand
+🫲🏻	hand, left, leftward, leftwards hand, leftwards hand: uhlobo-1-2, uhlobo-1-2
+🫲🏼	hand, left, leftward, leftwards hand, leftwards hand: uhlobo-3, uhlobo-3
+🫲🏽	hand, left, leftward, leftwards hand, leftwards hand: uhlobo-4, uhlobo-4
+🫲🏾	hand, left, leftward, leftwards hand, leftwards hand: uhlobo-5, uhlobo-5
+🫲🏿	hand, left, leftward, leftwards hand, leftwards hand: uhlobo-6, uhlobo-6
+🫳	dismiss, drop, palm down hand, shoo
+🫳🏻	dismiss, drop, palm down hand, palm down hand: uhlobo-1-2, shoo, uhlobo-1-2
+🫳🏼	dismiss, drop, palm down hand, palm down hand: uhlobo-3, shoo, uhlobo-3
+🫳🏽	dismiss, drop, palm down hand, palm down hand: uhlobo-4, shoo, uhlobo-4
+🫳🏾	dismiss, drop, palm down hand, palm down hand: uhlobo-5, shoo, uhlobo-5
+🫳🏿	dismiss, drop, palm down hand, palm down hand: uhlobo-6, shoo, uhlobo-6
+🫴	beckon, catch, come, offer, palm up hand
+🫴🏻	beckon, catch, come, offer, palm up hand, palm up hand: uhlobo-1-2, uhlobo-1-2
+🫴🏼	beckon, catch, come, offer, palm up hand, palm up hand: uhlobo-3, uhlobo-3
+🫴🏽	beckon, catch, come, offer, palm up hand, palm up hand: uhlobo-4, uhlobo-4
+🫴🏾	beckon, catch, come, offer, palm up hand, palm up hand: uhlobo-5, uhlobo-5
+🫴🏿	beckon, catch, come, offer, palm up hand, palm up hand: uhlobo-6, uhlobo-6
+🫷	leftwards pushing hand, linda, ngakwesobunxele, phakamisa isandla, sunduza, ungavumi, yima
+🫷🏻	leftwards pushing hand, leftwards pushing hand: uhlobo-1-2, linda, ngakwesobunxele, phakamisa isandla, sunduza, uhlobo-1-2, ungavumi, yima
+🫷🏼	leftwards pushing hand, leftwards pushing hand: uhlobo-3, linda, ngakwesobunxele, phakamisa isandla, sunduza, uhlobo-3, ungavumi, yima
+🫷🏽	leftwards pushing hand, leftwards pushing hand: uhlobo-4, linda, ngakwesobunxele, phakamisa isandla, sunduza, uhlobo-4, ungavumi, yima
+🫷🏾	leftwards pushing hand, leftwards pushing hand: uhlobo-5, linda, ngakwesobunxele, phakamisa isandla, sunduza, uhlobo-5, ungavumi, yima
+🫷🏿	leftwards pushing hand, leftwards pushing hand: uhlobo-6, linda, ngakwesobunxele, phakamisa isandla, sunduza, uhlobo-6, ungavumi, yima
+🫸	linda, ngakwesokudla, phakamisa isandla, rightwards pushing hand, sunduza, sunduzela ngakwesokudla, yima
+🫸🏻	linda, ngakwesokudla, phakamisa isandla, rightwards pushing hand, rightwards pushing hand: uhlobo-1-2, sunduza, sunduzela ngakwesokudla, uhlobo-1-2, yima
+🫸🏼	linda, ngakwesokudla, phakamisa isandla, rightwards pushing hand, rightwards pushing hand: uhlobo-3, sunduza, sunduzela ngakwesokudla, uhlobo-3, yima
+🫸🏽	linda, ngakwesokudla, phakamisa isandla, rightwards pushing hand, rightwards pushing hand: uhlobo-4, sunduza, sunduzela ngakwesokudla, uhlobo-4, yima
+🫸🏾	linda, ngakwesokudla, phakamisa isandla, rightwards pushing hand, rightwards pushing hand: uhlobo-5, sunduza, sunduzela ngakwesokudla, uhlobo-5, yima
+🫸🏿	linda, ngakwesokudla, phakamisa isandla, rightwards pushing hand, rightwards pushing hand: uhlobo-6, sunduza, sunduzela ngakwesokudla, uhlobo-6, yima
 👌	isandla, isandla sokuthi kulungile, kulungile, umzimba
 👌🏻	isandla, isandla sokuthi kulungile, isandla sokuthi kulungile: uhlobo-1-2, kulungile, uhlobo-1-2, umzimba
 👌🏼	isandla, isandla sokuthi kulungile, isandla sokuthi kulungile: uhlobo-3, kulungile, uhlobo-3, umzimba
@@ -390,6 +627,12 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🤞🏽	bhanqa, iminwe ebhanqiwe, iminwe ebhanqiwe: uhlobo-4, inhlanhla, isandla, uhlobo-4, umunwe
 🤞🏾	bhanqa, iminwe ebhanqiwe, iminwe ebhanqiwe: uhlobo-5, inhlanhla, isandla, uhlobo-5, umunwe
 🤞🏿	bhanqa, iminwe ebhanqiwe, iminwe ebhanqiwe: uhlobo-6, inhlanhla, isandla, uhlobo-6, umunwe
+🫰	expensive, hand with index finger and thumb crossed, heart, love, money, snap
+🫰🏻	expensive, hand with index finger and thumb crossed, hand with index finger and thumb crossed: uhlobo-1-2, heart, love, money, snap, uhlobo-1-2
+🫰🏼	expensive, hand with index finger and thumb crossed, hand with index finger and thumb crossed: uhlobo-3, heart, love, money, snap, uhlobo-3
+🫰🏽	expensive, hand with index finger and thumb crossed, hand with index finger and thumb crossed: uhlobo-4, heart, love, money, snap, uhlobo-4
+🫰🏾	expensive, hand with index finger and thumb crossed, hand with index finger and thumb crossed: uhlobo-5, heart, love, money, snap, uhlobo-5
+🫰🏿	expensive, hand with index finger and thumb crossed, hand with index finger and thumb crossed: uhlobo-6, heart, love, money, snap, uhlobo-6
 🤟	ILY, isandla, ukukhombisa uthando
 🤟🏻	ILY, isandla, uhlobo-1-2, ukukhombisa uthando, ukukhombisa uthando: uhlobo-1-2
 🤟🏼	ILY, isandla, uhlobo-3, ukukhombisa uthando, ukukhombisa uthando: uhlobo-3
@@ -444,7 +687,12 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 ☝🏽	isandla, uhlobo-4, ukukhomba, umunwe, umunwe wokukhomba, umunwe wokukhomba okhombe phezulu, umunwe wokukhomba okhombe phezulu: uhlobo-4, umzimba
 ☝🏾	isandla, uhlobo-5, ukukhomba, umunwe, umunwe wokukhomba, umunwe wokukhomba okhombe phezulu, umunwe wokukhomba okhombe phezulu: uhlobo-5, umzimba
 ☝🏿	isandla, uhlobo-6, ukukhomba, umunwe, umunwe wokukhomba, umunwe wokukhomba okhombe phezulu, umunwe wokukhomba okhombe phezulu: uhlobo-6, umzimba
-🫵	iphoyinti, wena
+🫵	iphoyinti, umunwe ukhomba umbukeli, wena
+🫵🏻	iphoyinti, uhlobo-1-2, umunwe ukhomba umbukeli, umunwe ukhomba umbukeli: uhlobo-1-2, wena
+🫵🏼	iphoyinti, uhlobo-3, umunwe ukhomba umbukeli, umunwe ukhomba umbukeli: uhlobo-3, wena
+🫵🏽	iphoyinti, uhlobo-4, umunwe ukhomba umbukeli, umunwe ukhomba umbukeli: uhlobo-4, wena
+🫵🏾	iphoyinti, uhlobo-5, umunwe ukhomba umbukeli, umunwe ukhomba umbukeli: uhlobo-5, wena
+🫵🏿	iphoyinti, uhlobo-6, umunwe ukhomba umbukeli, umunwe ukhomba umbukeli: uhlobo-6, wena
 👍️	+1, isandla, isithupha, phezulu, ukumisa isithupha
 👍🏻	+1, isandla, isithupha, phezulu, uhlobo-1-2, ukumisa isithupha, ukumisa isithupha: uhlobo-1-2
 👍🏼	+1, isandla, isithupha, phezulu, uhlobo-3, ukumisa isithupha, ukumisa isithupha: uhlobo-3
@@ -457,7 +705,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 👎🏽	-1, isandla, isithupha, phansi, uhlobo-4, ukubhekisa phansi isithupha, ukubhekisa phansi isithupha: uhlobo-4, umzimba
 👎🏾	-1, isandla, isithupha, phansi, uhlobo-5, ukubhekisa phansi isithupha, ukubhekisa phansi isithupha: uhlobo-5, umzimba
 👎🏿	-1, isandla, isithupha, phansi, uhlobo-6, ukubhekisa phansi isithupha, ukubhekisa phansi isithupha: uhlobo-6, umzimba
-✊	iqupha, iqupha elimisiwe, isandla, ukufumbatha isibhakela, umzimba
+✊️	iqupha, iqupha elimisiwe, isandla, ukufumbatha isibhakela, umzimba
 ✊🏻	iqupha, iqupha elimisiwe, iqupha elimisiwe: uhlobo-1-2, isandla, uhlobo-1-2, ukufumbatha isibhakela, umzimba
 ✊🏼	iqupha, iqupha elimisiwe, iqupha elimisiwe: uhlobo-3, isandla, uhlobo-3, ukufumbatha isibhakela, umzimba
 ✊🏽	iqupha, iqupha elimisiwe, iqupha elimisiwe: uhlobo-4, isandla, uhlobo-4, ukufumbatha isibhakela, umzimba
@@ -588,6 +836,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 👁️	ihlo, umzimba
 👅	ulimi, umzimba
 👄	izindebe, umlomo, umzimba
+🫦	ivalo, luma indebe, ukethuka, ukudla angothando, ukukhathazeka, ukukhungatheka, ukuluma indebe, ukusaba
 👶	ingane, usana
 👶🏻	ingane, uhlobo-1-2, usana, usana: uhlobo-1-2
 👶🏼	ingane, uhlobo-3, usana, usana: uhlobo-3
@@ -700,6 +949,12 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🧔🏽	indoda, indoda: intshebe, indoda: uhlobo-4, intshebe, intshebe, uhlobo-4, umuntu
 🧔🏾	indoda, indoda: intshebe, indoda: uhlobo-5, intshebe, intshebe, uhlobo-5, umuntu
 🧔🏿	indoda, indoda: intshebe, indoda: uhlobo-6, intshebe, intshebe, uhlobo-6, umuntu
+🧔‍♂	indoda, indoda : enezindevu, indoda enezindevu, izindevu
+🧔🏻‍♂	indoda, indoda : enezindevu, indoda enezindevu, indoda enezindevu: uhlobo-1-2, izindevu, uhlobo-1-2
+🧔🏼‍♂	indoda, indoda : enezindevu, indoda enezindevu, indoda enezindevu: uhlobo-3, izindevu, uhlobo-3
+🧔🏽‍♂	indoda, indoda : enezindevu, indoda enezindevu, indoda enezindevu: uhlobo-4, izindevu, uhlobo-4
+🧔🏾‍♂	indoda, indoda : enezindevu, indoda enezindevu, indoda enezindevu: uhlobo-5, izindevu, uhlobo-5
+🧔🏿‍♂	indoda, indoda : enezindevu, indoda enezindevu, indoda enezindevu: uhlobo-6, izindevu, uhlobo-6
 👱‍♂	indoda, indoda enezinwele ezimhlophe, indoda: izinwele ezimhlophe, izinwele, mhlophe
 👱🏻‍♂	indoda, indoda enezinwele ezimhlophe, indoda: izinwele ezimhlophe, indoda: uhlobo-1-2, izinwele ezimhlophe, izinwele, izinwele ezimhlophe, mhlophe, uhlobo-1-2
 👱🏼‍♂	indoda, indoda enezinwele ezimhlophe, indoda: izinwele ezimhlophe, indoda: uhlobo-3, izinwele ezimhlophe, izinwele, izinwele ezimhlophe, mhlophe, uhlobo-3
@@ -786,6 +1041,12 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 👩🏽	owesimame, uhlobo-4, umama, umama: uhlobo-4
 👩🏾	owesimame, uhlobo-5, umama, umama: uhlobo-5
 👩🏿	owesimame, uhlobo-6, umama, umama: uhlobo-6
+🧔‍♀	izindevu, umama, umama : onezindevu, umuntu wesimame : onezindevu
+🧔🏻‍♀	izindevu, onezindevu, uhlobo-1-2, umama, umama : onezindevu, umuntu wesimame : onezindevu, umuntu wesimame : uhlobo-1-2, onezindevu
+🧔🏼‍♀	izindevu, onezindevu, uhlobo-3, umama, umama : onezindevu, umuntu wesimame : onezindevu, umuntu wesimame : uhlobo-3, onezindevu
+🧔🏽‍♀	izindevu, onezindevu, uhlobo-4, umama, umama : onezindevu, umuntu wesimame : onezindevu, umuntu wesimame : uhlobo-4, onezindevu
+🧔🏾‍♀	izindevu, onezindevu, uhlobo-5, umama, umama : onezindevu, umuntu wesimame : onezindevu, umuntu wesimame : uhlobo-5, onezindevu
+🧔🏿‍♀	izindevu, onezindevu, uhlobo-6, umama, umama : onezindevu, umuntu wesimame : onezindevu, umuntu wesimame : uhlobo-6, onezindevu
 👱‍♀	izinwele, mhlophe, umama, umama onezinwele ezinhlophe, umama: izinwele ezimhlophe
 👱🏻‍♀	izinwele, izinwele ezimhlophe, mhlophe, uhlobo-1-2, umama, umama onezinwele ezinhlophe, umama: izinwele ezimhlophe, umama: uhlobo-1-2, izinwele ezimhlophe
 👱🏼‍♀	izinwele, izinwele ezimhlophe, mhlophe, uhlobo-3, umama, umama onezinwele ezinhlophe, umama: izinwele ezimhlophe, umama: uhlobo-3, izinwele ezimhlophe
@@ -1480,7 +1741,12 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 👷🏽‍♀	inkontileka, owesifazane, uhlobo-4, umsebenzi, umsebenzi wenkontileka wesifazane, umsebenzi wenkontileka wesifazane: uhlobo-4
 👷🏾‍♀	inkontileka, owesifazane, uhlobo-5, umsebenzi, umsebenzi wenkontileka wesifazane, umsebenzi wenkontileka wesifazane: uhlobo-5
 👷🏿‍♀	inkontileka, owesifazane, uhlobo-6, umsebenzi, umsebenzi wenkontileka wesifazane, umsebenzi wenkontileka wesifazane: uhlobo-6
-🫅	inkosi, ohloniphekile, regal, ubukhosi
+🫅	inkosi, ohloniphekile, regal, ubukhosi, umuntu onesicoco
+🫅🏻	inkosi, ohloniphekile, regal, ubukhosi, uhlobo-1-2, umuntu onesicoco, umuntu onesicoco: uhlobo-1-2
+🫅🏼	inkosi, ohloniphekile, regal, ubukhosi, uhlobo-3, umuntu onesicoco, umuntu onesicoco: uhlobo-3
+🫅🏽	inkosi, ohloniphekile, regal, ubukhosi, uhlobo-4, umuntu onesicoco, umuntu onesicoco: uhlobo-4
+🫅🏾	inkosi, ohloniphekile, regal, ubukhosi, uhlobo-5, umuntu onesicoco, umuntu onesicoco: uhlobo-5
+🫅🏿	inkosi, ohloniphekile, regal, ubukhosi, uhlobo-6, umuntu onesicoco, umuntu onesicoco: uhlobo-6
 🤴	inkosana
 🤴🏻	inkosana, inkosana: uhlobo-1-2, uhlobo-1-2
 🤴🏼	inkosana, inkosana: uhlobo-3, uhlobo-3
@@ -1619,12 +1885,12 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🤶🏽	uNkosikazi Claus, uhlobo-4, ukhisimuzi, umama, umama kakhisimusi, umama kakhisimusi: uhlobo-4
 🤶🏾	uNkosikazi Claus, uhlobo-5, ukhisimuzi, umama, umama kakhisimusi, umama kakhisimusi: uhlobo-5
 🤶🏿	uNkosikazi Claus, uhlobo-6, ukhisimuzi, umama, umama kakhisimusi, umama kakhisimusi: uhlobo-6
-🧑‍🎄	Claus, ukhisimusi, mx claus, u-mx claus
-🧑🏻‍🎄	Claus, ukhisimusi, mx claus, u-mx claus, u-mx claus: uhlobo-1-2, uhlobo-1-2
-🧑🏼‍🎄	Claus, ukhisimusi, mx claus, u-mx claus, u-mx claus: uhlobo-3, uhlobo-3
-🧑🏽‍🎄	Claus, ukhisimusi, mx claus, u-mx claus, u-mx claus: uhlobo-4, uhlobo-4
-🧑🏾‍🎄	Claus, ukhisimusi, mx claus, u-mx claus, u-mx claus: uhlobo-5, uhlobo-5
-🧑🏿‍🎄	Claus, ukhisimusi, mx claus, u-mx claus, u-mx claus: uhlobo-6, uhlobo-6
+🧑‍🎄	Claus, mx claus, u-mx claus, ukhisimusi
+🧑🏻‍🎄	Claus, mx claus, u-mx claus, u-mx claus: uhlobo-1-2, uhlobo-1-2, ukhisimusi
+🧑🏼‍🎄	Claus, mx claus, u-mx claus, u-mx claus: uhlobo-3, uhlobo-3, ukhisimusi
+🧑🏽‍🎄	Claus, mx claus, u-mx claus, u-mx claus: uhlobo-4, uhlobo-4, ukhisimusi
+🧑🏾‍🎄	Claus, mx claus, u-mx claus, u-mx claus: uhlobo-5, uhlobo-5, ukhisimusi
+🧑🏿‍🎄	Claus, mx claus, u-mx claus, u-mx claus: uhlobo-6, uhlobo-6, ukhisimusi
 🦸	good, hero, heroine, iqhawe, superpower
 🦸🏻	good, hero, heroine, iqhawe, iqhawe: uhlobo-1-2, superpower, uhlobo-1-2
 🦸🏼	good, hero, heroine, iqhawe, iqhawe: uhlobo-3, superpower, uhlobo-3
@@ -1757,6 +2023,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🧟	hamba efile, isilwane, ngafile
 🧟‍♂	hamba efile, isipoki sowesilisa, ngafile
 🧟‍♀	hamba efile, isilwane sowesifazane, ngafile
+🧌	fairy tale, fantasy, monster, troll
 💆	imasaji, isaluni, ubuso, umuntu othola imasaji
 💆🏻	imasaji, isaluni, ubuso, uhlobo-1-2, umuntu othola imasaji, umuntu othola imasaji: uhlobo-1-2
 💆🏼	imasaji, isaluni, ubuso, uhlobo-3, umuntu othola imasaji, umuntu othola imasaji: uhlobo-3
@@ -2361,7 +2628,6 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 👩‍❤‍👨	indoda, inhliziyo, izithandani, izithandani ezinenhliziyo, izithandani ezinenhliziyo: umama, indoda, umama, uthando
 👨‍❤‍👨	indoda, inhliziyo, izithandani, izithandani ezinenhliziyo, izithandani ezinenhliziyo: indoda, indoda, uthando
 👩‍❤‍👩	inhliziyo, izithandani, izithandani ezinenhliziyo, izithandani ezinenhliziyo: umama, umama, umama, uthando
-👪️	ingane, ubaba, umama, umndeni
 👨‍👩‍👦	indoda, ingane, ubaba, umama, umfana, umndeni, umndeni: indoda, umama, umfana
 👨‍👩‍👧	indoda, ingane, intombazane, ubaba, umama, umndeni, umndeni: indoda, umama, intombazane
 👨‍👩‍👧‍👦	indoda, ingane, intombazane, ubaba, umama, umfana, umndeni, umndeni: indoda, umama, intombazane, umfana
@@ -2391,7 +2657,13 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 👤	isithombe, isithombe somuntu, umuntu
 👥	abantu, isithombe, isithombe sabantu
 🫂	abantu abanganayo
+👪️	ingane, ubaba, umama, umndeni
+🧑‍🧑‍🧒	ingane, omdala, umndeni: omdala, umndeni: omdala, omdala, ingane, ingane
+🧑‍🧑‍🧒‍🧒	adult, child, family: adult, family: adult, adult, child, child, ingane, omdala, umndeni: omdala
+🧑‍🧒	child, family: adult, ingane, umndeni: omdala, umndeni: omdala, ingane
+🧑‍🧒‍🧒	child, family: adult, family: adult, child, child
 👣	impahla yokugqoka, izinsalela zezinyawo, ukuphrinta, umzimba
+🫆	clue, crime, detective, fingerprint, forensics, identity, mystery, print, safety, trace
 🦰	ginger, izinwele ezibomvu, redhead
 🦱	afro, curly, curly hair, ringlets
 🦳	gray, hair, izinwele ezimhlophe, izinwele ezimpunga, old, white
@@ -2410,11 +2682,14 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🦝	curious, raccoon, sly
 🐱	ikati, isilwane sasekhaya, ubuso, ubuso bekati
 🐈️	ikati, isilwane sasekhaya
+🐈‍⬛	black, cat, ikati elimnyama, unlucky
 🦁	i-leo, i-zodiac, ibhubesi, ubuso
 🐯	ithayiga, ubuso, ubuso bethayiga
 🐅	ithayiga
 🐆	ingwe
 🐴	ihhashi, ubuso, ubuso behhashi
+🫎	animal, antlers, elk, i-moose, mammal
+🫏	animal, ass, burro, imbongolo, mammal, mule, stubborn
 🐎	ihhashi, ihhashi lomjaho, umjaho
 🦄	iyunikhoni, ubuso
 🦓	idube, umugqa
@@ -2433,10 +2708,10 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🐐	icapricon, imbuzi, inkanyezi
 🐪	ikameli, isifumbu
 🐫	ikameli, ikameli elinezifumbu ezimbili, isifumbu
-🦙	alpaca, guanaco, llama, vicuña, wool
+🦙	i-alpaca, i-guanoco, i-llama, i-vicuña, iwulu, llama
 🦒	indlulamithi, izindawo
 🐘	indlovu
-🦣	extinction, large, mammoth, tusk, woolly
+🦣	imammoth, mammoth, uboya, ubukhulu, ukushabalala, umboko
 🦏	isilwane, ubhejane
 🦛	hippopotamus, imvubu
 🐭	igundane, ubuso, ubuso begundane
@@ -2450,13 +2725,14 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🦔	inhloli, nameva
 🦇	ilulwane, isilwane, ivemphaya
 🐻	ibhele, ubuso
+🐻‍❄	arctic, bear, polar bear, white
 🐨	i-koala, ibhele
 🐼	iphanda, ubuso
 🦥	i-sloth, ukungasheshi, ukuvilapha
 🦦	i-otter, ukudlala, ukudoba
 🦨	i-skunk, ukunuka
 🦘	Australia, i-kangaroo, joey, jump, marsupial
-🦡	badger, honey badger, pester
+🦡	badger, i-badger, i-pester, iluju lwe badger
 🐾	amaqophelo, amaqophelo ezidladla, izidladla, izinyawo
 🦃	ithekhi
 🐔	inkukhu
@@ -2471,11 +2747,15 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🦆	idada, inyoni
 🦢	cygnet, idada, idada elibi, inyoni
 🦉	hlakanipha, inyoni, isikhova
-🦤	Mauritius, dodo, extinction, large
+🦤	dodo, i-Mauritius, ubukhulu, udodo, ukushabalala
 🪶	uphaphe
 🦩	i-flamboyanti, i-flamingo, i-tropical
 🦚	bird, ostentatious, peacock, peahen, proud
 🦜	bird, parrot, pirate, talk
+🪽	angelic, aviation, bird, flying, iphiko, mythology
+🐦‍⬛	bird, black, crow, inyoni emnyama, raven, rook
+🪿	bird, fowl, honk, i-goose, silly
+🐦‍🔥	fantasy, firebird, phoenix, rebirth, reincarnation
 🐸	ixoxo, ubuso
 🐊	ingwenya
 🐢	ufudu
@@ -2495,6 +2775,8 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🦈	ufishi, ushaka
 🐙	i-okthophasi
 🐚	igobolondo elizungezile, ingobolondo, okuzungezile
+🪸	coral, i-coral, ocean, reef
+🪼	burn, i-jellyfish, invertebrate, jelly, marine, ouch, stinger
 🐌	umnenke
 🦋	isinambuzane, ubuhle, uvemvane
 🐛	isilokozane
@@ -2510,10 +2792,11 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🦟	disease, fever, insect, malaria, mosquito, virus
 🪰	impethu, impukane, isifo, isinambuzane, ukubola
 🪱	i-annelid, imbungulu, isibungu, isiqubuqubu
-🦠	amoeba, bacteria, microbe, virus
+🦠	i-amoeba, i-microbe, igqiwane, microbe
 💐	imbali, isitshalo, isixha sezimbali
 🌸	imbali, isitsahlo, ukhukhula kwembali, ukuqhakaza
 💮	imbali, imbali emhlophe
+🪷	Buddhism, Hinduism, India, Vietnam, flower, lotus, purity
 🏵️	irosette, isitshalo
 🌹	imbali, irose, isitshalo
 🥀	bunile, imbali
@@ -2521,6 +2804,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🌻	imbali, isitshalo, ujikanelanga
 🌼	imbali, isitshalo, ukuqhakaza
 🌷	i-tulip, imbali, isitshalo
+🪻	bluebonnet, flower, hyacinth, lavender, lupine, snapdragon
 🌱	imbewu, isitshalo, okuncane
 🪴	akusizi ngalutho, indlu, isitshalo, isitshalo esisesitsheni, ukudubula, ukukhula, ukukhulisa
 🌲	i-evergreen, isihlahla, isitshalo
@@ -2535,13 +2819,15 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🍂	iqabunga, iqabunga eliqathakile, isitshalo, ukuwa
 🍃	iqabunga, iqabunga eliphephethwa umoya, isitshalo, phephetha, umoya
 🪹	isidleke esingenalutho, ukwakha isidleke
-🪺	esidlekeni
+🪺	esidlekeni, nest with eggs
 🍄	ikhowe, isitshalo
+🪾	bare, barren, branches, dead, drought, leafless, leafless tree, tree, trunk, winter, wood
 🍇	amagilebhisi, igilebhisi, isithelo, isitshalo
 🍈	imeloni, isithelo, isitshalo
 🍉	ikhabe, isithelo, isitshalo
 🍊	inantshi, isithelo, isitshalo, iwolintshi
 🍋	isithelo, isitshalo, okusawolintshi, ulamula
+🍋‍🟩	citrus, fruit, lime, tropical
 🍌	isithelo, isitshalo, ubhanana
 🍍	isithelo, isitshalo, upayinapu
 🥭	fruit, tropical, umango
@@ -2569,7 +2855,12 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🧄	igalikhi, ukufaka umnambitho
 🧅	u-anyanisi, ukufaka umnambitho
 🥜	amakinati, amaveji, ikinati, ukudla
+🫘	inso, legume, ubhontshisi, ukudla
 🌰	ichestnut, isitshalo
+🫚	ingxabu, ingxabu yejinja, isipayisi, ubhiya
+🫛	beans, edamame, i-pea pod, legume, pea, pod, vegetable
+🍄‍🟫	brown mushroom, food, fungus, ikhowe elinsundu, imvelo, iveji
+🫜	Iveji eliyingxabu, beet, food, garden, radish, root, salad, turnip, vegetable, vegetarian
 🍞	isinkwa, ulofu
 🥐	ibhanisi, isifrentshi, isinkwa, ukudla
 🥖	baguette, isifrentshi, isinkwa, ukudla
@@ -2602,7 +2893,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🥗	hlaza, isaladi, isaladi lasengadini, ukudla
 🍿	uphophukhoni
 🧈	ibhatha, okwebisi
-🧂	condiment, salt, shaker
+🧂	i-condiment, i-shaker, salt, usawothi
 🥫	ikani, ukudla okusekanini
 🍱	ibento, ibento bhoksi, ibhoksi
 🍘	icracker, ilayisi, irice cracker
@@ -2665,6 +2956,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🍴	imfoloko, imfoloko nommese, ukupheka, ummese
 🥄	isipunu, okwetafula
 🔪	ihocho, isikhali, ithuluzi, ukupheka, ummese, ummese wasekhishini
+🫙	condiment, container, empty, jar, sauce, store, ujeke
 🏺	aquarius, i-amfrora, inkanyezi, isikhali, isiphuzo, ithuluzi, ujeke, ukupheka
 🌍	afrika, europe, igilobhu, igilobhu eliveza i-europe-afrika, umhlaba
 🌎️	igilobhu, igilobhu eliveza emelika, melika, umhlaba
@@ -2727,7 +3019,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🌉	ebusuku, ibhuloho, ibhuloho ebusuku, isimo sezulu
 ♨️	iziphethu, iziphethu ezinamanzi ashisayo, kuyashisa, kuyathunya
 🎠	ihhashi, ihhashi lekharaseli, ikharaseli
-🛝	dlala, ipaki yokuzijabulisa
+🛝	dlala, ipaki yokuzijabulisa, islayidi sokudlala
 🎡	iferisi, isondo, isondo leferisi
 🎢	i-roller coaster, ipaki, okokushushuluza
 💈	ipholi yomgundi wezinwele, ukugunda izinwele, umgundi wezinwele
@@ -2776,12 +3068,14 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🛤️	isitimela, ujantshi, ujantshi wesitimela
 🛢️	amafutha, idramu, idramu lamafutha
 ⛽️	igesi, isifutho, isifutho sesiphehlamandla, isiphehlamandla, isiteshi
+🛞	circle, isondo, tire, turn, wheel
 🚨	amaphoyisa, ilambu lemoto yamaphoyisa, imoto, isithuthi, okujikelezayo, ukukhanya
 🚥	irobhothi elivundlile, isiginali, ithrafikhi, ukukhanya
 🚦	ilambu, irobhothi elibheke phezulu, isiginali, ithrafikhi
 🛑	ima, octagonal, uphawu, uphawu lokuma
 🚧	isithiyo, ukwakha
 ⚓️	ihange, ithuluzi, umkhumbi
+🛟	float, life preserver, life saver, rescue, ring buoy, safety
 ⛵️	indawo yokuvakasha, isikebhe, isikebhe sasolwandle, isithuthi, ulwandle
 🛶	isikebhe
 🚤	isikebhe, isikebhe esinesivinini esikhulu, isithuthi
@@ -2807,33 +3101,33 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 ⌛️	hourglass, isihlabathi, isiklali sikhathi
 ⏳️	i-hourglass, i-hourglass egeleza isihlabathi, isihlabathi, isiklali sikhathi
 ⌚️	iwashi
-⏰	i-alamu, iwashi, iwashi le-alamu
+⏰️	i-alamu, iwashi, iwashi le-alamu
 ⏱️	i-stop washi, iwashi
 ⏲️	isiklalisikhathi, iwashi, timer clock
 🕰️	iwashi, mantelpiece clock
-🕛️	00, 12, 12:00, clock, o’clock, twelve, twelve o’clock
+🕛️	00, 12, 12:00, ihora, shumi nambili, twelve o’clock
 🕧	12, 12:30, 30, clock, thirty, twelve, twelve-thirty
-🕐️	00, 1, 1:00, clock, one, one o’clock, o’clock
-🕜	1, 1:30, 30, clock, one, one-thirty, thirty
-🕑️	00, 2, 2:00, clock, o’clock, two, two o’clock
+🕐️	00, 1, 1:00, ihora, lokuqala, one o’clock
+🕜	1, 1:30, 30, clock, elilodwa nengxenye, one, one-thirty, thirty
+🕑️	00, 2, 2:00, amabili, ihora, two o’clock
 🕝	2, 2:30, 30, clock, thirty, two, two-thirty
-🕒️	00, 3, 3:00, clock, o’clock, three, three o’clock
+🕒️	00, 3, 3:00, amathathu, ihora, three o’clock
 🕞	3, 30, 3:30, clock, thirty, three, three-thirty
-🕓️	00, 4, 4:00, clock, four, four o’clock, o’clock
-🕟	30, 4, 4:30, clock, four, four-thirty, thirty
-🕔️	00, 5, 5:00, clock, five, five o’clock, o’clock
+🕓️	00, 4, 4:00, four o’clock, ihora, lesine
+🕟	30, 4, 4:30, clock, four, four-thirty, ihora lesine nengxenye, thirty
+🕔️	00, 5, 5:00, five o’clock, ihora, lesihlanu’ ihora
 🕠	30, 5, 5:30, clock, five, five-thirty, thirty
-🕕️	00, 6, 6:00, clock, o’clock, six, six o’clock
+🕕️	00, 6, 6:00, ihora, lesithupha, six o’clock
 🕡	30, 6, 6:30, clock, six, six-thirty, thirty
-🕖️	00, 7, 7:00, clock, o’clock, seven, seven o’clock
+🕖️	00, 7, 7:00, ihora, lesikhombisa, seven o’clock
 🕢	30, 7, 7:30, clock, seven, seven-thirty, thirty
-🕗️	00, 8, 8:00, clock, eight, eight o’clock, o’clock
+🕗️	00, 8, 8:00, eight o’clock, ihora, isishiyagalo mbilieight
 🕣	30, 8, 8:30, clock, eight, eight-thirty, thirty
-🕘️	00, 9, 9:00, clock, nine, nine o’clock, o’clock
+🕘️	00, 9, 9:00, ihora, isishiyagalo lunyenine, nine o’clock
 🕤	30, 9, 9:30, clock, nine, nine-thirty, thirty
-🕙️	00, 10, 10:00, clock, o’clock, ten, ten o’clock
+🕙️	00, 10, 10:00, ihora, leshumi, ten o’clock
 🕥	10, 10:30, 30, clock, ten, ten-thirty, thirty
-🕚️	00, 11, 11:00, clock, eleven, eleven o’clock, o’clock
+🕚️	00, 11, 11:00, eleven o’clock, ihora, leshumi nanye
 🕦	11, 11:30, 30, clock, eleven, eleven-thirty, thirty
 🌑	inyanga, inyanga entsha, isimo sezulu, ubumnyama, umkhathi
 🌒	inyanga, inyanga ewucezu olubheke emuva, isimo sezulu, ukubheka emuva, umkhathi
@@ -2886,8 +3180,8 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🎄	isihlahla, isihlahla sikaKhisimusi, uKhisimusi, umbungazo
 🎆	amakhrikhethi, umbungazo
 🎇	amakhrikhethi, okuqhumayo, umbungazo
-🧨	E11:050
-✨	inkanyezi, okukhazimulayo, ukukhazimula
+🧨	dynamite, explosive, fire, firecracker, fireworks, light, pop, popping, spark
+✨️	inkanyezi, okukhazimulayo, ukukhazimula
 🎈	ibhaluni, umbungazo
 🎉	iphathi, itada, okuqhuma ephathini, ukuqhuma, umbungazo
 🎊	ibhala, ibhola eliqhumayo, ukuqhuma, umbungazo
@@ -2897,7 +3191,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🎏	carp, i-carp streamer, istreamer, umbungazo
 🎐	ichime, ichime yomoya, insimbi, umbungazo, umoya
 🎑	inyanga, umbungazo, umcimbi, umcimbi wenyanga
-🧧	E11:049
+🧧	envelope, gift, good, hóngbāo, lai, luck, money, red, red envelope, see
 🎀	iribhini, umbungazo
 🎁	ibhokisi, iprezenti, isipho, isipho esigoqiwe, okugoqiwe, umbungazo
 🎗️	iribhini, iribhini yesikhumbuzo, isikhumbuzo, umbungazo
@@ -2917,12 +3211,12 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🏈	i-american football, ibhola, ibhola likanobhujuzwayo, okwasemelika
 🏉	i-football, ibhola, ibhola lomboxo, umbhoxo
 🎾	ibhalo, irekhethi, ithenisi
-🥏	E11:007
+🥏	disc, flying, flying disc, ultimate
 🎳	ibhola, ukubhowla, umdlalo
 🏏	ibhethi, ibhola, umdlalo, umdlalo wekhilikithi
 🏑	ibhola, ihokhi, induku, inkundla, umdlalo
 🏒	ihokhi, ihokhi yaseqhweni, induku, iqhwa, umdlalo
-🥍	E11:005
+🥍	ball, goal, lacrosse, sports, stick
 🏓	ibhethi, ibhola, ithenisi yetafula, ping pong, umdlalo
 🏸	ibadminton, irekhethi, umdlalo
 🥊	igilavu, igilavu lokulwa, ukulwa, umdlalo
@@ -2950,20 +3244,22 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🧩	i-jigsaw, icebo, indida, izingcezu, izingcezu zephazili, ucezu, ukukhiya ngaphakathi
 🧸	u-teddy bear
 🪅	i-piñata
+🪩	dance, disco, glitter, mirror ball, party
+🪆	doll, nesting, nesting dolls, russia
 ♠️	ikhadi, ispeyidi, umdlalo, uspeyidi
 ♥️	ikhadi, inhliziyo, izinhliziyo, umdlalo, unhliziyo
 ♦️	amadayimane, idayimane, ikhadi, okumise okwedayimane, umdlalo
 ♣️	ikhadi, izimpukane, umdlalo, umpukane
-♟️	E11:001
+♟️	chess, chess pawn, dupe, expendable, pawn
 🃏	ikhadi, ujokha, ukudlala, umdlalo
 🀄️	imajongi, okubomvu, umajongi oyidragoni ebomvu, umdlalo
 🎴	amakhadi okudlala ayimbali, ikhadi, imbali, japanese, ukudlala, umdlalo
 🎭️	ezobuciko bemibukiso, imaskhi, ubuciko, umbukiso
 🖼️	ifulemu, ifulemu enesithombe, imyuziyemu, isithombe, ubuciko
 🎨	ibhodi lengcweti yokupenda, imyuziyemu, isithombe esipendiwe, ubuciko
-🧵	E11:063
-🪡	inaliti, izihlungo, izitishi, ukufeketha, ukuthunga
-🧶	E11:064
+🧵	needle, sewing, spool, string, thread
+🪡	inaliti, inaliti yokuthunga, izihlungo, izitishi, ukufeketha, ukuthunga
+🧶	ball, crochet, knit, yarn
 🪢	bopha, hlanganisa, ifindo, intambo, ithandelwe, sonta
 👓️	ihlo, impahla yokugqoka, izibuko, izibuko zamehlo, ukugqokisa amehlo
 🕶️	ihlo, izibuko, izibuko zamehlo, izibuko zelanga, ubumnyana
@@ -2985,6 +3281,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🩳	ibhulukwe, insudu yebhavu, izikhindi, kokugqoka ngaphansi
 👙	ibikini, ingubo yokugqoka, ukubhukuda
 👚	impahla yomuntu wesifazane, ingubo yokugqoka, umuntu wesifazane
+🪭	cooling, dance, fan, flutter, folding hand fan, hot, shy
 👛	impahla yokugqoka, isikhwama semali, uhleza
 👜	impahla yokugqoka, isikhwama, isikhwama esincane
 👝	impahla yokugqoka, isikhwama
@@ -2999,6 +3296,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 👡	amasendeli, amasendeli owesimame, impahla yokugqoka, isicathulo, owesimame
 🩰	izicathulo ze-ballet
 👢	ibhuzu, ibhuzu lowesimame, impahla yokugqoka, isicathulo, owesimame
+🪮	Afro, comb, hair, hair pick, pick
 👑	impahla yokugqoka, inkosazana, inkosi, umqhele
 👒	impahla yokugqoka, isigqoko, isigqoko sowesimame, owesimame
 🎩	impahla yokugqoka, isigqoko, isigqoko sabesilisa, umswenko
@@ -3037,6 +3335,9 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🪕	i-banjo, uchungechunge, umculo
 🥁	idilamu, izinduku zedilamu, umculo
 🪘	i-conga, ibhithi, isigqi, isigubhu, isigubhu eside
+🪇	instrument, maracas, music, percussion, rattle, shake
+🪈	fife, flute, music, pipe, recorder, woodwind
+🪉	cupid, harp, instrument, love, music, orchestra
 📱	iselula, ucingo
 📲	iselula, iselula enomcibisholo, ucingo, ukufona, ukwamukela, umcibisholo
 ☎️	ifoni, ucingo
@@ -3044,6 +3345,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 📟️	ipheja
 📠	ifeksi, umshini wefeksi
 🔋	ibhetri
+🪫	electronic, ibhethri isincane, low battery, low energy
 🔌	ipulaki, ipulaki likagesi, ugesi
 💻️	eqondene nomuntu, i-pc, ikhomputha, ikhompyutha eyilephuthophi
 🖥️	ideskhithophu, ikhompyutha, ikhompyutha yedeskhithophu
@@ -3168,11 +3470,13 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 ⚖️	inkanyezi, isisindo, ithuluzi, iziklali, libra, okokulinganisa, ubulungiswa, ukulingana
 🦯	ikheni yokusiza, ukufinyelela, ukuphophala
 🔗	ukuxhumanisa
+⛓‍💥	iketango, iketango eliphukile, inkululeko, ozankosi, ukuphuka
 ⛓️	amaketango
 🪝	catch, crook, curve, ensnare, i-hook, selling point
 🧰	chest, ibhokisi lamathuluzi, mechanic, tool
 🧲	attraction, horseshoe, magnetic, umayibuthe
 🪜	climb, ilada, ladder, rung, step
+🪏	bury, dig, garden, hole, plant, scoop, shovel, snow, spade
 ⚗️	i-alambic, ithuluzi, khemistri
 🧪	chemist, chemistry, experiment, ishubhu lokuhlola, lab, science
 🧫	bacteria, biologist, biology, culture, lab, petri dish
@@ -3184,7 +3488,9 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🩸	imithi, ithonsi legazi, ukopha, ukuphisana ngegazi
 💊	imithi, iphilisi, udokotela, ukugula
 🩹	ibhandishi, ibhandishi yokubopha
+🩼	cane, crutch, disability, hurt, mobility aid, stick
 🩺	i-slethoscope, inhliziyo imithi, udokotela
+🩻	bones, doctor, medical, skeleton, x-ray
 🚪	isicabha
 🛗	i-elevator, ikheshi, phakamisa, ukufinyeleleka, ukuphakama
 🪞	i-speculum, isibonakaliso, isibuko, ukuzindla
@@ -3205,6 +3511,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🧻	paper towels, roll of paper, toilet paper
 🪣	ibhakede, ikhasikhi, pheyili, vethi
 🧼	bar, bathing, cleaning, insipho, lather, soapdish
+🫧	amagwebhu, bubbles, burp, clean, soap, underwater
 🪥	amazinyo, hlanzekile, ibhulashi, indlu yokugezela, isixubho, okwamazinyo, ukuhlanzeka
 🧽	absorbing, cleaning, isipontshi, porous
 🧯	extinguish, fire, isicishamlilo, quench
@@ -3213,9 +3520,11 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 ⚰️	ibhokisi lomngcwabo, ukufa
 🪦	amathuna, ethuneni, ikhanda eliyinhloko, ikhanda legumbi, ithuna
 ⚱️	isitsha somngcwabo, ukufa, umlotha, umngcwabo
-🧿	E11:073, bead, charm, evil-eye, nazar, talisman
+🧿	bead, charm, evil-eye, nazar, nazar amulet, talisman
+🪬	Fatima, Mary, Miriam, amulet, hamsa, hand, i-hamsa, protection
 🗿	i-moai, isichuthe, moyai, ubuso
 🪧	i-picket, iphakadi, ukuboniswa, ukuphikisana, uphawu
+🪪	ID, credentials, identification card, license, security, umazisi
 🏧	i-atm, ibhange, okuzenzakalelayo, uphawu lwe-ATM, uthela
 🚮	ibhokisi lezibi, izibi, uphawu lomgqomo wezibi
 🚰	amanzi, amanzi asempompini, ukuphuza, umpompi
@@ -3226,7 +3535,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🚼️	ingane, ukushintsha, uphawu lwengane
 🚾	amanzi, indawo yamanzi, indlu yangasese
 🛂	iphasiphothi, ukulawula, ukulawula iphasiphothi
-🛃	customs
+🛃	customs, imikhuba
 🛄	isikhwama, landa, ukulanda isikhwama
 🛅	impahla, impahla esele, indawo ekhiywayo, umthwalo
 ⚠️	isexwayiso
@@ -3276,6 +3585,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 ☮️	ukuthula, uphawu lokuthula
 🕎	i-candelabrum, imenora, induku yekhandlela, inkolo
 🔯	inhlanhla, inkanyezi, intanyezi enechashazi ekhombe kasithupha
+🪯	khanda
 ♈️	aries, inkanyezi, isiklabhu
 ♉️	inkanyezi, inkunzi, taurus
 ♊️	amawele, gemini, inkanyezi
@@ -3288,7 +3598,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 ♑️	capricorn, imbuzi, inkanyezi
 ♒️	amanzi, aquarius, inkanyezi, isithiyi
 ♓️	inhlanzi, inkanyezi, pisces
-⛎	inkanyezi, inyoka, isithiyi, ophiuchus
+⛎️	inkanyezi, inyoka, isithiyi, ophiuchus
 🔀	inkinobho yokuxuba, ophambene, umcibisholo
 🔁	inkinobho yokuphinda, oya ngakwesokudla, ukuphinda, umcibisholo
 🔂	inkinobho yokuphinda kube kanye, kanye, umcibisholo, umdlalo
@@ -3311,21 +3621,23 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🔅	inkinobho kadimu, phansi, udimu, ukukhanya
 🔆	inkinobho yokukhanya, ukukhanya
 📶	ibha, iselula, u-eriyeli, ucingo, ukudonsa
+🛜	computer, internet, network, okungenantambo
 📳	iselula, isimo, isimo sokushukuma, ithelefoni, ukushukuma
 📴	cisha, iselula, iselula icishiwe, ithelefoni
 ♀️	owesifazane, uphawu lowesifazane
 ♂️	indoda, upahwu lwendoda
 ⚧️	i-transgender, isimbuli ye-transgender
 ✖️	phindaphinda, ukukhansela, ukuphindaphinda, uphawu lokuphindaphinda oluwugqinsi
-➕	hlanganisa, ukubala, ukuhlanganisa, uphawu lokuhlanganisa oluwugqinsi
-➖	ukuhlanganisa, ukususa, uphawu lokususa oluwugqinsi
-➗	ukuhlanganisa, ukwahlukanisa, uphawu lokwahlukanisa oluwugqinsi
+➕️	hlanganisa, ukubala, ukuhlanganisa, uphawu lokuhlanganisa oluwugqinsi
+➖️	ukuhlanganisa, ukususa, uphawu lokususa oluwugqinsi
+➗️	ukuhlanganisa, ukwahlukanisa, uphawu lokwahlukanisa oluwugqinsi
+🟰	amasayini asindayo alinganayo, equality, heavy equals sign, math
 ♾️	forever, ingunaphakade, unbounded, universal
 ‼️	isibabazi, uphawu, uphawu lwesibabazi oluphindekile
 ⁉️	isibabazi, umbuzo, uphawu, uphawu lombuzo oluyisibabazi
 ❓️	umbuzo, uphaqu, uphawu lombuzo
-❔	okudwetshiwe, umbuzo, upahu, uphawu lombuzo olumhlophe
-❕	isibabazi, okudwetshiwe, uphawu, uphawu lwesibabazi olumhlophe
+❔️	okudwetshiwe, umbuzo, upahu, uphawu lombuzo olumhlophe
+❕️	isibabazi, okudwetshiwe, uphawu, uphawu lwesibabazi olumhlophe
 ❗️	isibabazi, uphawu, uphawu lwesibabazi
 〰️	okusagagasi, udeshi, udeshi osagagasi
 💱	ibhange, imali, izinga lokushintshanisa imali, uhlobo lwemali, ukushintsha
@@ -3337,13 +3649,13 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 📛	ibheji, ibheji legama, igama
 🔰	chevroni, iqabunga, ithuluzi, japanese, luhlaza satshani, qanda, umqali, uphawu lamajapanese lomuntu oqalayo
 ⭕️	ebomvu, enkulu, indingilizi, indingilizi enkulu oluwugqinsi ebomvu, o
-✅	inkinobho, ukuhlola, uphawo, uphawu lokuhlola okukhulu, ✓
+✅️	inkinobho, ukuhlola, uphawo, uphawu lokuhlola okukhulu, ✓
 ☑️	ibhalothi, ibhokisi, ibhokisi lebhalothi elinokuhlola, ukuhlola
 ✔️	ukuhlola, uphawu, uphawu lokuhlola oluwugqinsi
-❌	khansela, ukuphindaphinda, uphawu, uphawu lwesiphambano
-❎	inkinobho yophawu lwesiphambano, iskwele, umaka
-➰	iluphu, iluphu egobile, ukugoba
-➿	iluphu, iluphu eligobile eliyimpinda, impinda, ukugoba
+❌️	khansela, ukuphindaphinda, uphawu, uphawu lwesiphambano
+❎️	inkinobho yophawu lwesiphambano, iskwele, umaka
+➰️	iluphu, iluphu egobile, ukugoba
+➿️	iluphu, iluphu eligobile eliyimpinda, impinda, ukugoba
 〽️	ingxenye, upahwu lokulungisa ingxenye, uphawu
 ✳️	inkanyezi, inkanyezi enemigxa eyisishiyagalombili
 ✴️	inkanyezi, inkanyezi ecije kayisishayagalombili
@@ -3351,6 +3663,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 ©️	ilungelo lokukopisha
 ®️	okubhalisiwe
 ™️	uphawu, uphawu lokuhweba
+🫟	holi, paint, spill, splatter, stain
 #⃣	i-keycap, i-keycap: #
 *⃣	i-keycap, i-keycap: *
 0⃣	i-keycap, i-keycap: 0
@@ -3443,7 +3756,7 @@ _	dwebela, udeshi, udeshi ophansi, umugqa, umugqa ophansi, underdash
 🏴	ukundizisa, ukundizisa ifulegi elimnyama
 🏳️	ukundizisa, ukundizisa ifulegi elimhlophe
 🏳‍🌈	Ifulegi elimibalabala, ifulegi, okumbalabala
-🏳‍⚧	i-transgender, ifulegi, ifulegi eli-blue, pink nokumhlophe
+🏳‍⚧	i-transgender, ifulegi, ifulegi eli-blue, ifulegi eli-blue, pink nokumhlophe, pink nokumhlophe
 🏴‍☠	Jolly Roger, pirate, pirate flag, plunder, treasure
 🇦🇨	ifulegi, ifulegi: i-Ascension Island
 🇦🇩	ifulegi, ifulegi: i-Andorra
@@ -3717,6 +4030,9 @@ $	i-USD, i-dollar, i-peso, imali
 ฿	i-Thai Baht
 ៛	i-Cambodian Riel
 ₡	i-Costa Rican Colón
+₢	BRB, cruzeiro, currency
+₣	currency, franc, french franc
+₤	currency, lira
 ₥	i-mil, i-mill
 ₦	i-Nigerian Naira
 ₩	KPW, KRW, i-won
@@ -3725,10 +4041,14 @@ $	i-USD, i-dollar, i-peso, imali
 €	EUR, euro, i-currency, i-euro
 ₭	i-Laotian Kip
 ₮	i-Mongolian Tugrik
+₰	currency, german penny, pfennig
 ₱	i-peso
 ₲	i-Paraguayan Guarani
+₳	ARA, austral, currency
 ₴	i-Ukrainian Hryvnia
 ₵	i-Ghanaian Cedi
+₶	currency, livre tournois
+₷	currency, spesmilo
 ₸	i-Kazakhstani Tenge
 ₹	i-currency, i-indian rupee, indian rupee, rupee
 ₺	i-Turkish Lira
@@ -3736,6 +4056,8 @@ $	i-USD, i-dollar, i-peso, imali
 ₽	i-currency, i-ruble, ruble
 ₾	i-Georgian Lari
 ₿	i-BTC, i-bitcoin
+₨	currency, rupee
+﷼	currency, rial
 ¹	i-one, i-superscript one, superscript
 ²	i-squared, i-superscript two, superscript, two
 ³	i-cubed, i-superscript three, superscript, three

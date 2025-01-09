@@ -155,7 +155,7 @@
 🖐🏽	id, id mgħollija bl-iswaba’ mfettħa, id mgħollija bl-iswaba’ mfettħa: ton medju tal-ġilda, mfettħa, suba’, ton medju tal-ġilda
 🖐🏾	id, id mgħollija bl-iswaba’ mfettħa, id mgħollija bl-iswaba’ mfettħa: ton medju-skur tal-ġilda, mfettħa, suba’, ton medju-skur tal-ġilda
 🖐🏿	id, id mgħollija bl-iswaba’ mfettħa, id mgħollija bl-iswaba’ mfettħa: ton skur tal-ġilda, mfettħa, suba’, ton skur tal-ġilda
-✋	id, id mgħollija
+✋️	id, id mgħollija
 ✋🏻	id, id mgħollija, id mgħollija: ton ċar tal-ġilda, ton ċar tal-ġilda
 ✋🏼	id, id mgħollija, id mgħollija: ton medju-ċar tal-ġilda, ton medju-ċar tal-ġilda
 ✋🏽	id, id mgħollija, id mgħollija: ton medju tal-ġilda, ton medju tal-ġilda
@@ -271,7 +271,7 @@
 👎🏽	-1, behem, behem ’l isfel, behem ’l isfel: ton medju tal-ġilda, id, ton medju tal-ġilda, ’l isfel
 👎🏾	-1, behem, behem ’l isfel, behem ’l isfel: ton medju-skur tal-ġilda, id, ton medju-skur tal-ġilda, ’l isfel
 👎🏿	-1, behem, behem ’l isfel, behem ’l isfel: ton skur tal-ġilda, id, ton skur tal-ġilda, ’l isfel
-✊	daqqa ta’ ponn, id, ponn, ponn mgħolli, ħafen
+✊️	daqqa ta’ ponn, id, ponn, ponn mgħolli, ħafen
 ✊🏻	daqqa ta’ ponn, id, ponn, ponn mgħolli, ponn mgħolli: ton ċar tal-ġilda, ton ċar tal-ġilda, ħafen
 ✊🏼	daqqa ta’ ponn, id, ponn, ponn mgħolli, ponn mgħolli: ton medju-ċar tal-ġilda, ton medju-ċar tal-ġilda, ħafen
 ✊🏽	daqqa ta’ ponn, id, ponn, ponn mgħolli, ponn mgħolli: ton medju tal-ġilda, ton medju tal-ġilda, ħafen
@@ -1145,11 +1145,11 @@
 👼🏾	anġlu, anġlu tarbija: ton medju-skur tal-ġilda, fantasija, tarbija, ton medju-skur tal-ġilda, wiċċ, ħrafa
 👼🏿	anġlu, anġlu tarbija: ton skur tal-ġilda, fantasija, tarbija, ton skur tal-ġilda, wiċċ, ħrafa
 🎅	Milied, Santa Klaws, klaws, missier, santa, ċelebarazzjoni
-🎅🏻	Milied, Santa Klaws, Santa Klaws: ton ċar tal-ġilda, klaws, missier, santa, ton ċar tal-ġilda, ċelebarazzjoni
-🎅🏼	Milied, Santa Klaws, Santa Klaws: ton medju-ċar tal-ġilda, klaws, missier, santa, ton medju-ċar tal-ġilda, ċelebarazzjoni
-🎅🏽	Milied, Santa Klaws, Santa Klaws: ton medju tal-ġilda, klaws, missier, santa, ton medju tal-ġilda, ċelebarazzjoni
-🎅🏾	Milied, Santa Klaws, Santa Klaws: ton medju-skur tal-ġilda, klaws, missier, santa, ton medju-skur tal-ġilda, ċelebarazzjoni
-🎅🏿	Milied, Santa Klaws, Santa Klaws: ton skur tal-ġilda, klaws, missier, santa, ton skur tal-ġilda, ċelebarazzjoni
+🎅🏻	Milied, Santa Klaws: ton ċar tal-ġilda, klaws, missier, santa, ton ċar tal-ġilda, ċelebarazzjoni
+🎅🏼	Milied, Santa Klaws: ton medju-ċar tal-ġilda, klaws, missier, santa, ton medju-ċar tal-ġilda, ċelebarazzjoni
+🎅🏽	Milied, Santa Klaws: ton medju tal-ġilda, klaws, missier, santa, ton medju tal-ġilda, ċelebarazzjoni
+🎅🏾	Milied, Santa Klaws: ton medju-skur tal-ġilda, klaws, missier, santa, ton medju-skur tal-ġilda, ċelebarazzjoni
+🎅🏿	Milied, Santa Klaws: ton skur tal-ġilda, klaws, missier, santa, ton skur tal-ġilda, ċelebarazzjoni
 🤶	Is-Sinjura, Is-Sinjura Klaws, Klaws, il-Milied, omm, ċelebarazzjoni
 🤶🏻	Is-Sinjura, Is-Sinjura Klaws: ton ċar tal-ġilda, Klaws, il-Milied, omm, ton ċar tal-ġilda, ċelebarazzjoni
 🤶🏼	Is-Sinjura, Is-Sinjura Klaws: ton medju-ċar tal-ġilda, Klaws, il-Milied, omm, ton medju-ċar tal-ġilda, ċelebarazzjoni
@@ -1740,7 +1740,6 @@
 👩‍❤‍👨	imħabba, koppja, koppja b’qalb, koppja b’qalb: mara u raġel, mara, raġel
 👨‍❤‍👨	imħabba, koppja, koppja b’qalb, koppja b’qalb: raġel u raġel, raġel
 👩‍❤‍👩	imħabba, koppja, koppja b’qalb, koppja b’qalb: mara u mara, mara
-👪️	familja
 👨‍👩‍👦	familja, familja: raġel, mara, u tifel, mara, raġel, tifel
 👨‍👩‍👧	familja, familja: raġel, mara, u tifla, mara, raġel, tifla
 👨‍👩‍👧‍👦	familja, familja: raġel, mara, tifla, u tifel, mara, raġel, tifel, tifla
@@ -1769,6 +1768,7 @@
 🗣️	jitkellmu, ras, silwett, titkellem, titkellem ras, wiċċ
 👤	bust, bust f’silwett, silwett
 👥	bust, busti f’silwett, silwett
+👪️	familja
 👣	impronta, ipprintja, marki tas-saqajn, ħwejjeġ
 🐵	wiċċ, wiċċ ta’ xadina, xadina
 🐒	xadina
@@ -2111,7 +2111,7 @@
 ⌛️	klessidra, kronometru, ramel
 ⏳️	klessidra, klessidra bir-ramel nieżel, kronometru, ramel
 ⌚️	arloġġ
-⏰	arloġġ, żveljarin
+⏰️	arloġġ, żveljarin
 ⏱️	arloġġ, stopwatch
 ⏲️	arloġġ, kronometru, kronometru tal-arloġġ
 🕰️	arloġġ, arloġġ ta’ fuq l-ixkaffa
@@ -2189,7 +2189,7 @@
 🎄	Milied, siġra, siġra tal-Milied, ċelebrazzjoni
 🎆	logħob tan-nar, ċelebrazzjoni
 🎇	logħob tan-nar, sparkler, tlellex, ċelebrazzjoni
-✨	sparkle, stilla, tlellix
+✨️	sparkle, stilla, tlellix
 🎈	bużżieqa, ċelebrazzjoni
 🎉	party, party popper, popper, tada, ċelebrazzjoni
 🎊	ballun, ballun konfetti, konfetti, ċelebrazzjoni
@@ -2248,7 +2248,7 @@
 🃏	joker, karta, tal-logħob, wildcards
 🀄️	logħba, mahjong, mahjong red dragon, red
 🎴	fjuri, fjuri tal-karti tal-logħob, jilgħab, karta, logħba, Ġappuniż
-🎭️	arti, arti, żfin u mużika, maskra, performattivi, teatru
+🎭️	arti, arti, żfin u mużika, maskra, performattivi, teatru, żfin u mużika
 🖼️	arti, frejm, mużew, pittura, stampa, stampa fi frejm
 🎨	arti, mużew, pittura, tavlozza
 👓️	għajn, nuċċali, nuċċalijiet, ħwejjeġ
@@ -2519,7 +2519,7 @@
 ♑️	Capricorn, mogħża, żodjaku
 ♒️	Aquarius, ilma, portatur, żodjaku
 ♓️	Pisces, ħut, żodjaku
-⛎	Ophiuchus, portatur, serp, serpent, żodjaku
+⛎️	Ophiuchus, portatur, serp, serpent, żodjaku
 🔀	buttuna shuffle tracks, inkroċjata, vleġġa
 🔁	buttuna irrepeti, favur l-arloġġ, irrepeti, vleġġa
 🔂	buttuna irrepeti darba, darba, favur l-arloġġ, vleġġa
@@ -2547,14 +2547,14 @@
 ♀️	mara, sinjal femminili
 ♂️	raġel, sinjal maskili
 ✖️	ikkanċella, immoltiplika, multiplikazzjoni, multiplikazzjoni grassett x, x
-➕	matematika, plus, sinjal plus grassett
-➖	matematika, minus, sinjal minus grassett
-➗	diviżjoni, matematika, sinjal diviżjoni grassett
+➕️	matematika, plus, sinjal plus grassett
+➖️	matematika, minus, sinjal minus grassett
+➗️	diviżjoni, matematika, sinjal diviżjoni grassett
 ‼️	bangbang, esklamazzjoni, marka, punt doppju esklamattiv, punteġġjatura
 ⁉️	esklamazzjoni, interrobang, marka, mistoqsija, punt interrogattiv ta’ esklamazzjoni, punteġġjatura
 ❓️	marka, mistoqsija, punt interrogattiv, punteġġjatura
-❔	marka, mistoqsija, punt interrogattiv abjad, punteġġjatura, spjegati
-❕	esklamazzjoni, marka, punt esklamattiv abjad, punteġġjatura, spjegati
+❔️	marka, mistoqsija, punt interrogattiv abjad, punteġġjatura, spjegati
+❕️	esklamazzjoni, marka, punt esklamattiv abjad, punteġġjatura, spjegati
 ❗️	esklamazzjoni, marka, punt esklamattiv, punteġġjatura
 〰️	mmewwweġ, punteġġjatura, sing, sing immewwweġ
 💱	bank, flus, kambju tal-munita, munita, skambju
@@ -2566,13 +2566,13 @@
 📛	beġġ, beġġ bl-isem, isem
 🔰	aħdar, chevron, għodda, isfar, prinċipjant, simbolu Ġappuniż għal prinċipjant, werqa, Ġappuniż
 ⭕️	o, ċirku, ċirku kbir grassett
-✅	marka, marka ta’ verifika bajda grassett, verifika
+✅️	marka, marka ta’ verifika bajda grassett, verifika
 ☑️	kaxxa, kaxxa tal-votazzjoni b’marka, marka, votazzjoni
 ✔️	marka, marka ta’ verifika grassett, verifika
-❌	ikkanċella, immoltiplika, marka, marka salib, multiplikazzjoni, x
-❎	buttuna ta’ marka salib, kwadru, marka
-➰	innukklata, loop, loop innukklata
-➿	doppju, innukklata, loop, loop innukklata doppja
+❌️	ikkanċella, immoltiplika, marka, marka salib, multiplikazzjoni, x
+❎️	buttuna ta’ marka salib, kwadru, marka
+➰️	innukklata, loop, loop innukklata
+➿️	doppju, innukklata, loop, loop innukklata doppja
 〽️	marka, marka ta’ alternanza ta’ parti, parti
 ✳️	stilla, stilla bi tmien linji
 ✴️	stilla, stilla bi tmien ponot

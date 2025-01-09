@@ -1,3 +1,4 @@
+‾	nadsmužka, smužka górjejce
 _	dolna smužka, pódsmužka, smužka
 -	minus, smužka, smužka-minus
 ‐	smužka, zwězujuca smužka, zwězujuca smužka Iwězawka
@@ -16,6 +17,7 @@ _	dolna smužka, pódsmužka, smužka
 ?	interpunkciske znamuško, pšašak, pšašanje
 ¿	interpunkciske znamuško, na głowje stojaś, pšašak, pšašanje, wobrośony pšašak, znak
 ؟	arabski pšašak, interpunkciske znamuško, pšašak
+‽	interrobang
 .	dolny dypk, dypk
 …	dypk, tśi dypki, tśi dypki Idypki
 。	kólasko
@@ -65,7 +67,9 @@ _	dolna smužka, pódsmužka, smužka
 ′	apostrof, kokulka Itastatura
 ″	pazorki, tastatura
 ‴	tastatura, tšojny apostrof, tšojny apotrof
+‸	caret, diakritiske znamuško, kšywko
 ※	Chinska, Japańska, Korea, komejirushi, pokazaś na, wóznamjeniś
+⁂	asterismus, gwězdy, tśi gwězdy
 `	akcent, akcentuěrowane, interpunkciske znamuško, smužka, smužka nalěwo
 ´	akcent, akcentuěrowane, interpunkciske znamuško, smužka, smužka napšawo
 ^	interpunkciske znamuško, wobrośona kokulka
@@ -73,43 +77,269 @@ _	dolna smužka, pódsmužka, smužka
 °	promil, stopjeń, stopjeń alkohola, temperatura
 ℗	copyright, muzika, nagrawanje, symbol za awtorske pšawa muzikaliskich nagrawanjow
 ←	nalěwo, nalěwo pokazujuca šypa, pokazowaś, šypa
+↚	pśešmarnjona šypa nalěwo
 →	napšawo, napšawo pokazujuca šypa, pokazowaś
+↛	pśešmarnjona šypa napšawo
 ↑	górjej, górjej pokazujuca šypa, pokazowaś, šypa
 ↓	dołoj, dołoj pokazujuca šypa, pokazaowaś, šypa
+↜	žwałkata šypa nalěwo
+↝	žwałkata šypa napšawo
+↞	šypa z dwójneju špicu nalěwo
+↟	šypa z dwójneju špicu górjej
+↠	šypa z dwójneju špicu napšawo
+↡	šypa z dwójneju špicu dołoj
+↢	šypa z wogonkom nalěwo
+↣	šypa z wogonkom napšawo
+↤	šypa wót smužki nalěwo
+↥	šypa wót smužki górjej
+↦	šypa wót smužki napšawo
+↧	šypa wót smužki dołoj
+↨	šypa górjej a dołoj ze smužku dołojce
+↫	šypa ze šlejfku nalěwo
+↬	šypa ze šlejfku napšawo
+↭	žwałkata šypa nalěwo a napšawo
+↯	kokulkata šypa dołoj, kokulkaty
+↰	šypa górjej ze špicom nalěwo
+↱	šypa górjej ze špicu napšawo
+↲	šypa dołoj ze špicu nalěwo
+↳	šypa dołoj ze špicu napšawo
+↴	šypa napšawo z kutom dołoj
+↵	šypa dołoj z kutom nalěwo
+↶	zwjerchna połkulowata šypa nawopaki ako špěra źo
+↷	połkulowata šypa ako špěra źo
+↸	šypa do dłujkego wjacora z dłujkeju smužku wušej njeje
+↹	šypa nalěwo ze smužku prězy wušej šypy napšawo ze smužku prězy
+↺	wótwórjona kulowata šypa nawopaki ako špěra źo
+↻	wótwórjona kulowata šypa ako špěra źo
+↼	harpuna nalěwo z kokulku górjej
+↽	harpuna nalěwo z kokulku dołoj
+↾	harpuna górjej z kokulku napšawo, kokulka
+↿	harpuna górjej z kokulku nalěwo, kokulka
+⇀	harpuna napšawo z kokulku górjej, kokulka
+⇁	harpuna napšawo z kokulku dołoj, kokulka
+⇂	harpuna dołoj z kokulku napšawo, kokulka
+⇃	harpuna dołoj z kokulku nalěwo, kokulka
+⇄	šypa nalěwo wušej šypy napšawo
 ⇅	dołoj, górjej, górjej a dołoj pokazujucej šypje, pokazowaś
 ⇆	nalěwo, nalěwo pokazujuca šypa wušej napšawo pokazujuceje šypy, napšawo
+⇇	šypje nalěwo
+⇈	šypje górjej
+⇉	šypje napšawo
+⇊	šypje dołoj
+⇋	harpuna nalěwo wušej harpuny napšawo
+⇌	harpuna napšawo wušej harpuny nalěwo
+⇐	šypa z dwójnyma smužkoma nalěwo
+⇍	pśešmarnjona šypa z dwójnyma smužkoma nalěwo
+⇑	šypa z dwójnyma smužkoma górjej
+⇒	šypa z dwójnyma smužkoma napšawo
+⇏	pśešmarnjona šypa z dwójnyma smužkoma napšawo
+⇓	šypa z dwójnyma smužkoma dołoj
+⇔	šypa z dwójnyma smužkoma nalěwo a napšawo
+⇎	pśešmarnjona šypa z dwójnyma smužkoma nalěwo a napšawo
+⇖	šypa z dwójnyma smužkoma do dłujkego wjacora
+⇗	šypa z dwójnyma smužkoma do dłujkego zajtša
+⇘	šypa z dwójnyma smužkoma do krotkego zajtša
+⇙	šypa z dwójnyma smužkoma do krotkego wjacora
+⇚	šypa z tśimi smužkami nalěwo
+⇛	šypa z tśimi smužkami napšawo
+⇜	krekulata šypa nalěwo
+⇝	krekulata šypa napšawo
+⇞	dwójcy pśešmarnjona šypa górjej
+⇟	dwójcy pśešmarnjona šypa dołoj
+⇠	smužkata šypa nalěwo
+⇡	smužkata šypa górjej
+⇢	smužkata šypa napšawo
+⇣	smužkata šypa dołoj
+⇤	šypa nalěwo k smužce
+⇥	šypa napšawo k smužce
+⇦	prozna šypa nalěwo
+⇧	prozna šypa górjej
+⇨	prozna šypa napšawo
+⇩	prozna šypa dołoj
+⇪	prozna šypa górjej ze smužku dołojce
+⇵	šypa dołoj pódla šypy górjej
+∀	kuždy, uniwersalny, wšo, za wšyknych
+∂	diferencial, parcielny diferencial
+∃	eksistěrujo
+∅	matematika, operator młogosć, prozna młogosć
 ∆	delta, delta symbol, pśirost, tśirožk
 ∇	nabla, symbol nabla, tśirožk
 ∈	element, element młogosći, młogosć, pśisłušnosć, wopśimjejo
+∉	element, njejo element
+∋	element, wopśimjejo ako element
+∎	Halmosowy symbol, kóńc dopokaza, q.e.d., qed, rowowy kamjeń
+∏	logika, produkt, produkt z n faktorow
+∑	matematika, suma, suma z n źělow
 +	aděrowaś, plus, znamje plus
 ±	plus a minus, znamje plus a minus
 ÷	diwiděrowaś, diwizija, symbol za diwiziju, źělenje pśez, źěliś pśez
 ×	multiplicěrowaś, multiplikacija, rozmnoženje, symbol za multiplikaciju
 <	matematika, mjeńše ako
+≮	matematika, nic mjeńše ako, njerownosć
 =	rowno
 ≠	njerowna se, znamje njerownosći
 >	matematika, wětše ako
+≯	nic wětše ako
 ¬	matematika, negacija
 |	matematika I, padorowna smuga, smuga
 ~	tilda
 −	minus, substrahěrowaś, znamje minus
 ⁻	minus, minusowe znamuško, wušej stajone minusowe znamuško, wušej stajone znamuško
+∓	minus abo plus, plus-minus
+∕	nakósna smužka, nakósna smužka za dewiziju, smužka
+⁄	nakósna smužka, smužka, łamkowa smužka
+∗	gwězdka, operator we formje gwězdki
+∘	operator, operator we formje krejza, zestawa
+∙	operator, operator we formje kulki
 √	kwadratny kórjeń, kórjeń, matematika
+∝	proporcionalnosć, proporcionalny k
 ∞	njeskóńcnosć, njeskóńcny, symbol njeskóńcnosći
+∟	matematika, pšawy kut
+∠	kut, wótšy
+∣	dewizor, znamje za źělenje
+∥	paralelny k
+∧	logiska konjunkcija, logiske "a"
 ∩	młogosć, se pśekšywaś, zgromadna młogosć
 ∪	gromadu měś, młogosć, młogosć zgromadnych elementow
+∫	integral, licenje
+∬	dwójny integral, licenje
+∮	konturowy integral
+∴	dla togo, logika
+∵	dokulaž, logika
+∶	poměr
+∷	mjazsobny poměr, proporcionalnosć
+∼	operator, operator we formje tildy
+∽	tilda, wobrośona tilda
+∾	wobrośone lažece s
+≃	asymptota, asymptotiski jadnake, matematika
+≅	izoforismus, kongruenca, matematika, pśibližnje jadnaki, rownosć
 ≈	pśibližnje, pśisamem, tak někak
+≌	matematika, rownosć, wšykno jadnake
+≒	pśibližnje jadnakej abo ako wobraz
+≖	krejz w znamušku rownosći, matematika, rownosć
 ≡	identiski, identiski i identiske, jo identiski z, rowna se, tśi smužki
+≣	kšuśe jadnaki, matematika, rownosć
 ≤	jadnak wjelike, mjeńše ako, mjeńše ako abo jadnak wjelike, rownosć
 ≥	jadnak wjelike, rownosć, wětše ako, wětše ako abo jadnak wjelike
+≦	matematika, mjeńšy ako wušej jo rowno, njerownosć
+≧	matematika, njerownosć, wětšy ako wušej jo rowno
+≪	matematika, njerownosć, wjele mjenjej ako
+≫	matematika, njerownosć, wjele wětšy ako
+≬	mjaz
+≳	matematika, njerownosć, wětšy ako abo ekwiwalentny
+≺	matematika, operator młogosć, pśedchadny
+≻	matematika, operator młogosći, slědujucy
+⊁	matematika, młogosći, njeslědujo, operator
 ⊂	jo źěl, ma w sebje, wopśimjejo, źělna młogosć
+⊃	matematika, młogosći, operator, zwjerchna młogosć wót
+⊆	źělne młogosći wót abo jo rowno
+⊇	matematika, rownosć, zwjerchna młogosć wót abo jo rowno
+⊕	plus, zakružony plus
+⊖	erozija, symetriski rozdźěl, zakružony minus
+⊗	produkt, tensor, zakružona multiplikaciska kśica
+⊘	matematika, za źělenje, zakružona nakósna smužka za źělenje
+⊙	XNOR, operator, zakružony operator we formje dypka
+⊚	zakružony operator we formje krejza
+⊛	gwězdka, operator, zakružony operator we formje gwězdki
+⊞	kaž adicija, matematika, plus w kwadraśe
+⊟	minus w kwadraśe
+⊥	falsum, znamuško spśeśiwjenja
+⊮	njewunuzkujo
+⊰	matematika, młogosći, operator, pśedchada w relaciji
+⊱	matematika, młogosći, operator, slědujo w relaciji
+⋭	njewobpśimjejo ako normalnu pódkupku abo jo rowno
+⊶	original
+⊹	hermetiska konjugěrowana matriks, kwadratna matriks, matematika, samoadjungěrowana matriks
+⊿	matematika, pšawokutny tśirožk
+⋁	disjunkcija, logika, n-te logiske znamuško "abo"
+⋂	n-ta zgromadna młogosć
+⋃	matematika, n-ta zjadnośeńska młogosć, operator młogosći, zjadnośenje
+⋅	operator, operator we formje dypka
+⋆	operator, operator we formje gwězdy
+⋈	binarny operator, mucha, pśirodne zwězanje
+⋒	dwójna zgromadna młogosć, matematika, operator młogosći, zgromadna młogosć
+⋘	kradu mjenjej ako, matematika, njerownosć
+⋙	kradu wětše ako, matematika, njerownosć
+⋮	elipsa, matematika, wertikalny elipsa
+⋯	elipsa, srjejźna horicontalna elipsa
+⋰	elipsa, matematika, nakósna diagonalna elipsa górjej
+⋱	elipsa, matematika, nakósna diagonalna elipsa dołoj
+■	wupołnjony kwadrat
+□	prozny kwadrat
+▢	prozny kwadrat z wukulowaśonymi rožkami
+▣	prozny kwadrat wopśimjecy wupołnjony kwadrat
+▤	kwadrat z horicontalneju šrafuru
+▥	kwadrat z wertikalneju šrafuru
+▦	kwadrat z ortogonalneju nakśicneju šrafuru
+▧	kwadrat ze šrafuru wót górjejce nalěwo dołoj napšawo
+▨	kwadrat ze šrafuru wót dołojce nalěwo górjej napšawo
+▩	kwadrat z diagonalneju nakśicneju šrafuru
+▬	wupołnjony pšaworožk
+▭	prozny pšaworožk
+▮	wertkalny wupołnjony pšaworžk
+▰	wupołnjony paralelogram
 ▲	górjej, tśirožk, wupołnjony, wupołnjony górjej pokazujucy tśirožk, šypa
+△	prozny tśirožk pokazujucy górjej
+▴	mały wupołnjony tśirožk pokazujucy górjej
+▵	mały prozny tśirožk pokazujucy górjej
+▷	prozny tśirožk pokazujucy napšawo
+▸	mały wupołnjony tśirožk pokazujucy napšawo
+▹	mały prozny tśirožk pokazujucy napšawo
+►	wupołnjony pokazowaŕ pokazujucy napšawo
+▻	prozny pokazowaŕ pokazujucy napšawo
 ▼	cerwjeny tśírožk ze špicom dołoj, dołoj, tśirožk, wupołnjony, wupołnjony dołoj pokazujucy tśirožk
+▽	prozny tśirožk pokazujucy dołoj
+▾	mały wupołnjony tśirožk pokazujucy dołoj
+▿	mały prozny tśirožk pokazujucy dołoj
+◁	prozny tśirožk pokazujucy nalěwo
+◂	mały wupołnjony tśirožk pokazujucy nalěwo
+◃	mały prozny tśirožk pokazujucy nalěwo
+◄	wupołnjony pokazowaŕ pokazujucy nalěwo
+◅	prozny pokazowaŕ pokazujucy nalěwo
+◆	wupołnjony karo
+◇	prozny karo
+◈	prozny karo z małym wupołnjonym karo
+◉	prozny krejz z małym wupołnjonym krejzom
 ◊	geometrija, rombus
 ○	krejz, prozny krejz, rink
+◌	dypkowany krejz
+◍	krejz z wertikalneju šrafuru
+◎	koncentriske krejze, koncentriskej krejza, wójny krejz
 ●	krejz, wupołnjony krejz
+◐	krejz z carneju połojcu nalěwo
+◑	krejz z carneju połojcu napšawo
+◒	krejz z carneju połojcu dołojce
+◓	krejz z carneju połojcu górjejce
+◔	krejz z carnym běrtylom górjejce napšawo
+◕	carny krejz z běłym běrtylom górjejce nalěwo
+◖	lěwa połojca carnego krejza
+◗	pšawa połojca carnego krejza
+◘	běły dypk w carnem kwadraśe
+◙	wobrośony prozny krejz, wupołnjony kwadrat z běłym krejzom
+◜	lěwy zwjerchny běrtyl krejza
+◝	pšawy zwjerchny běrtyl krejza
+◞	dolny pšawy běrtyl krejza
+◟	dolny lěwy běrtyl krejza
+◠	połkrejz górjejce
+◡	połkrejz dołojce
+◢	wupołnjony tśirožk pokazujo napšawo dołoj
+◣	wupołnjony tśirož pokazujo nalěwo dołoj
+◤	wupołnjony tśirožk pokazujo nalěwo górjej
+◥	wupołnjony tśirožk pokazujo napšawo górjej
+◦	prozne naliceńske znamuško
 ◯	krejz, rink, wjeliki prozny krejz
+◳	prozny kwadrat z běrtylom górjejce napšawo
+◷	prozny krejz z běrtylom górjejce napšawo
+◿	prozny tśirožk pokazujucy napšawo dołoj
 ♪	nota, wósymka, wósymkowa nota
+⨧	znamuško plus z nižej stajoneju dwójku
+⨯	wektorowy produkt
+⨼	nutśikowny produkt
+⩣	logiske "abo" z dwójneju pódsmužku
+⩽	mjeńšy ako abo nakósno jo rowno
+⪍	mjeńšy ako wušej pódobny abo jadnaki
+⪚	matematika, njerownosć, rowno wušej wětšy ako
+⪺	slědujucy wušej pśisamem njerowno
 ♭	b, muzika, noty, pśedznamuško, pśedznamuško b, znižyś
 ♯	muzika, noty, pówušyś, pśedznamuško kśicka
 😀	luštne, se zubjece woblico, woblico, wótcynjona guba
@@ -161,11 +391,15 @@ _	dolna smužka, pódsmužka, smužka
 😬	grimasa, grimase śěgajuce woblico, grimasu śěgujuce woblico, woblico, zuby
 😮‍💨	stukaś, wudychajuce woblico, wudychaś, wólažcenje, šepotaś, šwicaś
 🤥	Pinocchio-nos, woblico, łdgajuce woblico, łdža
+🫨	tśěskotate woblico, tśěskotaś, tśěsć se, woblico, zemjerdžanje, šok
+🙂‍↔	kenž z głowu wijo, ně, woblico, woblico, kenž z głowu wijo, z głowu wiś
+🙂‍↕	jo, kenž nyga, nygaś, woblico, woblico, kenž nyga
 😌	woblico, wólažcone woblico, wólažcony, zacynjonej wócy
 😔	rozmyslowate woblico, rozmyslowaty, wjelgin rozmyslowate woblico, woblico
 😪	mucny, woblico, zaspane woblico
 🤤	sliniś, slinjece woblico, woblico
 😴	smarcaś, spaś, spice woblico, woblico, zzz
+🫩	dopórany, mucny, woblico ze łdzowyma měškoma pód wócyma, wužmjety, zaspany
 😷	chórosć, gójc, woblico, woblico z dychańskeju šćitneju masku
 🤒	chóry, woblico, woblico ze zymnicowym termometerom, zymnicowy termometer
 🤕	bólosći, woblico, woblico ze zawobalenim głowy, zawobalenje, zranjenje
@@ -252,13 +486,16 @@ _	dolna smužka, pódsmužka, smužka
 ❤‍🔥	lubosć, se paliś, swěta wutšoba, wutšoba, wutšobka, wutšobka se pali
 ❤‍🩹	gójś, se wustrowiś, se zmógnuś, wutšobu gójś
 ❤️	cerwjena, cerwjena wutšobka, wutšoba, wutšobka
+🩷	lubosć, rady měś, rožojta, rožojta wutšoba, wutšoba, šykowna
 🧡	oranžojta wutšoba, oranžojta wutšobka, oranžojty, wutšoba, wutšobka
 💛	wutšoba, wutšobka, žołta wutšobka, žołty
 💚	wutšoba, wutšobka, zelena wutšobka, zeleny
 💙	módra wutšobka, módry, wutšoba, wutšobka
+🩵	cyan, módrozelena, swětłomódra, swětłomódra wutšoba, wutšoba
 💜	lylowa wutšobka, lylowy, wutšoba, wutšobka
 🤎	bruna wutšobka, bruny, wutšoba, wutšobka
 🖤	carna wutšobka, carny, wutšoba, zły
+🩶	slobro, wutšoba, šera, šera wutšoba, šćipjeł
 🤍	běła wutšobka, běły, wutšoba, wutšobka
 💋	gubje, póšk, wótśišć gubowu, wótśišć póška
 💯	100, 100 dypkow, połna licba dypkow, staw dypkow
@@ -292,7 +529,7 @@ _	dolna smužka, pódsmužka, smužka
 🖐🏽	5, palce, pěś palcow, rozpśestrěty, ruka, ruka z rozpśestrětymi palcami, ruka z rozpśestrětymi palcami: wósrědna barwa kóže, wósrědna barwa kóže
 🖐🏾	5, palce, pěś palcow, rozpśestrěty, ruka, ruka z rozpśestrětymi palcami, ruka z rozpśestrětymi palcami: srjejźnośamna barwa kóže, srjejźnośamna barwa kóže
 🖐🏿	5, palce, pěś palcow, rozpśestrěty, ruka, ruka z rozpśestrětymi palcami, ruka z rozpśestrětymi palcami: śamna barwa kóže, śamna barwa kóže
-✋	pózwignjona ruka, ruka
+✋️	pózwignjona ruka, ruka
 ✋🏻	pózwignjona ruka, pózwignjona ruka: swětła barwa kóže, ruka, swětła barwa kóže
 ✋🏼	pózwignjona ruka, pózwignjona ruka: srjejźnoswětła barwa kóže, ruka, srjejźnoswětła barwa kóže
 ✋🏽	pózwignjona ruka, pózwignjona ruka: wósrědna barwa kóže, ruka, wósrědna barwa kóže
@@ -348,6 +585,18 @@ _	dolna smužka, pódsmužka, smužka
 🫴🏽	dłoń pokazujo górjej, dłoń pokazujo górjej: wósrědna barwa kóže, kiwaś, póbitowaś, pópadnuś, pśiś, wósrědna barwa kóže
 🫴🏾	dłoń pokazujo górjej, dłoń pokazujo górjej: srjejźnośamna barwa kóže, kiwaś, póbitowaś, pópadnuś, pśiś, srjejźnośamna barwa kóže
 🫴🏿	dłoń pokazujo górjej, dłoń pokazujo górjej: śamna barwa kóže, kiwaś, póbitowaś, pópadnuś, pśiś, śamna barwa kóže
+🫷	ak tłocy nalěwo, cakaś, high five, nalěwo, ruka, ruka, ak tłocy nalěwo, slědk hyś, tłocyś, wótpokazaś, zaźaržaś
+🫷🏻	ak tłocy nalěwo, cakaś, high five, nalěwo, ruka, ruka, ak tłocy nalěwo, ruka, ak tłocy nalěwo: swětła barwa kóže, slědk hyś, swětła barwa kóže, tłocyś, wótpokazaś, zaźaržaś
+🫷🏼	ak tłocy nalěwo, cakaś, high five, nalěwo, ruka, ruka, ak tłocy nalěwo, ruka, ak tłocy nalěwo: srjejźnoswětła barwa kóže, slědk hyś, srjejźnoswětła barwa kóže, tłocyś, wótpokazaś, zaźaržaś
+🫷🏽	ak tłocy nalěwo, cakaś, high five, nalěwo, ruka, ruka, ak tłocy nalěwo, ruka, ak tłocy nalěwo: wósrědna barwa kóže, slědk hyś, tłocyś, wósrědna barwa kóže, wótpokazaś, zaźaržaś
+🫷🏾	ak tłocy nalěwo, cakaś, high five, nalěwo, ruka, ruka, ak tłocy nalěwo, ruka, ak tłocy nalěwo: srjejźnośamna barwa kóže, slědk hyś, srjejźnośamna barwa kóže, tłocyś, wótpokazaś, zaźaržaś
+🫷🏿	ak tłocy nalěwo, cakaś, high five, nalěwo, ruka, ruka, ak tłocy nalěwo, ruka, ak tłocy nalěwo: śamna barwa kóže, slědk hyś, tłocyś, wótpokazaś, zaźaržaś, śamna barwa kóže
+🫸	ak tłocy napšawo, cakaś, high five, napšawo, ruka, ruka, ak tłocy napšawo, slědk hyś, tłocyś, wótpokazaś, zaźaržaś
+🫸🏻	ak tłocy napšawo, cakaś, high five, napšawo, ruka, ruka, ak tłocy napšawo, ruka, ak tłocy napšawo: swětła barwa kóže, slědk hyś, swětła barwa kóže, tłocyś, wótpokazaś, zaźaržaś
+🫸🏼	ak tłocy napšawo, cakaś, high five, napšawo, ruka, ruka, ak tłocy napšawo, ruka, ak tłocy napšawo: srjejźnoswětła barwa kóže, slědk hyś, srjejźnoswětła barwa kóže, tłocyś, wótpokazaś, zaźaržaś
+🫸🏽	ak tłocy napšawo, cakaś, high five, napšawo, ruka, ruka, ak tłocy napšawo, ruka, ak tłocy napšawo: wósrědna barwa kóže, slědk hyś, tłocyś, wósrědna barwa kóže, wótpokazaś, zaźaržaś
+🫸🏾	ak tłocy napšawo, cakaś, high five, napšawo, ruka, ruka, ak tłocy napšawo, ruka, ak tłocy napšawo: srjejźnośamna barwa kóže, slědk hyś, srjejźnośamna barwa kóže, tłocyś, wótpokazaś, zaźaržaś
+🫸🏿	ak tłocy napšawo, cakaś, high five, napšawo, ruka, ruka, ak tłocy napšawo, ruka, ak tłocy napšawo: śamna barwa kóže, slědk hyś, tłocyś, wótpokazaś, zaźaržaś, śamna barwa kóže
 👌	ekscelentny, ok, ok-gesta, okay, okay-gesta, perfektny, ruka, w rěchu
 👌🏻	ekscelentny, ok, ok-gesta, ok-gesta: swětła barwa kóže, okay, okay-gesta, perfektny, ruka, swětła barwa kóže, w rěchu
 👌🏼	ekscelentny, ok, ok-gesta, ok-gesta: srjejźnoswětła barwa kóže, okay, okay-gesta, perfektny, ruka, srjejźnoswětła barwa kóže, w rěchu
@@ -378,12 +627,12 @@ _	dolna smužka, pódsmužka, smužka
 🤞🏽	palc, pśekśicnjony, ruka, ruka z pśekśicnjonyma palcoma, ruka z pśekśicnjonyma palcoma: wósrědna barwa kóže, wósrědna barwa kóže
 🤞🏾	palc, pśekśicnjony, ruka, ruka z pśekśicnjonyma palcoma, ruka z pśekśicnjonyma palcoma: srjejźnośamna barwa kóže, srjejźnośamna barwa kóže
 🤞🏿	palc, pśekśicnjony, ruka, ruka z pśekśicnjonyma palcoma, ruka z pśekśicnjonyma palcoma: śamna barwa kóže, śamna barwa kóže
-🫰	droge, lubosć, pjenjeze, ruka, z pśekśicowanym pokazowarjom a palcom, wutšoba
-🫰🏻	droge, lubosć, pjenjeze, ruka, z pśekśicowanym pokazowarjom a palcom, ruka, z pśekśicowanym pokazowarjom a palcom: swětła barwa kóže, swětła barwa kóže, wutšoba
-🫰🏼	droge, lubosć, pjenjeze, ruka, z pśekśicowanym pokazowarjom a palcom, ruka, z pśekśicowanym pokazowarjom a palcom: srjejźnoswětła barwa kóže, srjejźnoswětła barwa kóže, wutšoba
-🫰🏽	droge, lubosć, pjenjeze, ruka, z pśekśicowanym pokazowarjom a palcom, ruka, z pśekśicowanym pokazowarjom a palcom: wósrědna barwa kóže, wutšoba, wósrědna barwa kóže
-🫰🏾	droge, lubosć, pjenjeze, ruka, z pśekśicowanym pokazowarjom a palcom, ruka, z pśekśicowanym pokazowarjom a palcom: srjejźnośamna barwa kóže, srjejźnośamna barwa kóže, wutšoba
-🫰🏿	droge, lubosć, pjenjeze, ruka, z pśekśicowanym pokazowarjom a palcom, ruka, z pśekśicowanym pokazowarjom a palcom: śamna barwa kóže, wutšoba, śamna barwa kóže
+🫰	droge, lubosć, pjenjeze, ruka, ruka, z pśekśicowanym pokazowarjom a palcom, wutšoba, z pśekśicowanym pokazowarjom a palcom
+🫰🏻	droge, lubosć, pjenjeze, ruka, ruka, z pśekśicowanym pokazowarjom a palcom, ruka, z pśekśicowanym pokazowarjom a palcom: swětła barwa kóže, swětła barwa kóže, wutšoba, z pśekśicowanym pokazowarjom a palcom
+🫰🏼	droge, lubosć, pjenjeze, ruka, ruka, z pśekśicowanym pokazowarjom a palcom, ruka, z pśekśicowanym pokazowarjom a palcom: srjejźnoswětła barwa kóže, srjejźnoswětła barwa kóže, wutšoba, z pśekśicowanym pokazowarjom a palcom
+🫰🏽	droge, lubosć, pjenjeze, ruka, ruka, z pśekśicowanym pokazowarjom a palcom, ruka, z pśekśicowanym pokazowarjom a palcom: wósrědna barwa kóže, wutšoba, wósrědna barwa kóže, z pśekśicowanym pokazowarjom a palcom
+🫰🏾	droge, lubosć, pjenjeze, ruka, ruka, z pśekśicowanym pokazowarjom a palcom, ruka, z pśekśicowanym pokazowarjom a palcom: srjejźnośamna barwa kóže, srjejźnośamna barwa kóže, wutšoba, z pśekśicowanym pokazowarjom a palcom
+🫰🏿	droge, lubosć, pjenjeze, ruka, ruka, z pśekśicowanym pokazowarjom a palcom, ruka, z pśekśicowanym pokazowarjom a palcom: śamna barwa kóže, wutšoba, z pśekśicowanym pokazowarjom a palcom, śamna barwa kóže
 🤟	Ja śi lubujom, gesta "ja śi lubujom", ruka
 🤟🏻	Ja śi lubujom, gesta "ja śi lubujom", gesta "ja śi lubujom": swětła barwa kóže, ruka, swětła barwa kóže
 🤟🏼	Ja śi lubujom, gesta "ja śi lubujom", gesta "ja śi lubujom": srjejźnoswětła barwa kóže, ruka, srjejźnoswětła barwa kóže
@@ -438,12 +687,12 @@ _	dolna smužka, pódsmužka, smužka
 ☝🏽	drugi palc, górjej, górjej pokazujucy drugi palc wót prědka, górjej pokazujucy drugi palc wót prědka: wósrědna barwa kóže, górjej pokazujucy drugi plac wót prědka, palc, prědkowny bok ruki, ruka, wósrědna barwa kóže
 ☝🏾	drugi palc, górjej, górjej pokazujucy drugi palc wót prědka, górjej pokazujucy drugi palc wót prědka: srjejźnośamna barwa kóže, górjej pokazujucy drugi plac wót prědka, palc, prědkowny bok ruki, ruka, srjejźnośamna barwa kóže
 ☝🏿	drugi palc, górjej, górjej pokazujucy drugi palc wót prědka, górjej pokazujucy drugi palc wót prědka: śamna barwa kóže, górjej pokazujucy drugi plac wót prědka, palc, prědkowny bok ruki, ruka, śamna barwa kóže
-🫵	dypk, pokazowaŕ, wusměrjony na glědajucego, ty
-🫵🏻	dypk, pokazowaŕ, wusměrjony na glědajucego, pokazowaŕ, wusměrjony na glědajucego: swětła barwa kóže, swětła barwa kóže, ty
-🫵🏼	dypk, pokazowaŕ, wusměrjony na glědajucego, pokazowaŕ, wusměrjony na glědajucego: srjejźnoswětła barwa kóže, srjejźnoswětła barwa kóže, ty
-🫵🏽	dypk, pokazowaŕ, wusměrjony na glědajucego, pokazowaŕ, wusměrjony na glědajucego: wósrědna barwa kóže, ty, wósrědna barwa kóže
-🫵🏾	dypk, pokazowaŕ, wusměrjony na glědajucego, pokazowaŕ, wusměrjony na glědajucego: srjejźnośamna barwa kóže, srjejźnośamna barwa kóže, ty
-🫵🏿	dypk, pokazowaŕ, wusměrjony na glědajucego, pokazowaŕ, wusměrjony na glědajucego: śamna barwa kóže, ty, śamna barwa kóže
+🫵	dypk, pokazowaŕ, pokazowaŕ, wusměrjony na glědajucego, ty, wusměrjony na glědajucego
+🫵🏻	dypk, pokazowaŕ, pokazowaŕ, wusměrjony na glědajucego, pokazowaŕ, wusměrjony na glědajucego: swětła barwa kóže, swětła barwa kóže, ty, wusměrjony na glědajucego
+🫵🏼	dypk, pokazowaŕ, pokazowaŕ, wusměrjony na glědajucego, pokazowaŕ, wusměrjony na glědajucego: srjejźnoswětła barwa kóže, srjejźnoswětła barwa kóže, ty, wusměrjony na glědajucego
+🫵🏽	dypk, pokazowaŕ, pokazowaŕ, wusměrjony na glědajucego, pokazowaŕ, wusměrjony na glědajucego: wósrědna barwa kóže, ty, wusměrjony na glědajucego, wósrědna barwa kóže
+🫵🏾	dypk, pokazowaŕ, pokazowaŕ, wusměrjony na glědajucego, pokazowaŕ, wusměrjony na glědajucego: srjejźnośamna barwa kóže, srjejźnośamna barwa kóže, ty, wusměrjony na glědajucego
+🫵🏿	dypk, pokazowaŕ, pokazowaŕ, wusměrjony na glědajucego, pokazowaŕ, wusměrjony na glědajucego: śamna barwa kóže, ty, wusměrjony na glědajucego, śamna barwa kóže
 👍️	derje, ruka górjej, tłusty palc, tłusty palc górjej
 👍🏻	derje, ruka górjej, swětła barwa kóže, tłusty palc, tłusty palc górjej, tłusty palc górjej: swětła barwa kóže
 👍🏼	derje, ruka górjej, srjejźnoswětła barwa kóže, tłusty palc, tłusty palc górjej, tłusty palc górjej: srjejźnoswětła barwa kóže
@@ -456,7 +705,7 @@ _	dolna smužka, pódsmužka, smužka
 👎🏽	dołoj, ruka, tłusty palc, tłusty palc dołoj, tłusty palc dołoj: wósrědna barwa kóže, wósrědna barwa kóže, špatnje
 👎🏾	dołoj, ruka, srjejźnośamna barwa kóže, tłusty palc, tłusty palc dołoj, tłusty palc dołoj: srjejźnośamna barwa kóže, špatnje
 👎🏿	dołoj, ruka, tłusty palc, tłusty palc dołoj, tłusty palc dołoj: śamna barwa kóže, śamna barwa kóže, špatnje
-✊	pózwignjona pěsć, pěsć
+✊️	pózwignjona pěsć, pěsć
 ✊🏻	pózwignjona pěsć, pózwignjona pěsć: swětła barwa kóže, pěsć, swětła barwa kóže
 ✊🏼	pózwignjona pěsć, pózwignjona pěsć: srjejźnoswětła barwa kóže, pěsć, srjejźnoswětła barwa kóže
 ✊🏽	pózwignjona pěsć, pózwignjona pěsć: wósrědna barwa kóže, pěsć, wósrědna barwa kóže
@@ -587,7 +836,7 @@ _	dolna smužka, pódsmužka, smužka
 👁️	woko, źěl śěła
 👅	jězyk, źěl śěła
 👄	guba, gubje, źěl śěła
-🫦	flirtowaś, guba, kenž se do spódneje guby kusnjo, nerwozny, njepśijazny, starosćiwy, tšach, tšašywy
+🫦	flirtowaś, guba, guba, kenž se do spódneje guby kusnjo, kenž se do spódneje guby kusnjo, nerwozny, njepśijazny, starosćiwy, tšach, tšašywy
 👶	góletko, woblico
 👶🏻	góletko, góletko: swětła barwa kóže, swětła barwa kóže, woblico
 👶🏼	góletko, góletko: srjejźnoswětła barwa kóže, srjejźnoswětła barwa kóže, woblico
@@ -1133,6 +1382,11 @@ _	dolna smužka, pódsmužka, smužka
 🧑🏾‍⚕	chórobny sotša, gójc, gójc/gójcowka, gójc/gójcowka: srjejźnośamna barwa kóže, srjejźnośamna barwa kóže, strowotnistwo, terapeut
 🧑🏿‍⚕	chórobny sotša, gójc, gójc/gójcowka, gójc/gójcowka: śamna barwa kóže, strowotnistwo, terapeut, śamna barwa kóže
 👨‍⚕	doktor, gójc, gójcojski kitel
+👨🏻‍⚕	doktor, doktor: swětła barwa kóže, gójc, gójcojski kitel, swětła barwa kóže
+👨🏼‍⚕	doktor, doktor: srjejźnoswětła barwa kóže, gójc, gójcojski kitel, srjejźnoswětła barwa kóže
+👨🏽‍⚕	doktor, doktor: wósrědna barwa kóže, gójc, gójcojski kitel, wósrědna barwa kóže
+👨🏾‍⚕	doktor, doktor: srjejźnośamna barwa kóže, gójc, gójcojski kitel, srjejźnośamna barwa kóže
+👨🏿‍⚕	doktor, doktor: śamna barwa kóže, gójc, gójcojski kitel, śamna barwa kóže
 👩‍⚕	gójcojski kitel, gójcowka
 👩🏻‍⚕	gójcojski kitel, gójcowka, gójcowka: swětła barwa kóže, swětła barwa kóže
 👩🏼‍⚕	gójcojski kitel, gójcowka, gójcowka: srjejźnoswětła barwa kóže, srjejźnoswětła barwa kóže
@@ -1770,42 +2024,42 @@ _	dolna smužka, pódsmužka, smužka
 🧟‍♂	muskecy combie, njenjabogi, wokoło ganjajucy njabogi
 🧟‍♀	njenjaboga, wokoło ganjajucy njenjaboga, žeńskcy combie, žeńskecy combie
 🧌	bajka, fantazija, kobołt, wogawa
-💆	głowa, masaža, salon, woblico, wósoba, kenž dostanjo masažu głowy
-💆🏻	głowa, masaža, salon, swětła barwa kóže, woblico, wósoba, kenž dostanjo masažu głowy, wósoba, kenž dostanjo masažu głowy: swětła barwa kóže
-💆🏼	głowa, masaža, salon, srjejźnoswětła barwa kóže, woblico, wósoba, kenž dostanjo masažu głowy, wósoba, kenž dostanjo masažu głowy: srjejźnoswětła barwa kóže
-💆🏽	głowa, masaža, salon, woblico, wósoba, kenž dostanjo masažu głowy, wósoba, kenž dostanjo masažu głowy: wósrědna barwa kóže, wósrědna barwa kóže
-💆🏾	głowa, masaža, salon, srjejźnośamna barwa kóže, woblico, wósoba, kenž dostanjo masažu głowy, wósoba, kenž dostanjo masažu głowy: srjejźnośamna barwa kóže
-💆🏿	głowa, masaža, salon, woblico, wósoba, kenž dostanjo masažu głowy, wósoba, kenž dostanjo masažu głowy: śamna barwa kóže, śamna barwa kóže
-💆‍♂	głowa, masaža, muski, kenž dostanjo masažu głowy, salon, woblico
-💆🏻‍♂	głowa, masaža, muski, kenž dostanjo masažu głowy, muski, kenž dostanjo masažu głowy: swětła barwa kóže, salon, swětła barwa kóže, woblico
-💆🏼‍♂	głowa, masaža, muski, kenž dostanjo masažu głowy, muski, kenž dostanjo masažu głowy: srjejźnoswětła barwa kóže, salon, srjejźnoswětła barwa kóže, woblico
-💆🏽‍♂	głowa, masaža, muski, kenž dostanjo masažu głowy, muski, kenž dostanjo masažu głowy: wósrědna barwa kóže, salon, woblico, wósrědna barwa kóže
-💆🏾‍♂	głowa, masaža, muski, kenž dostanjo masažu głowy, muski, kenž dostanjo masažu głowy: srjejźnośamna barwa kóže, salon, srjejźnośamna barwa kóže, woblico
-💆🏿‍♂	głowa, masaža, muski, kenž dostanjo masažu głowy, muski, kenž dostanjo masažu głowy: śamna barwa kóže, salon, woblico, śamna barwa kóže
-💆‍♀	głowa, masaža, salon, woblico, žeńska, kenž dostanjo masažu głowy
-💆🏻‍♀	głowa, masaža, salon, swětła barwa kóže, woblico, žeńska, kenž dostanjo masažu głowy, žeńska, kenž dostanjo masažu głowy: swětła barwa kóže
-💆🏼‍♀	głowa, masaža, salon, srjejźnoswětła barwa kóže, woblico, žeńska, kenž dostanjo masažu głowy, žeńska, kenž dostanjo masažu głowy: srjejźnoswětła barwa kóže
-💆🏽‍♀	głowa, masaža, salon, woblico, wósrědna barwa kóže, žeńska, kenž dostanjo masažu głowy, žeńska, kenž dostanjo masažu głowy: wósrědna barwa kóže
-💆🏾‍♀	głowa, masaža, salon, srjejźnośamna barwa kóže, woblico, žeńska, kenž dostanjo masažu głowy, žeńska, kenž dostanjo masažu głowy: srjejźnośamna barwa kóže
-💆🏿‍♀	głowa, masaža, salon, woblico, śamna barwa kóže, žeńska, kenž dostanjo masažu głowy, žeńska, kenž dostanjo masažu głowy: śamna barwa kóže
-💇	frizer, frizerka, frizura, wósoba, kenž dajo se włosy stśigaś
-💇🏻	frizer, frizerka, frizura, swětła barwa kóže, wósoba, kenž dajo se włosy stśigaś, wósoba, kenž dajo se włosy stśigaś: swětła barwa kóže
-💇🏼	frizer, frizerka, frizura, srjejźnoswětła barwa kóže, wósoba, kenž dajo se włosy stśigaś, wósoba, kenž dajo se włosy stśigaś: srjejźnoswětła barwa kóže
-💇🏽	frizer, frizerka, frizura, wósoba, kenž dajo se włosy stśigaś, wósoba, kenž dajo se włosy stśigaś: wósrědna barwa kóže, wósrědna barwa kóže
-💇🏾	frizer, frizerka, frizura, srjejźnośamna barwa kóže, wósoba, kenž dajo se włosy stśigaś, wósoba, kenž dajo se włosy stśigaś: srjejźnośamna barwa kóže
-💇🏿	frizer, frizerka, frizura, wósoba, kenž dajo se włosy stśigaś, wósoba, kenž dajo se włosy stśigaś: śamna barwa kóže, śamna barwa kóže
-💇‍♂	frizer, frizerka, frizura, muski, muski, kenž dajo se włosy stśigaś, nožyce, stśiganje włosow
-💇🏻‍♂	frizer, frizerka, frizura, muski, muski, kenž dajo se włosy stśigaś, muski, kenž dajo se włosy stśigaś: swětła barwa kóže, nožyce, stśiganje włosow, swětła barwa kóže
-💇🏼‍♂	frizer, frizerka, frizura, muski, muski, kenž dajo se włosy stśigaś, muski, kenž dajo se włosy stśigaś: srjejźnoswětła barwa kóže, nožyce, srjejźnoswětła barwa kóže, stśiganje włosow
-💇🏽‍♂	frizer, frizerka, frizura, muski, muski, kenž dajo se włosy stśigaś, muski, kenž dajo se włosy stśigaś: wósrědna barwa kóže, nožyce, stśiganje włosow, wósrědna barwa kóže
-💇🏾‍♂	frizer, frizerka, frizura, muski, muski, kenž dajo se włosy stśigaś, muski, kenž dajo se włosy stśigaś: srjejźnośamna barwa kóže, nožyce, srjejźnośamna barwa kóže, stśiganje włosow
-💇🏿‍♂	frizer, frizerka, frizura, muski, muski, kenž dajo se włosy stśigaś, muski, kenž dajo se włosy stśigaś: śamna barwa kóže, nožyce, stśiganje włosow, śamna barwa kóže
-💇‍♀	frizer, frizerka, frizura, nožyce, stśiganje włosow, žeńska, žeńska , kenž dajo se włosy stśigaś, žeńska, kenž dajo se włosy stśigaś
-💇🏻‍♀	frizer, frizerka, frizura, nožyce, stśiganje włosow, swětła barwa kóže, žeńska, žeńska , kenž dajo se włosy stśigaś, žeńska , kenž dajo se włosy stśigaś: swětła barwa kóže, žeńska, kenž dajo se włosy stśigaś
-💇🏼‍♀	frizer, frizerka, frizura, nožyce, srjejźnoswětła barwa kóže, stśiganje włosow, žeńska, žeńska , kenž dajo se włosy stśigaś, žeńska , kenž dajo se włosy stśigaś: srjejźnoswětła barwa kóže, žeńska, kenž dajo se włosy stśigaś
-💇🏽‍♀	frizer, frizerka, frizura, nožyce, stśiganje włosow, wósrědna barwa kóže, žeńska, žeńska , kenž dajo se włosy stśigaś, žeńska , kenž dajo se włosy stśigaś: wósrědna barwa kóže, žeńska, kenž dajo se włosy stśigaś
-💇🏾‍♀	frizer, frizerka, frizura, nožyce, srjejźnośamna barwa kóže, stśiganje włosow, žeńska, žeńska , kenž dajo se włosy stśigaś, žeńska , kenž dajo se włosy stśigaś: srjejźnośamna barwa kóže, žeńska, kenž dajo se włosy stśigaś
-💇🏿‍♀	frizer, frizerka, frizura, nožyce, stśiganje włosow, śamna barwa kóže, žeńska, žeńska , kenž dajo se włosy stśigaś, žeńska , kenž dajo se włosy stśigaś: śamna barwa kóže, žeńska, kenž dajo se włosy stśigaś
+💆	głowa, kenž dostanjo masažu głowy, masaža, salon, woblico, wósoba, wósoba, kenž dostanjo masažu głowy
+💆🏻	głowa, kenž dostanjo masažu głowy, masaža, salon, swětła barwa kóže, woblico, wósoba, wósoba, kenž dostanjo masažu głowy, wósoba, kenž dostanjo masažu głowy: swětła barwa kóže
+💆🏼	głowa, kenž dostanjo masažu głowy, masaža, salon, srjejźnoswětła barwa kóže, woblico, wósoba, wósoba, kenž dostanjo masažu głowy, wósoba, kenž dostanjo masažu głowy: srjejźnoswětła barwa kóže
+💆🏽	głowa, kenž dostanjo masažu głowy, masaža, salon, woblico, wósoba, wósoba, kenž dostanjo masažu głowy, wósoba, kenž dostanjo masažu głowy: wósrědna barwa kóže, wósrědna barwa kóže
+💆🏾	głowa, kenž dostanjo masažu głowy, masaža, salon, srjejźnośamna barwa kóže, woblico, wósoba, wósoba, kenž dostanjo masažu głowy, wósoba, kenž dostanjo masažu głowy: srjejźnośamna barwa kóže
+💆🏿	głowa, kenž dostanjo masažu głowy, masaža, salon, woblico, wósoba, wósoba, kenž dostanjo masažu głowy, wósoba, kenž dostanjo masažu głowy: śamna barwa kóže, śamna barwa kóže
+💆‍♂	głowa, kenž dostanjo masažu głowy, masaža, muski, muski, kenž dostanjo masažu głowy, salon, woblico
+💆🏻‍♂	głowa, kenž dostanjo masažu głowy, masaža, muski, muski, kenž dostanjo masažu głowy, muski, kenž dostanjo masažu głowy: swětła barwa kóže, salon, swětła barwa kóže, woblico
+💆🏼‍♂	głowa, kenž dostanjo masažu głowy, masaža, muski, muski, kenž dostanjo masažu głowy, muski, kenž dostanjo masažu głowy: srjejźnoswětła barwa kóže, salon, srjejźnoswětła barwa kóže, woblico
+💆🏽‍♂	głowa, kenž dostanjo masažu głowy, masaža, muski, muski, kenž dostanjo masažu głowy, muski, kenž dostanjo masažu głowy: wósrědna barwa kóže, salon, woblico, wósrědna barwa kóže
+💆🏾‍♂	głowa, kenž dostanjo masažu głowy, masaža, muski, muski, kenž dostanjo masažu głowy, muski, kenž dostanjo masažu głowy: srjejźnośamna barwa kóže, salon, srjejźnośamna barwa kóže, woblico
+💆🏿‍♂	głowa, kenž dostanjo masažu głowy, masaža, muski, muski, kenž dostanjo masažu głowy, muski, kenž dostanjo masažu głowy: śamna barwa kóže, salon, woblico, śamna barwa kóže
+💆‍♀	głowa, kenž dostanjo masažu głowy, masaža, salon, woblico, žeńska, žeńska, kenž dostanjo masažu głowy
+💆🏻‍♀	głowa, kenž dostanjo masažu głowy, masaža, salon, swětła barwa kóže, woblico, žeńska, žeńska, kenž dostanjo masažu głowy, žeńska, kenž dostanjo masažu głowy: swětła barwa kóže
+💆🏼‍♀	głowa, kenž dostanjo masažu głowy, masaža, salon, srjejźnoswětła barwa kóže, woblico, žeńska, žeńska, kenž dostanjo masažu głowy, žeńska, kenž dostanjo masažu głowy: srjejźnoswětła barwa kóže
+💆🏽‍♀	głowa, kenž dostanjo masažu głowy, masaža, salon, woblico, wósrědna barwa kóže, žeńska, žeńska, kenž dostanjo masažu głowy, žeńska, kenž dostanjo masažu głowy: wósrědna barwa kóže
+💆🏾‍♀	głowa, kenž dostanjo masažu głowy, masaža, salon, srjejźnośamna barwa kóže, woblico, žeńska, žeńska, kenž dostanjo masažu głowy, žeńska, kenž dostanjo masažu głowy: srjejźnośamna barwa kóže
+💆🏿‍♀	głowa, kenž dostanjo masažu głowy, masaža, salon, woblico, śamna barwa kóže, žeńska, žeńska, kenž dostanjo masažu głowy, žeńska, kenž dostanjo masažu głowy: śamna barwa kóže
+💇	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, wósoba, wósoba, kenž dajo se włosy stśigaś
+💇🏻	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, swětła barwa kóže, wósoba, wósoba, kenž dajo se włosy stśigaś, wósoba, kenž dajo se włosy stśigaś: swětła barwa kóže
+💇🏼	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, srjejźnoswětła barwa kóže, wósoba, wósoba, kenž dajo se włosy stśigaś, wósoba, kenž dajo se włosy stśigaś: srjejźnoswětła barwa kóže
+💇🏽	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, wósoba, wósoba, kenž dajo se włosy stśigaś, wósoba, kenž dajo se włosy stśigaś: wósrědna barwa kóže, wósrědna barwa kóže
+💇🏾	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, srjejźnośamna barwa kóže, wósoba, wósoba, kenž dajo se włosy stśigaś, wósoba, kenž dajo se włosy stśigaś: srjejźnośamna barwa kóže
+💇🏿	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, wósoba, wósoba, kenž dajo se włosy stśigaś, wósoba, kenž dajo se włosy stśigaś: śamna barwa kóže, śamna barwa kóže
+💇‍♂	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, muski, muski, kenž dajo se włosy stśigaś, nožyce, stśiganje włosow
+💇🏻‍♂	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, muski, muski, kenž dajo se włosy stśigaś, muski, kenž dajo se włosy stśigaś: swětła barwa kóže, nožyce, stśiganje włosow, swětła barwa kóže
+💇🏼‍♂	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, muski, muski, kenž dajo se włosy stśigaś, muski, kenž dajo se włosy stśigaś: srjejźnoswětła barwa kóže, nožyce, srjejźnoswětła barwa kóže, stśiganje włosow
+💇🏽‍♂	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, muski, muski, kenž dajo se włosy stśigaś, muski, kenž dajo se włosy stśigaś: wósrědna barwa kóže, nožyce, stśiganje włosow, wósrědna barwa kóže
+💇🏾‍♂	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, muski, muski, kenž dajo se włosy stśigaś, muski, kenž dajo se włosy stśigaś: srjejźnośamna barwa kóže, nožyce, srjejźnośamna barwa kóže, stśiganje włosow
+💇🏿‍♂	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, muski, muski, kenž dajo se włosy stśigaś, muski, kenž dajo se włosy stśigaś: śamna barwa kóže, nožyce, stśiganje włosow, śamna barwa kóže
+💇‍♀	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, nožyce, stśiganje włosow, žeńska, žeńska , kenž dajo se włosy stśigaś
+💇🏻‍♀	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, nožyce, stśiganje włosow, swětła barwa kóže, žeńska, žeńska , kenž dajo se włosy stśigaś, žeńska , kenž dajo se włosy stśigaś: swětła barwa kóže
+💇🏼‍♀	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, nožyce, srjejźnoswětła barwa kóže, stśiganje włosow, žeńska, žeńska , kenž dajo se włosy stśigaś, žeńska , kenž dajo se włosy stśigaś: srjejźnoswětła barwa kóže
+💇🏽‍♀	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, nožyce, stśiganje włosow, wósrědna barwa kóže, žeńska, žeńska , kenž dajo se włosy stśigaś, žeńska , kenž dajo se włosy stśigaś: wósrědna barwa kóže
+💇🏾‍♀	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, nožyce, srjejźnośamna barwa kóže, stśiganje włosow, žeńska, žeńska , kenž dajo se włosy stśigaś, žeńska , kenž dajo se włosy stśigaś: srjejźnośamna barwa kóže
+💇🏿‍♀	frizer, frizerka, frizura, kenž dajo se włosy stśigaś, nožyce, stśiganje włosow, śamna barwa kóže, žeńska, žeńska , kenž dajo se włosy stśigaś, žeńska , kenž dajo se włosy stśigaś: śamna barwa kóže
 🚶	chójźecy, chójźiś, pěškaŕ, pěškaŕka, pěšy duca wósoba, se pśechójźujucy
 🚶🏻	chójźecy, chójźiś, pěškaŕ, pěškaŕka, pěšy duca wósoba, pěšy duca wósoba: swětła barwa kóže, se pśechójźujucy, swětła barwa kóže
 🚶🏼	chójźecy, chójźiś, pěškaŕ, pěškaŕka, pěšy duca wósoba, pěšy duca wósoba: srjejźnoswětła barwa kóže, se pśechójźujucy, srjejźnoswětła barwa kóže
@@ -1824,6 +2078,24 @@ _	dolna smužka, pódsmužka, smužka
 🚶🏽‍♀	chójźiś, ducy, pěśy hyś, pěškaŕka, pěškaŕka: wósrědna barwa kóže, se pśechójźiwaś, wósrědna barwa kóže
 🚶🏾‍♀	chójźiś, ducy, pěśy hyś, pěškaŕka, pěškaŕka: srjejźnośamna barwa kóže, se pśechójźiwaś, srjejźnośamna barwa kóže
 🚶🏿‍♀	chójźiś, ducy, pěśy hyś, pěškaŕka, pěškaŕka: śamna barwa kóže, se pśechójźiwaś, śamna barwa kóže
+🚶‍➡	chójźecy, chójźiś, pěškaŕ, pěškaŕka, pěšy duca wósoba, pěšy duca wósoba napšawo, se pśechójźujucy
+🚶🏻‍➡	chójźecy, chójźiś, pěškaŕ, pěškaŕka, pěšy duca wósoba, pěšy duca wósoba napšawo, se pśechójźujucy
+🚶🏼‍➡	chójźecy, chójźiś, pěškaŕ, pěškaŕka, pěšy duca wósoba, pěšy duca wósoba napšawo, se pśechójźujucy
+🚶🏽‍➡	chójźecy, chójźiś, pěškaŕ, pěškaŕka, pěšy duca wósoba, pěšy duca wósoba napšawo, se pśechójźujucy
+🚶🏾‍➡	chójźecy, chójźiś, pěškaŕ, pěškaŕka, pěšy duca wósoba, pěšy duca wósoba napšawo, se pśechójźujucy
+🚶🏿‍➡	chójźecy, chójźiś, pěškaŕ, pěškaŕka, pěšy duca wósoba, pěšy duca wósoba napšawo, se pśechójźujucy
+🚶‍♀‍➡	chójźiś, ducy, pěśy hyś, pěškaŕka, pěškaŕka napšawo, se pśechójźiwaś
+🚶🏻‍♀‍➡	chójźiś, ducy, pěśy hyś, pěškaŕka, pěškaŕka napšawo, se pśechójźiwaś
+🚶🏼‍♀‍➡	chójźiś, ducy, pěśy hyś, pěškaŕka, pěškaŕka napšawo, se pśechójźiwaś
+🚶🏽‍♀‍➡	chójźiś, ducy, pěśy hyś, pěškaŕka, pěškaŕka napšawo, se pśechójźiwaś
+🚶🏾‍♀‍➡	chójźiś, ducy, pěśy hyś, pěškaŕka, pěškaŕka napšawo, se pśechójźiwaś
+🚶🏿‍♀‍➡	chójźiś, ducy, pěśy hyś, pěškaŕka, pěškaŕka napšawo, se pśechójźiwaś
+🚶‍♂‍➡	chójźiś, muski, pěškaŕ, pěškaŕ napšawo, pěšy hyś, se pśechójźowaś
+🚶🏻‍♂‍➡	chójźiś, muski, pěškaŕ, pěškaŕ napšawo, pěšy hyś, se pśechójźowaś
+🚶🏼‍♂‍➡	chójźiś, muski, pěškaŕ, pěškaŕ napšawo, pěšy hyś, se pśechójźowaś
+🚶🏽‍♂‍➡	chójźiś, muski, pěškaŕ, pěškaŕ napšawo, pěšy hyś, se pśechójźowaś
+🚶🏾‍♂‍➡	chójźiś, muski, pěškaŕ, pěškaŕ napšawo, pěšy hyś, se pśechójźowaś
+🚶🏿‍♂‍➡	chójźiś, muski, pěškaŕ, pěškaŕ napšawo, pěšy hyś, se pśechójźowaś
 🧍	stojaś, stojeca wósoba, stojecy wóstaś
 🧍🏻	stojaś, stojeca wósoba, stojeca wósoba: swětła barwa kóže, stojecy wóstaś, swětła barwa kóže
 🧍🏼	srjejźnoswětła barwa kóže, stojaś, stojeca wósoba, stojeca wósoba: srjejźnoswětła barwa kóže, stojecy wóstaś
@@ -1860,60 +2132,132 @@ _	dolna smužka, pódsmužka, smužka
 🧎🏽‍♀	kólenkowaś, kólenkujuca žeńska, kólenkujuca žeńska: wósrědna barwa kóže, se klěknuś, wósrědna barwa kóže, žeńska
 🧎🏾‍♀	kólenkowaś, kólenkujuca žeńska, kólenkujuca žeńska: srjejźnośamna barwa kóže, se klěknuś, srjejźnośamna barwa kóže, žeńska
 🧎🏿‍♀	kólenkowaś, kólenkujuca žeńska, kólenkujuca žeńska: śamna barwa kóže, se klěknuś, śamna barwa kóže, žeńska
+🧎‍➡	klěknuś se, kólenkowaś, kólenkujuca wósoba, kólenkujuca wósoba napšawo
+🧎🏻‍➡	klěknuś se, kólenkowaś, kólenkujuca wósoba, kólenkujuca wósoba napšawo
+🧎🏼‍➡	klěknuś se, kólenkowaś, kólenkujuca wósoba, kólenkujuca wósoba napšawo
+🧎🏽‍➡	klěknuś se, kólenkowaś, kólenkujuca wósoba, kólenkujuca wósoba napšawo
+🧎🏾‍➡	klěknuś se, kólenkowaś, kólenkujuca wósoba, kólenkujuca wósoba napšawo
+🧎🏿‍➡	klěknuś se, kólenkowaś, kólenkujuca wósoba, kólenkujuca wósoba napšawo
+🧎‍♀‍➡	kólenkowaś, kólenkujuca žeńska, kólenkujuca žeńska napšawo, se klěknuś, žeńska
+🧎🏻‍♀‍➡	kólenkowaś, kólenkujuca žeńska, kólenkujuca žeńska napšawo, se klěknuś, žeńska
+🧎🏼‍♀‍➡	kólenkowaś, kólenkujuca žeńska, kólenkujuca žeńska napšawo, se klěknuś, žeńska
+🧎🏽‍♀‍➡	kólenkowaś, kólenkujuca žeńska, kólenkujuca žeńska napšawo, se klěknuś, žeńska
+🧎🏾‍♀‍➡	kólenkowaś, kólenkujuca žeńska, kólenkujuca žeńska napšawo, se klěknuś, žeńska
+🧎🏿‍♀‍➡	kólenkowaś, kólenkujuca žeńska, kólenkujuca žeńska napšawo, se klěknuś, žeńska
+🧎‍♂‍➡	klěknuś se, kólenkowaś, kólenkujucy muski, kólenkujucy muski napšawo, muski
+🧎🏻‍♂‍➡	klěknuś se, kólenkowaś, kólenkujucy muski, kólenkujucy muski napšawo, muski
+🧎🏼‍♂‍➡	klěknuś se, kólenkowaś, kólenkujucy muski, kólenkujucy muski napšawo, muski
+🧎🏽‍♂‍➡	klěknuś se, kólenkowaś, kólenkujucy muski, kólenkujucy muski napšawo, muski
+🧎🏾‍♂‍➡	klěknuś se, kólenkowaś, kólenkujucy muski, kólenkujucy muski napšawo, muski
+🧎🏿‍♂‍➡	klěknuś se, kólenkowaś, kólenkujucy muski, kólenkujucy muski napšawo, muski
 🧑‍🦯	bźez barierow, pomocny srědk, slěpy, wósoba z kijom za slěpych, z kijom chójźiś
 🧑🏻‍🦯	bźez barierow, pomocny srědk, slěpy, swětła barwa kóže, wósoba z kijom za slěpych, wósoba z kijom za slěpych: swětła barwa kóže, z kijom chójźiś
 🧑🏼‍🦯	bźez barierow, pomocny srědk, slěpy, srjejźnoswětła barwa kóže, wósoba z kijom za slěpych, wósoba z kijom za slěpych: srjejźnoswětła barwa kóže, z kijom chójźiś
 🧑🏽‍🦯	bźez barierow, pomocny srědk, slěpy, wósoba z kijom za slěpych, wósoba z kijom za slěpych: wósrědna barwa kóže, wósrědna barwa kóže, z kijom chójźiś
 🧑🏾‍🦯	bźez barierow, pomocny srědk, slěpy, srjejźnośamna barwa kóže, wósoba z kijom za slěpych, wósoba z kijom za slěpych: srjejźnośamna barwa kóže, z kijom chójźiś
 🧑🏿‍🦯	bźez barierow, pomocny srědk, slěpy, wósoba z kijom za slěpych, wósoba z kijom za slěpych: śamna barwa kóže, z kijom chójźiś, śamna barwa kóže
+🧑‍🦯‍➡	bźez barierow, pomocny srědk, slěpy, wósoba z kijom za slěpych, wósoba z kijom za slěpych napšawo, z kijom chójźiś
+🧑🏻‍🦯‍➡	bźez barierow, pomocny srědk, slěpy, wósoba z kijom za slěpych, wósoba z kijom za slěpych napšawo, z kijom chójźiś
+🧑🏼‍🦯‍➡	bźez barierow, pomocny srědk, slěpy, wósoba z kijom za slěpych, wósoba z kijom za slěpych napšawo, z kijom chójźiś
+🧑🏽‍🦯‍➡	bźez barierow, pomocny srědk, slěpy, wósoba z kijom za slěpych, wósoba z kijom za slěpych napšawo, z kijom chójźiś
+🧑🏾‍🦯‍➡	bźez barierow, pomocny srědk, slěpy, wósoba z kijom za slěpych, wósoba z kijom za slěpych napšawo, z kijom chójźiś
+🧑🏿‍🦯‍➡	bźez barierow, pomocny srědk, slěpy, wósoba z kijom za slěpych, wósoba z kijom za slěpych napšawo, z kijom chójźiś
 👨‍🦯	bźez barierow, muski z kijom za slěpych, pomocny srědk, slěpy, z kijom chójźiś
 👨🏻‍🦯	bźez barierow, muski z kijom za slěpych, muski z kijom za slěpych: swětła barwa kóže, pomocny srědk, slěpy, swětła barwa kóže, z kijom chójźiś
 👨🏼‍🦯	bźez barierow, muski z kijom za slěpych, muski z kijom za slěpych: srjejźnoswětła barwa kóže, pomocny srědk, slěpy, srjejźnoswětła barwa kóže, z kijom chójźiś
 👨🏽‍🦯	bźez barierow, muski z kijom za slěpych, muski z kijom za slěpych: wósrědna barwa kóže, pomocny srědk, slěpy, wósrědna barwa kóže, z kijom chójźiś
 👨🏾‍🦯	bźez barierow, muski z kijom za slěpych, muski z kijom za slěpych: srjejźnośamna barwa kóže, pomocny srědk, slěpy, srjejźnośamna barwa kóže, z kijom chójźiś
 👨🏿‍🦯	bźez barierow, muski z kijom za slěpych, muski z kijom za slěpych: śamna barwa kóže, pomocny srědk, slěpy, z kijom chójźiś, śamna barwa kóže
+👨‍🦯‍➡	bźez barierow, muski z kijom za slěpych, muski z kijom za slěpych napšawo, pomocny srědk, slěpy, z kijom chójźiś
+👨🏻‍🦯‍➡	bźez barierow, muski z kijom za slěpych, muski z kijom za slěpych napšawo, pomocny srědk, slěpy, z kijom chójźiś
+👨🏼‍🦯‍➡	bźez barierow, muski z kijom za slěpych, muski z kijom za slěpych napšawo, pomocny srědk, slěpy, z kijom chójźiś
+👨🏽‍🦯‍➡	bźez barierow, muski z kijom za slěpych, muski z kijom za slěpych napšawo, pomocny srědk, slěpy, z kijom chójźiś
+👨🏾‍🦯‍➡	bźez barierow, muski z kijom za slěpych, muski z kijom za slěpych napšawo, pomocny srědk, slěpy, z kijom chójźiś
+👨🏿‍🦯‍➡	bźez barierow, muski z kijom za slěpych, muski z kijom za slěpych napšawo, pomocny srědk, slěpy, z kijom chójźiś
 👩‍🦯	bźez barierow, pomocny srědk, slěpa, z kijom chójźiś, žeńska z kijom za slěpych
 👩🏻‍🦯	bźez barierow, pomocny srědk, slěpa, swětła barwa kóže, z kijom chójźiś, žeńska z kijom za slěpych, žeńska z kijom za slěpych: swětła barwa kóže
 👩🏼‍🦯	bźez barierow, pomocny srědk, slěpa, srjejźnoswětła barwa kóže, z kijom chójźiś, žeńska z kijom za slěpych, žeńska z kijom za slěpych: srjejźnoswětła barwa kóže
 👩🏽‍🦯	bźez barierow, pomocny srědk, slěpa, wósrědna barwa kóže, z kijom chójźiś, žeńska z kijom za slěpych, žeńska z kijom za slěpych: wósrědna barwa kóže
 👩🏾‍🦯	bźez barierow, pomocny srědk, slěpa, srjejźnośamna barwa kóže, z kijom chójźiś, žeńska z kijom za slěpych, žeńska z kijom za slěpych: srjejźnośamna barwa kóže
 👩🏿‍🦯	bźez barierow, pomocny srědk, slěpa, z kijom chójźiś, śamna barwa kóže, žeńska z kijom za slěpych, žeńska z kijom za slěpych: śamna barwa kóže
+👩‍🦯‍➡	bźez barierow, pomocny srědk, slěpa, z kijom chójźiś, žeńska z kijom za slěpych, žeńska z kijom za slěpych napšawo
+👩🏻‍🦯‍➡	bźez barierow, pomocny srědk, slěpa, z kijom chójźiś, žeńska z kijom za slěpych, žeńska z kijom za slěpych napšawo
+👩🏼‍🦯‍➡	bźez barierow, pomocny srědk, slěpa, z kijom chójźiś, žeńska z kijom za slěpych, žeńska z kijom za slěpych napšawo
+👩🏽‍🦯‍➡	bźez barierow, pomocny srědk, slěpa, z kijom chójźiś, žeńska z kijom za slěpych, žeńska z kijom za slěpych napšawo
+👩🏾‍🦯‍➡	bźez barierow, pomocny srědk, slěpa, z kijom chójźiś, žeńska z kijom za slěpych, žeńska z kijom za slěpych napšawo
+👩🏿‍🦯‍➡	bźez barierow, pomocny srědk, slěpa, z kijom chójźiś, žeńska z kijom za slěpych, žeńska z kijom za slěpych napšawo
 🧑‍🦼	inwalida, pomocny srědk, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł
 🧑🏻‍🦼	inwalida, pomocny srědk, swětła barwa kóže, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł, wósoba w elektriskem jězdnem stole: swětła barwa kóže
 🧑🏼‍🦼	inwalida, pomocny srědk, srjejźnoswětła barwa kóže, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł, wósoba w elektriskem jězdnem stole: srjejźnoswětła barwa kóže
 🧑🏽‍🦼	inwalida, pomocny srědk, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł, wósoba w elektriskem jězdnem stole: wósrědna barwa kóže, wósrědna barwa kóže
 🧑🏾‍🦼	inwalida, pomocny srědk, srjejźnośamna barwa kóže, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł, wósoba w elektriskem jězdnem stole: srjejźnośamna barwa kóže
 🧑🏿‍🦼	inwalida, pomocny srědk, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł, wósoba w elektriskem jězdnem stole: śamna barwa kóže, śamna barwa kóže
+🧑‍🦼‍➡	inwalida, pomocny srědk, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł, wósoba w elektriskem jězdnem stole napšawo
+🧑🏻‍🦼‍➡	inwalida, pomocny srědk, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł, wósoba w elektriskem jězdnem stole napšawo
+🧑🏼‍🦼‍➡	inwalida, pomocny srědk, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł, wósoba w elektriskem jězdnem stole napšawo
+🧑🏽‍🦼‍➡	inwalida, pomocny srědk, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł, wósoba w elektriskem jězdnem stole napšawo
+🧑🏾‍🦼‍➡	inwalida, pomocny srědk, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł, wósoba w elektriskem jězdnem stole napšawo
+🧑🏿‍🦼‍➡	inwalida, pomocny srědk, wósoba w elektriskem jězdnem stole, wósoba w elektriskem jězdnem stole Ijězdny stoł, wósoba w elektriskem jězdnem stole napšawo
 👨‍🦼	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, pomocny srědk
 👨🏻‍🦼	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, muski w elektriskem jězdnem stole: swětła barwa kóže, pomocny srědk, swětła barwa kóže
 👨🏼‍🦼	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, muski w elektriskem jězdnem stole: srjejźnoswětła barwa kóže, pomocny srědk, srjejźnoswětła barwa kóže
 👨🏽‍🦼	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, muski w elektriskem jězdnem stole: wósrědna barwa kóže, pomocny srědk, wósrědna barwa kóže
 👨🏾‍🦼	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, muski w elektriskem jězdnem stole: srjejźnośamna barwa kóže, pomocny srědk, srjejźnośamna barwa kóže
 👨🏿‍🦼	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, muski w elektriskem jězdnem stole: śamna barwa kóže, pomocny srědk, śamna barwa kóže
+👨‍🦼‍➡	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, muski w elektriskem jězdnem stole napšawo, pomocny srědk
+👨🏻‍🦼‍➡	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, muski w elektriskem jězdnem stole napšawo, pomocny srědk
+👨🏼‍🦼‍➡	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, muski w elektriskem jězdnem stole napšawo, pomocny srědk
+👨🏽‍🦼‍➡	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, muski w elektriskem jězdnem stole napšawo, pomocny srědk
+👨🏾‍🦼‍➡	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, muski w elektriskem jězdnem stole napšawo, pomocny srědk
+👨🏿‍🦼‍➡	bźezbarierow, inwalidny, muski, muski w elektriskem jězdnem stole, muski w elektriskem jězdnem stole napšawo, pomocny srědk
 👩‍🦼	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, žeńska, žeńska w elektriskem jězdnem stole, žeńska w eletriskem jězdnem stole
 👩🏻‍🦼	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, swětła barwa kóže, žeńska, žeńska w elektriskem jězdnem stole, žeńska w elektriskem jězdnem stole: swětła barwa kóže, žeńska w eletriskem jězdnem stole
 👩🏼‍🦼	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, srjejźnoswětła barwa kóže, žeńska, žeńska w elektriskem jězdnem stole, žeńska w elektriskem jězdnem stole: srjejźnoswětła barwa kóže, žeńska w eletriskem jězdnem stole
 👩🏽‍🦼	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, wósrědna barwa kóže, žeńska, žeńska w elektriskem jězdnem stole, žeńska w elektriskem jězdnem stole: wósrědna barwa kóže, žeńska w eletriskem jězdnem stole
 👩🏾‍🦼	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, srjejźnośamna barwa kóže, žeńska, žeńska w elektriskem jězdnem stole, žeńska w elektriskem jězdnem stole: srjejźnośamna barwa kóže, žeńska w eletriskem jězdnem stole
 👩🏿‍🦼	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, śamna barwa kóže, žeńska, žeńska w elektriskem jězdnem stole, žeńska w elektriskem jězdnem stole: śamna barwa kóže, žeńska w eletriskem jězdnem stole
+👩‍🦼‍➡	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, žeńska, žeńska w elektriskem jězdnem stole, žeńska w elektriskem jězdnem stole napšawo, žeńska w eletriskem jězdnem stole
+👩🏻‍🦼‍➡	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, žeńska, žeńska w elektriskem jězdnem stole, žeńska w elektriskem jězdnem stole napšawo, žeńska w eletriskem jězdnem stole
+👩🏼‍🦼‍➡	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, žeńska, žeńska w elektriskem jězdnem stole, žeńska w elektriskem jězdnem stole napšawo, žeńska w eletriskem jězdnem stole
+👩🏽‍🦼‍➡	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, žeńska, žeńska w elektriskem jězdnem stole, žeńska w elektriskem jězdnem stole napšawo, žeńska w eletriskem jězdnem stole
+👩🏾‍🦼‍➡	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, žeńska, žeńska w elektriskem jězdnem stole, žeńska w elektriskem jězdnem stole napšawo, žeńska w eletriskem jězdnem stole
+👩🏿‍🦼‍➡	bźez barierow, inwalidnya, jězdny stoł, pomocny srědk, žeńska, žeńska w elektriskem jězdnem stole, žeńska w elektriskem jězdnem stole napšawo, žeńska w eletriskem jězdnem stole
 🧑‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, wósoba w jězdnem stole
 🧑🏻‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, swětła barwa kóže, wósoba w jězdnem stole, wósoba w jězdnem stole: swětła barwa kóže
 🧑🏼‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, srjejźnoswětła barwa kóže, wósoba w jězdnem stole, wósoba w jězdnem stole: srjejźnoswětła barwa kóže
 🧑🏽‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, wósoba w jězdnem stole, wósoba w jězdnem stole: wósrědna barwa kóže, wósrědna barwa kóže
 🧑🏾‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, srjejźnośamna barwa kóže, wósoba w jězdnem stole, wósoba w jězdnem stole: srjejźnośamna barwa kóže
 🧑🏿‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, wósoba w jězdnem stole, wósoba w jězdnem stole: śamna barwa kóže, śamna barwa kóže
+🧑‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, wósoba w jězdnem stole, wósoba w jězdnem stole napšawo
+🧑🏻‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, wósoba w jězdnem stole, wósoba w jězdnem stole napšawo
+🧑🏼‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, wósoba w jězdnem stole, wósoba w jězdnem stole napšawo
+🧑🏽‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, wósoba w jězdnem stole, wósoba w jězdnem stole napšawo
+🧑🏾‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, wósoba w jězdnem stole, wósoba w jězdnem stole napšawo
+🧑🏿‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, wósoba w jězdnem stole, wósoba w jězdnem stole napšawo
 👨‍🦽	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, pomocny srědk
 👨🏻‍🦽	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, muski w jězdnem stole: swětła barwa kóže, pomocny srědk, swětła barwa kóže
 👨🏼‍🦽	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, muski w jězdnem stole: srjejźnoswětła barwa kóže, pomocny srědk, srjejźnoswětła barwa kóže
 👨🏽‍🦽	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, muski w jězdnem stole: wósrědna barwa kóže, pomocny srědk, wósrědna barwa kóže
 👨🏾‍🦽	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, muski w jězdnem stole: srjejźnośamna barwa kóže, pomocny srědk, srjejźnośamna barwa kóže
 👨🏿‍🦽	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, muski w jězdnem stole: śamna barwa kóže, pomocny srědk, śamna barwa kóže
+👨‍🦽‍➡	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, muski w jězdnem stole napšawo, pomocny srědk
+👨🏻‍🦽‍➡	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, muski w jězdnem stole napšawo, pomocny srědk
+👨🏼‍🦽‍➡	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, muski w jězdnem stole napšawo, pomocny srědk
+👨🏽‍🦽‍➡	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, muski w jězdnem stole napšawo, pomocny srědk
+👨🏾‍🦽‍➡	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, muski w jězdnem stole napšawo, pomocny srědk
+👨🏿‍🦽‍➡	bźez barierow, inwalidny, jězdny stoł, muski, muski w jězdnem stole, muski w jězdnem stole napšawo, pomocny srědk
 👩‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, žeńska, žeńska w jězdnem stole
 👩🏻‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, swětła barwa kóže, žeńska, žeńska w jězdnem stole, žeńska w jězdnem stole: swětła barwa kóže
 👩🏼‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, srjejźnoswětła barwa kóže, žeńska, žeńska w jězdnem stole, žeńska w jězdnem stole: srjejźnoswětła barwa kóže
 👩🏽‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, wósrědna barwa kóže, žeńska, žeńska w jězdnem stole, žeńska w jězdnem stole: wósrědna barwa kóže
 👩🏾‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, srjejźnośamna barwa kóže, žeńska, žeńska w jězdnem stole, žeńska w jězdnem stole: srjejźnośamna barwa kóže
 👩🏿‍🦽	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, śamna barwa kóže, žeńska, žeńska w jězdnem stole, žeńska w jězdnem stole: śamna barwa kóže
+👩‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, žeńska, žeńska w jězdnem stole, žeńska w jězdnem stole napšawo
+👩🏻‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, žeńska, žeńska w jězdnem stole, žeńska w jězdnem stole napšawo
+👩🏼‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, žeńska, žeńska w jězdnem stole, žeńska w jězdnem stole napšawo
+👩🏽‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, žeńska, žeńska w jězdnem stole, žeńska w jězdnem stole napšawo
+👩🏾‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, žeńska, žeńska w jězdnem stole, žeńska w jězdnem stole napšawo
+👩🏿‍🦽‍➡	bźez barierow, inwalidna, jězdny stoł, pomocny srědk, žeńska, žeńska w jězdnem stole, žeńska w jězdnem stole napšawo
 🏃	běgaŕ, běgaŕka Imaraton, ganjajuca wósoba, ganjaś, gnaś, sport
 🏃🏻	běgaŕ, běgaŕka Imaraton, ganjajuca wósoba, ganjajuca wósoba: swětła barwa kóže, ganjaś, gnaś, sport, swětła barwa kóže
 🏃🏼	běgaŕ, běgaŕka Imaraton, ganjajuca wósoba, ganjajuca wósoba: srjejźnoswětła barwa kóže, ganjaś, gnaś, sport, srjejźnoswětła barwa kóže
@@ -1932,6 +2276,24 @@ _	dolna smužka, pódsmužka, smužka
 🏃🏽‍♀	běgaŕka, ganjajuca žeńska, ganjajuca žeńska: wósrědna barwa kóže, ganjaś, gnaś, joggowaŕka, joggowaś, maraton, wósrědna barwa kóže
 🏃🏾‍♀	běgaŕka, ganjajuca žeńska, ganjajuca žeńska: srjejźnośamna barwa kóže, ganjaś, gnaś, joggowaŕka, joggowaś, maraton, srjejźnośamna barwa kóže
 🏃🏿‍♀	běgaŕka, ganjajuca žeńska, ganjajuca žeńska: śamna barwa kóže, ganjaś, gnaś, joggowaŕka, joggowaś, maraton, śamna barwa kóže
+🏃‍➡	běgaŕ, běgaŕka Imaraton, ganjajuca wósoba, ganjajuca wósoba napšawo, ganjaś, gnaś, sport
+🏃🏻‍➡	běgaŕ, běgaŕka Imaraton, ganjajuca wósoba, ganjajuca wósoba napšawo, ganjaś, gnaś, sport
+🏃🏼‍➡	běgaŕ, běgaŕka Imaraton, ganjajuca wósoba, ganjajuca wósoba napšawo, ganjaś, gnaś, sport
+🏃🏽‍➡	běgaŕ, běgaŕka Imaraton, ganjajuca wósoba, ganjajuca wósoba napšawo, ganjaś, gnaś, sport
+🏃🏾‍➡	běgaŕ, běgaŕka Imaraton, ganjajuca wósoba, ganjajuca wósoba napšawo, ganjaś, gnaś, sport
+🏃🏿‍➡	běgaŕ, běgaŕka Imaraton, ganjajuca wósoba, ganjajuca wósoba napšawo, ganjaś, gnaś, sport
+🏃‍♀‍➡	běgaŕka, ganjajuca žeńska, ganjajuca žeńska napšawo, ganjaś, gnaś, joggowaŕka, joggowaś, maraton
+🏃🏻‍♀‍➡	běgaŕka, ganjajuca žeńska, ganjajuca žeńska napšawo, ganjaś, gnaś, joggowaŕka, joggowaś, maraton
+🏃🏼‍♀‍➡	běgaŕka, ganjajuca žeńska, ganjajuca žeńska napšawo, ganjaś, gnaś, joggowaŕka, joggowaś, maraton
+🏃🏽‍♀‍➡	běgaŕka, ganjajuca žeńska, ganjajuca žeńska napšawo, ganjaś, gnaś, joggowaŕka, joggowaś, maraton
+🏃🏾‍♀‍➡	běgaŕka, ganjajuca žeńska, ganjajuca žeńska napšawo, ganjaś, gnaś, joggowaŕka, joggowaś, maraton
+🏃🏿‍♀‍➡	běgaŕka, ganjajuca žeńska, ganjajuca žeńska napšawo, ganjaś, gnaś, joggowaŕka, joggowaś, maraton
+🏃‍♂‍➡	běgaŕ, běgaŕka, ganjajucy muski, ganjajucy muski napšawo, ganjaś, gnaś, joggowaŕ, joggowaś, maraton
+🏃🏻‍♂‍➡	běgaŕ, běgaŕka, ganjajucy muski, ganjajucy muski napšawo, ganjaś, gnaś, joggowaŕ, joggowaś, maraton
+🏃🏼‍♂‍➡	běgaŕ, běgaŕka, ganjajucy muski, ganjajucy muski napšawo, ganjaś, gnaś, joggowaŕ, joggowaś, maraton
+🏃🏽‍♂‍➡	běgaŕ, běgaŕka, ganjajucy muski, ganjajucy muski napšawo, ganjaś, gnaś, joggowaŕ, joggowaś, maraton
+🏃🏾‍♂‍➡	běgaŕ, běgaŕka, ganjajucy muski, ganjajucy muski napšawo, ganjaś, gnaś, joggowaŕ, joggowaś, maraton
+🏃🏿‍♂‍➡	běgaŕ, běgaŕka, ganjajucy muski, ganjajucy muski napšawo, ganjaś, gnaś, joggowaŕ, joggowaś, maraton
 💃	reje, rejowaś, rejujuca žeńska, žeńska
 💃🏻	reje, rejowaś, rejujuca žeńska, rejujuca žeńska: swětła barwa kóže, swětła barwa kóže, žeńska
 💃🏼	reje, rejowaś, rejujuca žeńska, rejujuca žeńska: srjejźnoswětła barwa kóže, srjejźnoswětła barwa kóže, žeńska
@@ -2003,12 +2365,12 @@ _	dolna smužka, pódsmužka, smužka
 🏂🏽	snowboard, snowboarder, snowboarderka, snowboardowanje, snowborder /ka, snowborder /ka: wósrědna barwa kóže, sněg, sport, wósrědna barwa kóže
 🏂🏾	snowboard, snowboarder, snowboarderka, snowboardowanje, snowborder /ka, snowborder /ka: srjejźnośamna barwa kóže, sněg, sport, srjejźnośamna barwa kóže
 🏂🏿	snowboard, snowboarder, snowboarderka, snowboardowanje, snowborder /ka, snowborder /ka: śamna barwa kóže, sněg, sport, śamna barwa kóže
-🏌️	balo, golf, golfowaŕ, grajaŕ golfa, grajaŕka golfa, wósoba, kenž golf grajo
-🏌🏻	balo, golf, golfowaŕ, golfowaŕ: swětła barwa kóže, grajaŕ golfa, grajaŕka golfa, swětła barwa kóže, wósoba, kenž golf grajo
-🏌🏼	balo, golf, golfowaŕ, golfowaŕ: srjejźnoswětła barwa kóže, grajaŕ golfa, grajaŕka golfa, srjejźnoswětła barwa kóže, wósoba, kenž golf grajo
-🏌🏽	balo, golf, golfowaŕ, golfowaŕ: wósrědna barwa kóže, grajaŕ golfa, grajaŕka golfa, wósoba, kenž golf grajo, wósrědna barwa kóže
-🏌🏾	balo, golf, golfowaŕ, golfowaŕ: srjejźnośamna barwa kóže, grajaŕ golfa, grajaŕka golfa, srjejźnośamna barwa kóže, wósoba, kenž golf grajo
-🏌🏿	balo, golf, golfowaŕ, golfowaŕ: śamna barwa kóže, grajaŕ golfa, grajaŕka golfa, wósoba, kenž golf grajo, śamna barwa kóže
+🏌️	balo, golf, golfowaŕ, grajaŕ golfa, grajaŕka golfa, kenž golf grajo, wósoba
+🏌🏻	balo, golf, golfowaŕ, golfowaŕ: swětła barwa kóže, grajaŕ golfa, grajaŕka golfa, kenž golf grajo, swětła barwa kóže, wósoba
+🏌🏼	balo, golf, golfowaŕ, golfowaŕ: srjejźnoswětła barwa kóže, grajaŕ golfa, grajaŕka golfa, kenž golf grajo, srjejźnoswětła barwa kóže, wósoba
+🏌🏽	balo, golf, golfowaŕ, golfowaŕ: wósrědna barwa kóže, grajaŕ golfa, grajaŕka golfa, kenž golf grajo, wósoba, wósrědna barwa kóže
+🏌🏾	balo, golf, golfowaŕ, golfowaŕ: srjejźnośamna barwa kóže, grajaŕ golfa, grajaŕka golfa, kenž golf grajo, srjejźnośamna barwa kóže, wósoba
+🏌🏿	balo, golf, golfowaŕ, golfowaŕ: śamna barwa kóže, grajaŕ golfa, grajaŕka golfa, kenž golf grajo, wósoba, śamna barwa kóže
 🏌‍♂	golf, golf graś, golfowaŕ, grajaŕ golfa, muski
 🏌🏻‍♂	golf, golf graś, golfowaŕ, grajaŕ golfa, grajaŕ golfa: swětła barwa kóže, muski, swětła barwa kóže
 🏌🏼‍♂	golf, golf graś, golfowaŕ, grajaŕ golfa, grajaŕ golfa: srjejźnoswětła barwa kóže, muski, srjejźnoswětła barwa kóže
@@ -2093,12 +2455,12 @@ _	dolna smužka, pódsmužka, smužka
 ⛹🏽‍♀	balo, chytańca, wósrědna barwa kóže, žeńska, žeńska z balom, žeńska z balom: wósrědna barwa kóže
 ⛹🏾‍♀	balo, chytańca, srjejźnośamna barwa kóže, žeńska, žeńska z balom, žeńska z balom: srjejźnośamna barwa kóže
 ⛹🏿‍♀	balo, chytańca, śamna barwa kóže, žeńska, žeńska z balom, žeńska z balom: śamna barwa kóže
-🏋️	wažydło, wósoba , kenž zwiga wažydła, wósoba, kenž zwiga wažydła
-🏋🏻	swětła barwa kóže, wažydło, wósoba , kenž zwiga wažydła, wósoba, kenž zwiga wažydła, wósoba, kenž zwiga wažydła: swětła barwa kóže
-🏋🏼	srjejźnoswětła barwa kóže, wažydło, wósoba , kenž zwiga wažydła, wósoba, kenž zwiga wažydła, wósoba, kenž zwiga wažydła: srjejźnoswětła barwa kóže
-🏋🏽	wažydło, wósoba , kenž zwiga wažydła, wósoba, kenž zwiga wažydła, wósoba, kenž zwiga wažydła: wósrědna barwa kóže, wósrědna barwa kóže
-🏋🏾	srjejźnośamna barwa kóže, wažydło, wósoba , kenž zwiga wažydła, wósoba, kenž zwiga wažydła, wósoba, kenž zwiga wažydła: srjejźnośamna barwa kóže
-🏋🏿	wažydło, wósoba , kenž zwiga wažydła, wósoba, kenž zwiga wažydła, wósoba, kenž zwiga wažydła: śamna barwa kóže, śamna barwa kóže
+🏋️	kenž zwiga wažydła, wažydło, wósoba, wósoba, kenž zwiga wažydła
+🏋🏻	kenž zwiga wažydła, swětła barwa kóže, wažydło, wósoba, wósoba, kenž zwiga wažydła, wósoba, kenž zwiga wažydła: swětła barwa kóže
+🏋🏼	kenž zwiga wažydła, srjejźnoswětła barwa kóže, wažydło, wósoba, wósoba, kenž zwiga wažydła, wósoba, kenž zwiga wažydła: srjejźnoswětła barwa kóže
+🏋🏽	kenž zwiga wažydła, wažydło, wósoba, wósoba, kenž zwiga wažydła, wósoba, kenž zwiga wažydła: wósrědna barwa kóže, wósrědna barwa kóže
+🏋🏾	kenž zwiga wažydła, srjejźnośamna barwa kóže, wažydło, wósoba, wósoba, kenž zwiga wažydła, wósoba, kenž zwiga wažydła: srjejźnośamna barwa kóže
+🏋🏿	kenž zwiga wažydła, wažydło, wósoba, wósoba, kenž zwiga wažydła, wósoba, kenž zwiga wažydła: śamna barwa kóže, śamna barwa kóže
 🏋‍♂	muski, wažydła zwigaś, zwigaŕ wažydłow
 🏋🏻‍♂	muski, swětła barwa kóže, wažydła zwigaś, zwigaŕ wažydłow, zwigaŕ wažydłow: swětła barwa kóže
 🏋🏼‍♂	muski, srjejźnoswětła barwa kóže, wažydła zwigaś, zwigaŕ wažydłow, zwigaŕ wažydłow: srjejźnoswětła barwa kóže
@@ -2111,12 +2473,12 @@ _	dolna smužka, pódsmužka, smužka
 🏋🏽‍♀	wažydła zwigaś, wósrědna barwa kóže, zwigaŕka wažydłow, zwigaŕka wažydłow: wósrědna barwa kóže, žeńska
 🏋🏾‍♀	srjejźnośamna barwa kóže, wažydła zwigaś, zwigaŕka wažydłow, zwigaŕka wažydłow: srjejźnośamna barwa kóže, žeńska
 🏋🏿‍♀	wažydła zwigaś, zwigaŕka wažydłow, zwigaŕka wažydłow: śamna barwa kóže, śamna barwa kóže, žeńska
-🚴	kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, wósoba, kenž kólasujo
-🚴🏻	kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, swětła barwa kóže, wósoba, kenž kólasujo, wósoba, kenž kólasujo: swětła barwa kóže
-🚴🏼	kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, srjejźnoswětła barwa kóže, wósoba, kenž kólasujo, wósoba, kenž kólasujo: srjejźnoswětła barwa kóže
-🚴🏽	kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, wósoba, kenž kólasujo, wósoba, kenž kólasujo: wósrědna barwa kóže, wósrědna barwa kóže
-🚴🏾	kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, srjejźnośamna barwa kóže, wósoba, kenž kólasujo, wósoba, kenž kólasujo: srjejźnośamna barwa kóže
-🚴🏿	kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, wósoba, kenž kólasujo, wósoba, kenž kólasujo: śamna barwa kóže, śamna barwa kóže
+🚴	kenž kólasujo, kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, wósoba, wósoba, kenž kólasujo
+🚴🏻	kenž kólasujo, kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, swětła barwa kóže, wósoba, wósoba, kenž kólasujo, wósoba, kenž kólasujo: swětła barwa kóže
+🚴🏼	kenž kólasujo, kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, srjejźnoswětła barwa kóže, wósoba, wósoba, kenž kólasujo, wósoba, kenž kólasujo: srjejźnoswětła barwa kóže
+🚴🏽	kenž kólasujo, kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, wósoba, wósoba, kenž kólasujo, wósoba, kenž kólasujo: wósrědna barwa kóže, wósrědna barwa kóže
+🚴🏾	kenž kólasujo, kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, srjejźnośamna barwa kóže, wósoba, wósoba, kenž kólasujo, wósoba, kenž kólasujo: srjejźnośamna barwa kóže
+🚴🏿	kenž kólasujo, kólaso, kólasowaŕ, kólasowaŕka, kólasowaś, wósoba, wósoba, kenž kólasujo, wósoba, kenž kólasujo: śamna barwa kóže, śamna barwa kóže
 🚴‍♂	kólaso, kólasowaŕ, muski kólasowaŕ
 🚴🏻‍♂	kólaso, kólasowaŕ, kólasowaŕ: swětła barwa kóže, muski kólasowaŕ, swětła barwa kóže
 🚴🏼‍♂	kólaso, kólasowaŕ, kólasowaŕ: srjejźnoswětła barwa kóže, muski kólasowaŕ, srjejźnoswětła barwa kóže
@@ -2129,12 +2491,12 @@ _	dolna smužka, pódsmužka, smužka
 🚴🏽‍♀	kólaso, kólasowaŕka, kólasowaŕka: wósrědna barwa kóže, wósrědna barwa kóže, žeńska
 🚴🏾‍♀	kólaso, kólasowaŕka, kólasowaŕka: srjejźnośamna barwa kóže, srjejźnośamna barwa kóže, žeńska
 🚴🏿‍♀	kólaso, kólasowaŕka, kólasowaŕka: śamna barwa kóže, śamna barwa kóže, žeńska
-🚵	górske kólaso, kólasowaś, mountainbike, mountainbikowanje, wósoba, kenž z mountainbikom jězdźi
-🚵🏻	górske kólaso, kólasowaś, mountainbike, mountainbikowanje, swětła barwa kóže, wósoba, kenž z mountainbikom jězdźi, wósoba, kenž z mountainbikom jězdźi: swětła barwa kóže
-🚵🏼	górske kólaso, kólasowaś, mountainbike, mountainbikowanje, srjejźnoswětła barwa kóže, wósoba, kenž z mountainbikom jězdźi, wósoba, kenž z mountainbikom jězdźi: srjejźnoswětła barwa kóže
-🚵🏽	górske kólaso, kólasowaś, mountainbike, mountainbikowanje, wósoba, kenž z mountainbikom jězdźi, wósoba, kenž z mountainbikom jězdźi: wósrědna barwa kóže, wósrědna barwa kóže
-🚵🏾	górske kólaso, kólasowaś, mountainbike, mountainbikowanje, srjejźnośamna barwa kóže, wósoba, kenž z mountainbikom jězdźi, wósoba, kenž z mountainbikom jězdźi: srjejźnośamna barwa kóže
-🚵🏿	górske kólaso, kólasowaś, mountainbike, mountainbikowanje, wósoba, kenž z mountainbikom jězdźi, wósoba, kenž z mountainbikom jězdźi: śamna barwa kóže, śamna barwa kóže
+🚵	górske kólaso, kenž z mountainbikom jězdźi, kólasowaś, mountainbike, mountainbikowanje, wósoba, wósoba, kenž z mountainbikom jězdźi
+🚵🏻	górske kólaso, kenž z mountainbikom jězdźi, kólasowaś, mountainbike, mountainbikowanje, swětła barwa kóže, wósoba, wósoba, kenž z mountainbikom jězdźi, wósoba, kenž z mountainbikom jězdźi: swětła barwa kóže
+🚵🏼	górske kólaso, kenž z mountainbikom jězdźi, kólasowaś, mountainbike, mountainbikowanje, srjejźnoswětła barwa kóže, wósoba, wósoba, kenž z mountainbikom jězdźi, wósoba, kenž z mountainbikom jězdźi: srjejźnoswětła barwa kóže
+🚵🏽	górske kólaso, kenž z mountainbikom jězdźi, kólasowaś, mountainbike, mountainbikowanje, wósoba, wósoba, kenž z mountainbikom jězdźi, wósoba, kenž z mountainbikom jězdźi: wósrědna barwa kóže, wósrědna barwa kóže
+🚵🏾	górske kólaso, kenž z mountainbikom jězdźi, kólasowaś, mountainbike, mountainbikowanje, srjejźnośamna barwa kóže, wósoba, wósoba, kenž z mountainbikom jězdźi, wósoba, kenž z mountainbikom jězdźi: srjejźnośamna barwa kóže
+🚵🏿	górske kólaso, kenž z mountainbikom jězdźi, kólasowaś, mountainbike, mountainbikowanje, wósoba, wósoba, kenž z mountainbikom jězdźi, wósoba, kenž z mountainbikom jězdźi: śamna barwa kóže, śamna barwa kóže
 🚵‍♂	górske kólaso, górski kólasowaŕ, kólaso, mountainbikaŕ, mountainbike, muski
 🚵🏻‍♂	górske kólaso, górski kólasowaŕ, kólaso, mountainbikaŕ, mountainbikaŕ: swětła barwa kóže, mountainbike, muski, swětła barwa kóže
 🚵🏼‍♂	górske kólaso, górski kólasowaŕ, kólaso, mountainbikaŕ, mountainbikaŕ: srjejźnoswětła barwa kóže, mountainbike, muski, srjejźnoswětła barwa kóže
@@ -2147,18 +2509,18 @@ _	dolna smužka, pódsmužka, smužka
 🚵🏽‍♀	górska kólasowaŕka, górske kólaso, kólaso, mountainbikaŕka, mountainbikaŕka: wósrědna barwa kóže, mountainbike, wósrědna barwa kóže, žeńska
 🚵🏾‍♀	górska kólasowaŕka, górske kólaso, kólaso, mountainbikaŕka, mountainbikaŕka: srjejźnośamna barwa kóže, mountainbike, srjejźnośamna barwa kóže, žeńska
 🚵🏿‍♀	górska kólasowaŕka, górske kólaso, kólaso, mountainbikaŕka, mountainbikaŕka: śamna barwa kóže, mountainbike, śamna barwa kóže, žeńska
-🤸	gymnastika, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo
-🤸🏻	gymnastika, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, swětła barwa kóže, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo, wósoba, kenž se na bok pśewjertujo: swětła barwa kóže
-🤸🏼	gymnastika, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, srjejźnoswětła barwa kóže, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo, wósoba, kenž se na bok pśewjertujo: srjejźnoswětła barwa kóže
-🤸🏽	gymnastika, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo, wósoba, kenž se na bok pśewjertujo: wósrědna barwa kóže, wósrědna barwa kóže
-🤸🏾	gymnastika, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, srjejźnośamna barwa kóže, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo, wósoba, kenž se na bok pśewjertujo: srjejźnośamna barwa kóže
-🤸🏿	gymnastika, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo, wósoba, kenž se na bok pśewjertujo: śamna barwa kóže, śamna barwa kóže
-🤸‍♂	gymnastika, muski, muski, kenž se na bok pśewjertujo, se na bok pśewjetujucy muski, se pśewjertaś, sport, zwucowanja na zemi
-🤸🏻‍♂	gymnastika, muski, muski, kenž se na bok pśewjertujo, muski, kenž se na bok pśewjertujo: swětła barwa kóže, se na bok pśewjetujucy muski, se pśewjertaś, sport, swětła barwa kóže, zwucowanja na zemi
-🤸🏼‍♂	gymnastika, muski, muski, kenž se na bok pśewjertujo, muski, kenž se na bok pśewjertujo: srjejźnoswětła barwa kóže, se na bok pśewjetujucy muski, se pśewjertaś, sport, srjejźnoswětła barwa kóže, zwucowanja na zemi
-🤸🏽‍♂	gymnastika, muski, muski, kenž se na bok pśewjertujo, muski, kenž se na bok pśewjertujo: wósrědna barwa kóže, se na bok pśewjetujucy muski, se pśewjertaś, sport, wósrědna barwa kóže, zwucowanja na zemi
-🤸🏾‍♂	gymnastika, muski, muski, kenž se na bok pśewjertujo, muski, kenž se na bok pśewjertujo: srjejźnośamna barwa kóže, se na bok pśewjetujucy muski, se pśewjertaś, sport, srjejźnośamna barwa kóže, zwucowanja na zemi
-🤸🏿‍♂	gymnastika, muski, muski, kenž se na bok pśewjertujo, muski, kenž se na bok pśewjertujo: śamna barwa kóže, se na bok pśewjetujucy muski, se pśewjertaś, sport, zwucowanja na zemi, śamna barwa kóže
+🤸	gymnastika, kenž se na bok pśewjertujo, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo
+🤸🏻	gymnastika, kenž se na bok pśewjertujo, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, swětła barwa kóže, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo, wósoba, kenž se na bok pśewjertujo: swětła barwa kóže
+🤸🏼	gymnastika, kenž se na bok pśewjertujo, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, srjejźnoswětła barwa kóže, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo, wósoba, kenž se na bok pśewjertujo: srjejźnoswětła barwa kóže
+🤸🏽	gymnastika, kenž se na bok pśewjertujo, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo, wósoba, kenž se na bok pśewjertujo: wósrědna barwa kóže, wósrědna barwa kóže
+🤸🏾	gymnastika, kenž se na bok pśewjertujo, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, srjejźnośamna barwa kóže, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo, wósoba, kenž se na bok pśewjertujo: srjejźnośamna barwa kóže
+🤸🏿	gymnastika, kenž se na bok pśewjertujo, se na bok pśewjertujuca wósoba, se pśewjertaś, sport, turnowanje na zemi, wósoba, wósoba, kenž se na bok pśewjertujo, wósoba, kenž se na bok pśewjertujo: śamna barwa kóže, śamna barwa kóže
+🤸‍♂	gymnastika, kenž se na bok pśewjertujo, muski, muski, kenž se na bok pśewjertujo, se na bok pśewjetujucy muski, se pśewjertaś, sport, zwucowanja na zemi
+🤸🏻‍♂	gymnastika, kenž se na bok pśewjertujo, muski, muski, kenž se na bok pśewjertujo, muski, kenž se na bok pśewjertujo: swětła barwa kóže, se na bok pśewjetujucy muski, se pśewjertaś, sport, swětła barwa kóže, zwucowanja na zemi
+🤸🏼‍♂	gymnastika, kenž se na bok pśewjertujo, muski, muski, kenž se na bok pśewjertujo, muski, kenž se na bok pśewjertujo: srjejźnoswětła barwa kóže, se na bok pśewjetujucy muski, se pśewjertaś, sport, srjejźnoswětła barwa kóže, zwucowanja na zemi
+🤸🏽‍♂	gymnastika, kenž se na bok pśewjertujo, muski, muski, kenž se na bok pśewjertujo, muski, kenž se na bok pśewjertujo: wósrědna barwa kóže, se na bok pśewjetujucy muski, se pśewjertaś, sport, wósrědna barwa kóže, zwucowanja na zemi
+🤸🏾‍♂	gymnastika, kenž se na bok pśewjertujo, muski, muski, kenž se na bok pśewjertujo, muski, kenž se na bok pśewjertujo: srjejźnośamna barwa kóže, se na bok pśewjetujucy muski, se pśewjertaś, sport, srjejźnośamna barwa kóže, zwucowanja na zemi
+🤸🏿‍♂	gymnastika, kenž se na bok pśewjertujo, muski, muski, kenž se na bok pśewjertujo, muski, kenž se na bok pśewjertujo: śamna barwa kóže, se na bok pśewjetujucy muski, se pśewjertaś, sport, zwucowanja na zemi, śamna barwa kóže
 🤸‍♀	gymnastika, se na bok pśewjertujuca žeńska, se pśewjertaś, sport, zwucowanje na zemi, žeńska
 🤸🏻‍♀	gymnastika, se na bok pśewjertujuca žeńska, se na bok pśewjertujuca žeńska: swětła barwa kóže, se pśewjertaś, sport, swětła barwa kóže, zwucowanje na zemi, žeńska
 🤸🏼‍♀	gymnastika, se na bok pśewjertujuca žeńska, se na bok pśewjertujuca žeńska: srjejźnoswětła barwa kóže, se pśewjertaś, sport, srjejźnoswětła barwa kóže, zwucowanje na zemi, žeńska
@@ -2374,7 +2736,6 @@ _	dolna smužka, pódsmužka, smužka
 👩‍❤‍👨	lubosć, muski, pórik, pórik z wutšobku, pórik z wutšobku: žeńska, muski, žeńska
 👨‍❤‍👨	lubosć, muski, pórik, pórik z wutšobku, pórik z wutšobku: muski, muski
 👩‍❤‍👩	lubosć, pórik, pórik z wutšobku, pórik z wutšobku: žeńska, žeńska, žeńska
-👪️	familija, góle, mama, nan
 👨‍👩‍👦	familija, familija: muski, žeńska a gólc, gólc, góle, mama, muski, nan, žeńska
 👨‍👩‍👧	familija, familija: muski, žeńska a źowćo, góle, mama, muski, nan, źowćo, žeńska
 👨‍👩‍👧‍👦	familija, familija: muski, žeńska, źowćo a gólc, gólc, góle, mama, muski, nan, źowćo, žeńska
@@ -2404,7 +2765,13 @@ _	dolna smužka, pódsmužka, smužka
 👤	bista, bista w silueśe, silueta, silueta wósoby
 👥	bista, silueta, silueta wósobowu
 🫂	bóžemje, měj se derje, měj źěk, se wobejmjecej wósobje, witaj, wobejmjeś se
+👪️	familija, góle, mama, nan
+🧑‍🧑‍🧒	dorosćone a góle, familija: dorosćonej a góle, familija: dorosćony
+🧑‍🧑‍🧒‍🧒	dorosćone, dorosćonej, familija: dorosćonej a góleśi, familija: dorosćony, góleśi a źiśi
+🧑‍🧒	familija: dorosćony, familija: dorosćony a góle, góle
+🧑‍🧒‍🧒	familija: dorosćony, familija: dorosćony a góleśi, góleśi, źiśi
 👣	noga, stopje, wótśišć, wótśišća stopowu
+🫆	forensika, identita, wótśišć palca, wěstota
 🦰	cerwjene włose, cerwjene włosy, cerwjenowłosatyI cerwjenowłosak
 🦱	afro, kuźerak, kuźerate włosy, kuźeraty
 🦳	běłe włosy, běłowłosaty, šere włosy, šerowłosaty, šery
@@ -2429,6 +2796,8 @@ _	dolna smužka, pódsmužka, smužka
 🐅	tiger, zwěrje
 🐆	leopard, zwěrje
 🐴	głowa, głowa kónja, kóń, zwěrje
+🫎	cycak, głowa łosa, rogi, zwěrje, łos
+🫏	cycak, mul, nykaty, wósolik, zwěrje
 🐎	kóń, wuběźowanje, wuběźowanje na kónjach, zwěrje
 🦄	głowa, głowa jadnorogaca, jadnorogac
 🦓	cebra, głowa cebry, smugi, zwěrje
@@ -2491,6 +2860,10 @@ _	dolna smužka, pódsmužka, smužka
 🦩	flamingo, pisany, ptašk, tropiski, tropy, zwěrje
 🦚	gjardy, paw, pisany, ptašk, zwěrje
 🦜	papagaj, pirat, ptašk, wóspjetowaś, zwěrje
+🪽	janźel, kśidło, lětaŕstwo, lětaś, mythologija, ptašk
+🐦‍⬛	carny ptašk, ptašk
+🪿	gus, głupe, pjerina, ptašk, tšubiś
+🐦‍🔥	fantazija, feniks, reinkarnacija, wognjowy ptašk, znowanaroźenje
 🐸	głowa, głowa žaby, žaba
 🐊	krokodil, zwěrje
 🐢	nopawa, zwěrje
@@ -2511,6 +2884,7 @@ _	dolna smužka, pódsmužka, smužka
 🐙	kraka, octopus, oktopus, tintowa ryba
 🐚	mušla, slinikowy konk
 🪸	korala, ocean, riff
+🪼	awa, bźezrěpniki, kwala, mórske zwěrjeta, wopalenje, štapc, želej
 🐌	slinik, zwěrje
 🦋	insekt, mjatel, rědny, zwěrje
 🐛	gusenica, insekt, zwěrje
@@ -2538,6 +2912,7 @@ _	dolna smužka, pódsmužka, smužka
 🌻	kwiśonka, kwětka, rostlina, słyńca, słyńco
 🌼	kwiśonka, kwětka, rostlina
 🌷	kwiśonka, kwětka, rostlina, tulpa
+🪻	bluebonnet, fijałkojta, hyacinta, kwětk, lawendel, lupina, nowruz, šnepik
 🌱	młoda rostlina I, pšut
 🪴	dom, rostlina, rostlina w gjarnyšku, rosć, woplěwaś, wóstudny
 🌲	bom, jeglina, rostlina
@@ -2554,11 +2929,13 @@ _	dolna smužka, pódsmužka, smužka
 🪹	měwanje, prozne gnězdo
 🪺	gnězdo z jajkoma, měwanje
 🍄	grib, muchoradło
+🪾	bom bźez lista, goły, suš, zyma
 🍇	płod, sad, wino, winowa granka
 🍈	melona, mjodowa melona, płod, sad
 🍉	melona, płod, sad, wódna melona
 🍊	mandarina, oranža, płod, sad
 🍋	citrona, płod, sad
+🍋‍🟩	citrusowe płody, limona, tropiske
 🍌	banana, płod, sad
 🍍	ananas, płod, sad
 🥭	mango, płod, tropiske płody, tropiski
@@ -2588,6 +2965,10 @@ _	dolna smužka, pódsmužka, smužka
 🥜	jěza, zemske wórjechy, zemski wórjech
 🫘	boby, nerka, tšokowy płod, žywidło
 🌰	jěźna kastanija, kastanija, rostlina
+🫚	ingwer, kórušk, kóruški, piwo
+🫛	boby, edamame, groch, tšuka, tšuka grocha, tšukowe płody, zelenina
+🍄‍🟫	bruny grib, griby, pśiroda, zelenina, zežywidło
+🫜	cerwjena rěpa, gumno, głub, głum, kulrabij, kóruškata zelenina, rěpa, zagroda, zelenina
 🍞	klěb, pjacywo, pokšyta
 🥐	Francojska, croissant, pjacywo, snědanje
 🥖	baguett, francojska jěza, klěb, snědanje
@@ -2828,7 +3209,7 @@ _	dolna smužka, pódsmužka, smužka
 ⌛️	cas se minjo, proces, pěskowy zeger
 ⏳️	běžecy pěskowy zeger, proces, pěsk, se rowno stawa
 ⌚️	rucne zegerk, rucny zegerk, zeger
-⏰	buźak, cas, zeger
+⏰️	buźak, cas, zeger
 ⏱️	stopowka, zeger
 ⏲️	cas, na cas šaltujucy zeger, zeger
 🕰️	kaminowy zeger, zeger
@@ -2908,7 +3289,7 @@ _	dolna smužka, pódsmužka, smužka
 🎆	silwester, wognjopraskot
 🎇	wognjopraskot, škrickotata swěcka
 🧨	dynamit, eksploziwny, praskotaś, wognjopraskot, wognjopraskotak
-✨	*, gwězdy, se błyšće gwězdy, se błyšćece gwězdy, se błyšćiś
+✨️	*, gwězdy, se błyšće gwězdy, se błyšćece gwězdy, se błyšćiś
 🎈	baloncyk, narodny źeń
 🎉	konfetijowa kanuna, party, swěźeń
 🎊	konfetijowa kula, konfetti, party, swěśiś
@@ -3008,6 +3389,7 @@ _	dolna smužka, pódsmužka, smužka
 🩳	boksaŕske shortse, kupańska drastwa, plěwańske shortse, shortse
 👙	bikini, drastwa, kupański woblak
 👚	bluza, drastwa, zwjerchna drstwa, žeńskeca moda
+🪭	chłoźecy, górucy, machajucy, machawka za pśewětšenje, rejujucy, sromotny, tšuchły, zejgrawaś
 👛	móšynka, pjenjeze
 👜	rucna tobołka, taška, tobołka
 👝	pódpažna taška, pódpažna tobołka, tobołka
@@ -3022,6 +3404,7 @@ _	dolna smužka, pódsmužka, smužka
 👡	crjej, dandala, sandale, žeńske, žeńskeca sandala
 🩰	balet, baletowe crjeje, reje
 👢	crjej, škórnja, žeńske, žeńskece škórnje
+🪮	Afro, cesak, spinka, spinka za włose, włose
 👑	kral, kralowka, krona
 👒	kłobyk, pókšyśe na głowu, žeńska, žeńskecy kłobyk, žeńskecy kłobyk ze šlejfu
 🎩	cylinder, muski, pókšyśe na głowu I
@@ -3060,6 +3443,9 @@ _	dolna smužka, pódsmužka, smužka
 🪕	banjo, instrument, muzika, muzikowa instrument
 🥁	bubnowaś, bubon, bubonowej bicka
 🪘	Afrika, afrikański bubon, bubon, muzika
+🪇	instrument, maracasy, muzika, percussion, rytmus, swěśiś, tśěsć, zogol, šćerkotawa
+🪈	bambus, dujaŕski instrument, grajaŕ pisčałki, muzika, pišćałka
+🪉	harfa, instrument, janźel, lubosć, muzika, orchester
 📱	handy, mobilny telefon, smartfon, telefoněrowaś
 📲	hyndy, mobilny telefon, mobilny telefon ze šypu, něchten zwóni, šypa
 ☎️	kšuta seś, telefon
@@ -3192,11 +3578,13 @@ _	dolna smužka, pódsmužka, smužka
 ⚖️	Waga, gwězdne znamje, spšawnosć, waga, wažydło, wažyś Iźěłowy rěd
 🦯	běły kij, běły kij za slěpych, bźez barierow, slěpy
 🔗	cłonki rjeśaza, dwa cłonka, symbol zwězanja
+⛓‍💥	lichota, pyta, rjeśaz, roztergnjony rjeśaz, roztergnuś, złamaś
 ⛓️	rjeśaz, rjeśaze, zelezo
 🪝	kokulka, ryby łojś, wuda, wuźiś
 🧰	kašćik ze źěłowym rědom, mechanikaŕ, źěłowy rěd
 🧲	magnet, pśiśěgowatosć Imagnetiski
 🪜	górjej lězć, jabeŕ, lemjaz, stupka
+🪏	ryś, wuryś, łopata, šupa, šupowaś, źěra
 ⚗️	alchemija, chemija, destilaciski aparat, źěłowa rěd
 🧪	chemija, eksperiment, labor, reagencowy głažk, wopyty
 🧫	Petrijowa šklicka, bakterije, bakterijowa kultura, biologija
@@ -3281,6 +3669,7 @@ _	dolna smužka, pódsmužka, smužka
 ↖️	nalěwo górjej, šypa, šypa nalěwo górjej
 ↕️	górjej a dołoj, šypa, šypa górjej a dołoj
 ↔️	nalěwo a napšawo, šypa, šypa nalěwo a napšawo
+↮	pśešmarnjona šypa nalěwo a napšawo
 ↩️	nalěwo, napšawo, zwjertnjona šypa nalěwo, zwjertnuś se, šypa, šypa napšawo zwjertnjo se nalěwo
 ↪️	nalěwo, napšawo, zwjertnuś se, šypa, šypa nalěwo zwjertnjo se napšawo
 ⤴️	górjej, napšawo, zwjertnuś se, šypa, šypa napšawo zwjertnjo se górjej
@@ -3304,6 +3693,7 @@ _	dolna smužka, pódsmužka, smužka
 ☮️	měr, měrowe gibanje, symbol, symbol měra
 🕎	menora, religija, sedymrucny, swěcnik
 🔯	heksagram z dypkom, šesćrožkata gwězda Iwěšćenje
+🪯	Sikh, khanda, nabóžnina
 ♈️	Baran, Baran (gwězdne znamje), gwězdne znamje, zwěrjetne koło
 ♉️	Byk, Byk (gwězdne znamje), gwězdne znamjeI zwěrjetne koło
 ♊️	Dwójnika, Dwójnika (gwězdne znamje), Dwójniki, gwězdne znamje, zwěrjetne koło
@@ -3316,7 +3706,7 @@ _	dolna smužka, pódsmužka, smužka
 ♑️	Kózyrožk, Kózyrožk (gwězdne znamje), gwězdne znamje, Źiwy kózoł Izwěrjetne znamje
 ♒️	Wódny muž, Wódny muž (gwězdne znamje), gwězdne znamje, zwěrjetne koło
 ♓️	Rybje, Ryby, Ryby (gwězdne znamje), gwězdne znamje, zwěrjetne koło
-⛎	Ofiuchus, gwězdne znamje
+⛎️	Ofiuchus, gwězdne znamje
 🔀	pśipad, pśipadne wuběranje, se kśicujucej šypje, tasta wuběranja z pśigódy, wuběraj pó pśipaźe, šypje
 🔁	hyšći raz, tasta "wóspjetuj", tasta za wóspjetowanje, w směrje zegera, wóspjetne wótgrawanje, wóspjetowaś, wóspjetuj, šypje
 🔂	hyšći raz, spiw wóspjetowaś, tasta "wóspjetuj jaden spiw", tasta za wóspjetowanje jadnogo spiwa, wóspjetne wótgrawanje, wóspjetuj jaden spiw, šypje
@@ -3339,22 +3729,23 @@ _	dolna smužka, pódsmužka, smužka
 🔅	dimowane, dimowaś, swětłosć, tasta "śamnej", tasta śamnej
 🔆	bytšnosć, swětlej, swětło, swětłosć, tasta, tasta "swětlej"
 📶	mobilne škrickowanje, mócnosć signala, signal, słupiki, zwisk z mobilnym škrickowanim
+🛜	WLAN, bźez kabla, internet, kompjuter
 📳	handy, mobilny telefon, tasta "wibraciski modus", wibracija, wibraciski modus
 📴	handy wušaltowaś, mobilny telefon, tasta "wušaltuj handy", wušaltowaś, wušaltuj
 ♀️	symbol, symbol za žeńskecy rod, žeńska, žeńskecy rod
 ♂️	muske, muskecy rod, muski, symbol za muskecy rod
 ⚧️	symbol, transgender, transgenderowy symbol
 ✖️	multiplicěrowaś, multiplikacija, pśetergnuś, rozmnoženje, znamuško multiplikacije
-➕	plus, plusowe znamuško, znamuško plus
-➖	minus, minusowe znamuško, znamuško, znamuško minus
-➗	diwiděrowaś, diwizija, znamuško dewizije, znamuško diwizije, źělenje pśez, źěliś pśez
+➕️	plus, plusowe znamuško, znamuško plus
+➖️	minus, minusowe znamuško, znamuško, znamuško minus
+➗️	diwiděrowaś, diwizija, znamuško dewizije, znamuško diwizije, źělenje pśez, źěliś pśez
 🟰	matematika, rownosć, tłuste znamje jo rowno
 ♾️	na pśecej, nimjernje, njeskóńcnosć, znamuško
 ‼️	cerwjeny, dwójny, dwójny wuwołak, interpunkciske znamuško, wuwołak
 ⁉️	cerwjeny, interpunkciske znamuško, pšašak, wuwołak, wuwołak a pšašak
 ❓️	cerwjeny, cerwjeny pšašak, cerwjeny pšašak i interpunkciske znamuško, pšašak
-❔	běły, běły pšašak, interpunkciske znamuško
-❕	běły, běły wuwołak, interpunciske znamuško, wuwołak
+❔️	běły, běły pšašak, interpunkciske znamuško
+❕️	běły, běły wuwołak, interpunciske znamuško, wuwołak
 ❗️	cerjeny, cerwjeny wuwołak, interpunkciske znamuško, wuwołak
 〰️	žwałkata linija, žwałkaty
 💱	pjenjeze, płaśidło zaměna, zaměna pjenjez, zaměnjenje pjenjez
@@ -3366,20 +3757,21 @@ _	dolna smužka, pódsmužka, smužka
 📛	toflicka, toflicka z mjenim
 🔰	Japańska, japańske zachopjeńkaŕske znamje, japański symbol za zachopjeńkarja, zachopjeńkaŕ
 ⭕️	cerwjeny, krejz, prozny, prozny cerwjeny krejz, wjeliki krejz
-✅	běła kokulka, docynjone, gótowe, z kokulku wóznamjenjone, šaltowańske pólo z běłeju kokulku
+✅️	běła kokulka, docynjone, gótowe, z kokulku wóznamjenjone, šaltowańske pólo z běłeju kokulku
 ☑️	kokulka, kontrolny kašćik, kontrolny kašćik z kokulku, wotgłosowaś, wótgłosowański kašćik, z kokulku wóznamjeniś
 ✔️	docynjone, kokulka, tucna kokulka, z kokulku wóznamjeniś
-❌	kśicka, multiplikacija, pśetergnuś, pśešmarnuś, x
-❎	kwadrat, kśicka, kśicka w kwadraśe, šaltowańske pólo z kśicku
-➰	looping, symbol, zawrośeńska šlejfa, šlejfa
-➿	dwójna šlejfa, looping, symbol, šlejfa
+❌️	kśicka, multiplikacija, pśetergnuś, pśešmarnuś, x
+❎️	kwadrat, kśicka, kśicka w kwadraśe, šaltowańske pólo z kśicku
+➰️	looping, symbol, zawrośeńska šlejfa, šlejfa
+➿️	dwójna šlejfa, looping, symbol, šlejfa
 〽️	Japańska, japański symbol za zachopjeńk spiwa, muzika, spiwaŕ
 ✳️	gwězda, gwězda z wósym rožkami, gwězdka, rožki, wósym, wósymrožkata gwězda
 ✴️	gwězda, gwězda z wósym rožkami, gwězdka, rožki, wósym
-❇️	błyskotanje, błyskotanje, migotanje, šćanjenje
+❇️	błyskotanje, migotanje, šćanjenje
 ©️	awtorske pšawa, c, copyright, symbol za awtorske pšawa
 ®️	marka, registrěrowane, registrěrowane znamje marki, znamje marki
 ™️	marka, markowe znamje, znamje marki
+🫟	barwa, blaraś, flak, kalnjenje, kalnuś, klaraś
 #⃣	tasta, tasta: #
 *⃣	tasta, tasta: *
 0⃣	tasta, tasta: 0
@@ -3398,9 +3790,9 @@ _	dolna smužka, pódsmužka, smužka
 🔢	licby, symbol, zapódaj licby
 🔣	symbol, symbole, zapódaj symbole, zapódawański symbol wósebne znamuška
 🔤	alfabet, pismik, zapódaj łatyńske pismiki, łatyński
-🅰️	A, a, cerwjeny kwadrat, kšejna kupka, znamuško, znamuško A (kšejna kupka)
-🆎	AB, ab, cerwjeny kwadrat, kšejna kupka, znamuško, znamuško AB (kšejna kupka)
-🅱️	B, b, cerwjeny kwadrat, kšejna kupka, znamuško, znamuško B (kšejna kupka)
+🅰️	A, cerwjeny kwadrat, kšejna kupka, znamuško, znamuško A (kšejna kupka)
+🆎	AB, cerwjeny kwadrat, kšejna kupka, znamuško, znamuško AB (kšejna kupka)
+🅱️	B, cerwjeny kwadrat, kšejna kupka, znamuško, znamuško B (kšejna kupka)
 🆑	CL, znamuško, znamuško CL
 🆒	COOL, znamuško, znamuško COOL
 🆓	FREE, znamuško, znamuško FREE
@@ -3743,6 +4135,9 @@ $	dolar, pjenjeze, płaśidło, symbol, symbol za dolar
 ฿	thaiski baht
 ៛	kambodžaski riel
 ₡	kosta-rikański colón
+₢	BRB, cruzeiro, pjenjeze
+₣	franc, francojski franc, pjenjeze
+₤	lira, pjenjeze
 ₥	mill, pjenjeze, płaśidło, symbol za mill
 ₦	nigeriska naira
 ₩	pjenjeze, płaśidło, symbol za won, won
@@ -3751,10 +4146,14 @@ $	dolar, pjenjeze, płaśidło, symbol, symbol za dolar
 €	euro, pjenjeze, płaśidło, symbol, symbol za euro
 ₭	laoski kip
 ₮	mongolski tugrik
+₰	pjenjeze, pjenježk
 ₱	peso, pjenjeze, płaśidło, symbol za peso
 ₲	paraguayski guarani
+₳	ARA, awstral, pjenjeze
 ₴	ukrainska griwna
 ₵	ghanaski cedi
+₶	livre tournois, pjenjeze
+₷	pjenjeze, spesmilo
 ₸	kazachski tenge
 ₹	Indiska, indiska rupija, pjenjeze, płaśidło, symbol, symbol za indisku rupiju
 ₺	turkojska lira
@@ -3762,6 +4161,8 @@ $	dolar, pjenjeze, płaśidło, symbol, symbol za dolar
 ₽	pjenjeze, płaśidło, rubel, symbol, symbol za rubel
 ₾	georgiski lari
 ₿	bitcoin, pjenjeze, płaśeński srědk, symbol za bitcoin
+₨	pjenjeze, rupija
+﷼	pjenjeze, rial
 ¹	cysło jaden, jadenka, wušej stajona jadenka, wušej stajone znamuško
 ²	cysło dwa, dwójka, wušej stajona dwójka, wušej stajone znamuško
 ³	cysło tśi, tšojka, wušej stajona tšojka

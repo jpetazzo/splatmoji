@@ -159,7 +159,7 @@
 🖐🏽	kiri āhua waenga, matimati, paraha, ringa, ringa tū matimati paraha, ringa tū matimati paraha: kiri āhua waenga
 🖐🏾	kiri āhua waenga-parauri, matimati, paraha, ringa, ringa tū matimati paraha, ringa tū matimati paraha: kiri āhua waenga-parauri
 🖐🏿	kiri āhua parauri, matimati, paraha, ringa, ringa tū matimati paraha, ringa tū matimati paraha: kiri āhua parauri
-✋	ringa, ringa tū
+✋️	ringa, ringa tū
 ✋🏻	kiri āhua māmā, ringa, ringa tū, ringa tū: kiri āhua māmā
 ✋🏼	kiri āhua māmā-waenga, ringa, ringa tū, ringa tū: kiri āhua māmā-waenga
 ✋🏽	kiri āhua waenga, ringa, ringa tū, ringa tū: kiri āhua waenga
@@ -275,7 +275,7 @@
 👎🏽	-1, iho, kiri āhua waenga, kōnui, kōnui iho: kiri āhua waenga, ringa
 👎🏾	-1, iho, kiri āhua waenga-parauri, kōnui, kōnui iho: kiri āhua waenga-parauri, ringa
 👎🏿	-1, iho, kiri āhua parauri, kōnui, kōnui iho: kiri āhua parauri, ringa
-✊	kumu, meke, meke tū, ringa, tuki
+✊️	kumu, meke, meke tū, ringa, tuki
 ✊🏻	kiri āhua māmā, kumu, meke, meke tū, meke tū: kiri āhua māmā, ringa, tuki
 ✊🏼	kiri āhua māmā-waenga, kumu, meke, meke tū, meke tū: kiri āhua māmā-waenga, ringa, tuki
 ✊🏽	kiri āhua waenga, kumu, meke, meke tū, meke tū: kiri āhua waenga, ringa, tuki
@@ -1744,7 +1744,6 @@
 👩‍❤‍👨	aroha, tokorua, tokorua me te manawa, tokorua me te manawa: wahine, tāne, tāne, wahine
 👨‍❤‍👨	aroha, tokorua, tokorua me te manawa, tokorua me te manawa: tāne, tāne, tāne
 👩‍❤‍👩	aroha, tokorua, tokorua me te manawa, tokorua me te manawa: wahine, wahine, wahine
-👪️	whānau
 👨‍👩‍👦	tamatāne, tāne, wahine, whānau, whānau: tāne, wahine, tamatāne
 👨‍👩‍👧	kōtiro, tāne, wahine, whānau, whānau: tāne, wahine, kōtiro
 👨‍👩‍👧‍👦	kōtiro, tamatāne, tāne, wahine, whānau, whānau: tāne, wahine, kōtiro, tamatāne
@@ -1773,6 +1772,7 @@
 🗣️	ataata, kanohi, kōrero, kōrero ana, upoko, upoko kōrero
 👤	ataata, poho, poho rō ataata
 👥	ataata, ngā poho rō ataata, poho
+👪️	whānau
 👣	kākahu, ngā tapuwae, tapuwae, tā
 🐵	kanohi, kanohi makimaki, makimaki
 🐒	makimaki
@@ -2115,7 +2115,7 @@
 ⌛️	karāhe-hāora, kirikiri, pūtaki
 ⏳️	karāhe-hāora, karāhe-hāora kirikiri rere, kirikiri, pūtaki
 ⌚️	karaka, matawā
-⏰	karaka, karaka pūoho, pūoho
+⏰️	karaka, karaka pūoho, pūoho
 ⏱️	karaka, matawā-tū
 ⏲️	karaka, karaka pūtaki, pūtaki
 🕰️	karaka, karaka whatanga-ahi
@@ -2193,7 +2193,7 @@
 🎄	Kirihimete, rākau, rākau Kirihimete, whakanuinga
 🎆	pahūahi, whakanuinga
 🎇	korakora, pahūahi, whakakorakora, whakanuinga
-✨	he korakora, korakora, whetū
+✨️	he korakora, korakora, whetū
 🎈	pūangi, whakanuinga
 🎉	pahū, pahū whakangahau, tarā, whakangahau, whakanuinga
 🎊	pōro, pōro wāhi pepa, whakanuinga, wāhi-pepa ririki
@@ -2523,14 +2523,14 @@
 ♑️	Capricorn, koati, poutiriao
 ♒️	Aquarius, kaikawe, poutiriao, wai
 ♓️	Pisces, ika, poutiriao
-⛎	Ophiuchus, kaikawe, nākahi, poutiriao
+⛎️	Ophiuchus, kaikawe, nākahi, poutiriao
 🔀	pere, pātene ranu riu, whakawhiri
 🔁	pere, pātene tukurua, tukurua, whakatekaraka
 🔂	pere, pātene tukurua kotahi, whakatekaraka, wā kotahi
 ▶	matau, pere, purei, pātene purei, tapatoru
 ⏩	pere, pātene tere whakamua, taurua, tere, whakamua
 ⏭	pere, pātene riu panuku, riu panuku, tapatoru, tironga panuku
-⏯	matau, pere, purei, pātene purei, taihoa rānei, taihoa, tapatoru
+⏯	matau, pere, purei, pātene purei, pātene purei, taihoa rānei, taihoa, taihoa rānei, tapatoru
 ◀	mauī, pere, pātene whakamuri, tapatoru, whakamuri
 ⏪	pere, pātene tere whakamuri, taurua, whakahoki
 ⏮	pere, pātene riu tōmuri, riu tōmua, tapatoru, tironga tōmua
@@ -2551,14 +2551,14 @@
 ♀️	tohu wahine, wahine
 ♂️	tohu tāne, tāne
 ✖️	whakakore, whakarea, whakareatanga, x, x whakarea taumaha
-➕	pāngarau, tohu tāpiri taumaha, tāpiri
-➖	pāngarau, tango, tohu tango taumaha
-➗	pāngarau, tohu whakawehe taumaha, whakawehe
+➕️	pāngarau, tohu tāpiri taumaha, tāpiri
+➖️	pāngarau, tango, tohu tango taumaha
+➗️	pāngarau, tohu whakawehe taumaha, whakawehe
 ‼️	tohu, tohuhā, tohuhā taurua, tohutuhi
 ⁉️	pātai, tohu, tohu tohuhā-pātai, tohuhā, tohuhā-pātai, tohutuhi
 ❓️	pātai, tohu, tohu pātai, tohutuhi
-❔	pātai, tohu, tohu pātai mā, tohutuhi, whakahuahua
-❕	tohu, tohuhā, tohuhā mā, tohutuhi, whakahuahua
+❔️	pātai, tohu, tohu pātai mā, tohutuhi, whakahuahua
+❕️	tohu, tohuhā, tohuhā mā, tohutuhi, whakahuahua
 ❗️	tohu, tohu reo, tohuhā
 〰️	karekare, pīhono, pīhono karekare, tohutuhi
 💱	momo moni, moni, pēke, whakawhitinga momo moni, whakawhitiwhiti
@@ -2570,13 +2570,13 @@
 📛	ingoa, tohu, tohu ingoa
 🔰	Hapanīhi, kaitīmata, kaokao, kākāriki, kōwhai, rau, tohu Hapanīhi mō te tauhou, utauta
 ⭕️	o, porohita, porohita rahi taumaha
-✅	taki, tohu, tohu taki mā taumaha
+✅️	taki, tohu, tohu taki mā taumaha
 ☑️	pouaka, pouaka pōti whai taki, pōti, taki
 ✔️	taki, tohu, tohu taki taumaha
-❌	tohu, tohu whiri, whakakore, whakarea, whakareatanga, x
-❎	pātene tohu whiri, tapawhā, tohu
-➰	hūmenge, koromeke, koromeke hūmenge
-➿	hūmenge, koromeke, koromeke hūmenge taurua, taurua
+❌️	tohu, tohu whiri, whakakore, whakarea, whakareatanga, x
+❎️	pātene tohu whiri, tapawhā, tohu
+➰️	hūmenge, koromeke, koromeke hūmenge
+➿️	hūmenge, koromeke, koromeke hūmenge taurua, taurua
 〽️	tohu, tohu wāhi whirihoa, wāhi
 ✳️	whetūriki, whetūriki waru-pito
 ✴️	whetū, whetū waru-pito
@@ -2584,6 +2584,19 @@
 ©️	manatārua
 ®️	rēhitatia
 ™️	tohu, tohu hoko, tohuhoko
+#⃣	uhi pātuhi, uhi pātuhi: #
+*⃣	uhi pātuhi, uhi pātuhi: *
+0⃣	uhi pātuhi, uhi pātuhi: 0
+1⃣	uhi pātuhi, uhi pātuhi: 1
+2⃣	uhi pātuhi, uhi pātuhi: 2
+3⃣	uhi pātuhi, uhi pātuhi: 3
+4⃣	uhi pātuhi, uhi pātuhi: 4
+5⃣	uhi pātuhi, uhi pātuhi: 5
+6⃣	uhi pātuhi, uhi pātuhi: 6
+7⃣	uhi pātuhi, uhi pātuhi: 7
+8⃣	uhi pātuhi, uhi pātuhi: 8
+9⃣	uhi pātuhi, uhi pātuhi: 9
+🔟	uhi pātuhi, uhi pātuhi: 10
 🔠	ABCD, ngā pū, pūmatua, ratini, tāuru, tāuru pūmatua ratini
 🔡	abcd, ngā pū, pūriki, ratini, tāuru, tāuru pūriki ratini
 🔢	1234, ngā tau, tāuru, tāuru tau
@@ -2650,7 +2663,283 @@
 🏴	kara pango, piupiu ana
 🏳️	kara mā, piupiu ana
 🏳‍🌈	kahukura, kara kahukura
+🇦🇨	haki, haki: Te Moutere Aupikinga
+🇦🇩	haki, haki: Anatōra
+🇦🇪	haki, haki: Kotahitanga o ngā Whenua o Ārapi
+🇦🇫	haki, haki: Awhekenetāna
+🇦🇬	haki, haki: Motu Nehe me Pāputa
+🇦🇮	haki, haki: Anguira
+🇦🇱	haki, haki: Arapeinia
+🇦🇲	haki, haki: Āmenia
+🇦🇴	haki, haki: Anakora
+🇦🇶	haki, haki: Te Kōpakatanga ki te Tonga
+🇦🇷	haki, haki: Āketina
+🇦🇸	haki, haki: Hāmoa-Amerika
+🇦🇹	haki, haki: Ataria
+🇦🇺	haki, haki: Ahitereiria
+🇦🇼	haki, haki: Arūpa
+🇦🇽	haki, haki: Motu Ōrana
+🇦🇿	haki, haki: Atepaihānia
+🇧🇦	haki, haki: Pōngia-Herekōwini
+🇧🇧	haki, haki: Papatohe
+🇧🇩	haki, haki: Pākaratēhi
+🇧🇪	haki, haki: Peretiama
+🇧🇫	haki, haki: Pākina Wharo
+🇧🇬	haki, haki: Purukāria
+🇧🇭	haki, haki: Pāreina
+🇧🇮	haki, haki: Puruniti
+🇧🇯	haki, haki: Penīna
+🇧🇱	haki, haki: Hato Pāteremi
+🇧🇲	haki, haki: Pāmura
+🇧🇳	haki, haki: Poronai
+🇧🇴	haki, haki: Poriwia
+🇧🇶	haki, haki: Karapīana Hōrana
+🇧🇷	haki, haki: Parīhi
+🇧🇸	haki, haki: Pahama
+🇧🇹	haki, haki: Pūtana
+🇧🇻	haki, haki: Motu Pūwei
+🇧🇼	haki, haki: Poriwana
+🇧🇾	haki, haki: Pērara
+🇧🇿	haki, haki: Perīhi
+🇨🇦	haki, haki: Kānata
+🇨🇨	haki, haki: Ngā Moutere Kokoko (Kirini)
+🇨🇩	haki, haki: Kōngo - Kinihāha
+🇨🇫	haki, haki: Te Whenua Tūhake o Āwherika Waenga
+🇨🇬	haki, haki: Kōngo - Pārawhe
+🇨🇭	haki, haki: Huiterangi
+🇨🇮	haki, haki: Te Tai Rei
+🇨🇰	haki, haki: Kuki Airani
+🇨🇱	haki, haki: Hiri
+🇨🇲	haki, haki: Kamarūna
+🇨🇳	haki, haki: Haina
+🇨🇴	haki, haki: Koromōpia
+🇨🇵	haki, haki: Te Moutere Kiripetone
+🇨🇷	haki, haki: Koto Rīka
+🇨🇺	haki, haki: Kiupa
+🇨🇻	haki, haki: Te Kūrae Matomato
+🇨🇼	haki, haki: Kurahao
+🇨🇽	haki, haki: Te Moutere Kirihimete
+🇨🇾	haki, haki: Haipara
+🇨🇿	haki, haki: Tiekia
+🇩🇪	haki, haki: Tiamana
+🇩🇬	haki, haki: Tieko Kāhia
+🇩🇯	haki, haki: Tipūti
+🇩🇰	haki, haki: Tenemāka
+🇩🇲	haki, haki: Tominika
+🇩🇴	haki, haki: Te Whenua Tūhake o Tominika
+🇩🇿	haki, haki: Aratiria
+🇪🇦	haki, haki: Hūta me Merera
+🇪🇨	haki, haki: Ekuatoa
+🇪🇪	haki, haki: Etōnia
+🇪🇬	haki, haki: Īhipa
+🇪🇭	haki, haki: Hahāra ki te Tonga
+🇪🇷	haki, haki: Eritēria
+🇪🇸	haki, haki: Peina
+🇪🇹	haki, haki: Etiopia
+🇪🇺	haki, haki: Te Uniana o Ūropi
+🇫🇮	haki, haki: Whinarana
+🇫🇯	haki, haki: Whītī
+🇫🇰	haki, haki: Motu Whākarangi
+🇫🇲	haki, haki: Mekanēhia
+🇫🇴	haki, haki: Motu Wharau
+🇫🇷	haki, haki: Wīwī
+🇬🇦	haki, haki: Kāpona
+🇬🇧	haki, haki: Te Hononga o Piritene
+🇬🇩	haki, haki: Kerenāta
+🇬🇪	haki, haki: Hōria
+🇬🇫	haki, haki: Kiāna Wīwī
+🇬🇬	haki, haki: Kōnihi
+🇬🇭	haki, haki: Kāna
+🇬🇮	haki, haki: Kāmaka
+🇬🇱	haki, haki: Whenuakāriki
+🇬🇲	haki, haki: Kamopia
+🇬🇳	haki, haki: Kini
+🇬🇵	haki, haki: Kuatarupa
+🇬🇶	haki, haki: Kini Ekuatoria
+🇬🇷	haki, haki: Kirihi
+🇬🇸	haki, haki: Hōria ki te Tonga me ngā Motu Hanawiti ki te Tonga
+🇬🇹	haki, haki: Kuatamāra
+🇬🇺	haki, haki: Kuama
+🇬🇼	haki, haki: Kini-Pihao
+🇬🇾	haki, haki: Kaiana
+🇭🇰	haki, haki: Hongipua Haina
+🇭🇲	haki, haki: Ngā Moutere Heriti me Makitānara
+🇭🇳	haki, haki: Honotura
+🇭🇷	haki, haki: Koroātia
+🇭🇹	haki, haki: Haiti
+🇭🇺	haki, haki: Hanekari
+🇮🇨	haki, haki: Motu Kanēre
+🇮🇩	haki, haki: Initonīhia
+🇮🇪	haki, haki: Airani
+🇮🇱	haki, haki: Iharaira
+🇮🇲	haki, haki: Te Moutere Mana
+🇮🇳	haki, haki: Inia
+🇮🇴	haki, haki: Te Rohe o te Moana Īniana Piritihi
+🇮🇶	haki, haki: Irāka
+🇮🇷	haki, haki: Irāna
+🇮🇸	haki, haki: Tiorangi
+🇮🇹	haki, haki: Itāria
+🇯🇪	haki, haki: Tōrehe
+🇯🇲	haki, haki: Hemeika
+🇯🇴	haki, haki: Hōrano
+🇯🇵	haki, haki: Hapani
+🇰🇪	haki, haki: Kenia
+🇰🇬	haki, haki: Kikitānga
+🇰🇭	haki, haki: Kamapōtia
+🇰🇮	haki, haki: Kiripati
+🇰🇲	haki, haki: Komoro
+🇰🇳	haki, haki: Hato Kiti me Newhi
+🇰🇵	haki, haki: Kōrea ki te Raki
+🇰🇷	haki, haki: Kōrea ki te Tonga
+🇰🇼	haki, haki: Kūweiti
+🇰🇾	haki, haki: Ngā Motu Keimana
+🇰🇿	haki, haki: Katatānga
+🇱🇦	haki, haki: Rāoho
+🇱🇧	haki, haki: Repanona
+🇱🇨	haki, haki: Hato Ruhia
+🇱🇮	haki, haki: Rīkenetaina
+🇱🇰	haki, haki: Hiri Rānaka
+🇱🇷	haki, haki: Raipiria
+🇱🇸	haki, haki: Teroto
+🇱🇹	haki, haki: Rituānia
+🇱🇺	haki, haki: Rakapuō
+🇱🇻	haki, haki: Rāwhia
+🇱🇾	haki, haki: Ripia
+🇲🇦	haki, haki: Moroko
+🇲🇨	haki, haki: Monāko
+🇲🇩	haki, haki: Morotawa
+🇲🇪	haki, haki: Maungakororiko
+🇲🇫	haki, haki: Hato Mātene
+🇲🇬	haki, haki: Matakāhika
+🇲🇭	haki, haki: Ngā Motu Māhara
+🇲🇰	haki, haki: Makerōnia ki te Raki
+🇲🇱	haki, haki: Māri
+🇲🇲	haki, haki: Pēma
+🇲🇳	haki, haki: Mongōria
+🇲🇴	haki, haki: Makau Haina
+🇲🇵	haki, haki: Ngā Motu Mariana ki te Raki
+🇲🇶	haki, haki: Mātiniki
+🇲🇷	haki, haki: Mauritānia
+🇲🇸	haki, haki: Monoterā
+🇲🇹	haki, haki: Mārata
+🇲🇺	haki, haki: Marihi
+🇲🇻	haki, haki: Māratiri
+🇲🇼	haki, haki: Marāwi
+🇲🇽	haki, haki: Mēhiko
+🇲🇾	haki, haki: Mareia
+🇲🇿	haki, haki: Mohapiki
+🇳🇦	haki, haki: Namipia
+🇳🇨	haki, haki: Whenua Kanaki
+🇳🇪	haki, haki: Ngāika
+🇳🇫	haki, haki: Te Moutere Nōpoke
+🇳🇬	haki, haki: Ngāitiria
+🇳🇮	haki, haki: Nikarāhua
+🇳🇱	haki, haki: Hōrana
+🇳🇴	haki, haki: Nōwei
+🇳🇵	haki, haki: Nepōra
+🇳🇷	haki, haki: Nauru
+🇳🇺	haki, haki: Niue
+🇳🇿	haki, haki: Aotearoa
+🇴🇲	haki, haki: Ōmana
+🇵🇦	haki, haki: Panama
+🇵🇪	haki, haki: Peru
+🇵🇫	haki, haki: Poronēhia Wīwī
+🇵🇬	haki, haki: Papua Nūkini
+🇵🇭	haki, haki: Piripīni
+🇵🇰	haki, haki: Pakitāne
+🇵🇱	haki, haki: Pōrana
+🇵🇲	haki, haki: Hato Piere & Mikerona
+🇵🇳	haki, haki: Pitikeina
+🇵🇷	haki, haki: Peta Riko
+🇵🇸	haki, haki: Ngā Rohe o Parihitini
+🇵🇹	haki, haki: Potukara
+🇵🇼	haki, haki: Pārau
+🇵🇾	haki, haki: Parakai
+🇶🇦	haki, haki: Katā
+🇷🇪	haki, haki: Reūnio
+🇷🇴	haki, haki: Romeinia
+🇷🇸	haki, haki: Hirupia
+🇷🇺	haki, haki: Rūhia
+🇷🇼	haki, haki: Rāwana
+🇸🇦	haki, haki: Hauri Arāpia
+🇸🇧	haki, haki: Ngā Motu Horomona
+🇸🇨	haki, haki: Heikere
+🇸🇩	haki, haki: Hūtāne
+🇸🇪	haki, haki: Huitene
+🇸🇬	haki, haki: Hingapoa
+🇸🇭	haki, haki: Hato Hērena
+🇸🇮	haki, haki: Horowinia
+🇸🇯	haki, haki: Heopara me Iana Maiana
+🇸🇰	haki, haki: Horowākia
+🇸🇱	haki, haki: Te Araone
+🇸🇲	haki, haki: Hana Marino
+🇸🇳	haki, haki: Henekara
+🇸🇴	haki, haki: Hūmārie
+🇸🇷	haki, haki: Huriname
+🇸🇸	haki, haki: Hūtāne ki te Tonga
+🇸🇹	haki, haki: Hato Tomei me Pirinipei
+🇸🇻	haki, haki: Whakaora
+🇸🇽	haki, haki: Hiti Mātene
+🇸🇾	haki, haki: Hiria
+🇸🇿	haki, haki: Ehiwatini
+🇹🇦	haki, haki: Tiritana da Kunia
+🇹🇨	haki, haki: Koru-Kākoa
+🇹🇩	haki, haki: Kāta
+🇹🇫	haki, haki: Ngā Rohe o Wīwī ki te Tonga
+🇹🇬	haki, haki: Toko
+🇹🇭	haki, haki: Tairanga
+🇹🇯	haki, haki: Takiritānga
+🇹🇰	haki, haki: Tokerau
+🇹🇱	haki, haki: Tīmoa ki te Rāwhiti
+🇹🇲	haki, haki: Tukumanatānga
+🇹🇳	haki, haki: Tūnihia
+🇹🇴	haki, haki: Tonga
+🇹🇷	haki, haki: Tākei
+🇹🇹	haki, haki: Tirinaki Tōpako
+🇹🇻	haki, haki: Tūwaru
+🇹🇼	haki, haki: Taiwana
+🇹🇿	haki, haki: Tānahia
+🇺🇦	haki, haki: Ukareinga
+🇺🇬	haki, haki: Ukānga
+🇺🇲	haki, haki: Ngā Moutere Amerika o Waho
+🇺🇳	haki, haki: Te Rūnanga Whakakotahi i ngā Iwi o te Ao
+🇺🇸	haki, haki: Hononga o Amerika
+🇺🇾	haki, haki: Urukoi
+🇺🇿	haki, haki: Uhipeketāne
+🇻🇦	haki, haki: Te Poho-o-Pita
+🇻🇨	haki, haki: Hato Wēneti me Keretīni
+🇻🇪	haki, haki: Penehūera
+🇻🇬	haki, haki: Ngā Moutere Puhi Piritene
+🇻🇮	haki, haki: Ngā Moutere Puhi Amerika
+🇻🇳	haki, haki: Whitināmu
+🇻🇺	haki, haki: Whenuatū
+🇼🇫	haki, haki: Warihi me Whutuna
+🇼🇸	haki, haki: Hāmoa
+🇽🇰	haki, haki: Kōhoro
+🇾🇪	haki, haki: Īmene
+🇾🇹	haki, haki: Māiota
+🇿🇦	haki, haki: Āwherika ki te Tonga
+🇿🇲	haki, haki: Tāmipia
+🇿🇼	haki, haki: Timuwawe
 ¤	Moni Tē Mōhiotia
+֏	Dram Āmenia
+؋	Afghani Awhekenetāna
+৳	Taka Pākaratēhi
+฿	Baht Tairanga
+៛	Riel Kamapōtia
+₡	Colon Koto Rika
+₦	Naira Ngāitīria
+₪	Shekel Hou Iharaira
+₫	Dong Whitināmu
+₭	kip Rāoho
+₮	tugrik Mongōria
+₲	Guarani Parakai
+₴	Hryvnia Ukareinga
+₵	Cedi Kāna
+₸	Tenge Katatānga
+₺	Lira Tākei
+₼	Manat Atepaihānia
+₾	Lari Hōria
 🏻	kiri āhua, kiri āhua māmā, momo 1–2
 🏼	kiri āhua, kiri āhua māmā-waenga, momo 3
 🏽	kiri āhua, kiri āhua waenga, momo 4

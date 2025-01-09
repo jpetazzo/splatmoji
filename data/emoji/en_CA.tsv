@@ -5,35 +5,33 @@
 ’	apostrophe, curly quote, quote, right apostrophe, single quote, smart quote
 “	curly quotes, double quote, left quotation mark, quotation, quote, smart quotation
 ”	curly quotes, double quote, quotation, quote, right quotation mark, smart quotation
-)	bracket, close parenthesis, parens, parenthesis, round bracket
+)	bracket, close parenthesis, paren, parens, parenthesis, right round bracket, round bracket
 [	bracket, crotchet, left square bracket, open square bracket, square bracket
 ]	bracket, close square bracket, crotchet, right square bracket, square bracket
 {	brace, bracket, curly brace, curly bracket, gullwing, left curly bracket, open curly bracket
 }	brace, bracket, close curly bracket, curly brace, curly bracket, gullwing, right curly bracket
-〈	angle bracket, bracket, chevron, diamond brackets, left angle bracket, pointy bracket, tuple
-〉	angle bracket, bracket, chevron, diamond brackets, pointy bracket, right angle bracket, tuple
-《	bracket, double angle bracket, left double angle bracket
-》	bracket, double angle bracket, right double angle bracket
-「	bracket, corner bracket, left corner bracket
-」	bracket, corner bracket, right corner bracket
-『	bracket, hollow corner bracket, left hollow corner bracket
-』	bracket, hollow corner bracket, right hollow corner bracket
-【	bracket, left black lenticular bracket, lens bracket, lenticular bracket
-】	bracket, lens bracket, lenticular bracket, right black lenticular bracket
+《	bracket, double angle bracket, left double angle bracket, open double angle bracket
+》	bracket, close double angle bracket, double angle bracket, right double angle bracket
+「	bracket, corner bracket, left corner bracket, open corner bracket
+」	bracket, close corner bracket, corner bracket, right corner bracket
+『	bracket, hollow corner bracket, left hollow corner bracket, open hollow corner bracket
+』	bracket, close hollow corner bracket, hollow corner bracket, right hollow corner bracket
+【	bracket, left black lenticular bracket, lens bracket, lenticular bracket, open black lens bracket
+】	bracket, close black lens bracket, lens bracket, lenticular bracket, right black lenticular bracket
 〔	bracket, left tortoise shell bracket, open tortoise shell bracket, shell bracket, tortoise shell bracket
 〕	bracket, close tortoise shell bracket, right tortoise shell bracket, shell bracket, tortoise shell bracket
-〖	bracket, hollow lens bracket, hollow lenticular bracket, left hollow lenticular bracket
-〗	bracket, hollow lens bracket, hollow lenticular bracket, right hollow lenticular bracket
-@	ampersat, arobase, arroba, at mark, at sign, at-sign, commercial at, email, strudel
+〖	bracket, hollow lens bracket, hollow lenticular bracket, left hollow lenticular bracket, open hollow lens bracket
+〗	bracket, close hollow lens bracket, hollow lens bracket, hollow lenticular bracket, right hollow lenticular bracket
+@	at sign
 %	per cent, per-cent, percent, percentage
-↹	leftwards arrow to bar over rightwards arrow to bar
+↹	arrow, bar, leftwards, leftwards arrow to bar over rightwards arrow to bar, leftwards over rightwards arrow bars, rightwards
 ∂	differential, partial derivative, partial differential
 ∃	existential, mathematics, quantifier, there exists
 ∅	empty set, mathematics, null set, null sign, set operator
 ∉	element, not an element, not an element of, set
 ∎	end of proof, end proof, halmos, q.e.d., qed, tombstone
 ∑	mathematics, n-ary summation, sigma, summation
-<	less than
+<	less than, less-than sign, open tag, tag
 >	close tag, greater than, greater-than sign, tag
 |	bar, line, pipe, sheffer stroke, vertical bar, vertical line
 ∓	minus-or-plus, minus-plus
@@ -80,7 +78,7 @@
 ▭	hollow rectangle, white rectangle
 ▮	black vertical rectangle, filled vertical rectangle
 ▰	black parallelogram, filled parallelogram
-▲	arrow, black up-pointing triangle, triangle, up
+▲	arrow, black up-pointing triangle, filled up-pointing triangle, triangle, up
 △	hollow up-pointing triangle, white up-pointing triangle
 ▴	black up-pointing small triangle, filled up-pointing small triangle
 ▵	hollow up-pointing small triangle, white up-pointing small triangle
@@ -89,7 +87,7 @@
 ▹	hollow right-pointing small triangle, white right-pointing small triangle
 ►	black right-pointing pointer, filled right-pointing pointer
 ▻	hollow right-pointing pointer, white right-pointing pointer
-▼	arrow, black down-pointing triangle, down, triangle
+▼	arrow, black down-pointing triangle, down, filled down-pointing triangle, triangle
 ▽	hollow down-pointing triangle, white down-pointing triangle
 ▾	black down-pointing small triangle, filled down-pointing small triangle
 ▿	hollow down-pointing small triangle, white down-pointing small triangle
@@ -100,15 +98,15 @@
 ◅	hollow left-pointing pointer, white left-pointing pointer
 ◆	black diamond, filled diamond
 ◇	hollow diamond, white diamond
-◈	hollow diamond containing filled diamond, white diamond containing black small diamond
-◉	circled dot, concentric circles filled, fisheye, hollow circle containing filled circle, white circle containing black small circle
+◈	hollow diamond containing filled diamond, white diamond containing black diamond
+◉	circled dot, concentric circles filled, fisheye, hollow circle containing filled circle, white circle containing black circle
 ○	circle, hollow circle, ring, white circle
 ●	black circle, circle, filled circle
 ◔	circle with upper-right quadrant filled
 ◕	circle with all but upper-left quadrant filled
 ◖	left half black circle, left half filled circle
 ◗	right half black circle, right half filled circle
-◙	black square containing hollow circle, inverse hollow circle
+◙	black square containing white circle, filled square containing hollow circle
 ◜	upper-left quadrant circular arc
 ◝	upper-right quadrant circular arc
 ◞	lower-right quadrant circular arc
@@ -122,7 +120,7 @@
 ◷	hollow circle with upper-right quadrant, white circle with upper-right quadrant
 ◿	lower-right triangle, white
 ⨧	plus sign with subscript two
-⨯	vector or cross product
+⨯	cross product, vector, vector or cross product
 ⨼	interior product, mathematics
 ⩣	logical or with double underbar, mathematics
 ⩽	inequality, less-than or slanted equal to, mathematics
@@ -132,14 +130,25 @@
 😍	eye, face, love, smile, smiling face with heart eyes, smiling face with heart-eyes
 😋	delicious, face, face savouring food, savoring, savouring, smile, yum
 🤭	face with hand over mouth, oops, whoops
+🫥	depressed, disappear, dotted line face, dotted-line face, hide, introvert, invisible
+🤥	Pinocchio, face, lie, lying face
 😷	cold, doctor, face, face with medical mask, ill, mask, sick
-🤕	bandage, face, face with head bandage, hurt, injury
+🤕	bandage, face, face with head bandage, face with head-bandage, hurt, injury
 🤧	bless you, face, gesundheit, sneeze, sneezing face
-😵‍💫	dizzy, face with spiral eyes, hypnotised, spiral, trouble, whoa
-🫤	disappointed, meh, sceptical, unsure
+🤠	cowboy, cowgirl, face, face with cowboy hat, hat
 😤	angry, face, face with steam from nose, frustration, triumph, won
-😻	cat, eye, face, heart, love, smile, smiling cat face with heart eyes, smiling cat face with heart-eyes
-🗨️	dialogue, left speech bubble, speech
+👽️	ET, UFO, alien, creature, extraterrestrial, face, fantasy
+👾	ET, UFO, alien, creature, extraterrestrial, face, monster
+😻	cat, eye, face, heart, love, smile, smiling cat face with heart eyes, smiling cat with heart-eyes
+💯	100, full, hundred, hundred percent, hundred points, one hundred, score
+💬	balloon, bubble, comic, dialog, dialogue, speech
+🗨️	balloon, bubble, dialog, dialogue, left speech bubble, speech
+🖖	Spock, Vulcan, Vulcan salute, finger, hand
+🖖🏻	Spock, Vulcan, Vulcan salute, Vulcan salute: light skin tone, finger, hand, light skin tone
+🖖🏼	Spock, Vulcan, Vulcan salute, Vulcan salute: medium-light skin tone, finger, hand, medium-light skin tone
+🖖🏽	Spock, Vulcan, Vulcan salute, Vulcan salute: medium skin tone, finger, hand, medium skin tone
+🖖🏾	Spock, Vulcan, Vulcan salute, Vulcan salute: medium-dark skin tone, finger, hand, medium-dark skin tone
+🖖🏿	Spock, Vulcan, Vulcan salute, Vulcan salute: dark skin tone, dark skin tone, finger, hand
 🫱	hand, right, rightward, rightward hand, rightwards
 🫱🏻	hand, light skin tone, right, rightward, rightward hand: light skin tone, rightwards
 🫱🏼	hand, medium-light skin tone, right, rightward, rightward hand: medium-light skin tone, rightwards
@@ -152,6 +161,30 @@
 🫲🏽	hand, left, leftward, leftward hand: medium skin tone, leftwards, medium skin tone
 🫲🏾	hand, left, leftward, leftward hand: medium-dark skin tone, leftwards, medium-dark skin tone
 🫲🏿	dark skin tone, hand, left, leftward, leftward hand: dark skin tone, leftwards
+🫳	dismiss, drop, palm down hand, palm-down hand, shoo
+🫳🏻	dismiss, drop, light skin tone, palm down hand, palm-down hand, palm-down hand: light skin tone, shoo
+🫳🏼	dismiss, drop, medium-light skin tone, palm down hand, palm-down hand, palm-down hand: medium-light skin tone, shoo
+🫳🏽	dismiss, drop, medium skin tone, palm down hand, palm-down hand, palm-down hand: medium skin tone, shoo
+🫳🏾	dismiss, drop, medium-dark skin tone, palm down hand, palm-down hand, palm-down hand: medium-dark skin tone, shoo
+🫳🏿	dark skin tone, dismiss, drop, palm down hand, palm-down hand, palm-down hand: dark skin tone, shoo
+🫴	beckon, catch, come, offer, palm up hand, palm-up hand
+🫴🏻	beckon, catch, come, light skin tone, offer, palm up hand, palm-up hand, palm-up hand: light skin tone
+🫴🏼	beckon, catch, come, medium-light skin tone, offer, palm up hand, palm-up hand, palm-up hand: medium-light skin tone
+🫴🏽	beckon, catch, come, medium skin tone, offer, palm up hand, palm-up hand, palm-up hand: medium skin tone
+🫴🏾	beckon, catch, come, medium-dark skin tone, offer, palm up hand, palm-up hand, palm-up hand: medium-dark skin tone
+🫴🏿	beckon, catch, come, dark skin tone, offer, palm up hand, palm-up hand, palm-up hand: dark skin tone
+🫷	high five, leftward, leftward-pushing hand, leftwards pushing hand, push, refuse, stop, wait
+🫷🏻	high five, leftward, leftward-pushing hand, leftward-pushing hand: light skin tone, leftwards pushing hand, light skin tone, push, refuse, stop, wait
+🫷🏼	high five, leftward, leftward-pushing hand, leftward-pushing hand: medium-light skin tone, leftwards pushing hand, medium-light skin tone, push, refuse, stop, wait
+🫷🏽	high five, leftward, leftward-pushing hand, leftward-pushing hand: medium skin tone, leftwards pushing hand, medium skin tone, push, refuse, stop, wait
+🫷🏾	high five, leftward, leftward-pushing hand, leftward-pushing hand: medium-dark skin tone, leftwards pushing hand, medium-dark skin tone, push, refuse, stop, wait
+🫷🏿	dark skin tone, high five, leftward, leftward-pushing hand, leftward-pushing hand: dark skin tone, leftwards pushing hand, push, refuse, stop, wait
+🫸	high five, push, refuse, rightward, rightward-pushing hand, rightwards pushing hand, stop, wait
+🫸🏻	high five, light skin tone, push, refuse, rightward, rightward-pushing hand, rightward-pushing hand: light skin tone, rightwards pushing hand, stop, wait
+🫸🏼	high five, medium-light skin tone, push, refuse, rightward, rightward-pushing hand, rightward-pushing hand: medium-light skin tone, rightwards pushing hand, stop, wait
+🫸🏽	high five, medium skin tone, push, refuse, rightward, rightward-pushing hand, rightward-pushing hand: medium skin tone, rightwards pushing hand, stop, wait
+🫸🏾	high five, medium-dark skin tone, push, refuse, rightward, rightward-pushing hand, rightward-pushing hand: medium-dark skin tone, rightwards pushing hand, stop, wait
+🫸🏿	dark skin tone, high five, push, refuse, rightward, rightward-pushing hand, rightward-pushing hand: dark skin tone, rightwards pushing hand, stop, wait
 👌	OK, hand, perfect
 👌🏻	OK, hand, light skin tone, perfect
 👌🏼	OK, hand, medium-light skin tone, perfect
@@ -176,12 +209,12 @@
 🤘🏽	finger, hand, horns, medium skin tone, rock on, sign of the horns
 🤘🏾	finger, hand, horns, medium-dark skin tone, rock on, sign of the horns
 🤘🏿	dark skin tone, finger, hand, horns, rock on, sign of the horns
-🤙	call, call me hand, call-me hand, hand
-🤙🏻	call, call me hand, call-me hand, hand, light skin tone
-🤙🏼	call, call me hand, call-me hand, hand, medium-light skin tone
-🤙🏽	call, call me hand, call-me hand, hand, medium skin tone
-🤙🏾	call, call me hand, call-me hand, hand, medium-dark skin tone
-🤙🏿	call, call me hand, call-me hand, dark skin tone, hand
+🤙	Shaka, call, call me hand, call-me hand, hand, hang loose
+🤙🏻	Shaka, call, call me hand, call-me hand, call-me hand: light skin tone, hand, hang loose, light skin tone
+🤙🏼	Shaka, call, call me hand, call-me hand, call-me hand: medium-light skin tone, hand, hang loose, medium-light skin tone
+🤙🏽	Shaka, call, call me hand, call-me hand, call-me hand: medium skin tone, hand, hang loose, medium skin tone
+🤙🏾	Shaka, call, call me hand, call-me hand, call-me hand: medium-dark skin tone, hand, hang loose, medium-dark skin tone
+🤙🏿	Shaka, call, call me hand, call-me hand, call-me hand: dark skin tone, dark skin tone, hand, hang loose
 🤛	fist, left-facing fist, leftward
 🤛🏻	fist, left-facing fist, leftward, light skin tone
 🤛🏼	fist, left-facing fist, leftward, medium-light skin tone
@@ -200,6 +233,12 @@
 🙏🏽	ask, folded hands, hand, high five, medium skin tone, please, pray, thanks
 🙏🏾	ask, folded hands, hand, high five, medium-dark skin tone, please, pray, thanks
 🙏🏿	ask, dark skin tone, folded hands, hand, high five, please, pray, thanks
+💪	biceps, comic, flex, flexed bicep, muscle
+💪🏻	biceps, comic, flex, flexed bicep, flexed bicep: light skin tone, light skin tone, muscle
+💪🏼	biceps, comic, flex, flexed bicep, flexed bicep: medium-light skin tone, medium-light skin tone, muscle
+💪🏽	biceps, comic, flex, flexed bicep, flexed bicep: medium skin tone, medium skin tone, muscle
+💪🏾	biceps, comic, flex, flexed bicep, flexed bicep: medium-dark skin tone, medium-dark skin tone, muscle
+💪🏿	biceps, comic, dark skin tone, flex, flexed bicep, flexed bicep: dark skin tone, muscle
 🦻	accessibility, ear with hearing aid, hard of hearing, hearing impaired
 🦻🏻	accessibility, ear with hearing aid, hard of hearing, hearing impaired, light skin tone
 🦻🏼	accessibility, ear with hearing aid, hard of hearing, hearing impaired, medium-light skin tone
@@ -212,18 +251,36 @@
 👧🏽	girl, medium skin tone, young
 👧🏾	girl, medium-dark skin tone, young
 👧🏿	dark skin tone, girl, young
-🧏	accessibility, deaf, deaf person, ear, hear, hearing impaired
-🧏🏻	accessibility, deaf, deaf person, ear, hear, hearing impaired, light skin tone
-🧏🏼	accessibility, deaf, deaf person, ear, hear, hearing impaired, medium-light skin tone
-🧏🏽	accessibility, deaf, deaf person, ear, hear, hearing impaired, medium skin tone
-🧏🏾	accessibility, deaf, deaf person, ear, hear, hearing impaired, medium-dark skin tone
-🧏🏿	accessibility, dark skin tone, deaf, deaf person, ear, hear, hearing impaired
-🧑‍⚕	care, doctor, health, health worker, healthcare, nurse, therapist
-🧑🏻‍⚕	care, doctor, health, health worker, healthcare, light skin tone, nurse, therapist
-🧑🏼‍⚕	care, doctor, health, health worker, healthcare, medium-light skin tone, nurse, therapist
-🧑🏽‍⚕	care, doctor, health, health worker, healthcare, medium skin tone, nurse, therapist
-🧑🏾‍⚕	care, doctor, health, health worker, healthcare, medium-dark skin tone, nurse, therapist
-🧑🏿‍⚕	care, dark skin tone, doctor, health, health worker, healthcare, nurse, therapist
+🙎	facial expression, gesture, person pouting, pouting
+🙎🏻	facial expression, gesture, light skin tone, person pouting, pouting
+🙎🏼	facial expression, gesture, medium-light skin tone, person pouting, pouting
+🙎🏽	facial expression, gesture, medium skin tone, person pouting, pouting
+🙎🏾	facial expression, gesture, medium-dark skin tone, person pouting, pouting
+🙎🏿	dark skin tone, facial expression, gesture, person pouting, pouting
+🧏	accessibility, deaf, deaf person, ear, hard of hearing, hear, hearing impaired
+🧏🏻	accessibility, deaf, deaf person, ear, hard of hearing, hear, hearing impaired, light skin tone
+🧏🏼	accessibility, deaf, deaf person, ear, hard of hearing, hear, hearing impaired, medium-light skin tone
+🧏🏽	accessibility, deaf, deaf person, ear, hard of hearing, hear, hearing impaired, medium skin tone
+🧏🏾	accessibility, deaf, deaf person, ear, hard of hearing, hear, hearing impaired, medium-dark skin tone
+🧏🏿	accessibility, dark skin tone, deaf, deaf person, ear, hard of hearing, hear, hearing impaired
+🙇‍♂	apology, bowing, favor, favour, gesture, man, sorry
+🙇🏻‍♂	apology, bowing, favor, favour, gesture, light skin tone, man, sorry
+🙇🏼‍♂	apology, bowing, favor, favour, gesture, man, medium-light skin tone, sorry
+🙇🏽‍♂	apology, bowing, favor, favour, gesture, man, medium skin tone, sorry
+🙇🏾‍♂	apology, bowing, favor, favour, gesture, man, medium-dark skin tone, sorry
+🙇🏿‍♂	apology, bowing, dark skin tone, favor, favour, gesture, man, sorry
+🙇‍♀	apology, bowing, favor, favour, gesture, sorry, woman
+🙇🏻‍♀	apology, bowing, favor, favour, gesture, light skin tone, sorry, woman
+🙇🏼‍♀	apology, bowing, favor, favour, gesture, medium-light skin tone, sorry, woman
+🙇🏽‍♀	apology, bowing, favor, favour, gesture, medium skin tone, sorry, woman
+🙇🏾‍♀	apology, bowing, favor, favour, gesture, medium-dark skin tone, sorry, woman
+🙇🏿‍♀	apology, bowing, dark skin tone, favor, favour, gesture, sorry, woman
+🧑‍⚕	doctor, health care, health worker, healthcare, nurse, therapist
+🧑🏻‍⚕	doctor, health care, health worker, healthcare, light skin tone, nurse, therapist
+🧑🏼‍⚕	doctor, health care, health worker, healthcare, medium-light skin tone, nurse, therapist
+🧑🏽‍⚕	doctor, health care, health worker, healthcare, medium skin tone, nurse, therapist
+🧑🏾‍⚕	doctor, health care, health worker, healthcare, medium-dark skin tone, nurse, therapist
+🧑🏿‍⚕	dark skin tone, doctor, health care, health worker, healthcare, nurse, therapist
 👨‍⚕	doctor, health care, man, man health worker, nurse, therapist
 👨🏻‍⚕	doctor, health care, light skin tone, man, man health worker, nurse, therapist
 👨🏼‍⚕	doctor, health care, man, man health worker, medium-light skin tone, nurse, therapist
@@ -254,6 +311,24 @@
 👩🏽‍🚒	engine, fire, firefighter, firetruck, firewoman, medium skin tone, truck, woman
 👩🏾‍🚒	engine, fire, firefighter, firetruck, firewoman, medium-dark skin tone, truck, woman
 👩🏿‍🚒	dark skin tone, engine, fire, firefighter, firetruck, firewoman, truck, woman
+🕵️	detective, private eye, sleuth, spy
+🕵🏻	detective, light skin tone, private eye, sleuth, spy
+🕵🏼	detective, medium-light skin tone, private eye, sleuth, spy
+🕵🏽	detective, medium skin tone, private eye, sleuth, spy
+🕵🏾	detective, medium-dark skin tone, private eye, sleuth, spy
+🕵🏿	dark skin tone, detective, private eye, sleuth, spy
+🫅	king, monarch, noble, person with crown, queen, regal, royalty
+🫅🏻	king, light skin tone, monarch, noble, person with crown, queen, regal, royalty
+🫅🏼	king, medium-light skin tone, monarch, noble, person with crown, queen, regal, royalty
+🫅🏽	king, medium skin tone, monarch, noble, person with crown, queen, regal, royalty
+🫅🏾	king, medium-dark skin tone, monarch, noble, person with crown, queen, regal, royalty
+🫅🏿	dark skin tone, king, monarch, noble, person with crown, queen, regal, royalty
+🤴	fairy tale, fantasy, prince
+🤴🏻	fairy tale, fantasy, light skin tone, prince
+🤴🏼	fairy tale, fantasy, medium-light skin tone, prince
+🤴🏽	fairy tale, fantasy, medium skin tone, prince
+🤴🏾	fairy tale, fantasy, medium-dark skin tone, prince
+🤴🏿	dark skin tone, fairy tale, fantasy, prince
 🎅	Christmas, Claus, Father, Santa, celebration
 🎅🏻	Christmas, Claus, Father, Santa, celebration, light skin tone
 🎅🏼	Christmas, Claus, Father, Santa, celebration, medium-light skin tone
@@ -266,18 +341,18 @@
 🤶🏽	Christmas, Claus, Mother, Mrs., celebration, medium skin tone
 🤶🏾	Christmas, Claus, Mother, Mrs., celebration, medium-dark skin tone
 🤶🏿	Christmas, Claus, Mother, Mrs., celebration, dark skin tone
-🧑‍🎄	Claus, Christmas, Mx. Claus
-🧑🏻‍🎄	Claus, Christmas, Mx. Claus, Mx. Claus: light skin tone, light skin tone
-🧑🏼‍🎄	Claus, Christmas, Mx. Claus, Mx. Claus: medium-light skin tone, medium-light skin tone
-🧑🏽‍🎄	Claus, Christmas, Mx. Claus, Mx. Claus: medium skin tone, medium skin tone
-🧑🏾‍🎄	Claus, Christmas, Mx. Claus, Mx. Claus: medium-dark skin tone, medium-dark skin tone
-🧑🏿‍🎄	Claus, Christmas, Mx. Claus, Mx. Claus: dark skin tone, dark skin tone
-💇	barber, beauty, haircut, parlour, person getting haircut
-💇🏻	barber, beauty, haircut, light skin tone, parlour, person getting haircut
-💇🏼	barber, beauty, haircut, medium-light skin tone, parlour, person getting haircut
-💇🏽	barber, beauty, haircut, medium skin tone, parlour, person getting haircut
-💇🏾	barber, beauty, haircut, medium-dark skin tone, parlour, person getting haircut
-💇🏿	barber, beauty, dark skin tone, haircut, parlour, person getting haircut
+🧑‍🎄	Christmas, Claus, Mx. Claus
+🧑🏻‍🎄	Christmas, Claus, Mx. Claus, Mx. Claus: light skin tone, light skin tone
+🧑🏼‍🎄	Christmas, Claus, Mx. Claus, Mx. Claus: medium-light skin tone, medium-light skin tone
+🧑🏽‍🎄	Christmas, Claus, Mx. Claus, Mx. Claus: medium skin tone, medium skin tone
+🧑🏾‍🎄	Christmas, Claus, Mx. Claus, Mx. Claus: medium-dark skin tone, medium-dark skin tone
+🧑🏿‍🎄	Christmas, Claus, Mx. Claus, Mx. Claus: dark skin tone, dark skin tone
+💇	barber, beauty, haircut, parlor, parlour, person getting haircut, salon
+💇🏻	barber, beauty, haircut, light skin tone, parlor, parlour, person getting haircut, salon
+💇🏼	barber, beauty, haircut, medium-light skin tone, parlor, parlour, person getting haircut, salon
+💇🏽	barber, beauty, haircut, medium skin tone, parlor, parlour, person getting haircut, salon
+💇🏾	barber, beauty, haircut, medium-dark skin tone, parlor, parlour, person getting haircut, salon
+💇🏿	barber, beauty, dark skin tone, haircut, parlor, parlour, person getting haircut, salon
 🏋️	lifter, person lifting weights, weight, weightlifter
 🏋🏻	lifter, light skin tone, person lifting weights, weight, weightlifter
 🏋🏼	lifter, medium-light skin tone, person lifting weights, weight, weightlifter
@@ -302,77 +377,64 @@
 🤹🏽‍♀	juggling, medium skin tone, multi-task, multitask, woman
 🤹🏾‍♀	juggling, medium-dark skin tone, multi-task, multitask, woman
 🤹🏿‍♀	dark skin tone, juggling, multi-task, multitask, woman
-👭	couple, hand, holding hands, two women holding hands, women
-👭🏻	couple, hand, holding hands, light skin tone, two women holding hands, women
-👩🏻‍🤝‍👩🏼	couple, hand, holding hands, light skin tone, medium-light skin tone, two women holding hands, women
-👩🏻‍🤝‍👩🏽	couple, hand, holding hands, light skin tone, medium skin tone, two women holding hands, women
-👩🏻‍🤝‍👩🏾	couple, hand, holding hands, light skin tone, medium-dark skin tone, two women holding hands, women
-👩🏻‍🤝‍👩🏿	couple, dark skin tone, hand, holding hands, light skin tone, two women holding hands, women
-👩🏼‍🤝‍👩🏻	couple, hand, holding hands, light skin tone, medium-light skin tone, two women holding hands, women
-👭🏼	couple, hand, holding hands, medium-light skin tone, two women holding hands, women
-👩🏼‍🤝‍👩🏽	couple, hand, holding hands, medium skin tone, medium-light skin tone, two women holding hands, women
-👩🏼‍🤝‍👩🏾	couple, hand, holding hands, medium-dark skin tone, medium-light skin tone, two women holding hands, women
-👩🏼‍🤝‍👩🏿	couple, dark skin tone, hand, holding hands, medium-light skin tone, two women holding hands, women
-👩🏽‍🤝‍👩🏻	couple, hand, holding hands, light skin tone, medium skin tone, two women holding hands, women
-👩🏽‍🤝‍👩🏼	couple, hand, holding hands, medium skin tone, medium-light skin tone, two women holding hands, women
-👭🏽	couple, hand, holding hands, medium skin tone, two women holding hands, women
-👩🏽‍🤝‍👩🏾	couple, hand, holding hands, medium skin tone, medium-dark skin tone, two women holding hands, women
-👩🏽‍🤝‍👩🏿	couple, dark skin tone, hand, holding hands, medium skin tone, two women holding hands, women
-👩🏾‍🤝‍👩🏻	couple, hand, holding hands, light skin tone, medium-dark skin tone, two women holding hands, women
-👩🏾‍🤝‍👩🏼	couple, hand, holding hands, medium-dark skin tone, medium-light skin tone, two women holding hands, women
-👩🏾‍🤝‍👩🏽	couple, hand, holding hands, medium skin tone, medium-dark skin tone, two women holding hands, women
-👭🏾	couple, hand, holding hands, medium-dark skin tone, two women holding hands, women
-👩🏾‍🤝‍👩🏿	couple, dark skin tone, hand, holding hands, medium-dark skin tone, two women holding hands, women
-👩🏿‍🤝‍👩🏻	couple, dark skin tone, hand, holding hands, light skin tone, two women holding hands, women
-👩🏿‍🤝‍👩🏼	couple, dark skin tone, hand, holding hands, medium-light skin tone, two women holding hands, women
-👩🏿‍🤝‍👩🏽	couple, dark skin tone, hand, holding hands, medium skin tone, two women holding hands, women
-👩🏿‍🤝‍👩🏾	couple, dark skin tone, hand, holding hands, medium-dark skin tone, two women holding hands, women
-👭🏿	couple, dark skin tone, hand, holding hands, two women holding hands, women
-👬	Gemini, couple, holding hands, men, twins, two men holding hands, zodiac
-👬🏻	Gemini, couple, holding hands, light skin tone, men, twins, two men holding hands, zodiac
-👨🏻‍🤝‍👨🏼	Gemini, couple, holding hands, light skin tone, medium-light skin tone, men, twins, two men holding hands, zodiac
-👨🏻‍🤝‍👨🏽	Gemini, couple, holding hands, light skin tone, medium skin tone, men, twins, two men holding hands, zodiac
-👨🏻‍🤝‍👨🏾	Gemini, couple, holding hands, light skin tone, medium-dark skin tone, men, twins, two men holding hands, zodiac
-👨🏻‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, light skin tone, men, twins, two men holding hands, zodiac
-👨🏼‍🤝‍👨🏻	Gemini, couple, holding hands, light skin tone, medium-light skin tone, men, twins, two men holding hands, zodiac
-👬🏼	Gemini, couple, holding hands, medium-light skin tone, men, twins, two men holding hands, zodiac
-👨🏼‍🤝‍👨🏽	Gemini, couple, holding hands, medium skin tone, medium-light skin tone, men, twins, two men holding hands, zodiac
-👨🏼‍🤝‍👨🏾	Gemini, couple, holding hands, medium-dark skin tone, medium-light skin tone, men, twins, two men holding hands, zodiac
-👨🏼‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, medium-light skin tone, men, twins, two men holding hands, zodiac
-👨🏽‍🤝‍👨🏻	Gemini, couple, holding hands, light skin tone, medium skin tone, men, twins, two men holding hands, zodiac
-👨🏽‍🤝‍👨🏼	Gemini, couple, holding hands, medium skin tone, medium-light skin tone, men, twins, two men holding hands, zodiac
-👬🏽	Gemini, couple, holding hands, medium skin tone, men, twins, two men holding hands, zodiac
-👨🏽‍🤝‍👨🏾	Gemini, couple, holding hands, medium skin tone, medium-dark skin tone, men, twins, two men holding hands, zodiac
-👨🏽‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, medium skin tone, men, twins, two men holding hands, zodiac
-👨🏾‍🤝‍👨🏻	Gemini, couple, holding hands, light skin tone, medium-dark skin tone, men, twins, two men holding hands, zodiac
-👨🏾‍🤝‍👨🏼	Gemini, couple, holding hands, medium-dark skin tone, medium-light skin tone, men, twins, two men holding hands, zodiac
-👨🏾‍🤝‍👨🏽	Gemini, couple, holding hands, medium skin tone, medium-dark skin tone, men, twins, two men holding hands, zodiac
-👬🏾	Gemini, couple, holding hands, medium-dark skin tone, men, twins, two men holding hands, zodiac
-👨🏾‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, medium-dark skin tone, men, twins, two men holding hands, zodiac
-👨🏿‍🤝‍👨🏻	Gemini, couple, dark skin tone, holding hands, light skin tone, men, twins, two men holding hands, zodiac
-👨🏿‍🤝‍👨🏼	Gemini, couple, dark skin tone, holding hands, medium-light skin tone, men, twins, two men holding hands, zodiac
-👨🏿‍🤝‍👨🏽	Gemini, couple, dark skin tone, holding hands, medium skin tone, men, twins, two men holding hands, zodiac
-👨🏿‍🤝‍👨🏾	Gemini, couple, dark skin tone, holding hands, medium-dark skin tone, men, twins, two men holding hands, zodiac
-👬🏿	Gemini, couple, dark skin tone, holding hands, men, twins, two men holding hands, zodiac
+👬	Gemini, couple, holding hands, men holding hands, twins, zodiac
+👬🏻	Gemini, couple, holding hands, light skin tone, men holding hands, twins, zodiac
+👨🏻‍🤝‍👨🏼	Gemini, couple, holding hands, light skin tone, medium-light skin tone, men holding hands, twins, zodiac
+👨🏻‍🤝‍👨🏽	Gemini, couple, holding hands, light skin tone, medium skin tone, men holding hands, twins, zodiac
+👨🏻‍🤝‍👨🏾	Gemini, couple, holding hands, light skin tone, medium-dark skin tone, men holding hands, twins, zodiac
+👨🏻‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, light skin tone, men holding hands, twins, zodiac
+👨🏼‍🤝‍👨🏻	Gemini, couple, holding hands, light skin tone, medium-light skin tone, men holding hands, twins, zodiac
+👬🏼	Gemini, couple, holding hands, medium-light skin tone, men holding hands, twins, zodiac
+👨🏼‍🤝‍👨🏽	Gemini, couple, holding hands, medium skin tone, medium-light skin tone, men holding hands, twins, zodiac
+👨🏼‍🤝‍👨🏾	Gemini, couple, holding hands, medium-dark skin tone, medium-light skin tone, men holding hands, twins, zodiac
+👨🏼‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, medium-light skin tone, men holding hands, twins, zodiac
+👨🏽‍🤝‍👨🏻	Gemini, couple, holding hands, light skin tone, medium skin tone, men holding hands, twins, zodiac
+👨🏽‍🤝‍👨🏼	Gemini, couple, holding hands, medium skin tone, medium-light skin tone, men holding hands, twins, zodiac
+👬🏽	Gemini, couple, holding hands, medium skin tone, men holding hands, twins, zodiac
+👨🏽‍🤝‍👨🏾	Gemini, couple, holding hands, medium skin tone, medium-dark skin tone, men holding hands, twins, zodiac
+👨🏽‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, medium skin tone, men holding hands, twins, zodiac
+👨🏾‍🤝‍👨🏻	Gemini, couple, holding hands, light skin tone, medium-dark skin tone, men holding hands, twins, zodiac
+👨🏾‍🤝‍👨🏼	Gemini, couple, holding hands, medium-dark skin tone, medium-light skin tone, men holding hands, twins, zodiac
+👨🏾‍🤝‍👨🏽	Gemini, couple, holding hands, medium skin tone, medium-dark skin tone, men holding hands, twins, zodiac
+👬🏾	Gemini, couple, holding hands, medium-dark skin tone, men holding hands, twins, zodiac
+👨🏾‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, medium-dark skin tone, men holding hands, twins, zodiac
+👨🏿‍🤝‍👨🏻	Gemini, couple, dark skin tone, holding hands, light skin tone, men holding hands, twins, zodiac
+👨🏿‍🤝‍👨🏼	Gemini, couple, dark skin tone, holding hands, medium-light skin tone, men holding hands, twins, zodiac
+👨🏿‍🤝‍👨🏽	Gemini, couple, dark skin tone, holding hands, medium skin tone, men holding hands, twins, zodiac
+👨🏿‍🤝‍👨🏾	Gemini, couple, dark skin tone, holding hands, medium-dark skin tone, men holding hands, twins, zodiac
+👬🏿	Gemini, couple, dark skin tone, holding hands, men holding hands, twins, zodiac
 🦳	gray, grey, hair, old, white
 🐫	Bactrian, camel, hump, two-hump camel
+🦣	extinct, extinction, large, mammoth, tusk, woolly
 🐞	ladybug
 🌾	ear, grain, rice, sheaf, sheaf of rice
+🍀	four-leaf clover
+🧄	flavoring, flavouring, garlic
+🧅	flavoring, flavouring, onion
 🌰	chestnut, nut, plant
-🥐	French, bread, crescent roll, croissant, food
+🫚	beer, ginger, root, spice
+🥐	French, bread, breakfast, crescent, croissant, food, roll
 🥖	French, baguette, bread, food
+🥞	breakfast, crepe, crêpe, food, hotcake, pancake, pancakes
 🧇	breakfast, iron, unclear, vague, waffle
 🥩	chop, cut of meat, lamb chop, pork chop, steak
 🍟	French, French fries, fries
+🌭	frank, frankfurter, hot dog, hotdog, sausage
 🌮	Mexican, taco
 🌯	Mexican, burrito, wrap
+🫔	Mexican, tamale, wrapped
 🧆	chick pea, chickpea, falafel, meatball
 🍥	cake, fish, fish cake with swirl, narutomaki, pastry, swirl
-🍦	cream, dessert, ice, soft, sweet
+🍦	cream, dessert, ice, icecream, soft, soft-serve ice cream, sweet
 🍬	candy, dessert, sweet, sweets
 🍶	bar, beverage, bottle, cup, drink, sake, saké
+🍾	bar, bottle, bottle with popping cork, bubbly, cork, drink, popping
+🍻	bar, beer, cheers, clink, clinking beer mugs, drink, mug
+🥂	celebrate, cheers, clink, clinking glasses, drink, glass
+🥃	glass, liquor, shot, tumbler, whiskey, whisky
+🧋	boba, bubble, milk, pearl, tea
 🍴	cooking, cutlery, fork, fork and knife, knife, knife and fork
-🗻	Fuji, mount Fuji, mountain
+🗻	Fuji, Mount Fuji, mountain
 🏛️	classical, classical building, column
 🏪	convenience, dépanneur, store
 🗼	Tokyo, Tokyo Tower, Tower
@@ -381,12 +443,16 @@
 🛕	Hindu, Hindu temple, temple
 🕍	Jew, Jewish, religion, shul, synagogue, temple
 ⛩️	Shinto, Shinto shrine, religion, shrine
-🕋	Islam, Kaaba, Muslim, kaaba, religion
+🕋	Islam, Kaaba, Muslim, religion
+🌃	night, night with stars, star, starry night
+🏙️	city, cityscape, skyline
+🌆	city, cityscape at dusk, dusk, evening, landscape, skyline at dusk, sunset
+🎠	carousel, horse, merry-go-round
 🎡	Ferris, Ferris wheel, amusement park, theme park, wheel
 🚃	car, electric, railway, train, tram, trolley bus, trolleybus
 🚄	Shinkansen, high-speed train, railway, speed, train
 🚅	Shinkansen, bullet, railway, speed, train
-🚇️	subway
+🚇️	metro, subway, tube, underground
 🚊	car, streetcar, tram, tramcar, trolley, trolley bus, trolleybus
 🚋	car, streetcar, tram, tramcar, trolley, trolley bus, trolleybus
 🚎	bus, streetcar, tram, trolley, trolley bus, trolleybus
@@ -394,11 +460,13 @@
 🚙	SUV, recreational, sport utility, sport utility vehicle
 🚛	semi
 🛺	auto rickshaw, tuk tuk, tuk-tuk, tuktuk
-🚏	bus, busstop, stop
 🛣️	highway
 ⛽️	gas pump
-🛞	circle, turn, tyre
 🛥️	motorboat
+✈️	aeroplane, airplane, flight
+🛩️	aeroplane, airplane, small airplane, small plane
+🛫	aeroplane, airplane, check-in, departure, departures, flight departure, plane departure
+🛸	UFO, flying saucer, spaceship
 🕧	12, 12:30, clock, half past twelve, thirty, twelve, twelve thirty, twelve-thirty
 🕜	1, 1:30, clock, half past one, one, one thirty, one-thirty, thirty
 🕝	2, 2:30, clock, half past two, thirty, two, two thirty, two-thirty
@@ -421,41 +489,45 @@
 🥏	Frisbee, flying disc, ultimate
 🏏	ball, bat, cricket, cricket match, game
 🏒	hockey
+🏓	ball, bat, game, paddle, ping pong, ping-pong, table tennis
+🥋	MMA, judo, karate, martial arts, martial arts uniform, taekwondo, uniform
+🎣	fish, fishing pole, fishing rod, pole
 🤿	diving, diving mask, scuba, snorkelling
 🥌	curling rock, curling stone, game, rock
+🎯	bullseye, bull’s-eye, dart, direct hit, game, hit, target
+🎱	8, ball, billiard, eight, game, magic 8 ball, pool 8 ball
+🪆	Russia, doll, nesting, nesting dolls
 🀄️	Mahjong, Mahjong red dragon, game, red
-👕	T-shirt, clothing, shirt, t-shirt, tee-shirt, tshirt
+👕	T-shirt, clothing, shirt, tee-shirt, tshirt
 🩱	bathing suit, one-piece swimsuit, swimming costume
 🩴	beach sandal, flip-flop, sandal, thong, zōri
-🥿	ballet flat, flat shoe, pump, slip-on, slipper
 🧢	baseball cap
 💎	diamond, gem, gem stone, gemstone, jewel
 📯	post horn
+💻️	PC, computer, laptop, personal
 💾	computer, disk, diskette, floppy
+📺️	TV, television, video
+📼	VHS, tape, video, videocassette, videotape
 💷	banknote, bill, currency, money, note, pound, sterling
-✉️	e-mail, email, envelope, letter
-📫️	closed, closed postbox with raised flag, mail, mailbox, post, post box, postbox
-📪️	closed, closed postbox with lowered flag, mail, mailbox, post, post box, postbox
-📬️	mail, mailbox, open, open postbox with raised flag, post, post box, postbox
-📭️	mail, mailbox, open, open postbox with lowered flag, post, post box, postbox
 📮	mail, mailbox, post, post box, postbox
 📐	ruler, set, set square, triangle, triangular ruler
 🔒️	closed, locked, padlock
 🔓️	lock, open, padlock, unlock, unlocked
-🦯	accessibility, blind, guide cane
-🩹	injury, plaster, sticking plaster
+🦯	accessibility, blind, guide cane, white cane
+🧬	DNA, biologist, evolution, gene, genetics, life
+🩹	adhesive bandage, injury, plaster, sticking plaster
+🩻	X-ray, bones, doctor, medical, skeleton
 🛋️	couch, couch and lamp, hotel, lamp, sofa, sofa and lamp
 🚽	lavatory, toilet
 🪤	bait, mouse, mousetrap, snare, trap
-🪒	cut-throat, razor, sharp, shave
 🛒	basket, cart, shopping, trolley
+⚰️	casket, coffin, death
 🧿	bead, charm, evil eye, nazar, nazar amulet, talisman
-🪪	ID, credentials, licence, security
+🪪	ID, credentials, identification card, licence, security
 🚮	garbage, litter, litter bin, litter in bin sign, trash
 🚹️	bathroom, lavatory, men’s, men’s room, restroom, washroom, wc
-🚺️	bathroom, ladies’ room, lavatory, restroom, washroom, wc, women’s, women’s room
+🚺️	WC, bathroom, ladies’ room, lavatory, restroom, toilet, woman, women’s room
 🚻	WC, bathroom, lavatory, restroom, washroom
-🚾	closet, lavatory, restroom, toilet, water, wc
 ✡️	David, Jewish, Judaism, Star of David, religion, star
 ☯️	Tao, Taoist, religion, yang, yin
 ✝️	Christian, Latin cross, cross, religion
@@ -465,12 +537,11 @@
 🔼	arrow, button, red, upward button, upwards button
 🔽	arrow, button, down, downward button, downwards button, red
 📳	cell, mobile, mode, phone, telephone, vibrate, vibration
-✖️	cancel, heavy multiplication sign, multiplication, sign, x, ×
-🟰	equality, math, maths
-⁉️	!, !?, ?, interrobang, mark, punctuation, question
-✅	button, check, mark, tick, ✓
+⁉️	!, !?, ?, exclamation, mark, punctuation, question
+✅️	button, check, mark, tick, ✓
 ☑️	box, check, check box with check, tick, tick box with tick, ✓
 ®️	r, registered, trademark
+™️	trademark
 🔠	ABCD, Latin, input, input Latin uppercase, letters, uppercase
 🔡	Latin, abcd, input, input Latin lowercase, letters, lowercase
 🔤	Latin, abc, alphabet, input, input Latin letters, letters
@@ -487,13 +558,17 @@
 🇱🇨	flag: Saint Lucia
 🇲🇫	flag: Saint Martin
 🇵🇲	flag: Saint-Pierre-et-Miquelon
+🇵🇸	flag: Palestinian territories
 🇸🇭	flag: Saint Helena
 🇸🇯	flag: Svalbard and Jan Mayen
 🇸🇹	flag: São Tomé and Príncipe
 🇹🇨	flag: Turks and Caicos Islands
 🇹🇹	flag: Trinidad and Tobago
+🇺🇲	flag: US Outlying Islands
 🇻🇨	flag: Saint Vincent and the Grenadines
+🇻🇮	flag: US Virgin Islands
 🇼🇫	flag: Wallis and Futuna
+¤	unknown currency
 ¢	cent, cents
 $	CAD, USD, cash, dollar, dollars, money, peso
 ₢	BRB, Brazil, cruzeiro, currency
@@ -504,8 +579,3 @@ $	CAD, USD, cash, dollar, dollars, money, peso
 ₳	ARA, Argentina, austral, currency
 ₶	France, currency, livre tournois
 ₹	Indian rupee, currency, rupee
-🏻	light skin tone, skin tone
-🏼	medium-light skin tone, skin tone
-🏽	medium skin tone, skin tone
-🏾	medium-dark skin tone, skin tone
-🏿	dark skin tone, skin tone

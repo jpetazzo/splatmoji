@@ -30,12 +30,6 @@
 👮🏽	afisa, afisa wa polisi, afisa wa polisi: ngozi ya kahawia, ngozi ya kahawia, polisi
 👮🏾	afisa, afisa wa polisi, afisa wa polisi: ngozi nyeusi kiasi, ngozi nyeusi kiasi, polisi
 👮🏿	afisa, afisa wa polisi, afisa wa polisi: ngozi nyeusi, ngozi nyeusi, polisi
-🤰	mjamzito, mwanamke
-🤰🏻	mjamzito, mwanamke, ngozi nyeupe
-🤰🏼	mjamzito, mwanamke, ngozi nyeupe kiasi
-🤰🏽	mjamzito, mwanamke, ngozi ya kahawia
-🤰🏾	mjamzito, mwanamke, ngozi nyeusi kiasi
-🤰🏿	mjamzito, mwanamke, ngozi nyeusi
 🏋‍♂	mbeba vyuma, mwanamume anayebeba vyuma vizito, uzani, uzito
 🏋🏻‍♂	mbeba vyuma, mwanamume anayebeba vyuma vizito, ngozi nyeupe, uzani, uzito
 🏋🏼‍♂	mbeba vyuma, mwanamume anayebeba vyuma vizito, ngozi nyeupe kiasi, uzani, uzito
@@ -63,7 +57,7 @@
 🍻	baa, bia, gonganisha, kikombe, kinywaji, vikombe vya bia vinavyogonganishwa
 🌄	asubuhi, hali ya hewa, jua, macheo, macheo kwenye milima, mlima
 ♨️	chemchemi za maji moto, chemichemi, chemichemi za maji ya moto, moto, mvuke
-⛴️	boti, feri, kivuko
+⛴️	feri
 🛬	gari, inawasili, kutua, kuwasili, ndege, ndege inayowasili
 🚠	gari, gari linalosafiri kwenye kamba zilizoning’inizwa hewani, gari linalosafiri milimani kwa kamba, kebo
 🚡	gari, gari linalosafiri kwenye kamba zilizoning’inizwa hewani, hewani, kebo, njia ya kamba, njia ya tramu, tramu inayosafiri angani kwa kamba
@@ -73,43 +67,44 @@
 🌌	anga, hali ya jewa, kilimia
 🔥	moto, mwale, zana
 🪄	kifimbo cha miujiza, mchawi, muujiza
-🧩	dokezo, fumbo, fungamana, kipande, kipande cha mchezo wa mafumbo, mchezofumbo
+🧩	kipande cha mchezo wa mafumbo
 👓️	jicho, mavazi, miwani, miwani ya macho
-🔈️	sauti, sauti ya chini ya spika, spika
+🔈️	sauti ya chini ya spika
 💽	diski, diski ndogo, kompyuta, mwangaza
 💿️	blu-ray, cd, diski, diski ya kutumia mwangaza, dvd, kompyuta, mwangaza
 📀	blu-ray, cd, diski, diski dijitali, kompyuta, mwangaza
 💹	benki, chati, chati inayopanda yenye yeni, grafu, juu, kupanda, ongezeka, pesa, sarafu, soko, uelekeo, yeni
 🧬	dna, jenetiki, jeni, mageuko, maisha, mwanabiolojia
-🛒	kigari cha kununulia bidhaa, mkokoteni, toroli, ununuzi
+🛒	kigari cha kununulia bidhaa
 📵	hapana, katazwa, marufuku, simu, simu ya mkononi, simu za mkononi haziruhusiwi, siyo, ya mkononi
 ☣️	tahadhari ya kibilojia, tahadhari ya kibiolojia
 ♏️	nge, nyota ya nge, zodiaki
 🔅	chini, fifia, kitufe cha kufifisha mwanga, kitufe cha kufifiza mwanga, kung’aa
 💱	benki, pesa, sarafu, sarafu mbalimbali, ubadilishaji wa pesa, ubadilishanaji wa sarafu
 💲	alama nzito ya dola, dola, pesa, sarafu
-🆓	huru, kitufe cheney neno ‘FREE’, kitufe chenye neno ‘FREE’
 🇦🇫	bendera: Afghanistani
+🇦🇬	bendera: Antigua na Babuda
 🇦🇮	bendera: Anguila
 🇦🇶	bendera: Antaktika
 🇦🇿	bendera: Azabajani
+🇧🇧	bendera: Babados
 🇧🇯	bendera: Benini
+🇧🇸	bendera: Bahamas
 🇧🇹	bendera: Bhutani
 🇧🇾	bendera: Belarusi
 🇨🇨	bendera: Visiwa vya Kokos (Keeling)
 🇨🇩	bendera: Kongo - Kinshasa
 🇨🇻	bendera: Kepuvede
+🇨🇼	bendera: Kurakao
 🇪🇦	bendera: Keuta na Melilla
 🇪🇨	bendera: Ekwado
 🇬🇦	bendera: Gaboni
-🇬🇱	bendera: Grinilandi
 🇬🇵	bendera: Gwadelupe
-🇬🇸	bendera: Visiwa vya Jojia ya Kusini na Sandwich ya Kusini
+🇬🇸	bendera: Visiwa vya Jojia Kusini na Sandwich Kusini
+🇬🇹	bendera: Gwatemala
 🇬🇺	bendera: Guami
 🇭🇷	bendera: Kroashia
-🇮🇴	bendera: Himaya ya Uingereza katika Bahari Hindi
 🇯🇴	bendera: Yordani
-🇰🇾	bendera: Visiwa vya Kaimani
 🇱🇦	bendera: Laosi
 🇱🇧	bendera: Lebanoni
 🇱🇮	bendera: Lishenteni
@@ -120,7 +115,6 @@
 🇲🇨	bendera: Monako
 🇲🇰	bendera: Masedonia
 🇲🇲	bendera: Myama (Burma)
-🇲🇶	bendera: Martiniki
 🇲🇸	bendera: Montserati
 🇳🇨	bendera: Nyukaledonia
 🇳🇪	bendera: Nijeri
@@ -130,13 +124,14 @@
 🇵🇫	bendera: Polinesia ya Ufaransa
 🇵🇬	bendera: Papua Guinea Mpya
 🇵🇱	bendera: Polandi
-🇵🇷	bendera: Puetoriko
+🇵🇲	bendera: St. Pierre na Miquelon
+🇵🇷	bendera: Pwetoriko
 🇵🇸	bendera: Himaya za Palestina
 🇵🇾	bendera: Paragwai
 🇶🇦	bendera: Katari
 🇸🇬	bendera: Singapuri
-🇸🇷	bendera: Surinamu
 🇸🇹	bendera: Sao Tome na Prinsipe
+🇸🇻	bendera: Elsalvado
 🇸🇾	bendera: Shamu
 🇹🇩	bendera: Chadi
 🇹🇭	bendera: Thailandi

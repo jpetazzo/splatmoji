@@ -72,7 +72,7 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 ⁂	asterismo, dinkus, quyllurkuna
 `	grave, grave kunka, kunka, tonu
 ´	agudu, agudu kunka, kunka, tonu
-^	chuku, circunflejo, circunflejo raki, kallpa, kuchu, patachay, qimiq, raki unancha
+^	chuku, circunflejo, circunflejo raki, kallpa, kuchu, patachay, raki unancha
 ¨	dieresis, tréma, umlaut
 °	gradu, prueba, ura
 ℗	copyright, grawasqa, uyarina, uyarina copyright nisqawan grawasqa
@@ -105,11 +105,11 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 ↳	uranman wachi ñawchiwan pañaman
 ↴	pañaman wachi kuchuwan uranman
 ↵	uranman wachi kuchuwan lluqiman
-↶	tikrasqa ura qatichkanku hanaqpi kuska muyusqa wachi
-↷	ura qatichkanku hanaqpi kuska muyusqa wachi
+↶	hukhina ura hanaqpi kuska muyu wachi
+↷	urawan hanaqpi kuska muyu wachi
 ↸	chincha kunti wachi hatun warrawan
 ↹	lluqiman wachi pañaman wachipi
-↺	tikrasqa ura qatispa kichasqa muyuwan wachi
+↺	hukhina ura kichasqa muyu wachi, tikrasqa ura qatispa kichasqa muyuwan wachi
 ↻	ura qatispa kichasqa muyuwan wachi
 ↼	lluqiman arpon puya hina hanaqman, puya
 ↽	lluqiman arpon puya hina uranman
@@ -247,7 +247,7 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 ⊮	manam kallpa kanchu
 ⊰	huñu llamkaq, matematicas, ñawpaqman tinkuywan
 ⊱	huñu llamkaq, matematica, qipaman tinkuywan
-⋭	huñu teoria, manam kaqlla hina ichuy huñu kikinwan tiyanchu, manam kaqlla hina uchuy huñu kikinwan tiyanchu, matematicas
+⋭	huñu teoria, manam kaqlla hina ichuy huñu kikinwan tiyanchu, manam kaqlla hina uchuy huñu kikinwan tiyanchu, manaraqmi kikin uchuy huñuhina, matematicas
 ⊶	kikinchay
 ⊹	ermitaño muyuchiy sapin, kikin huñusqa sapin, matematicas, tawakuchusqapa sapin
 ⊿	matematicas, paña kimsa kuchu, paña kimsa kuchuwan
@@ -261,13 +261,13 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 ⋘	ancha aswan pisin, mana kikin, matematicas
 ⋙	ancha aswan kuraqnin, mana kikin, matematicas
 ⋮	elipsis, matematicas, sayampa kimsa qatipasqa chusukuna
-⋯	chawpipi kinrampa kimsa qatipasqa chusukuna, elipsis
-⋰	elipsis, hanaq pañaman siqi kimsa qatipasqa chusukuna, matematicas
-⋱	elipsis, matematicas, sa qatipasqa chusukuna, uran pañaman siqi kimsa qatipasqa chusukuna
+⋯	chawpipi kinrampa kimsa qatipasqa chusukuna, chawpipi kinrampa siqi kimsa chusuwan, elipsis
+⋰	elipsis, hanaq pañaman siqi kimsa chusuwan, hanaq pañaman siqi kimsa qatipasqa chusukuna, matematicas
+⋱	elipsis, matematicas, sa qatipasqa chusukuna, uran pañaman siqi kimsa chusuwan, uran pañaman siqi kimsa qatipasqa chusukuna
 ■	huntasqa tawakuchu
 □	ukunwan tawakuchu
-▢	ukunwan tawakuchu muyusqa kuchukunawan
-▣	ukunwan tawakuchu huntasqa tawakuchuyuqwan
+▢	tawakuchu ukun muyusqa kuchuwan, ukunwan tawakuchu muyusqa kuchukunawan
+▣	ukun tawakuchu lliw tawakuchuwan, ukunwan tawakuchu huntasqa tawakuchuyuqwan
 ▤	tawakuchu kinrampawan huntasqa
 ▥	tawakuchu sayampawan huntasqa
 ▦	tawakuchu pusaq chakanawan huntasqa
@@ -280,19 +280,19 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 ▰	huntasqa paralelogramo
 ▲	hanaq, huntasqa, huntasqa hanaqman ñawpiwan kimsakuchu, kimsakuchu, wachi
 △	chusaq kimsakuchu ñawpi hanaqman
-▴	huntasqa uchuy kimsakuchu ñawpi hanaqman
-▵	chusaq uchuy kimsakuchu ñawpi hanaqman
+▴	huntasqa uchuy kimsakuchu ñawpi hanaqman, uchuy lliw kimsakuchu hanaqman
+▵	chusaq uchuy kimsakuchu hanaqman, chusaq uchuy kimsakuchu ñawpi hanaqman
 ▷	chusaq kimsakuchu ñawpi pañaman
-▸	huntasqa uchuy kimsakuchu ñawpi pañaman
+▸	huntasqa uchuy kimsakuchu ñawpi pañaman, lliw uchuy kimsakuchu pañaman
 ▹	chusaq uchuy kimsakuchu ñawpi pañaman, huntasqa uchuy kimsakuchu ñawpi pañaman
 ►	huntasqa ñawpi pañaman
 ▻	chusaq ñawpi pañaman
 ▼	huntasqa, huntasqa uranman ñawpiwan kimsakuchu, kimsakuchu, uran, wachi
 ▽	chusaq kimsakuchu ñawpi uranman
-▾	huntasqa uchuy kimsakuchu ñawpi uranman
+▾	huntasqa uchuy kimsakuchu ñawpi uranman, lliw uchuy kimsakuchu uranman
 ▿	chusaq uchuy kimsakuchu ñawpi uranman
 ◁	chusaq kimsakuchu ñawpi lluqiman
-◂	huntasqa uchuy kimsakuchu ñawpi lluqiman
+◂	huntasqa uchuy kimsakuchu ñawpi lluqiman, lliw uchuy kimsakuchu lluqiman
 ◃	chusaq uchuy kimsakuchu ñawpi lluqiman
 ◄	huntasqa ñawpi lluqiman
 ◅	chusaq ñawpi lluqiman
@@ -311,7 +311,7 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 ◒	muyu kuska chusaq huntasqa uranpi
 ◓	muyu kuska chusaq huntasqa hanaqpi
 ◔	muyu huntasqa hanaq pañaman
-◕	llapan huntasqa muyu ichaqa chusaq hanaq lluqiman
+◕	llapan huntasqa muyu ichaqa chusaq hanaq lluqiman, lliw yana muyu chusaq hanaq lluqiwan
 ◖	lluqi kusqa muyupi huntasqa
 ◗	paña kusqa muyupi huntasqa
 ◘	tikrasqa siqichana yupi
@@ -345,10 +345,10 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 😀	kusi, kusisqa uya, uya
 😃	kichay, kusi, kusisqa uya hatun ñawikunawan, simi, uya
 😄	kichay, kusi, kusisqa uya kusisqa ñawikunawan, simi, uya, ñawi
-😁	asiy, kancharisqa uya kusisqa ñawikunawan, kusi, kʼancharisqa uya kusisqa ñawikunawan, uya, ñawi
+😁	kancharisqa uya kusisqa ñawikunawan, kusi, uya, ñawi
 😆	asisqa, asiy, kusisqa uya wichqasqa ñawikunawan, munasqa, simi, uya
 😅	asiy, chiri, kichay, kusisqa uya sutʼuwan, sutʼu, uya
-🤣	hallpʼa, kusi, muyusqa, muyusqa kusi hallpʼapi, muyusqa kusi jallpʼapi, uya
+🤣	kusi, muyusqa, muyusqa kusi allpapi, muyusqa kusi jallpʼapi, pampa, uya
 😂	kusi, kusisqa, kusisqa uya wiqikunawan, uya, wiqi
 🙂	kusi, pisi kusisqa uya, uya
 🙃	tikrasqa, tikrasqa uya, uya
@@ -361,26 +361,26 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🤩	kusisqa, quyllur, quyllur añasqa, uya, ñawikuna
 😘	muchʼa, uya, uya chʼamqasqa huk muchʼata
 😗	muchʼa, muchʼasqa uya, uya
-☺️	chiqchisqa uya, kusi, kusisqa uya, samasqa, siqisqa, uya
+☺️	chiqchisqa uya, kusi, kusisqa uya, muyusqa, samasqa, uya
 😚	muchʼa, muchʼasqa uyata wichqasqa ñawikunawan, uya, wichqasqa, ñawi
 😙	muchʼa, muchʼasqa uyata kusisqa ñawikunawan, uya, ñawi
 🥲	apuskachaq, kusisqa, kusisqa uya wiqiwan, kusisqa uya wiwiwan, llamkasqa, pachi, wiqi
-😋	kusi, mikhuchkan, mikhusqa mikhuna, miskʼi, mmm, uya, uya mikhusqa mikhuna
+😋	kusi, mikuspa, miski, mmm, uya, uya mikuspa mikuna, uya mikusqa mikuna
 😛	qallu, uya, uya qalluwan
 😜	asina, chʼirmi, chʼirmi uya qalluwan, qallu, uya, ñawi
 🤪	hatun, huchuy, waqʼa, waqʼa uya, ñawi
-😝	mikhuy, millana wichqasqa ñawikuna qalluwan, qallu, uya, wichqasqa ñawikuna qalluwan, ñawi
-🤑	qallu, qullqi, qullqi simi uya, simi qullqiwan uya, uya
-🤗	mak’alli, mak’allisqa, uya, ya makʼalliwan
+😝	mikuy, millana, qallu, uya, wichqasqa ñawikuna qalluwan, ñawi
+🤑	qullqi, qullqi simi uyawan, simi, simi qullqiwan uya, uya
+🤗	kicasqa makikuna, kusisqa uya, kusisqa uya kichasqa makikunawan, markaspa, marqay, uya
 🤭	ups, uya makiwan simipi
 🫢	manchakusqa, manchakuy, pinqakusqa, pinqakuy, uya kichasqa ñawikunawan maki simipi
 🫣	captivatu, chinkachisqa, uya chinkachisqa ñawiwan, ñawiriy
-🤫	chʼin, chʼin uya, ch’in uya, ñañiq
+🤫	chin niy, chin niy uya
 🤔	uya, yuyasqa, yuyasqa uya
-🫡	inti, rimaykuy, uya rimaykuspa, uyakuy, yari
+🫡	UYAKUY, ari, rimaykuy, uya rimaykuspa
 🤐	simi, uya, uya ziper simipi, ziper
-🤨	eseptico, mana iñisqa, uya wichasqa qhiñipa, uya wichqasqa qhiñipa
-😐️	chʼusaq uya, kikin, neural, uh, uya
+🤨	eseptico, mana iñisqa, uya wichasqa urku chukchapi
+😐️	chusaq uya, kikin, neutral, uya
 😑	eh, mana expresioniyuq, mana rimasqa uya, uya, wañusqa
 😶	chʼin, simi, uya, uya mana simiyuqwan, ñañiq
 🫥	chinkachiy, chusupa siqinwan uya, mana riqisqa, upallasqa
@@ -388,9 +388,12 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 😏	kʼaskikachay, kʼaskiskachasqa uya, uya
 😒	llakisqa, mana kusisqa, mana kusisqa uya, uya
 🙄	muyusqa, muyuy, uya, uya muyusqa ñawikunawan, ñawikuna
-😬	muesca, uya, uya muecaswan, uya muescaswan
+😬	muesca, uya, uya muecaswan, uya muescakunawan
 😮‍💨	anchhiy, ansaqiy, jinchuy, llamsayay, samay, uya samachkan
 🤥	llullakusqa uya, llullakuy, pinocho, uya
+🫨	kuyusqa, kuyusqa uya, kuyuy, temblor nisqa, uya
+🙂‍↔	manam, tapsiy, tapsiy umata hanaqmanta urayman
+🙂‍↕	arí, asentiy, vertical tapsiy umata
 😌	llamsayasqa, llamsayasqa uya, uya
 😔	usphu, uya, yuyaspa, yuyaspa uya
 😪	puñuy, uya, uya puñuywan
@@ -399,15 +402,15 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 😷	barbijo, chiri, hampiq, unqusqa, uya, uya barbijiwan, uya barbijowan
 🤒	termometro, termometrowan uya, unqusqa, unquy, uya
 🤕	kʼiri, kʼirisqa, uya, uya manku umawan, venda
-🤢	q’ipna, uya, ñatʼisqa uya, ñat’isqa
-🤮	qʼipina, qʼipina uya, q’ipina uya, unqusqa
+🤢	unqusqa, unqusqa uya, uya, wischusqa uya
+🤮	qipina, unqusqa, wischusqa uya
 🤧	gesundheit, jachisqa uya, jachiy, uya
 🥵	fiebre, jumpʼi, puka uya, qʼuñi, qʼuñi uya, ruphay
-🥶	anqas uya, chhullunkaa, chiri, chiri uy, chiri uya, khutu, khutuy
+🥶	anqas uya, chiri, chiri uya, ritiyachisqa, ritiyachiy
 🥴	intoxicado, machasqa, muyu muyu, qinquykachasqa simi, uma muyuy, wistʼu ñawikuna
 😵	takasqa uya, uya, wañuy
 😵‍💫	espiral, hipnotizado, muyu muyu, sasachay, uya espiral ñawikunawan, wow
-🤯	luqlu yuyay, mancharisqa, pʼakisqa uma, p’akisqa uma
+🤯	mancharisqa, tuqyasqa, tuqyasqa uma
 🤠	baquera, baquero, baquero uya chukuwan, chuku, uya
 🥳	chuku, jarana, qʼuchukusqa uya, raymi, waqra
 🥸	lentekuna, mana riqsiqisqa, pakasqa, pakasqa uya, sinqa, uya
@@ -420,9 +423,9 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🙁	llaki, pisi llakisqa uya, uya
 ☹️	sipʼusqa uya, sipʼuy, uya
 😮	kichay, kʼacha, simi, uya, uya kichasqa simiwan
-😯	chʼin kasqa uya, kakka, manchachisqa, p’inqakusqa, uya
+😯	chin kasqa uya, chin niy, manchakusqa uya, mancharisqa
 😲	añasqa, añasqa uya, chaqrusqa, llapan, uya
-😳	kuyusqa, pʼinqakusqa uya, p’inqakusqa, uya
+😳	kuyusqa, manchakusqa, manchakusqa uya, uya
 🥺	khuyakuy, llullu uya, uyllasqa uya, uyllay
 🥹	orgulloso, piña, uya wiqikunawan hapisqa, waqasqa, waqay
 😦	añasqa uya kichasqa simiwan, añay, kichay, simi, uya
@@ -438,10 +441,10 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 😞	sunqunnasqa uya
 😓	chiri, llakisqa uya sutʼuwan, sutʼu, uya
 😩	ayqusqa, ayqusqa uya, sayk’usqa, uya
-😫	saykʼusqa uya, sayk’usqa, uya
+😫	saykusqa, saykusqa uya, uya
 🥱	hanyasqa, hanyasqa uya, maji, majisqa
 😤	atipasqa, triunfo, uya, uya qʼusñiwan sinqamanta
-😡	phiña, phiñakuq, phiñakuy, puka, turisqa uya, uya
+😡	piña, piñasqa, piñasqa uya, piñay, puka, uya
 😠	phiñakusqa, phiñakusqa uya, uya
 🤬	sullullchachkan, uya unanchakunawan simipi
 😈	fantasia, hadas willana, kusisqa, kusisqa uya waqrakunawan, uya, waqra
@@ -482,13 +485,16 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 ❤‍🔥	munay, ruphay, sunqu, sunqu ninapi, wakʼa sunqu, ñuqi
 ❤‍🩹	allichachkan, allichasqa, allichasqa sunqu, allichay kay, allin, qhali kay, qhali kaynin
 ❤️	puka sunqu, sunqu
+🩷	kuyay, munay, rusadu, rusadu sunqu, sumaq, sunqu
 🧡	willapi, willapi sunqu
 💛	qʼillu, qʼillu sunqu
 💚	qʼumir, qʼumir sunqu
 💙	anqas, anqas sunqu
+🩵	chuya anqas, chuya anqas sunqu, cian, sunqu
 💜	kulli, kulli sunqu
 🤎	cafe, cafe sunqu, sunqu
 🖤	saqra, supay, yana, yana sunqu
+🩶	qata, sunqu, uqi, uqi sunqu
 🤍	sunqu, yuraq, yuraq sunqu
 💋	muchʼa, muchʼa unancha, sirpi
 💯	100, chikukuna, hunta, pachaq, pachaq chikukuna
@@ -516,13 +522,13 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🤚🏽	jinchʼa, juqharisqa, juqharisqa maki, juqharisqa maki: tunpa qara niraq, tunpa qara niraq
 🤚🏾	jinchʼa, juqharisqa, juqharisqa maki, juqharisqa maki: tunpa yana qara niraq, tunpa yana qara niraq
 🤚🏿	jinchʼa, juqharisqa, juqharisqa maki, juqharisqa maki: yana qara niraq, yana qara niraq
-🖐️	maki, maki iskay rukanakunawa mastasqa, maki iskay ruk’anakunawa mast’asqa, mastasqa, rukana
-🖐🏻	chuya qara niraq, maki, maki iskay rukanakunawa mastasqa, maki iskay ruk’anakunawa mast’asqa, maki iskay ruk’anakunawa mast’asqa: chuya qara niraq, mastasqa, rukana
-🖐🏼	maki, maki iskay rukanakunawa mastasqa, maki iskay ruk’anakunawa mast’asqa, maki iskay ruk’anakunawa mast’asqa: tunpa chuya qara niraq, mastasqa, rukana, tunpa chuya qara niraq
-🖐🏽	maki, maki iskay rukanakunawa mastasqa, maki iskay ruk’anakunawa mast’asqa, maki iskay ruk’anakunawa mast’asqa: tunpa qara niraq, mastasqa, rukana, tunpa qara niraq
-🖐🏾	maki, maki iskay rukanakunawa mastasqa, maki iskay ruk’anakunawa mast’asqa, maki iskay ruk’anakunawa mast’asqa: tunpa yana qara niraq, mastasqa, rukana, tunpa yana qara niraq
-🖐🏿	maki, maki iskay rukanakunawa mastasqa, maki iskay ruk’anakunawa mast’asqa, maki iskay ruk’anakunawa mast’asqa: yana qara niraq, mastasqa, rukana, yana qara niraq
-✋	huqharisqa maki, maki
+🖐️	maki, maki iskay rukanakunawa mastasqa, mastasqa, rukana
+🖐🏻	chuya qara niraq, maki, maki iskay rukanakunawa mastasqa, maki iskay rukanakunawa mastasqa: chuya qara niraq, mastasqa, rukana
+🖐🏼	maki, maki iskay rukanakunawa mastasqa, maki iskay rukanakunawa mastasqa: tunpa chuya qara niraq, mastasqa, rukana, tunpa chuya qara niraq
+🖐🏽	maki, maki iskay rukanakunawa mastasqa, maki iskay rukanakunawa mastasqa: tunpa qara niraq, mastasqa, rukana, tunpa qara niraq
+🖐🏾	maki, maki iskay rukanakunawa mastasqa, maki iskay rukanakunawa mastasqa: tunpa yana qara niraq, mastasqa, rukana, tunpa yana qara niraq
+🖐🏿	maki, maki iskay rukanakunawa mastasqa, maki iskay rukanakunawa mastasqa: yana qara niraq, mastasqa, rukana, yana qara niraq
+✋️	huqharisqa maki, maki
 ✋🏻	chuya qara niraq, huqharisqa maki, huqharisqa maki: chuya qara niraq, maki
 ✋🏼	huqharisqa maki, huqharisqa maki: tunpa chuya qara niraq, maki, tunpa chuya qara niraq
 ✋🏽	huqharisqa maki, huqharisqa maki: tunpa qara niraq, maki, tunpa qara niraq
@@ -578,6 +584,18 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🫴🏽	hamuy, hanaqman maki pampa, hanaqman maki pampa: tunpa qara niraq, hapiy, mañay, quy, tunpa qara niraq
 🫴🏾	hamuy, hanaqman maki pampa, hanaqman maki pampa: tunpa yana qara niraq, hapiy, mañay, quy, tunpa yana qara niraq
 🫴🏿	hamuy, hanaqman maki pampa, hanaqman maki pampa: yana qara niraq, hapiy, mañay, quy, yana qara niraq
+🫷	lluqi, pichqa rukanakuna, suyay, tanqaspa, tanqaspa lluqi maki, tatichiy
+🫷🏻	chuya qara niraq, lluqi, pichqa rukanakuna, suyay, tanqaspa, tanqaspa lluqi maki, tanqaspa lluqi maki: chuya qara niraq, tatichiy
+🫷🏼	lluqi, pichqa rukanakuna, suyay, tanqaspa, tanqaspa lluqi maki, tanqaspa lluqi maki: tunpa chuya qara niraq, tatichiy, tunpa chuya qara niraq
+🫷🏽	lluqi, pichqa rukanakuna, suyay, tanqaspa, tanqaspa lluqi maki, tanqaspa lluqi maki: tunpa qara niraq, tatichiy, tunpa qara niraq
+🫷🏾	lluqi, pichqa rukanakuna, suyay, tanqaspa, tanqaspa lluqi maki, tanqaspa lluqi maki: tunpa yana qara niraq, tatichiy, tunpa yana qara niraq
+🫷🏿	lluqi, pichqa rukanakuna, suyay, tanqaspa, tanqaspa lluqi maki, tanqaspa lluqi maki: yana qara niraq, tatichiy, yana qara niraq
+🫸	paña, pichqa rukanakuna, suyay, tanqaspa, tanqaspa paña maki, tatichiy
+🫸🏻	chuya qara niraq, paña, pichqa rukanakuna, suyay, tanqaspa, tanqaspa paña maki, tanqaspa paña maki: chuya qara niraq, tatichiy
+🫸🏼	paña, pichqa rukanakuna, suyay, tanqaspa, tanqaspa paña maki, tanqaspa paña maki: tunpa chuya qara niraq, tatichiy, tunpa chuya qara niraq
+🫸🏽	paña, pichqa rukanakuna, suyay, tanqaspa, tanqaspa paña maki, tanqaspa paña maki: tunpa qara niraq, tatichiy, tunpa qara niraq
+🫸🏾	paña, pichqa rukanakuna, suyay, tanqaspa, tanqaspa paña maki, tanqaspa paña maki: tunpa yana qara niraq, tatichiy, tunpa yana qara niraq
+🫸🏿	paña, pichqa rukanakuna, suyay, tanqaspa, tanqaspa paña maki, tanqaspa paña maki: yana qara niraq, tatichiy, yana qara niraq
 👌	UYAKUY, UYAKUY maki, maki
 👌🏻	UYAKUY, UYAKUY maki: chuya qara niraq, chuya qara niraq, maki
 👌🏼	UYAKUY, UYAKUY maki: tunpa chuya qara niraq, maki, tunpa chuya qara niraq
@@ -686,7 +704,7 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 👎🏽	-1, maki, rukʼana, tunpa qara niraq, uran, uranpi rukʼana, uranpi rukʼana: tunpa qara niraq
 👎🏾	-1, maki, rukʼana, tunpa yana qara niraq, uran, uranpi rukʼana, uranpi rukʼana: tunpa yana qara niraq
 👎🏿	-1, maki, rukʼana, uran, uranpi rukʼana, uranpi rukʼana: yana qara niraq, yana qara niraq
-✊	ch’uqmi, juqharisqa saqma, maki, pipuyasqa, saqma
+✊️	ch’uqmi, juqharisqa saqma, maki, pipuyasqa, saqma
 ✊🏻	chuya qara niraq, ch’uqmi, juqharisqa saqma, juqharisqa saqma: chuya qara niraq, maki, pipuyasqa, saqma
 ✊🏼	ch’uqmi, juqharisqa saqma, juqharisqa saqma: tunpa chuya qara niraq, maki, pipuyasqa, saqma, tunpa chuya qara niraq
 ✊🏽	ch’uqmi, juqharisqa saqma, juqharisqa saqma: tunpa qara niraq, maki, pipuyasqa, saqma, tunpa qara niraq
@@ -848,12 +866,12 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🧑🏽	genero neutral, mana akllasqa genero, puriq runa, runa, runa: tunpa qara niraq, tunpa qara niraq
 🧑🏾	genero neutral, mana akllasqa genero, puriq runa, runa, runa: tunpa yana qara niraq, tunpa yana qara niraq
 🧑🏿	genero neutral, mana akllasqa genero, puriq runa, runa, runa: yana qara niraq, yana qara niraq
-👱	chukcha, qillu, qillu chukcha runa, runa: qillu chukcha, runa: qʼillu chukcha
-👱🏻	chukcha, chuya qara niraq, qillu, qillu chukcha runa, qʼillu chukcha, runa: chuya qara niraq, qʼillu chukcha, runa: qillu chukcha, runa: qʼillu chukcha
-👱🏼	chukcha, qillu, qillu chukcha runa, qʼillu chukcha, runa: qillu chukcha, runa: qʼillu chukcha, runa: tunpa chuya qara niraq, qʼillu chukcha, tunpa chuya qara niraq
-👱🏽	chukcha, qillu, qillu chukcha runa, qʼillu chukcha, runa: qillu chukcha, runa: qʼillu chukcha, runa: tunpa qara niraq, qʼillu chukcha, tunpa qara niraq
-👱🏾	chukcha, qillu, qillu chukcha runa, qʼillu chukcha, runa: qillu chukcha, runa: qʼillu chukcha, runa: tunpa yana qara niraq, qʼillu chukcha, tunpa yana qara niraq
-👱🏿	chukcha, qillu, qillu chukcha runa, qʼillu chukcha, runa: qillu chukcha, runa: qʼillu chukcha, runa: yana qara niraq, qʼillu chukcha, yana qara niraq
+👱	chukcha, qillu, qillu chukcha runa, runa: qillu chukcha
+👱🏻	chukcha, chuya qara niraq, qillu, qillu chukcha runa, runa: chuya qara niraq, qillu chukcha, runa: qillu chukcha
+👱🏼	chukcha, qillu, qillu chukcha runa, runa: qillu chukcha, runa: tunpa chuya qara niraq, qillu chukcha, tunpa chuya qara niraq
+👱🏽	chukcha, qillu, qillu chukcha runa, runa: qillu chukcha, runa: tunpa qara niraq, qillu chukcha, tunpa qara niraq
+👱🏾	chukcha, qillu, qillu chukcha runa, runa: qillu chukcha, runa: tunpa yana qara niraq, qillu chukcha, tunpa yana qara niraq
+👱🏿	chukcha, qillu, qillu chukcha runa, runa: qillu chukcha, runa: yana qara niraq, qillu chukcha, yana qara niraq
 🧑🏻‍❤‍💋‍🧑🏼	chuya qara niraq, much’a, much’a: runa, runa, chuya qara niraq, tunpa chuya qara niraq, pitu runakuna, runa, tunpa chuya qara niraq
 🧑🏻‍❤‍💋‍🧑🏽	chuya qara niraq, much’a, much’a: runa, runa, chuya qara niraq, tunpa qara niraq, pitu runakuna, runa, tunpa qara niraq
 🧑🏻‍❤‍💋‍🧑🏾	chuya qara niraq, much’a, much’a: runa, runa, chuya qara niraq, tunpa yana qara niraq, pitu runakuna, runa, tunpa yana qara niraq
@@ -918,104 +936,104 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🧑🏽‍🦲	genero neutral, mana akllasqa genero, paqla, puriq runa, runa, runa: tunpa qara niraq, paqla, tunpa qara niraq
 🧑🏾‍🦲	genero neutral, mana akllasqa genero, paqla, puriq runa, runa, runa: tunpa yana qara niraq, paqla, tunpa yana qara niraq
 🧑🏿‍🦲	genero neutral, mana akllasqa genero, paqla, puriq runa, runa, runa: yana qara niraq, paqla, yana qara niraq
-👨	puriq runa, tata
-👨🏻	chuya qara niraq, puriq runa, tata, tata: chuya qara niraq
-👨🏼	puriq runa, tata, tata: tunpa chuya qara niraq, tunpa chuya qara niraq
-👨🏽	puriq runa, tata, tata: tunpa qara niraq, tunpa qara niraq
-👨🏾	puriq runa, tata, tata: tunpa yana qara niraq, tunpa yana qara niraq
-👨🏿	puriq runa, tata, tata: yana qara niraq, yana qara niraq
+👨	puriq runa, qari
+👨🏻	chuya qara niraq, puriq runa, qari, qari: chuya qara niraq
+👨🏼	puriq runa, qari, qari: tunpa chuya qara niraq, tunpa chuya qara niraq
+👨🏽	puriq runa, qari, qari: tunpa qara niraq, tunpa qara niraq
+👨🏾	puriq runa, qari, qari: tunpa yana qara niraq, tunpa yana qara niraq
+👨🏿	puriq runa, qari, qari: yana qara niraq, yana qara niraq
 🧔	kʼaki, runa, runa: kʼaki
 🧔🏻	chuya qara niraq, kʼaki, runa, runa: chuya qara niraq, kʼaki, runa: kʼaki
 🧔🏼	kʼaki, runa, runa: kʼaki, runa: tunpa chuya qara niraq, kʼaki, tunpa chuya qara niraq
 🧔🏽	kʼaki, runa, runa: kʼaki, runa: tunpa qara niraq, kʼaki, tunpa qara niraq
 🧔🏾	kʼaki, runa, runa: kʼaki, runa: tunpa yana qara niraq, kʼaki, tunpa yana qara niraq
 🧔🏿	kʼaki, runa, runa: kʼaki, runa: yana qara niraq, kʼaki, yana qara niraq
-🧔‍♂	kaki, runa, runa: kaki
-🧔🏻‍♂	chuya qara niraq, kaki, runa, runa: chuya qara niraq, kaki, runa: kaki
-🧔🏼‍♂	kaki, runa, runa: kaki, runa: tunpa chuya qara niraq, kaki, tunpa chuya qara niraq
-🧔🏽‍♂	kaki, runa, runa: kaki, runa: tunpa qara niraq, kaki, tunpa qara niraq
-🧔🏾‍♂	kaki, runa, runa: kaki, runa: tunpa yana qara niraq, kaki, tunpa yana qara niraq
-🧔🏿‍♂	kaki, runa, runa: kaki, runa: yana qara niraq, kaki, yana qara niraq
-👱‍♂	chukcha, qʼillu, runa, runa: qillu chukcha, runa:qillu chukcha
-👱🏻‍♂	chukcha, chuya qara niraq, qillu chukcha, qʼillu, runa, runa: chuya qara niraq, qillu chukcha, runa: qillu chukcha, runa:qillu chukcha
-👱🏼‍♂	chukcha, qillu chukcha, qʼillu, runa, runa: qillu chukcha, runa: tunpa chuya qara niraq, qillu chukcha, runa:qillu chukcha, tunpa chuya qara niraq
-👱🏽‍♂	chukcha, qillu chukcha, qʼillu, runa, runa: qillu chukcha, runa: tunpa qara niraq, qillu chukcha, runa:qillu chukcha, tunpa qara niraq
-👱🏾‍♂	chukcha, qillu chukcha, qʼillu, runa, runa: qillu chukcha, runa: tunpa yana qara niraq, qillu chukcha, runa:qillu chukcha, tunpa yana qara niraq
-👱🏿‍♂	chukcha, qillu chukcha, qʼillu, runa, runa: qillu chukcha, runa: yana qara niraq, qillu chukcha, runa:qillu chukcha, yana qara niraq
-👨🏻‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: tata, tata, chuya qara niraq, pitu runakuna, tata
-👨🏻‍❤‍💋‍👨🏼	chuya qara niraq, much’a, much’a: tata, tata, chuya qara niraq, tunpa chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq
-👨🏻‍❤‍💋‍👨🏽	chuya qara niraq, much’a, much’a: tata, tata, chuya qara niraq, tunpa qara niraq, pitu runakuna, tata, tunpa qara niraq
-👨🏻‍❤‍💋‍👨🏾	chuya qara niraq, much’a, much’a: tata, tata, chuya qara niraq, tunpa yana qara niraq, pitu runakuna, tata, tunpa yana qara niraq
-👨🏻‍❤‍💋‍👨🏿	chuya qara niraq, much’a, much’a: tata, tata, chuya qara niraq, yana qara niraq, pitu runakuna, tata, yana qara niraq
-👨🏼‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: tata, tata, tunpa chuya qara niraq, chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq
-👨🏼‍❤‍💋‍👨🏼	much’a, much’a: tata, tata, tunpa chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq
-👨🏼‍❤‍💋‍👨🏽	much’a, much’a: tata, tata, tunpa chuya qara niraq, tunpa qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, tunpa qara niraq
-👨🏼‍❤‍💋‍👨🏾	much’a, much’a: tata, tata, tunpa chuya qara niraq, tunpa yana qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, tunpa yana qara niraq
-👨🏼‍❤‍💋‍👨🏿	much’a, much’a: tata, tata, tunpa chuya qara niraq, yana qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, yana qara niraq
-👨🏽‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: tata, tata, tunpa qara niraq, chuya qara niraq, pitu runakuna, tata, tunpa qara niraq
-👨🏽‍❤‍💋‍👨🏼	much’a, much’a: tata, tata, tunpa qara niraq, tunpa chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, tunpa qara niraq
-👨🏽‍❤‍💋‍👨🏽	much’a, much’a: tata, tata, tunpa qara niraq, pitu runakuna, tata, tunpa qara niraq
-👨🏽‍❤‍💋‍👨🏾	much’a, much’a: tata, tata, tunpa qara niraq, tunpa yana qara niraq, pitu runakuna, tata, tunpa qara niraq, tunpa yana qara niraq
-👨🏽‍❤‍💋‍👨🏿	much’a, much’a: tata, tata, tunpa qara niraq, yana qara niraq, pitu runakuna, tata, tunpa qara niraq, yana qara niraq
-👨🏾‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: tata, tata, tunpa yana qara niraq, chuya qara niraq, pitu runakuna, tata, tunpa yana qara niraq
-👨🏾‍❤‍💋‍👨🏼	much’a, much’a: tata, tata, tunpa yana qara niraq, tunpa chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, tunpa yana qara niraq
-👨🏾‍❤‍💋‍👨🏽	much’a, much’a: tata, tata, tunpa yana qara niraq, tunpa qara niraq, pitu runakuna, tata, tunpa qara niraq, tunpa yana qara niraq
-👨🏾‍❤‍💋‍👨🏾	much’a, much’a: tata, tata, tunpa yana qara niraq, pitu runakuna, tata, tunpa yana qara niraq
-👨🏾‍❤‍💋‍👨🏿	much’a, much’a: tata, tata, tunpa yana qara niraq, yana qara niraq, pitu runakuna, tata, tunpa yana qara niraq, yana qara niraq
-👨🏿‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: tata, tata, yana qara niraq, chuya qara niraq, pitu runakuna, tata, yana qara niraq
-👨🏿‍❤‍💋‍👨🏼	much’a, much’a: tata, tata, yana qara niraq, tunpa chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, yana qara niraq
-👨🏿‍❤‍💋‍👨🏽	much’a, much’a: tata, tata, yana qara niraq, tunpa qara niraq, pitu runakuna, tata, tunpa qara niraq, yana qara niraq
-👨🏿‍❤‍💋‍👨🏾	much’a, much’a: tata, tata, yana qara niraq, tunpa yana qara niraq, pitu runakuna, tata, tunpa yana qara niraq, yana qara niraq
-👨🏿‍❤‍💋‍👨🏿	much’a, much’a: tata, tata, yana qara niraq, pitu runakuna, tata, yana qara niraq
-👨🏻‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, chuya qara niraq, tata
-👨🏻‍❤‍👨🏼	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, chuya qara niraq, tunpa chuya qara niraq, tata, tunpa chuya qara niraq
-👨🏻‍❤‍👨🏽	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, chuya qara niraq, tunpa qara niraq, tata, tunpa qara niraq
-👨🏻‍❤‍👨🏾	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, chuya qara niraq, tunpa yana qara niraq, tata, tunpa yana qara niraq
-👨🏻‍❤‍👨🏿	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, chuya qara niraq, yana qara niraq, tata, yana qara niraq
-👨🏼‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa chuya qara niraq, chuya qara niraq, tata, tunpa chuya qara niraq
-👨🏼‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa chuya qara niraq, tata, tunpa chuya qara niraq
-👨🏼‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa chuya qara niraq, tunpa qara niraq, tata, tunpa chuya qara niraq, tunpa qara niraq
-👨🏼‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa chuya qara niraq, tunpa yana qara niraq, tata, tunpa chuya qara niraq, tunpa yana qara niraq
-👨🏼‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa chuya qara niraq, yana qara niraq, tata, tunpa chuya qara niraq, yana qara niraq
-👨🏽‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa qara niraq, chuya qara niraq, tata, tunpa qara niraq
-👨🏽‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa qara niraq, tunpa chuya qara niraq, tata, tunpa chuya qara niraq, tunpa qara niraq
-👨🏽‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa qara niraq, tata, tunpa qara niraq
-👨🏽‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa qara niraq, tunpa yana qara niraq, tata, tunpa qara niraq, tunpa yana qara niraq
-👨🏽‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa qara niraq, yana qara niraq, tata, tunpa qara niraq, yana qara niraq
-👨🏾‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa yana qara niraq, chuya qara niraq, tata, tunpa yana qara niraq
-👨🏾‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa yana qara niraq, tunpa chuya qara niraq, tata, tunpa chuya qara niraq, tunpa yana qara niraq
-👨🏾‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa yana qara niraq, tunpa qara niraq, tata, tunpa qara niraq, tunpa yana qara niraq
-👨🏾‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa yana qara niraq, tata, tunpa yana qara niraq
-👨🏾‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tunpa yana qara niraq, yana qara niraq, tata, tunpa yana qara niraq, yana qara niraq
-👨🏿‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, yana qara niraq, chuya qara niraq, tata, yana qara niraq
-👨🏿‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, yana qara niraq, tunpa chuya qara niraq, tata, tunpa chuya qara niraq, yana qara niraq
-👨🏿‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, yana qara niraq, tunpa qara niraq, tata, tunpa qara niraq, yana qara niraq
-👨🏿‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, yana qara niraq, tunpa yana qara niraq, tata, tunpa yana qara niraq, yana qara niraq
-👨🏿‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, yana qara niraq, tata, yana qara niraq
-👨‍🦰	puka chukcha, puriq runa, tata, tata: puka chukcha
-👨🏻‍🦰	chuya qara niraq, puka chukcha, puriq runa, tata, tata: chuya qara niraq, puka chukcha
-👨🏼‍🦰	puka chukcha, puriq runa, tata, tata: tunpa chuya qara niraq, puka chukcha, tunpa chuya qara niraq
-👨🏽‍🦰	puka chukcha, puriq runa, tata, tata: tunpa qara niraq, puka chukcha, tunpa qara niraq
-👨🏾‍🦰	puka chukcha, puriq runa, tata, tata: tunpa yana qara niraq, puka chukcha, tunpa yana qara niraq
-👨🏿‍🦰	puka chukcha, puriq runa, tata, tata: yana qara niraq, puka chukcha, yana qara niraq
-👨‍🦱	puriq runa, qaspa chukcha, tata, tata: qaspa chukcha
-👨🏻‍🦱	chuya qara niraq, puriq runa, qaspa chukcha, tata, tata: chuya qara niraq, qaspa chukcha
-👨🏼‍🦱	puriq runa, qaspa chukcha, tata, tata: tunpa chuya qara niraq, qaspa chukcha, tunpa chuya qara niraq
-👨🏽‍🦱	puriq runa, qaspa chukcha, tata, tata: tunpa qara niraq, qaspa chukcha, tunpa qara niraq
-👨🏾‍🦱	puriq runa, qaspa chukcha, tata, tata: tunpa yana qara niraq, qaspa chukcha, tunpa yana qara niraq
-👨🏿‍🦱	puriq runa, qaspa chukcha, tata, tata: yana qara niraq, qaspa chukcha, yana qara niraq
-👨‍🦳	puriq runa, tata, tata: yuraq chukcha, yuraq chukcha
-👨🏻‍🦳	chuya qara niraq, puriq runa, tata, tata: chuya qara niraq, yuraq chukcha, yuraq chukcha
-👨🏼‍🦳	puriq runa, tata, tata: tunpa chuya qara niraq, yuraq chukcha, tunpa chuya qara niraq, yuraq chukcha
-👨🏽‍🦳	puriq runa, tata, tata: tunpa qara niraq, yuraq chukcha, tunpa qara niraq, yuraq chukcha
-👨🏾‍🦳	puriq runa, tata, tata: tunpa yana qara niraq, yuraq chukcha, tunpa yana qara niraq, yuraq chukcha
-👨🏿‍🦳	puriq runa, tata, tata: yana qara niraq, yuraq chukcha, yana qara niraq, yuraq chukcha
-👨‍🦲	paqla, puriq runa, tata, tata: paqla
-👨🏻‍🦲	chuya qara niraq, paqla, puriq runa, tata, tata: chuya qara niraq, paqla
-👨🏼‍🦲	paqla, puriq runa, tata, tata: tunpa chuya qara niraq, paqla, tunpa chuya qara niraq
-👨🏽‍🦲	paqla, puriq runa, tata, tata: tunpa qara niraq, paqla, tunpa qara niraq
-👨🏾‍🦲	paqla, puriq runa, tata, tata: tunpa yana qara niraq, paqla, tunpa yana qara niraq
-👨🏿‍🦲	paqla, puriq runa, tata, tata: yana qara niraq, paqla, yana qara niraq
+🧔‍♂	bigote, kaki, qari, qari: kaki
+🧔🏻‍♂	bigote, chuya qara niraq, kaki, qari, qari: chuya qara niraq, kaki
+🧔🏼‍♂	bigote, kaki, qari, qari: tunpa chuya qara niraq, kaki, tunpa chuya qara niraq
+🧔🏽‍♂	bigote, kaki, qari, qari: tunpa qara niraq, kaki, tunpa qara niraq
+🧔🏾‍♂	bigote, kaki, qari, qari: tunpa yana qara niraq, kaki, tunpa yana qara niraq
+🧔🏿‍♂	bigote, kaki, qari, qari: yana qara niraq, kaki, yana qara niraq
+👱‍♂	chukcha, qari: qillu chukcha, qʼillu, runa
+👱🏻‍♂	chukcha, chuya qara niraq, qari: chuya qara niraq, qillu chukcha, qari: qillu chukcha, qillu chukcha, qʼillu, runa
+👱🏼‍♂	chukcha, qari: qillu chukcha, qari: tunpa chuya qara niraq, qillu chukcha, qillu chukcha, qʼillu, runa, tunpa chuya qara niraq
+👱🏽‍♂	chukcha, qari: qillu chukcha, qari: tunpa qara niraq, qillu chukcha, qillu chukcha, qʼillu, runa, tunpa qara niraq
+👱🏾‍♂	chukcha, qari: qillu chukcha, qari: tunpa yana qara niraq, qillu chukcha, qillu chukcha, qʼillu, runa, tunpa yana qara niraq
+👱🏿‍♂	chukcha, qari: qillu chukcha, qari: yana qara niraq, qillu chukcha, qillu chukcha, qʼillu, runa, yana qara niraq
+👨🏻‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: qari, qari, chuya qara niraq, pitu runakuna, qari
+👨🏻‍❤‍💋‍👨🏼	chuya qara niraq, much’a, much’a: qari, qari, chuya qara niraq, tunpa chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq
+👨🏻‍❤‍💋‍👨🏽	chuya qara niraq, much’a, much’a: qari, qari, chuya qara niraq, tunpa qara niraq, pitu runakuna, qari, tunpa qara niraq
+👨🏻‍❤‍💋‍👨🏾	chuya qara niraq, much’a, much’a: qari, qari, chuya qara niraq, tunpa yana qara niraq, pitu runakuna, qari, tunpa yana qara niraq
+👨🏻‍❤‍💋‍👨🏿	chuya qara niraq, much’a, much’a: qari, qari, chuya qara niraq, yana qara niraq, pitu runakuna, qari, yana qara niraq
+👨🏼‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: qari, qari, tunpa chuya qara niraq, chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq
+👨🏼‍❤‍💋‍👨🏼	much’a, much’a: qari, qari, tunpa chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq
+👨🏼‍❤‍💋‍👨🏽	much’a, much’a: qari, qari, tunpa chuya qara niraq, tunpa qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, tunpa qara niraq
+👨🏼‍❤‍💋‍👨🏾	much’a, much’a: qari, qari, tunpa chuya qara niraq, tunpa yana qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, tunpa yana qara niraq
+👨🏼‍❤‍💋‍👨🏿	much’a, much’a: qari, qari, tunpa chuya qara niraq, yana qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, yana qara niraq
+👨🏽‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: qari, qari, tunpa qara niraq, chuya qara niraq, pitu runakuna, qari, tunpa qara niraq
+👨🏽‍❤‍💋‍👨🏼	much’a, much’a: qari, qari, tunpa qara niraq, tunpa chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, tunpa qara niraq
+👨🏽‍❤‍💋‍👨🏽	much’a, much’a: qari, qari, tunpa qara niraq, pitu runakuna, qari, tunpa qara niraq
+👨🏽‍❤‍💋‍👨🏾	much’a, much’a: qari, qari, tunpa qara niraq, tunpa yana qara niraq, pitu runakuna, qari, tunpa qara niraq, tunpa yana qara niraq
+👨🏽‍❤‍💋‍👨🏿	much’a, much’a: qari, qari, tunpa qara niraq, yana qara niraq, pitu runakuna, qari, tunpa qara niraq, yana qara niraq
+👨🏾‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: qari, qari, tunpa yana qara niraq, chuya qara niraq, pitu runakuna, qari, tunpa yana qara niraq
+👨🏾‍❤‍💋‍👨🏼	much’a, much’a: qari, qari, tunpa yana qara niraq, tunpa chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, tunpa yana qara niraq
+👨🏾‍❤‍💋‍👨🏽	much’a, much’a: qari, qari, tunpa yana qara niraq, tunpa qara niraq, pitu runakuna, qari, tunpa qara niraq, tunpa yana qara niraq
+👨🏾‍❤‍💋‍👨🏾	much’a, much’a: qari, qari, tunpa yana qara niraq, pitu runakuna, qari, tunpa yana qara niraq
+👨🏾‍❤‍💋‍👨🏿	much’a, much’a: qari, qari, tunpa yana qara niraq, yana qara niraq, pitu runakuna, qari, tunpa yana qara niraq, yana qara niraq
+👨🏿‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: qari, qari, yana qara niraq, chuya qara niraq, pitu runakuna, qari, yana qara niraq
+👨🏿‍❤‍💋‍👨🏼	much’a, much’a: qari, qari, yana qara niraq, tunpa chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, yana qara niraq
+👨🏿‍❤‍💋‍👨🏽	much’a, much’a: qari, qari, yana qara niraq, tunpa qara niraq, pitu runakuna, qari, tunpa qara niraq, yana qara niraq
+👨🏿‍❤‍💋‍👨🏾	much’a, much’a: qari, qari, yana qara niraq, tunpa yana qara niraq, pitu runakuna, qari, tunpa yana qara niraq, yana qara niraq
+👨🏿‍❤‍💋‍👨🏿	much’a, much’a: qari, qari, yana qara niraq, pitu runakuna, qari, yana qara niraq
+👨🏻‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, chuya qara niraq, qari
+👨🏻‍❤‍👨🏼	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, chuya qara niraq, tunpa chuya qara niraq, qari, tunpa chuya qara niraq
+👨🏻‍❤‍👨🏽	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, chuya qara niraq, tunpa qara niraq, qari, tunpa qara niraq
+👨🏻‍❤‍👨🏾	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, chuya qara niraq, tunpa yana qara niraq, qari, tunpa yana qara niraq
+👨🏻‍❤‍👨🏿	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, chuya qara niraq, yana qara niraq, qari, yana qara niraq
+👨🏼‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa chuya qara niraq, chuya qara niraq, qari, tunpa chuya qara niraq
+👨🏼‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa chuya qara niraq, qari, tunpa chuya qara niraq
+👨🏼‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa chuya qara niraq, tunpa qara niraq, qari, tunpa chuya qara niraq, tunpa qara niraq
+👨🏼‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa chuya qara niraq, tunpa yana qara niraq, qari, tunpa chuya qara niraq, tunpa yana qara niraq
+👨🏼‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa chuya qara niraq, yana qara niraq, qari, tunpa chuya qara niraq, yana qara niraq
+👨🏽‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa qara niraq, chuya qara niraq, qari, tunpa qara niraq
+👨🏽‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa qara niraq, tunpa chuya qara niraq, qari, tunpa chuya qara niraq, tunpa qara niraq
+👨🏽‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa qara niraq, qari, tunpa qara niraq
+👨🏽‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa qara niraq, tunpa yana qara niraq, qari, tunpa qara niraq, tunpa yana qara niraq
+👨🏽‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa qara niraq, yana qara niraq, qari, tunpa qara niraq, yana qara niraq
+👨🏾‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa yana qara niraq, chuya qara niraq, qari, tunpa yana qara niraq
+👨🏾‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa yana qara niraq, tunpa chuya qara niraq, qari, tunpa chuya qara niraq, tunpa yana qara niraq
+👨🏾‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa yana qara niraq, tunpa qara niraq, qari, tunpa qara niraq, tunpa yana qara niraq
+👨🏾‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa yana qara niraq, qari, tunpa yana qara niraq
+👨🏾‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, tunpa yana qara niraq, yana qara niraq, qari, tunpa yana qara niraq, yana qara niraq
+👨🏿‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, yana qara niraq, chuya qara niraq, qari, yana qara niraq
+👨🏿‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, yana qara niraq, tunpa chuya qara niraq, qari, tunpa chuya qara niraq, yana qara niraq
+👨🏿‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, yana qara niraq, tunpa qara niraq, qari, tunpa qara niraq, yana qara niraq
+👨🏿‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, yana qara niraq, tunpa yana qara niraq, qari, tunpa yana qara niraq, yana qara niraq
+👨🏿‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, yana qara niraq, qari, yana qara niraq
+👨‍🦰	puka chukcha, puriq runa, qari, qari: puka chukcha
+👨🏻‍🦰	chuya qara niraq, puka chukcha, puriq runa, qari, qari: chuya qara niraq, puka chukcha
+👨🏼‍🦰	puka chukcha, puriq runa, qari, qari: tunpa chuya qara niraq, puka chukcha, tunpa chuya qara niraq
+👨🏽‍🦰	puka chukcha, puriq runa, qari, qari: tunpa qara niraq, puka chukcha, tunpa qara niraq
+👨🏾‍🦰	puka chukcha, puriq runa, qari, qari: tunpa yana qara niraq, puka chukcha, tunpa yana qara niraq
+👨🏿‍🦰	puka chukcha, puriq runa, qari, qari: yana qara niraq, puka chukcha, yana qara niraq
+👨‍🦱	puriq runa, qari, qari: qaspa chukcha, qaspa chukcha
+👨🏻‍🦱	chuya qara niraq, puriq runa, qari, qari: chuya qara niraq, qaspa chukcha, qaspa chukcha
+👨🏼‍🦱	puriq runa, qari, qari: tunpa chuya qara niraq, qaspa chukcha, qaspa chukcha, tunpa chuya qara niraq
+👨🏽‍🦱	puriq runa, qari, qari: tunpa qara niraq, qaspa chukcha, qaspa chukcha, tunpa qara niraq
+👨🏾‍🦱	puriq runa, qari, qari: tunpa yana qara niraq, qaspa chukcha, qaspa chukcha, tunpa yana qara niraq
+👨🏿‍🦱	puriq runa, qari, qari: yana qara niraq, qaspa chukcha, qaspa chukcha, yana qara niraq
+👨‍🦳	puriq runa, qari, qari: yuraq chukcha, yuraq chukcha
+👨🏻‍🦳	chuya qara niraq, puriq runa, qari, qari: chuya qara niraq, yuraq chukcha, yuraq chukcha
+👨🏼‍🦳	puriq runa, qari, qari: tunpa chuya qara niraq, yuraq chukcha, tunpa chuya qara niraq, yuraq chukcha
+👨🏽‍🦳	puriq runa, qari, qari: tunpa qara niraq, yuraq chukcha, tunpa qara niraq, yuraq chukcha
+👨🏾‍🦳	puriq runa, qari, qari: tunpa yana qara niraq, yuraq chukcha, tunpa yana qara niraq, yuraq chukcha
+👨🏿‍🦳	puriq runa, qari, qari: yana qara niraq, yuraq chukcha, yana qara niraq, yuraq chukcha
+👨‍🦲	paqla, puriq runa, qari, qari: paqla
+👨🏻‍🦲	chuya qara niraq, paqla, puriq runa, qari, qari: chuya qara niraq, paqla
+👨🏼‍🦲	paqla, puriq runa, qari, qari: tunpa chuya qara niraq, paqla, tunpa chuya qara niraq
+👨🏽‍🦲	paqla, puriq runa, qari, qari: tunpa qara niraq, paqla, tunpa qara niraq
+👨🏾‍🦲	paqla, puriq runa, qari, qari: tunpa yana qara niraq, paqla, tunpa yana qara niraq
+👨🏿‍🦲	paqla, puriq runa, qari, qari: yana qara niraq, paqla, yana qara niraq
 👩	puriq runa, warmi
 👩🏻	chuya qara niraq, puriq runa, warmi, warmi: chuya qara niraq
 👩🏼	puriq runa, tunpa chuya qara niraq, warmi, warmi: tunpa chuya qara niraq
@@ -1034,31 +1052,31 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 👱🏽‍♀	chukcha, qʼillo chukcha warmi, qʼillu, tunpa qara niraq, warmi, warmi: qʼillu chukcha, warmi: tunpa qara niraq, qʼillu chukcha
 👱🏾‍♀	chukcha, qʼillo chukcha warmi, qʼillu, tunpa yana qara niraq, warmi, warmi: qʼillu chukcha, warmi: tunpa yana qara niraq, qʼillu chukcha
 👱🏿‍♀	chukcha, qʼillo chukcha warmi, qʼillu, warmi, warmi: qʼillu chukcha, warmi: yana qara niraq, qʼillu chukcha, yana qara niraq
-👩🏻‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: warmi, tata, chuya qara niraq, pitu runakuna, tata, warmi
-👩🏻‍❤‍💋‍👨🏼	chuya qara niraq, much’a, much’a: warmi, tata, chuya qara niraq, tunpa chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, warmi
-👩🏻‍❤‍💋‍👨🏽	chuya qara niraq, much’a, much’a: warmi, tata, chuya qara niraq, tunpa qara niraq, pitu runakuna, tata, tunpa qara niraq, warmi
-👩🏻‍❤‍💋‍👨🏾	chuya qara niraq, much’a, much’a: warmi, tata, chuya qara niraq, tunpa yana qara niraq, pitu runakuna, tata, tunpa yana qara niraq, warmi
-👩🏻‍❤‍💋‍👨🏿	chuya qara niraq, much’a, much’a: warmi, tata, chuya qara niraq, yana qara niraq, pitu runakuna, tata, warmi, yana qara niraq
-👩🏼‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: warmi, tata, tunpa chuya qara niraq, chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, warmi
-👩🏼‍❤‍💋‍👨🏼	much’a, much’a: warmi, tata, tunpa chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, warmi
-👩🏼‍❤‍💋‍👨🏽	much’a, much’a: warmi, tata, tunpa chuya qara niraq, tunpa qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, tunpa qara niraq, warmi
-👩🏼‍❤‍💋‍👨🏾	much’a, much’a: warmi, tata, tunpa chuya qara niraq, tunpa yana qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, tunpa yana qara niraq, warmi
-👩🏼‍❤‍💋‍👨🏿	much’a, much’a: warmi, tata, tunpa chuya qara niraq, yana qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, warmi, yana qara niraq
-👩🏽‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: warmi, tata, tunpa qara niraq, chuya qara niraq, pitu runakuna, tata, tunpa qara niraq, warmi
-👩🏽‍❤‍💋‍👨🏼	much’a, much’a: warmi, tata, tunpa qara niraq, tunpa chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, tunpa qara niraq, warmi
-👩🏽‍❤‍💋‍👨🏽	much’a, much’a: warmi, tata, tunpa qara niraq, pitu runakuna, tata, tunpa qara niraq, warmi
-👩🏽‍❤‍💋‍👨🏾	much’a, much’a: warmi, tata, tunpa qara niraq, tunpa yana qara niraq, pitu runakuna, tata, tunpa qara niraq, tunpa yana qara niraq, warmi
-👩🏽‍❤‍💋‍👨🏿	much’a, much’a: warmi, tata, tunpa qara niraq, yana qara niraq, pitu runakuna, tata, tunpa qara niraq, warmi, yana qara niraq
-👩🏾‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: warmi, tata, tunpa yana qara niraq, chuya qara niraq, pitu runakuna, tata, tunpa yana qara niraq, warmi
-👩🏾‍❤‍💋‍👨🏼	much’a, much’a: warmi, tata, tunpa yana qara niraq, tunpa chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, tunpa yana qara niraq, warmi
-👩🏾‍❤‍💋‍👨🏽	much’a, much’a: warmi, tata, tunpa yana qara niraq, tunpa qara niraq, pitu runakuna, tata, tunpa qara niraq, tunpa yana qara niraq, warmi
-👩🏾‍❤‍💋‍👨🏾	much’a, much’a: warmi, tata, tunpa yana qara niraq, pitu runakuna, tata, tunpa yana qara niraq, warmi
-👩🏾‍❤‍💋‍👨🏿	much’a, much’a: warmi, tata, tunpa yana qara niraq, yana qara niraq, pitu runakuna, tata, tunpa yana qara niraq, warmi, yana qara niraq
-👩🏿‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: warmi, tata, yana qara niraq, chuya qara niraq, pitu runakuna, tata, warmi, yana qara niraq
-👩🏿‍❤‍💋‍👨🏼	much’a, much’a: warmi, tata, yana qara niraq, tunpa chuya qara niraq, pitu runakuna, tata, tunpa chuya qara niraq, warmi, yana qara niraq
-👩🏿‍❤‍💋‍👨🏽	much’a, much’a: warmi, tata, yana qara niraq, tunpa qara niraq, pitu runakuna, tata, tunpa qara niraq, warmi, yana qara niraq
-👩🏿‍❤‍💋‍👨🏾	much’a, much’a: warmi, tata, yana qara niraq, tunpa yana qara niraq, pitu runakuna, tata, tunpa yana qara niraq, warmi, yana qara niraq
-👩🏿‍❤‍💋‍👨🏿	much’a, much’a: warmi, tata, yana qara niraq, pitu runakuna, tata, warmi, yana qara niraq
+👩🏻‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: warmi, qari, chuya qara niraq, pitu runakuna, qari, warmi
+👩🏻‍❤‍💋‍👨🏼	chuya qara niraq, much’a, much’a: warmi, qari, chuya qara niraq, tunpa chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, warmi
+👩🏻‍❤‍💋‍👨🏽	chuya qara niraq, much’a, much’a: warmi, qari, chuya qara niraq, tunpa qara niraq, pitu runakuna, qari, tunpa qara niraq, warmi
+👩🏻‍❤‍💋‍👨🏾	chuya qara niraq, much’a, much’a: warmi, qari, chuya qara niraq, tunpa yana qara niraq, pitu runakuna, qari, tunpa yana qara niraq, warmi
+👩🏻‍❤‍💋‍👨🏿	chuya qara niraq, much’a, much’a: warmi, qari, chuya qara niraq, yana qara niraq, pitu runakuna, qari, warmi, yana qara niraq
+👩🏼‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: warmi, qari, tunpa chuya qara niraq, chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, warmi
+👩🏼‍❤‍💋‍👨🏼	much’a, much’a: warmi, qari, tunpa chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, warmi
+👩🏼‍❤‍💋‍👨🏽	much’a, much’a: warmi, qari, tunpa chuya qara niraq, tunpa qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, tunpa qara niraq, warmi
+👩🏼‍❤‍💋‍👨🏾	much’a, much’a: warmi, qari, tunpa chuya qara niraq, tunpa yana qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, tunpa yana qara niraq, warmi
+👩🏼‍❤‍💋‍👨🏿	much’a, much’a: warmi, qari, tunpa chuya qara niraq, yana qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, warmi, yana qara niraq
+👩🏽‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: warmi, qari, tunpa qara niraq, chuya qara niraq, pitu runakuna, qari, tunpa qara niraq, warmi
+👩🏽‍❤‍💋‍👨🏼	much’a, much’a: warmi, qari, tunpa qara niraq, tunpa chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, tunpa qara niraq, warmi
+👩🏽‍❤‍💋‍👨🏽	much’a, much’a: warmi, qari, tunpa qara niraq, pitu runakuna, qari, tunpa qara niraq, warmi
+👩🏽‍❤‍💋‍👨🏾	much’a, much’a: warmi, qari, tunpa qara niraq, tunpa yana qara niraq, pitu runakuna, qari, tunpa qara niraq, tunpa yana qara niraq, warmi
+👩🏽‍❤‍💋‍👨🏿	much’a, much’a: warmi, qari, tunpa qara niraq, yana qara niraq, pitu runakuna, qari, tunpa qara niraq, warmi, yana qara niraq
+👩🏾‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: warmi, qari, tunpa yana qara niraq, chuya qara niraq, pitu runakuna, qari, tunpa yana qara niraq, warmi
+👩🏾‍❤‍💋‍👨🏼	much’a, much’a: warmi, qari, tunpa yana qara niraq, tunpa chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, tunpa yana qara niraq, warmi
+👩🏾‍❤‍💋‍👨🏽	much’a, much’a: warmi, qari, tunpa yana qara niraq, tunpa qara niraq, pitu runakuna, qari, tunpa qara niraq, tunpa yana qara niraq, warmi
+👩🏾‍❤‍💋‍👨🏾	much’a, much’a: warmi, qari, tunpa yana qara niraq, pitu runakuna, qari, tunpa yana qara niraq, warmi
+👩🏾‍❤‍💋‍👨🏿	much’a, much’a: warmi, qari, tunpa yana qara niraq, yana qara niraq, pitu runakuna, qari, tunpa yana qara niraq, warmi, yana qara niraq
+👩🏿‍❤‍💋‍👨🏻	chuya qara niraq, much’a, much’a: warmi, qari, yana qara niraq, chuya qara niraq, pitu runakuna, qari, warmi, yana qara niraq
+👩🏿‍❤‍💋‍👨🏼	much’a, much’a: warmi, qari, yana qara niraq, tunpa chuya qara niraq, pitu runakuna, qari, tunpa chuya qara niraq, warmi, yana qara niraq
+👩🏿‍❤‍💋‍👨🏽	much’a, much’a: warmi, qari, yana qara niraq, tunpa qara niraq, pitu runakuna, qari, tunpa qara niraq, warmi, yana qara niraq
+👩🏿‍❤‍💋‍👨🏾	much’a, much’a: warmi, qari, yana qara niraq, tunpa yana qara niraq, pitu runakuna, qari, tunpa yana qara niraq, warmi, yana qara niraq
+👩🏿‍❤‍💋‍👨🏿	much’a, much’a: warmi, qari, yana qara niraq, pitu runakuna, qari, warmi, yana qara niraq
 👩🏻‍❤‍💋‍👩🏻	chuya qara niraq, much’a, much’a: warmi, warmi, chuya qara niraq, pitu runakuna, warmi
 👩🏻‍❤‍💋‍👩🏼	chuya qara niraq, much’a, much’a: warmi, warmi, chuya qara niraq, tunpa chuya qara niraq, pitu runakuna, tunpa chuya qara niraq, warmi
 👩🏻‍❤‍💋‍👩🏽	chuya qara niraq, much’a, much’a: warmi, warmi, chuya qara niraq, tunpa qara niraq, pitu runakuna, tunpa qara niraq, warmi
@@ -1084,31 +1102,31 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 👩🏿‍❤‍💋‍👩🏽	much’a, much’a: warmi, warmi, yana qara niraq, tunpa qara niraq, pitu runakuna, tunpa qara niraq, warmi, yana qara niraq
 👩🏿‍❤‍💋‍👩🏾	much’a, much’a: warmi, warmi, yana qara niraq, tunpa yana qara niraq, pitu runakuna, tunpa yana qara niraq, warmi, yana qara niraq
 👩🏿‍❤‍💋‍👩🏿	much’a, much’a: warmi, warmi, yana qara niraq, pitu runakuna, warmi, yana qara niraq
-👩🏻‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, chuya qara niraq, tata, warmi
-👩🏻‍❤‍👨🏼	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, chuya qara niraq, tunpa chuya qara niraq, tata, tunpa chuya qara niraq, warmi
-👩🏻‍❤‍👨🏽	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, chuya qara niraq, tunpa qara niraq, tata, tunpa qara niraq, warmi
-👩🏻‍❤‍👨🏾	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, chuya qara niraq, tunpa yana qara niraq, tata, tunpa yana qara niraq, warmi
-👩🏻‍❤‍👨🏿	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, chuya qara niraq, yana qara niraq, tata, warmi, yana qara niraq
-👩🏼‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa chuya qara niraq, chuya qara niraq, tata, tunpa chuya qara niraq, warmi
-👩🏼‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa chuya qara niraq, tata, tunpa chuya qara niraq, warmi
-👩🏼‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa chuya qara niraq, tunpa qara niraq, tata, tunpa chuya qara niraq, tunpa qara niraq, warmi
-👩🏼‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa chuya qara niraq, tunpa yana qara niraq, tata, tunpa chuya qara niraq, tunpa yana qara niraq, warmi
-👩🏼‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa chuya qara niraq, yana qara niraq, tata, tunpa chuya qara niraq, warmi, yana qara niraq
-👩🏽‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa qara niraq, chuya qara niraq, tata, tunpa qara niraq, warmi
-👩🏽‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa qara niraq, tunpa chuya qara niraq, tata, tunpa chuya qara niraq, tunpa qara niraq, warmi
-👩🏽‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa qara niraq, tata, tunpa qara niraq, warmi
-👩🏽‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa qara niraq, tunpa yana qara niraq, tata, tunpa qara niraq, tunpa yana qara niraq, warmi
-👩🏽‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa qara niraq, yana qara niraq, tata, tunpa qara niraq, warmi, yana qara niraq
-👩🏾‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa yana qara niraq, chuya qara niraq, tata, tunpa yana qara niraq, warmi
-👩🏾‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa yana qara niraq, tunpa chuya qara niraq, tata, tunpa chuya qara niraq, tunpa yana qara niraq, warmi
-👩🏾‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa yana qara niraq, tunpa qara niraq, tata, tunpa qara niraq, tunpa yana qara niraq, warmi
-👩🏾‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa yana qara niraq, tata, tunpa yana qara niraq, warmi
-👩🏾‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tunpa yana qara niraq, yana qara niraq, tata, tunpa yana qara niraq, warmi, yana qara niraq
-👩🏿‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, yana qara niraq, chuya qara niraq, tata, warmi, yana qara niraq
-👩🏿‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, yana qara niraq, tunpa chuya qara niraq, tata, tunpa chuya qara niraq, warmi, yana qara niraq
-👩🏿‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, yana qara niraq, tunpa qara niraq, tata, tunpa qara niraq, warmi, yana qara niraq
-👩🏿‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, yana qara niraq, tunpa yana qara niraq, tata, tunpa yana qara niraq, warmi, yana qara niraq
-👩🏿‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, yana qara niraq, tata, warmi, yana qara niraq
+👩🏻‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, chuya qara niraq, qari, warmi
+👩🏻‍❤‍👨🏼	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, chuya qara niraq, tunpa chuya qara niraq, qari, tunpa chuya qara niraq, warmi
+👩🏻‍❤‍👨🏽	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, chuya qara niraq, tunpa qara niraq, qari, tunpa qara niraq, warmi
+👩🏻‍❤‍👨🏾	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, chuya qara niraq, tunpa yana qara niraq, qari, tunpa yana qara niraq, warmi
+👩🏻‍❤‍👨🏿	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, chuya qara niraq, yana qara niraq, qari, warmi, yana qara niraq
+👩🏼‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa chuya qara niraq, chuya qara niraq, qari, tunpa chuya qara niraq, warmi
+👩🏼‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa chuya qara niraq, qari, tunpa chuya qara niraq, warmi
+👩🏼‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa chuya qara niraq, tunpa qara niraq, qari, tunpa chuya qara niraq, tunpa qara niraq, warmi
+👩🏼‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa chuya qara niraq, tunpa yana qara niraq, qari, tunpa chuya qara niraq, tunpa yana qara niraq, warmi
+👩🏼‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa chuya qara niraq, yana qara niraq, qari, tunpa chuya qara niraq, warmi, yana qara niraq
+👩🏽‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa qara niraq, chuya qara niraq, qari, tunpa qara niraq, warmi
+👩🏽‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa qara niraq, tunpa chuya qara niraq, qari, tunpa chuya qara niraq, tunpa qara niraq, warmi
+👩🏽‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa qara niraq, qari, tunpa qara niraq, warmi
+👩🏽‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa qara niraq, tunpa yana qara niraq, qari, tunpa qara niraq, tunpa yana qara niraq, warmi
+👩🏽‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa qara niraq, yana qara niraq, qari, tunpa qara niraq, warmi, yana qara niraq
+👩🏾‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa yana qara niraq, chuya qara niraq, qari, tunpa yana qara niraq, warmi
+👩🏾‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa yana qara niraq, tunpa chuya qara niraq, qari, tunpa chuya qara niraq, tunpa yana qara niraq, warmi
+👩🏾‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa yana qara niraq, tunpa qara niraq, qari, tunpa qara niraq, tunpa yana qara niraq, warmi
+👩🏾‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa yana qara niraq, qari, tunpa yana qara niraq, warmi
+👩🏾‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, tunpa yana qara niraq, yana qara niraq, qari, tunpa yana qara niraq, warmi, yana qara niraq
+👩🏿‍❤‍👨🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, yana qara niraq, chuya qara niraq, qari, warmi, yana qara niraq
+👩🏿‍❤‍👨🏼	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, yana qara niraq, tunpa chuya qara niraq, qari, tunpa chuya qara niraq, warmi, yana qara niraq
+👩🏿‍❤‍👨🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, yana qara niraq, tunpa qara niraq, qari, tunpa qara niraq, warmi, yana qara niraq
+👩🏿‍❤‍👨🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, yana qara niraq, tunpa yana qara niraq, qari, tunpa yana qara niraq, warmi, yana qara niraq
+👩🏿‍❤‍👨🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, yana qara niraq, qari, warmi, yana qara niraq
 👩🏻‍❤‍👩🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, warmi, chuya qara niraq, warmi
 👩🏻‍❤‍👩🏼	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, warmi, chuya qara niraq, tunpa chuya qara niraq, tunpa chuya qara niraq, warmi
 👩🏻‍❤‍👩🏽	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, warmi, chuya qara niraq, tunpa qara niraq, tunpa qara niraq, warmi
@@ -1164,12 +1182,12 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🧓🏽	genero, genero neutral, hatun, mana akllasqa, puriq runa, tunpa qara niraq, ñawpa runa, ñawpa runa: tunpa qara niraq
 🧓🏾	genero, genero neutral, hatun, mana akllasqa, puriq runa, tunpa yana qara niraq, ñawpa runa, ñawpa runa: tunpa yana qara niraq
 🧓🏿	genero, genero neutral, hatun, mana akllasqa, puriq runa, yana qara niraq, ñawpa runa, ñawpa runa: yana qara niraq
-👴	hatun, hatun tata, puriq runa, runa
-👴🏻	chuya qara niraq, hatun, hatun tata, hatun tata: chuya qara niraq, puriq runa, runa
-👴🏼	hatun, hatun tata, hatun tata: tunpa chuya qara niraq, puriq runa, runa, tunpa chuya qara niraq
-👴🏽	hatun, hatun tata, hatun tata: tunpa qara niraq, puriq runa, runa, tunpa qara niraq
-👴🏾	hatun, hatun tata, hatun tata: tunpa yana qara niraq, puriq runa, runa, tunpa yana qara niraq
-👴🏿	hatun, hatun tata, hatun tata: yana qara niraq, puriq runa, runa, yana qara niraq
+👴	hatun, hatun tata, puriq runa, qari
+👴🏻	chuya qara niraq, hatun, hatun tata, hatun tata: chuya qara niraq, puriq runa, qari
+👴🏼	hatun, hatun tata, hatun tata: tunpa chuya qara niraq, puriq runa, qari, tunpa chuya qara niraq
+👴🏽	hatun, hatun tata, hatun tata: tunpa qara niraq, puriq runa, qari, tunpa qara niraq
+👴🏾	hatun, hatun tata, hatun tata: tunpa yana qara niraq, puriq runa, qari, tunpa yana qara niraq
+👴🏿	hatun, hatun tata, hatun tata: yana qara niraq, puriq runa, qari, yana qara niraq
 👵	hatun, hatun mama, puriq runa, warmi
 👵🏻	chuya qara niraq, hatun, hatun mama, hatun mama: chuya qara niraq, puriq runa, warmi
 👵🏼	hatun, hatun mama, hatun mama: tunpa chuya qara niraq, puriq runa, tunpa chuya qara niraq, warmi
@@ -1218,12 +1236,12 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🙅🏽	amasqa, amatasqa, gesto, maki, runa MANA rikuy, runa MANA rikuy: tunpa qara niraq, tunpa qara niraq
 🙅🏾	amasqa, amatasqa, gesto, maki, runa MANA rikuy, runa MANA rikuy: tunpa yana qara niraq, tunpa yana qara niraq
 🙅🏿	amasqa, amatasqa, gesto, maki, runa MANA rikuy, runa MANA rikuy: yana qara niraq, yana qara niraq
-🙅‍♂	amasqa, amatasqa, gesto, maki, tat MANA gestowan
-🙅🏻‍♂	amasqa, amatasqa, chuya qara niraq, gesto, maki, tat MANA gestowan, tat MANA gestowan: chuya qara niraq
-🙅🏼‍♂	amasqa, amatasqa, gesto, maki, tat MANA gestowan, tat MANA gestowan: tunpa chuya qara niraq, tunpa chuya qara niraq
-🙅🏽‍♂	amasqa, amatasqa, gesto, maki, tat MANA gestowan, tat MANA gestowan: tunpa qara niraq, tunpa qara niraq
-🙅🏾‍♂	amasqa, amatasqa, gesto, maki, tat MANA gestowan, tat MANA gestowan: tunpa yana qara niraq, tunpa yana qara niraq
-🙅🏿‍♂	amasqa, amatasqa, gesto, maki, tat MANA gestowan, tat MANA gestowan: yana qara niraq, yana qara niraq
+🙅‍♂	MANA, amasqa, amatasqa, gesto, maki, mana, runa, tata MANA gestowan
+🙅🏻‍♂	MANA, amasqa, amatasqa, chuya qara niraq, gesto, maki, mana, runa, tata MANA gestowan: chuya qara niraq
+🙅🏼‍♂	MANA, amasqa, amatasqa, gesto, maki, mana, runa, tata MANA gestowan: tunpa chuya qara niraq, tunpa chuya qara niraq
+🙅🏽‍♂	MANA, amasqa, amatasqa, gesto, maki, mana, runa, tata MANA gestowan: tunpa qara niraq, tunpa qara niraq
+🙅🏾‍♂	MANA, amasqa, amatasqa, gesto, maki, mana, runa, tata MANA gestowan: tunpa yana qara niraq, tunpa yana qara niraq
+🙅🏿‍♂	MANA, amasqa, amatasqa, gesto, maki, mana, runa, tata MANA gestowan: yana qara niraq, yana qara niraq
 🙅‍♀	amasqa, amatasqa, gesto, warmi, warmi MANA gestowan
 🙅🏻‍♀	amasqa, amatasqa, chuya qara niraq, gesto, warmi, warmi MANA gestowan, warmi MANA gestowan: chuya qara niraq
 🙅🏼‍♀	amasqa, amatasqa, gesto, tunpa chuya qara niraq, warmi, warmi MANA gestowan, warmi MANA gestowan: tunpa chuya qara niraq
@@ -1704,12 +1722,12 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🥷🏽	maqanakuy, ninja, ninja: tunpa qara niraq, pakasqa, siqilo, tunpa qara niraq
 🥷🏾	maqanakuy, ninja, ninja: tunpa yana qara niraq, pakasqa, siqilo, tunpa yana qara niraq
 🥷🏿	maqanakuy, ninja, ninja: yana qara niraq, pakasqa, siqilo, yana qara niraq
-👷	Pirqaq, chuku, llamkaq, pirqaq
-👷🏻	Pirqaq, Pirqaq: chuya qara niraq, chuku, chuya qara niraq, llamkaq, pirqaq
-👷🏼	Pirqaq, Pirqaq: tunpa chuya qara niraq, chuku, llamkaq, pirqaq, tunpa chuya qara niraq
-👷🏽	Pirqaq, Pirqaq: tunpa qara niraq, chuku, llamkaq, pirqaq, tunpa qara niraq
-👷🏾	Pirqaq, Pirqaq: tunpa yana qara niraq, chuku, llamkaq, pirqaq, tunpa yana qara niraq
-👷🏿	Pirqaq, Pirqaq: yana qara niraq, chuku, llamkaq, pirqaq, yana qara niraq
+👷	Pirqaq, allichanapaq, allichay, chuku, llamkaq, llamkay, pirqaq, pirqay, runa
+👷🏻	Pirqaq: chuya qara niraq, allichanapaq, allichay, chuku, chuya qara niraq, llamkaq, llamkay, pirqaq, pirqay, runa
+👷🏼	Pirqaq: tunpa chuya qara niraq, allichanapaq, allichay, chuku, llamkaq, llamkay, pirqaq, pirqay, runa, tunpa chuya qara niraq
+👷🏽	Pirqaq: tunpa qara niraq, allichanapaq, allichay, chuku, llamkaq, llamkay, pirqaq, pirqay, runa, tunpa qara niraq
+👷🏾	Pirqaq: tunpa yana qara niraq, allichanapaq, allichay, chuku, llamkaq, llamkay, pirqaq, pirqay, runa, tunpa yana qara niraq
+👷🏿	Pirqaq: yana qara niraq, allichanapaq, allichay, chuku, llamkaq, llamkay, pirqaq, pirqay, runa, yana qara niraq
 👷‍♂	llamkaq, pirqaq, tata, tata pirqaq
 👷🏻‍♂	chuya qara niraq, llamkaq, pirqaq, tata, tata pirqaq: chuya qara niraq
 👷🏼‍♂	llamkaq, pirqaq, tata, tata pirqaq: tunpa chuya qara niraq, tunpa chuya qara niraq
@@ -1855,23 +1873,23 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 👼🏾	angel, fantasia, hadas willana, tunpa yana qara niraq, uya, wawa, wawa angel: tunpa yana qara niraq
 👼🏿	angel, fantasia, hadas willana, uya, wawa, wawa angel: yana qara niraq, yana qara niraq
 🎅	Navidad, Papa Noel, noel, papa, raymi, tata
-🎅🏻	Navidad, Papa Noel, Papa Noel: chuya qara niraq, chuya qara niraq, noel, papa, raymi, tata
-🎅🏼	Navidad, Papa Noel, Papa Noel: tunpa chuya qara niraq, noel, papa, raymi, tata, tunpa chuya qara niraq
-🎅🏽	Navidad, Papa Noel, Papa Noel: tunpa qara niraq, noel, papa, raymi, tata, tunpa qara niraq
-🎅🏾	Navidad, Papa Noel, Papa Noel: tunpa yana qara niraq, noel, papa, raymi, tata, tunpa yana qara niraq
-🎅🏿	Navidad, Papa Noel, Papa Noel: yana qara niraq, noel, papa, raymi, tata, yana qara niraq
+🎅🏻	Navidad, Papa Noel: chuya qara niraq, chuya qara niraq, noel, papa, raymi, tata
+🎅🏼	Navidad, Papa Noel: tunpa chuya qara niraq, noel, papa, raymi, tata, tunpa chuya qara niraq
+🎅🏽	Navidad, Papa Noel: tunpa qara niraq, noel, papa, raymi, tata, tunpa qara niraq
+🎅🏾	Navidad, Papa Noel: tunpa yana qara niraq, noel, papa, raymi, tata, tunpa yana qara niraq
+🎅🏿	Navidad, Papa Noel: yana qara niraq, noel, papa, raymi, tata, yana qara niraq
 🤶	Mama Noel, Navidad, mama, noel, raymi
-🤶🏻	Mama Noel, Mama Noel: chuya qara niraq, Navidad, chuya qara niraq, mama, noel, raymi
-🤶🏼	Mama Noel, Mama Noel: tunpa chuya qara niraq, Navidad, mama, noel, raymi, tunpa chuya qara niraq
-🤶🏽	Mama Noel, Mama Noel: tunpa qara niraq, Navidad, mama, noel, raymi, tunpa qara niraq
-🤶🏾	Mama Noel, Mama Noel: tunpa yana qara niraq, Navidad, mama, noel, raymi, tunpa yana qara niraq
-🤶🏿	Mama Noel, Mama Noel: yana qara niraq, Navidad, mama, noel, raymi, yana qara niraq
-🧑‍🎄	Claus, navidad, mx claus
-🧑🏻‍🎄	Claus, navidad, chuya qara niraq, mx claus, mx claus: chuya qara niraq
-🧑🏼‍🎄	Claus, navidad, mx claus, mx claus: tunpa chuya qara niraq, tunpa chuya qara niraq
-🧑🏽‍🎄	Claus, navidad, mx claus, mx claus: tunpa qara niraq, tunpa qara niraq
-🧑🏾‍🎄	Claus, navidad, mx claus, mx claus: tunpa yana qara niraq, tunpa yana qara niraq
-🧑🏿‍🎄	Claus, navidad, mx claus, mx claus: yana qara niraq, yana qara niraq
+🤶🏻	Mama Noel: chuya qara niraq, Navidad, chuya qara niraq, mama, noel, raymi
+🤶🏼	Mama Noel: tunpa chuya qara niraq, Navidad, mama, noel, raymi, tunpa chuya qara niraq
+🤶🏽	Mama Noel: tunpa qara niraq, Navidad, mama, noel, raymi, tunpa qara niraq
+🤶🏾	Mama Noel: tunpa yana qara niraq, Navidad, mama, noel, raymi, tunpa yana qara niraq
+🤶🏿	Mama Noel: yana qara niraq, Navidad, mama, noel, raymi, yana qara niraq
+🧑‍🎄	Mx, Navidad, claus, fantasia, kusi, kusisqa, mx claus, raymi, santa, willay
+🧑🏻‍🎄	Mx, Navidad, chuya qara niraq, claus, fantasia, kusi, kusisqa, mx claus: chuya qara niraq, raymi, santa, willay
+🧑🏼‍🎄	Mx, Navidad, claus, fantasia, kusi, kusisqa, mx claus: tunpa chuya qara niraq, raymi, santa, tunpa chuya qara niraq, willay
+🧑🏽‍🎄	Mx, Navidad, claus, fantasia, kusi, kusisqa, mx claus: tunpa qara niraq, raymi, santa, tunpa qara niraq, willay
+🧑🏾‍🎄	Mx, Navidad, claus, fantasia, kusi, kusisqa, mx claus: tunpa yana qara niraq, raymi, santa, tunpa yana qara niraq, willay
+🧑🏿‍🎄	Mx, Navidad, claus, fantasia, kusi, kusisqa, mx claus: yana qara niraq, raymi, santa, willay, yana qara niraq
 🦸	allin, heroe, heroina, superheroe, superpoder
 🦸🏻	allin, chuya qara niraq, heroe, heroina, superheroe, superheroe: chuya qara niraq, superpoder
 🦸🏼	allin, heroe, heroina, superheroe, superheroe: tunpa chuya qara niraq, superpoder, tunpa chuya qara niraq
@@ -2597,8 +2615,8 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 💏🏽	much’a, much’a: tunpa qara niraq, pitu runakuna, tunpa qara niraq
 💏🏾	much’a, much’a: tunpa yana qara niraq, pitu runakuna, tunpa yana qara niraq
 💏🏿	much’a, much’a: yana qara niraq, pitu runakuna, yana qara niraq
-👩‍❤‍💋‍👨	much’a, much’a: warmi, tata, pitu runakuna, tata, warmi
-👨‍❤‍💋‍👨	much’a, much’a: tata, tata, pitu runakuna, tata
+👩‍❤‍💋‍👨	much’a, much’a: warmi, qari, pitu runakuna, qari, warmi
+👨‍❤‍💋‍👨	much’a, much’a: qari, qari, pitu runakuna, qari
 👩‍❤‍💋‍👩	much’a, much’a: warmi, warmi, pitu runakuna, warmi
 💑	munay, pitu runakuna, pitu runakuna sunquwan
 💑🏻	chuya qara niraq, munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: chuya qara niraq
@@ -2606,30 +2624,29 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 💑🏽	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tunpa qara niraq, tunpa qara niraq
 💑🏾	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tunpa yana qara niraq, tunpa yana qara niraq
 💑🏿	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: yana qara niraq, yana qara niraq
-👩‍❤‍👨	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, tata, tata, warmi
-👨‍❤‍👨	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: tata, tata, tata
+👩‍❤‍👨	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, qari, qari, warmi
+👨‍❤‍👨	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: qari, qari, qari
 👩‍❤‍👩	munay, pitu runakuna, pitu runakuna sunquwan, pitu runakuna sunquwan: warmi, warmi, warmi
-👪️	kuraq ayllu
-👨‍👩‍👦	kuraq ayllu, kuraq ayllu: tata, warmi, yuqalla, tata, warmi, yuqalla
-👨‍👩‍👧	kuraq ayllu, kuraq ayllu: tata, warmi, warmi warma, tata, warmi, warmi warma
-👨‍👩‍👧‍👦	kuraq ayllu, kuraq ayllu: tata, warmi, warmi warma, yuqalla, tata, warmi, warmi warma, yuqalla
-👨‍👩‍👦‍👦	kuraq ayllu, kuraq ayllu: tata, warmi, yuqalla, yuqalla, tata, warmi, yuqalla
-👨‍👩‍👧‍👧	kuraq ayllu, kuraq ayllu: tata, warmi, warmi warma, warmi warma, tata, warmi, warmi warma
-👨‍👨‍👦	kuraq ayllu, kuraq ayllu: tata, tata, yuqalla, tata, yuqalla
-👨‍👨‍👧	kuraq ayllu, kuraq ayllu: tata, tata, warmi warma, tata, warmi warma
-👨‍👨‍👧‍👦	kuraq ayllu, kuraq ayllu: tata, tata, warmi warma, yuqalla, tata, warmi warma, yuqalla
-👨‍👨‍👦‍👦	kuraq ayllu, kuraq ayllu: tata, tata, yuqalla, yuqalla, tata, yuqalla
-👨‍👨‍👧‍👧	kuraq ayllu, kuraq ayllu: tata, tata, warmi warma, warmi warma, tata, warmi warma
+👨‍👩‍👦	kuraq ayllu, kuraq ayllu: qari, warmi, yuqalla, qari, warmi, yuqalla
+👨‍👩‍👧	kuraq ayllu, kuraq ayllu: qari, warmi, warmi warma, qari, warmi, warmi warma
+👨‍👩‍👧‍👦	kuraq ayllu, kuraq ayllu: qari, warmi, warmi warma, yuqalla, qari, warmi, warmi warma, yuqalla
+👨‍👩‍👦‍👦	kuraq ayllu, kuraq ayllu: qari, warmi, yuqalla, yuqalla, qari, warmi, yuqalla
+👨‍👩‍👧‍👧	kuraq ayllu, kuraq ayllu: qari, warmi, warmi warma, warmi warma, qari, warmi, warmi warma
+👨‍👨‍👦	kuraq ayllu, kuraq ayllu: qari, qari, yuqalla, qari, yuqalla
+👨‍👨‍👧	kuraq ayllu, kuraq ayllu: qari, qari, warmi warma, qari, warmi warma
+👨‍👨‍👧‍👦	kuraq ayllu, kuraq ayllu: qari, qari, warmi warma, yuqalla, qari, warmi warma, yuqalla
+👨‍👨‍👦‍👦	kuraq ayllu, kuraq ayllu: qari, qari, yuqalla, yuqalla, qari, yuqalla
+👨‍👨‍👧‍👧	kuraq ayllu, kuraq ayllu: qari, qari, warmi warma, warmi warma, qari, warmi warma
 👩‍👩‍👦	kuraq ayllu, kuraq ayllu: warmi, warmi, yuqalla, warmi, yuqalla
 👩‍👩‍👧	kuraq ayllu, kuraq ayllu: warmi, warmi, warmi warma, warmi, warmi warma
 👩‍👩‍👧‍👦	kuraq ayllu, kuraq ayllu: warmi, warmi, warmi warma, yuqalla, warmi, warmi warma, yuqalla
 👩‍👩‍👦‍👦	kuraq ayllu, kuraq ayllu: warmi, warmi, yuqalla, yuqalla, warmi, yuqalla
 👩‍👩‍👧‍👧	kuraq ayllu, kuraq ayllu: warmi, warmi, warmi warma, warmi warma, warmi, warmi warma
-👨‍👦	kuraq ayllu, kuraq ayllu: tata, yuqalla, tata, yuqalla
-👨‍👦‍👦	kuraq ayllu, kuraq ayllu: tata, yuqalla, yuqalla, tata, yuqalla
-👨‍👧	kuraq ayllu, kuraq ayllu: tata, warmi warma, tata, warmi warma
-👨‍👧‍👦	kuraq ayllu, kuraq ayllu: tata, warmi warma, yuqalla, tata, warmi warma, yuqalla
-👨‍👧‍👧	kuraq ayllu, kuraq ayllu: tata, warmi warma, warmi warma, tata, warmi warma
+👨‍👦	kuraq ayllu, kuraq ayllu: qari, yuqalla, qari, yuqalla
+👨‍👦‍👦	kuraq ayllu, kuraq ayllu: qari, yuqalla, yuqalla, qari, yuqalla
+👨‍👧	kuraq ayllu, kuraq ayllu: qari, warmi warma, qari, warmi warma
+👨‍👧‍👦	kuraq ayllu, kuraq ayllu: qari, warmi warma, yuqalla, qari, warmi warma, yuqalla
+👨‍👧‍👧	kuraq ayllu, kuraq ayllu: qari, warmi warma, warmi warma, qari, warmi warma
 👩‍👦	kuraq ayllu, kuraq ayllu: warmi, yuqalla, warmi, yuqalla
 👩‍👦‍👦	kuraq ayllu, kuraq ayllu: warmi, yuqalla, yuqalla, warmi, yuqalla
 👩‍👧	kuraq ayllu, kuraq ayllu: warmi, warmi warma, warmi, warmi warma
@@ -2639,6 +2656,11 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 👤	rikchay, ukhu, ukhu rikchay
 👥	rikchay, ukhu, ukhu rikchaykuna
 🫂	aywa, imaynalla, makʼalli, pachi, runakuna makʼalliwan
+👪️	kuraq ayllu
+🧑‍🧑‍🧒	ayllu: runa, ayllu: runa, runa, warma, runa, warma
+🧑‍🧑‍🧒‍🧒	ayllu: runa, ayllu: runa, runa, warma, warma, runa, warma
+🧑‍🧒	ayllu: runa, ayllu: runa, warma, warma
+🧑‍🧒‍🧒	ayllu: runa, ayllu: runa, warma, warma, warma
 👣	p’acha, yupi, yupinay
 🦰	puka chukcha, pukachukcha, qillu niqcha
 🦱	afro, qaspa, qaspa chukcha, qiwicha
@@ -2664,6 +2686,8 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🐅	tigre
 🐆	leopardo
 🐴	kawallu, kawallu uya, uya
+🫎	alce, mamifero, uywa, waqrakuna
+🫏	asnu, mamifero, mula, terco nisqa, uywa
 🐎	carrera, ecuestre, kawallu, kawallu purichiypaq
 🦄	unicornio, uya
 🦓	siqi, zebra
@@ -2726,6 +2750,10 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🦩	flamenco, rikurichisqa, tropical
 🦚	apuskachay, pava real, pavo real, pisqu, rikurichisqa
 🦜	parlay, pirata, pʼisqu, uritu
+🪽	angelical, aviacion nisqa, mitologia, pawasqa, pisqu, rapra
+🐦‍⬛	cuervo, granja, pisqu, yana, yana pisqu
+🪿	asnu, ganso, kurral pisqukuna, pisqu, waqrapuku
+🐦‍🔥	fantasia, fenix, gloria, inmortal, kawsay, musuqchay, nina pisqu, paqaripay, paqariy, reencarnacion, tikray
 🐸	jamp’atu, uya
 🐊	kayman
 🐢	miskʼi yakumanta tortuga, tortuga
@@ -2746,6 +2774,7 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🐙	pulpo
 🐚	churu, muyuq, muyusqa churu
 🪸	arrecife, coral nisqa, mamaqucha
+🪼	aguijón, invertebrado, mamaqucha, medusa, rupay
 🐌	churu
 🦋	ch’uspi, k’acha, pillpintu
 🐛	ch’uspi, khuru
@@ -2757,7 +2786,7 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🪳	chʼuspi, cucaracha, parasito
 🕷️	ch’uspi, kusi kusi
 🕸️	kusi kusi, llika
-🦂	Escorpio, escorpio, escorpión, zodiaco
+🦂	Escorpio, escorpión, zodiaco
 🦟	malaria, mosquito, parasito, rupha, unqusqa, virus
 🪰	ismusqa, parasito, paway, unqusqa, uru
 🪱	anelida, hallpa pachapi uru, parasito, sillwi uru, uru
@@ -2773,6 +2802,7 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🌻	girasol, inti, t’ika
 🌼	cerezo, tʼika
 🌷	tika, tulipan, tulipán
+🪻	boca de dragón, jacinto, lavanda, wayta
 🌱	wayna, wayna mallki
 🪴	macetapi sachʼa, majiy, mana ruwanapaq, nutrir, paqariy, sachʼa, wasi
 🌲	sacha, sacha perene rapiwan
@@ -2789,18 +2819,20 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🪹	chusaq qisa, qisa
 🪺	qisa, qisa runtukunawan
 🍄	kʼallnpa, miyu k’allampa
+🪾	chaki, inti raymi, kala, kurku, manam rapiwan, qisa, sacha manam rapiwan, wañuy
 🍇	ruru, uwa, uwas
 🍈	melón, ruru
 🍉	ruru, sandía, watermelon
 🍊	mandarina, ruru, willapi
 🍋	citrico, limun, ruru
+🍋‍🟩	citrico, kichana, kuktil, lima, margarita, mojito, picante, ralladura, ruru, salsa, sour, tequila, tropical, upyana, ácido
 🍌	platanu, ruru
 🍍	piña, ruru
 🥭	mango, ruru, tropical
 🍎	manzana, puka, puka manzana, ruru
-🍏	manzana, qʼumir manzana, q’umir, ruru
+🍏	manzana, qumir, qumir manzana, ruru
 🍐	pera, ruru
-🍑	peach, rurasnu, ruru
+🍑	rurasnu, ruru
 🍒	bayas, cherri, cherris, puka, ruru
 🍓	fresa, ruru
 🫐	anqas, arandano, arandanos, fresa
@@ -2821,7 +2853,12 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🧄	ajo, mikhusqa
 🧅	cebolla, mikhusqa
 🥜	chuqupi, mikhuna, nuez, vegetal
+🫘	legumbre, mikuna, porotokuna, rurun
 🌰	chʼumpi, mallki
+🫚	condimento, jenjibre, jenjibre sapi, sapi
+🫛	arwijakuna, legumbre, ruru, vegetal
+🍄‍🟫	chumpi hongo, espora, hongo, mikuna, natural, pizza, portobello, shiitake, topping, vegano, vegetal, vegetariano, yura
+🫜	ensalada, mikuna, ruru, rábano, rábano nisqa, vegetariano, yura
 🍞	pan, tʼanta
 🥐	croissant, frances, mikhuna, paqarin mikhuna, rollo, tʼanta
 🥖	baguette, baguette tʼanta, frances, mikhuna, tʼanta
@@ -2857,18 +2894,18 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🧂	condimento, kachi, shaker
 🥫	lata, mikhuna latapi
 🍱	bento, bento tawakʼuchu, tawakʼuchu
-🍘	arroz, galleta, galleta arrozmanta
-🍙	Japones, arroz, muyu, muyu arrozwan
+🍘	arroz, galleta, galleta arrozmanta, mikuna
+🍙	Japones, arroz, mikuna, muyu, muyu arrozwan
 🍚	arroz, waykʼusqa, waykʼusqa arroz
-🍛	arroz, arroz currywan, curry
-🍜	chhapukucha, chhapukucha fideoswan, cuenco, fideos, tallarines
+🍛	arroz, arroz currywan, curry nisqa, mikuna
+🍜	fideus, mati, mati fideuswan, mikuna, palillos, ramen
 🍝	espagueti, pasta
 🍠	miski, miski waykʼusqa papa, papa, waykʼusqa
 🍢	brocheta, ch’ampa, kebab, mama quchamanta mikhuna, oden
 🍣	sushi
 🍤	gamba, tempura, thiqtisqa, thiqtisqa yukra, yukra
 🍥	callwa, challwa pastel muyuqwan, masa, pastel, phuyunku
-🥮	[yuèbǐng], killa pastel, otoño, raymi
+🥮	killa pastel, otoño, raymi, yuebing]
 🍡	Japones, brocheta, dango, k’aspi, miski, postre
 🥟	dumpling, empanada, gyōza, jiaozi, pierogi, potsticker
 🥠	galleta samipaq, profecia
@@ -2888,13 +2925,13 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🧁	cupcake, miskʼi, panaderia
 🥧	huntʼa, masa, tarta
 🍫	barra, chocolate, chocolate barra, miski, postre
-🍬	miski, miskʼi, postre
+🍬	miski, postre
 🍭	chupete, miski, miskʼi, postre
 🍮	miski, postre, pudin, raqʼa
-🍯	manka, miski, miskʼi manka, misk’i
-🍼	biberon, biberón, upyana, wawa, wilali
+🍯	barril, manka, miski, miskʼi manka, misk’i, oso
+🍼	biberon, biberón, botella, paqariy, upyana, warma, wawa, wilali
 🥛	qiru, upyana, wilali, wilali qirupi
-☕️	cafe, qʼuñi upyana, q’uñi, te, upyana, wapsi
+☕️	cafe, chai, qʼuñi upyana, q’uñi, te, té, upyana, wapsi
 🫖	qiru, te, te qiru, upyana
 🍵	chhapukucha tepaq mana ninriwan, qiru, te, upyana
 🍶	bar, botella, copa, qiru, sake, upyana
@@ -2906,6 +2943,7 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🍻	anqusay, bar, cerveza, cerveza qirukuna anqusachkan, jumiwa, upyana
 🥂	qiru, qirukuna anqusachkan, raymi, tintinay, upyana
 🥃	licor, qiru, qiru vidriomanta, qirukuna vidriomanta, shot, whisky
+🫗	chusaq, qiru, taqtaspa yaku, upyana
 🥤	jilli, qiru bombillawan, soda
 🧋	perla, phukpu, phukpu te, te, wilali
 🧃	jugo, miskʼi, pajilla, tawakʼuchu, upyana, upyana tawakʼuchu
@@ -2916,13 +2954,15 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🍴	cuchilleria, khuchuna, tenedor, tenedor chaymanta khuchuna, waykʼsqa
 🥄	vajilla, wislla
 🔪	arma, hocho, khuchuna, khuchuna waykʼuypaq, llamkana, waykʼusqa
+🫙	churana, chusaq, condimento, puyñu, qatu
 🏺	Acuario, anfora, jarra, upyana, waykʼusqa, zodiaco
-🌍	Africa, Europa, kawsay pacha, pacha, saywasiqʼi Europa, Africapas Qawachkan
+🌍	Africa, Africapas Qawachkan, Europa, kawsay pacha, pacha, saywasiqʼi Europa, saywasiqʼi Europa, Africapas Qawachkan
 🌎️	America, kawsay pacha, pacha, saywasiqʼi america qawachkan
-🌏	Asia, Australia, kawsay pacha, pacha, saywasiqʼi asia, austrakia qawachkan
+🌏	Asia, Australia, austrakia qawachkan, kawsay pacha, pacha, saywasiqʼi asia, saywasiqʼi asia, austrakia qawachkan
 🌐	kawsay pacha, meridianos, pacha, saywasiqʼi meridianoswan
 🗺️	pacha, pacha saywasiq’i, saywasiq’i
-🗾	Japñon Saywasiqʼi, Japón, saywasiq’i
+🗾	Japón, Japón saywasiqi, sawaysiqi
+🧭	compas, magnetico, navegacion, tarikuynin
 🏔️	chiri, rit’i, rit’i urqupi, urqu
 ⛰️	urqu
 🌋	ariq, erupcion, urqu
@@ -2935,7 +2975,10 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🏟️	estadium
 🏛️	ñawpa, ñawpa wasichiy
 🏗️	hatun wasi wasichiynin, pirqaq
-🪨	rumi
+🧱	ladrillu, pirqa, pirqakuna
+🪨	llasaq, rumi, solido
+🪵	kuru, kuru wasichaypaq
+🛖	chuklla, wasi
 🏘️	wasikuna
 🏚️	saqisqa, saqisqa wasi, wasi
 🏠️	wasi
@@ -2958,7 +3001,8 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🗽	Qhispi kay Wanki, qhispi kay, wanki
 ⛪️	Cristiano, chakana, iglesia, religion
 🕌	Musulman, islam, mezquita, religion
-🕍	sinagoga
+🛕	indu, templo, templo indu
+🕍	Judío, religion, sinagoga, templo
 ⛩️	religion, santuario, sintoismo, sintoismo santuario
 🕋	Musulman, islam, kaaba, religion
 ⛲️	pukyu
@@ -2973,15 +3017,18 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🌉	chaka, chaka tutapi, tuta
 ♨️	q’uñi, q’uñi yaku, t’ikmu, wapsi
 🎠	carrusel, carrusel kawallu, kawallu
+🛝	kusisqa parke, pukllay, resbalin, resbalín nisqa
 🎡	jawka parque, muyu, noria, noria qhatunapi
 🎢	jawka parque, montaña rusa, muyuq
 💈	barbero, poste, poste barberopaq, rutuy
+🎪	circo, circo qatu, qatu
 🚂	ferrocarril, locomotora, motor, puriy, tren
 🚃	carru, electrico, ferrocarril, tren ferrocarrilpaq, trolebus, ñan
 🚄	ferrocarril, shinkansen, tren, utqhay, utqhay tren
-🚅	ferrocarril, shinkansen, tren, utqhay
+🚅	bala tren, ferrocarril, shinkansen, tren, utqay
 🚆	ferrocarril, tren
 🚇️	metro, subterraneo
+🚈	ferrocarril, tren ligero, tren logero
 🚉	estacion, ferrocarril, tren
 🚊	tranvia, trolebus, ñan
 🚝	carru, monorrail
@@ -3000,26 +3047,33 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🚗	auto, carru
 🚘️	auto, carru, qatiq, qatiq carru
 🚙	autocaravana, recreacional, ruwasqa pukllay
+🛻	carru, carru pallaypaq, pallay
 🚚	camión, qupuspa, qupuspa camión
 🚛	articulado caminón
 🚜	carru, tractor
 🏎️	carrera, carrera carrupi, carru
 🏍️	carrera, motocicleta
 🛵	patinador motorwan
+🦽	manual ruedaswan tiyana, yaykurinalla
+🦼	muturwan ruedaswan tiyana, yaykurinalla
+🛺	kikin cales, kikin calesa, tuk tuk
 🚲️	bici, bicicleta
 🛴	jayt’a, patinador, scooter
-🛼	muyuq, patinar
+🛹	patineta, tawla
+🛼	muyuq, patinar, ruedaswan patines
 🚏	autibus, bus, parada autobus, parada autobúspaq, tatichiy
 🛣️	autopista, hatun ñan, ñan
 🛤️	ferrocarril, ferrocarril tren, tren
 🛢️	aceite, tambor, tambor aceitewan
 ⛽️	bomba gasolinera
+🛞	llanta, muyu, muyuy, rueda
 🚨	auto, faro, k’anchay, muyusqa, policia, sirena policia carrumanta
 🚥	kinranpa semaforo, k’anchay, trafico, unancha
 🚦	k’anchay, sayanpa semaforo, trafico, unancha
 🛑	alto, alto unancha, octagonal, unancha
 🚧	kancha, wasichiy
 ⚓️	apachiy, linderuyachiq, llamkana
+🛟	harkasqa, kawsay churaq, kawsay waqaychaq, paway, rescatay, salvavidas anillu
 ⛵️	samaypaq kiti, tiyana, velero, wamp’u, yate
 🛶	canoa, wamp’u
 🚤	utqhay lancha, wamp’u
@@ -3031,6 +3085,7 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🛩️	aeroplano, huchuy latap’isqu, latap’isqu
 🛫	aeroplane, airplane, check-in, departure, departures, lata pʼisqu luqsina
 🛬	aeroplano, chayachkan, chayanakuna, chayaspa, lata pʼisqu chayana, latap’isqu
+🪂	paracaídas, pawaypaq
 💺	silla, tiyana
 🚁	carru, helicoptero
 🚟	ferrocarril, warkhusqa, warkhusqa ferrocarril
@@ -3041,8 +3096,10 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🛸	ovni, platillo volador
 🛎️	botones, chhullupi, chhullupi botonespaq, tampu wasi
 🧳	equipaje
+⌛️	tukusqa arenawan intiwatana
+⏳️	arena, manam tukusqa arenawan, manam tukusqa arenawan intiwatana, pachaq, tukusqa
 ⌚️	inti watana, reloj
-⏰	despertador
+⏰️	despertador
 ⏱️	cronografo, reloj
 ⏲️	pacha, reloj, reloj temporizador
 🕰️	reloj, reloj chimeneapaq
@@ -3063,26 +3120,30 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🕖️	00, 7, 7:00, qanchis
 🕢	qanchis chaymanta kimsa chunkawan
 🕗️	00, 8, 8:00, pusaq
-🕣	pusaq chaymanta kimsa chunkawan
-🕘️	00, 9, 9:00, jisqʼun, jisq’un
-🕤	jisqʼun chaymanta kimsa chunkawan
+🕣	30, 8, 8:30, kimsa chunka, pusaq, pusaq chaymanta kimsa chunkawan, pusaq-kimsa chunkawan, ura
+🕘️	00, 9, 9:00, isquk¡n, jisqʼun, jisq’un, pacha
+🕤	30, 9, 9:30, isqun, jisqʼun, jisqʼun chaymanta kimsa chunkawan, jisqʼun-kimsa chunkawan, kimsa chunka, pacha
 🕙️	00, 10, 10:00, chunka
-🕥	chunka chaymanta kimsa chunkawan
+🕥	10, 10:30, 30, chunka, chunka chaymanta kimsa chunkawan, chunka-kimsa chunkawan, kimsa chunka, pacha
 🕚️	00, 11, 11:00, chunka hukniyuq
-🕦	chunka hukniyuq chaymanta kimsa chunkawan, chunka hukniyuq-kimsa chunkawan
+🕦	11, 11:30, 30, chunka hukniyuq, chunka hukniyuq-kimsa chunkawan, kimsa chunka, pacha
 🌑	killa, tuta, unu Killa
 🌒	chawpi, killa, tukuspa, tukuspa chawpi killa
 🌓	hukñiqi wañu, hukñiqi wañu killa, killa
 🌔	chawpi, chawpi gibosa killa, gibosa, killa
-🌕️	pura killa
+🌕️	hunta, killa, pacha, pura, pura killa
 🌖	chawpi, gibosa, killa, wañu, wañu gibosa killa
 🌗	hukñiqi wañu, killa, qhipa wañu killa
 🌘	chawpi, killa, wañu, wañu killa
-🌙	chawpi killa
+🌙	chawpi, chawpi killa, killa, pacha, ramadan
 🌚	killa, unu killa uya, uya
+🌛	chawpi killa uya, killa, uya
+🌜️	killa, qipa chawpi killa uya, uya
 🌡️	llaphiya, termometro
 ☀️	inti, k’anchay, wach’i
+🌝	chuya, hunta, hunta killa uya, killa, uya
 🌞	inti, inti uyawan, k’anchay, uya
+🪐	anillukunawan planeta, saturnino, saturno
 ⭐️	quyllur
 🌟	k’anchay, k’anchaynin, lliphisqa, lliphisqa quyllur, quyllur
 🌠	quyllur, urmay, utqhay, utqhay quyllur
@@ -3099,34 +3160,36 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🌪️	puyu, wayra, wayrakuna
 🌫️	pukutay, puyu
 🌬️	phukuy, puyu, uya, wayra, wayra uya
-🌀	ciclón
+🌀	ciclón, huracan, tifon
 🌈	kʼuychi, para
 🌂	para, para achiwa, pʼacha, wichqasqa para achiwa
 ☂️	achiwa, para, para achiwa, p’acha
 ☔️	achiwa, para, para achiwa para sutʼukunawan, p’acha, sut’u
 ⛱️	achiwa, inti, para, para achiwa jallp’api
-⚡️	kuraq voltaje
+⚡️	electrico, kuraq voltaje, manchakuypaq, voltaje
 ❄️	chiri, rit’i, rit’i urpu
 ☃️	chiri, rit’i, runa rit’imanta
 ⛄️	chiri, ritʼi urpu mana ritʼiwan, rit’i, runa rit’imanta
 ☄️	cometa, kampu
 🔥	llamkana, nina
 💧	chiri, kusi, miski, sutʼu, sut’u
-🌊	mama qucha, wallch’a, yaku, yaku wallchʼa
+🌊	mama qucha, wallcha, yaku, yaku wallcha
 🎃	halloween, jack, linterna, mathi, raymi
-🎄	Navidad, Navidad sachʼa, raymi, sach’a
+🎄	Navidad, Navidad sacha, raymi, sacha
 🎆	fuegos artificiales, raymi
 🎇	fuegos artificiales, k’anchay, pinchi, raymi
-✨	*, k’anchay, pinchikuna, quyllur
+🧨	dinamita, petardo, tuqyay
+✨️	*, k’anchay, pinchikuna, quyllur
 🎈	glubu, raymi
-🎉	ch’amqaq, confeti, confeti chʼamqaq, raymi
+🎉	chamqaq, confeti, confeti chamqaq, raymi
 🎊	confeti, muyu, muyu confetiwan, raymi
 🎋	Japones, baner, raymi, sach’a, tanabata sachʼa
 🎍	Japones, bambu, pino, pino achhachala, raymi
-🎎	Japonesa urpukuna
-🎏	carpa, carpas wiphala, raymi, wiphala
+🎎	Japonesa, Japonesa urpukuna, raymi, urpu
+🎏	carpa, qawaq, raymi, wipala carpaswan
 🎐	chhullupi wayrapaq, chhulluqi, chuullu, raymi, wayra
-🎑	killa itu qawaypaq
+🎑	killa, killa itu qawaypaq, raymi
+🧧	allinmi kay, puka carta, qullqi, suñay
 🎀	cinta, raymi
 🎁	pʼintusqa suña, p’intusqa, raymi, suña, tawak’uchu
 🎗️	cinta, raymi, yuyarinapaq, yuyarinapaq cinta
@@ -3137,18 +3200,21 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🏅	medalla, pukllaypaq medalla
 🥇	hukñiqi, medalla, medalla 1qi kitipaq, quri
 🥈	iskayñiqi, medalla, medalla 2qi kitipaq, qullqi
-🥉	medalla 3qi kitipaq
+🥉	bronce, kimsañiqi, medalla, medalla 3qi kitipaq
 ⚽️	futbol, futbol pʼulu, p’ulu
 ⚾️	beisbol, p’ulu
+🥎	muyu, softball, softball nisqa
 🏀	aro, basket, p’ulu
 🏐	pukllay, p’ulu, voleibol
 🏈	americano, futbol, futbol americano, p’ulu
 🏉	futbol, p’ulu, rugby, rugby pʼulu
 🎾	p’ulu, raqueta, tenis
+🥏	pawasqa disku, tukuq
 🎳	bolos, pukllay, p’ulu
 🏏	cricket pukllay, masu, pukllay, p’ulu
 🏑	hockey, hockey chʼampapi, kampu, k’aspi, pukllay, p’ulu
 🏒	chhullunka, hockey, hockey ritʼipi, k’aspi, puck, pukllay
+🥍	gol, kaspa, lacrosse nisqa, pulu
 🏓	masu, paleta, ping pong, pukllay, p’ulu, tenis tawla
 🏸	badminton, pukllay, p’isqu, raqueta
 🥊	boxeopaq, guante, guante boxeopaq
@@ -3157,131 +3223,220 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 ⛳️	golf, t’uqu, wiphala tʼuqupi
 ⛸️	chhullunka, chhullunka patinar, patinar
 🎣	callwa, caña challawaypaq challwawan, poste
+🤿	buceo, buceo lentekuna
 🎽	atletico, camiseta, camiseta phawaypaq, faja, phawachkan
 🎿	esqui, esquis, rit’i
 🛷	trineo
 🥌	muyusqa rumi, pukllay, rumi
-🎯	diana
-🎱	billar
+🎯	chiqaq chusu, dardu, diana, pukllay
+🪀	pukllana, yoyo
+🪁	cometa nisqa, paway
+🔫	arma, llamkana, pistola, revolver, yaku, yaku pistola
+🎱	8, billar, pukllay, pusaq
 🔮	fantasia, hadas willana, llamkana, muyu qhispillu, p’ulu, qhispillu, qulli
+🪄	magica, magica warra
 🎮️	patachaq, pukllay, video pukllay
 🕹️	palanca patachaqpaq, pukllay, video pukllay
 🎰	casinopaq maquina, kampu, pukllay
 🎲	dado, pukllay, wañuy
+🧩	parti, patma, rompecabeza parti, rompecabezas
+🧸	peluche, pukllana
+🪅	piñata, raymi
+🪩	disco, muyusqa espejokuna, raymi
+🪆	qisa, qisa urpukuna, rusia, urpu
 ♠️	espada tarhita, pukllay, tarhita
 ♥️	pukllay, sunqu tarhita, tarhita
 ♦️	diamante tarhita, pukllay, tarhita
 ♣️	pukllay, tarhita, trebol tarhita
+♟️	ajedres, peon, peón
 🃏	joker, pukllay, tarhita
 🀄️	mahjong, mahjong puka dragon, puka, pukllay
 🎴	Japones, pukllachkan, pukllay, tarhita, tʼika naipes, t’ika
-🎭️	artes escenicas
+🎭️	artes escenicas, arti, maskara, teatro
 🖼️	kancha, kanchapi rikchay, llimpi, museo, rikchay, t’iktu
 🎨	llimpi, museo, paleta, paleta llimpiq, t’iktu
-👓️	lentes
-🕶️	lentes intipaq
-👔	corbata
-👕	camisa
-👖	jeans
-🧣	chalina
-🧤	guantes
-🧥	abrigo
-🧦	medias
-👗	aqsu
-👘	kimono
-👙	bikini
-👚	warmip pʼachan´
-👛	pulcera
-👜	bolso
-👝	cartera
-🛍️	ratina qamaña
-👞	runap phapatun
-👟	phawasqa phapatu
+🧵	hilo, qisa
+🪡	hilo, sutura, uku, uku hilopaq
+🧶	crochet, pelota, punto, watu
+🪢	arwiy, cordel, nudo, qiwiy, watay, watu
+👓️	lentes, lentes intipaq, lenteskuna, pacha, ñawi
+🕶️	lentes, lentes intipaq, yana, ñawi
+🥽	goggles, goggles nisqa, naryay, ñawipaq harkaynin
+🥼	cientifico, experimentu, hampiq, laboratorio pacha, laboratoriomanta pacha
+🦺	chaleku harkaypaq, emergencia, harkay, pacha
+👔	corbata, pacha
+👕	camisa, pacha
+👖	jeans, pacha
+🧣	chalina, kunka
+🧤	guantes, maki
+🧥	abrigo, pacha
+🧦	medias, pacha
+👗	aqsu, pacha
+👘	kimono, pacha
+🥻	aqsu, pacha, sari
+🩱	naryaypaq pacha, pacha
+🩲	huk pacha, naryaypaq, yakupaq pacha
+🩳	naryaypaq, uchuy pantalon
+👙	bikini, pacha
+👚	pacha, warmi, warmipa pachan
+🪭	abanico, rupay, tusuy
+👛	pacha, pulcera, qullqi
+👜	bolso, manilla, pacha
+👝	cartera, pacha, qipi
+🛍️	qamaña, rantikuna, ratina qamaña, samana wasikuna
+🎒	mochila, qamaña, qipi, yachaywasi
+🩴	sandalia, sandalia playapaq
+👞	pacha, qari, runapa papatun
+👟	atletiku, pacha, pawasqa papatu
+🥾	acampar, bota, saqiypaq bota
+🥿	balet papatu, planu papatu
 👠	tacones phapatu
 👡	warmip sandalian
 👢	warmip botan
-👑	pillu
-👒	warmip chikun
-🎩	hanaq chiku
-🎓️	graduacion chiku
-🧢	gorra
+🪮	Afro, chukcha, chukchapaq peine, peine
+👑	corona nisqa, pillu, reina, rey
+👒	pacha, sombreru nisqa, warmi, warmip chikun, warmipa chikun
+🎩	hanaq, hanaq chiku, pacha
+🎓️	gorra, graduacion, graduacion chiku, pacha, raymi, sumbriru
+🧢	baseball gorra, gorra, gorra nisqa
+🪖	armada, casco, gerrero, militar, militar casco nisqa, soldado
 ⛑️	yanapaq llamkaqmanta casco
-📿	rosario
+📿	collar, pacha, religion, rezar, rosario
 💄	llimpʼi simipaq
 💍	siwi
 💎	gema
 🔇	chʼin altavoz
-🔈️	altavoz pisi chanrawan
-🔉	altavoz chawpi chanrawan
-🔊	altavoz hatun chanrawan
-📢	altoparlante
-📣	megáfono
+🔈️	altavoz pisi chanrawan, qapya
+🔉	altavoz chawpi chanrawan, chawpi
+🔊	altavoz hatun chanrawan, hatun
+📢	altoparlante, hatun, riqsisqa maypi kasqan
+📣	kusirikuy, megáfono, megágono nisqa
 📯	chakipaq waqra, chaski, chaski wasi, waqra
 🔔	kampana
-🔕	chʼin chhullupi
-🎼	partitura
-🎵	notas musical
-🎶	notas musicales
+🔕	campana, chin, chin warrawan, chʼin chhullupi, michakuy, suyariy
+🎼	chusukuna, partitura, takiy
+🎵	nota, nota musical, notas musical, takiy
+🎶	nota, notas, notas musicales, takiy
 🎙️	estudio, micro, microfono, microfono estudiomanta, takiy
 🎚️	kuyuq, kuyuq ñiqi, takiy, ñiqi
 🎛️	patachaq, perillas, perillas patachaqpaq, takiy
-🎤	micrófono
-🎧️	audifono
-📻️	radio
-🎷	saxofono
-🎸	guitarra
-🎹	teclas musicales
-🎺	trompeta
-🎻	violin
-🥁	tambor
-📱	apaykachana telefono
-📲	apaykachana telefono wachʼiwan
-☎️	fono
-📞	auricular telefonomanta
+🎤	karaoke, micrófono
+🎧️	audifono, auricular
+📻️	radio, video
+🎷	instrumento, saxofon, takiy
+🪗	acordion, concertina, tawa kuchu
+🎸	guitarra, instrumento, takiy
+🎹	instrumento, piano, takiy, teclas musicales, ñitina
+🎺	instrumento, takiy, trompeta
+🎻	instrumento, takiy, violin
+🪕	banjo, cadenaswan, takiy
+🥁	baquetas, takiy, tambor
+🪘	atipay, conga, takiy, tambor, tambor kullumanta
+🪇	cascabel, instrumento, kuyuy, maracas, percusion, takiy
+🪈	flauta, graway, kullu, pipa, takiy
+📱	apaykachana, apaykachana telefono, celular, telefono
+📲	apaykachana telefono wachiwan, apaykachana telefono wachʼiwan, celular, chaskiy, telefono, wachi
+☎️	fono, telefono
+📞	auricular telefonomanta, chaskiq, fono, telefono
 📟️	tariq
-📠	maquina faxpaq
+📠	fax, maquina faxpaq
 🔋	kallpa waqaychaq
-🔌	enchufe
+🪫	electronico, pisi kallpa waqaychaq
+🔌	electricidad, enchufe, kallpa
+💻️	computadora, pc, personal, sapalla
 🖥️	computadora, hanpara, hanpara computadora
-🖨️	impresora
-⌨️	ñitina
-🖱️	mouse computadorapaq
-🖲️	muyu mousepi
-💽	computadora ruyru
-💾	disquete
-💿️	cd, computadora, disku, optico, ruyru
-📀	dvd
-🎥	camara cinepaq
-🎞️	kanchakuna peliculamanta
-📽️	proyector cinepaq
-🎬️	claqueta
-📺️	television
-📷️	camara
-📸	camara flash kaqwan
-📹️	videocamara
-📼	videocaset
-🕯️	vela
-💡	kʼancha
-🔦	flash
-🏮	izakaya linterna
-📔	yachaykunapaq pʼanqa kʼacha rapiwan
+🖨️	computadora, impresora
+⌨️	computadora, ñitina
+🖱️	computadora, mouse computadorapaq
+🖲️	computadora, muyu mousepi
+💽	computadora, computadora ruyru, optico, ruyru, uchy disku
+💾	computadora, disquete, muyu
+💿️	CD, computadora, disku, optico
+📀	Blu-ray, DVD, computadora, disku, dvd, optico
+🧮	abaco, tantiyay
+🎥	camara, camara cinepaq, cine, pelikula
+🎞️	cine, kanchakuna, kanchakuna peliculamanta, pelicula, pelikula
+📽️	cine, pelicula, pelikula, proyector, proyector cinepaq, video
+🎬️	claqueta, pelikula
+📺️	television, tv, video
+📷️	camara, video
+📸	camara, camara flash kaqwan, flash, video
+📹️	camara, video, videocamara
+📼	vhs, video, videocaset
+🔍	chuya, llamkana, lupa, lupa lluqiman, maskay
+🔎	chuya, llamkana, lupa, lupa pañaman, lupa pañawan, maskay
+🕯️	kanchay, vela
+💡	chuya, comic, electrico, kancha, kʼancha, yuyay
+🔦	antorcha, chuya, electrico, flash, llamkana
+🏮	chuya, izakaya linterna, linterna, puka, warra
+🪔	aceite, diya, diya lampara, lampara
+📔	kacha rapiwan, panqa, sumaq, yachaykunapaq panqa kacha rapiwan, yachaykunapaq pʼanqa kʼacha rapiwan, yachaykunapaq qillqa
 📕	p’anqa, wichqasqa, wichqasqa pʼanqa
 📖	kichasqa pʼanqa, kichay, p’anqa
 📗	p’anqa, qʼumir pʼanqa, q’umir
 📘	anqas pʼanqa, anqas p’anqa
 📙	p’anqa, willapi, willapi pʼanqa
-📚️	pʼanqakuna
+📚️	panqa, panqakuna, pʼanqakuna
 📓	huchuy qillqanacha
-📒	pʼanqa siwukunawan
-📃	llinkʼu rapi
-📜	suchuririy
-📄	hanaqman rapi
-📰	periodico
-🗞	periodico ch’umisqa
+📒	panqa siwukunawan, pʼanqa siwukunawan, yachaykunapaq qillqa
+📃	llinku, llinkʼu rapi, qillqa willakuq, rapi
+📜	rapi, suchuririy, suchuriy
+📄	hanaqman rapi, qillqa willakuq, rapi
+📰	periodico, rapi, yachaykuna
+🗞	muyusqa, periodico, periodico chumisqa, periodico ch’umisqa, rapi, yachaykuna
 📑	chinpuq, chinpuy, qawachiqkuna, rapi chinpuq, rapi chinpuqkunawan
 🔖	chinpuq
 🏷️	sutichaq
+💰️	qipi, qulli qipi, qullqi
+🪙	metal, moneda, paqu, qullqi, tesoro
+💴	billete, chanin, qullqi, yen, yen billete
+💵	billete, chanin, dolar, dolar billete, qullqi
+💶	billete, chanin, euro, euro billete, qullqi
+💷	billete, chanin, libras esterlinas, libras esterlinas billete, qullqi
+💸	billete, chanin, paway, qullqi, qullqi raprakunawan, raprakuna
+💳️	mañay, qullqi, qullqi mañaypa tarjetan, tarhita
+🧾	chaskiy, contabilidad, evidencia, prueba, recibo
+💹	qullqi, siqisiqi, tawa kuchu yaparispa yenwan, tawakuchu, yapariy, yen
+✉️	chaski, correo electronico, karta
+📧	chasi, correo electronico, qillqa
+📨	carta, chakiy, correo electronico, yaykumuq, yaykumuq carta
+📩	carta, carta wachiwan, correo electronico, lluqsina, wachi
+📤️	apachisqa, carta, chaski, kuchu, lluqsina, lluqsina wandiha, wandiha
+📮	chaski churana
+✏️	qillqana
+✒️	pumilla, qillqana, yana pumilla
+🖋️	fuente, fuente qillqana, qillqana
+🖊️	tintawan qillqana
+🖌️	pincel, pintura
+🖍️	crayon, crayon nisqa
+📝	qillqa, qillqana
+📎	clip rapipaq
+🖇️	tinkisqa clipkuna rapipaq
+🔒️	harkana, harkasqa, wichqasqa
+🔑	kichana
+🗝️	ñawpa kichana
 💣️	bomba, comic
+🔗	tinkina, tinkiy
+⛓‍💥	cadena, pakisqa, pakisqa cadena, pakiy, puños
+⛓️	cadena, cadenakuna
+🪝	gacho, gancho, muyuna, rantipaq kiti, suwa
+🧰	ajedrez, llamkana, llamkanakuna huñusqa, mecanico, tawa kuchu
+🧲	atraccion, herradura kawallumanta, iman, magnetu
+🪜	escalera, escalera nisqa, lluqay, yupi
+🔬	microscopio
+🔭	telescopio
+🚪	punku
+🛗	elevador, siqay, yaykuna
+🪞	espejo
+🚬	cigarru, fumay
+⚰️	tawakuchu wañuypaq, wañuy
+🪦	cementerio, rumi wañusqakunapaq, tumba
+⚱️	funeral, urna, urna funeraria, wañuy
+🧿	nazar, nazar amuleto, talisman
+🪬	Fatima, Maria, Miriam, amuleto, hamsa, harkaynin, maki
+🗿	estatua, moai, moyai, uya
+🪧	pankarta, qawaypaq, unancha
+🪪	DNI, harkaynin, licencia, riqsichiq tarhita, riqsichiqkuna
 🏧	ATM unancha, atm, banco, cajero, kikichansqa
 🚮	chuqaq, chuqasqa qupa, chuqasqa qupapi unancha
 🚰	potable, potable yaku unancha, upyana, yaku
@@ -3328,8 +3483,8 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🔙	QIPA wachi, qipa, wachi
 🔚	TUKUY wachi, tukuy, wachi
 🔛	KAWSARICHIY! wachi, chimpu, kawsarichiy, wachi
-🔜	QATIQ wachi, UTQAY wachi, utqay, wachi
-🔝	HANAN wachi, HANAQ wachi, hanan, hanaq, wachi
+🔜	QATIQ wachi, utqay, wachi
+🔝	HANAN wachi, hanan, hanaq, wachi
 🛐	muchay kiti, munaynin, religion
 ⚛️	ateismo, atomo, atomo unancha
 🕉️	Hindu, om, religion
@@ -3342,6 +3497,7 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 ☮️	qhasi kay, qhasi kay unancha
 🕎	candelabro, candelero, menorah, religion
 🔯	fortuna, quyllur, suqta ñawpinkunawan quyllur
+🪯	Sikh, khanda, religion
 ♈️	Aries, carnero, zodiaco
 ♉️	Tauro, buey, toro, zodiaco
 ♊️	Geminis, wispa, zodiaco
@@ -3349,12 +3505,12 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 ♌️	Leo, leon, zodiaco
 ♍️	Virgo, zodiaco
 ♎️	Libra, aysana, justicia, zodiaco, ñiqichanakuna
-♏️	Escorpio, Escorpion, escorpio, escorpion, zodiaco
+♏️	Escorpio, Escorpion, zodiaco
 ♐️	Sagitario, arquero, zodiaco
 ♑️	Capricornio, chiwu, zodiaco
 ♒️	Acuario, soporte, yaku, zodiaco
 ♓️	Piscis, challwa, zodiaco
-⛎	Ofiuco, katari, soporte, zodiaco
+⛎️	Ofiuco, katari, soporte, zodiaco
 🔀	chakatasqa, chakatasqa wachʼikuna ñitina, chaqrusqa taqikuna ñitina, wachi
 🔁	kutipay, kutipay ñitina, ura qatichkanku, wachi
 🔂	huklla, huklla kutipay ñitina, kutipay huk ñitina, ura qatichkanku, wachi
@@ -3377,22 +3533,23 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🔅	kanchaynin, llimpiy, llimpiy ñitina, lliphiy ñitina, uchuy
 🔆	kanchay, kanchay ñitina, kanchaynin, kʼanchay ñitina
 📶	antena, antena siqikunawan, apaykachana, pukullu, siqikuna, telefono
+🛜	computadora, internet, internetniyuqwan, llika
 📳	apaykachana, mudu, pukullu, telefono, telefunu, vibracion, vibracion mudu
 📴	apaykachana, apaykachana telefono wañuchiy, muvil, telefunu, wañuchiy telefono
 ♀️	warmi, warmi unancha
 ♂️	runa, tata unancha
 ⚧️	transgenero, transgenero unancha
 ✖️	chinkachiy, mirachiy, multiplicacion, unancha, x
-➕	+, matematicas, unancha, yapana
-➖	-, matematicas, qhichuna, qichuna, unancha, −
-➗	matematicas, rakina, rakiy, unancha, ÷
+➕️	+, matematicas, unancha, yapana
+➖️	-, matematicas, qhichuna, qichuna, unancha, −
+➗️	matematicas, rakina, rakiy, unancha, ÷
 🟰	tinki, tinki unancha, unancha
 ♾️	lliw, mana tukusqa, wiñaypaq, wiñaypaq wiñaynin
 ‼️	!, !!, bangbang, chimpu, iskay qapariq chimpu, iskay qapariq yupiy, qapariq
-⁉️	!, !?, ?, chimpu, interrobang, qapariq, qapariq tapuna chinpuy, tapuna
+⁉️	!, !?, ?, chimpu, qapariq, qapariq tapuna chinpuy, tapuna
 ❓️	?, chimpu, puka tapuna chimpu, punctuacion, tapuna
-❔	?, chimpu, punctuacion, siqisqa, tapuna, yuraq tapukuna yupiy, yuraq tapuna yupiy
-❕	!, chimpu, punctuacion, qapariq, siqisqa, yuraq qapariq yupiy
+❔️	?, chimpu, punctuacion, siqisqa, tapuna, yuraq tapukuna yupiy, yuraq tapuna yupiy
+❕️	!, chimpu, punctuacion, qapariq, siqisqa, yuraq qapariq yupiy
 ❗️	!, chimpu, puka qapariq yupiy, punctuacion, qapariq
 〰️	muyuq, muyuq rakiqch’iku, puntuacion, rakiqchiku
 💱	banco, qullqi, tikrasqa, tikrasqa qullqi
@@ -3404,13 +3561,13 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 📛	nina, nina rawra, rawra
 🔰	Japones simi, Japones unancha ñawpaqpaq, cheuron, japones unancha qallariqkunapaq, rapi, ñawpaq
 ⭕️	hatun, muyu, o, puka, ukun puka muyu
-✅	chimpu, chimputa chiqaqchay ñitina, chiqaqchay, ñitina, ✓
+✅️	chimpu, chimputa chiqaqchay ñitina, chiqaqchay, ñitina, ✓
 ☑️	chiqaqchay, chiqaqchay tawakuchu chimpuwan, tawakuchu, ✓
 ✔️	chimpu, chiqaqchay, chiqaqchay chimpu, ✓
-❌	chakana chinpu, chakata, chimpu, chinkachiy, mirachina, mirachiy, x, ×
-❎	chakana chinpu ñitina, chinpu, tawakuchu, x, ×
-➰	bucle, lazo, muyusqa
-➿	bucle, iskay, iskay bucle, lazo
+❌️	chakana chinpu, chakata, chimpu, chinkachiy, mirachina, mirachiy, ×
+❎️	chakana chinpu ñitina, chinpu, tawakuchu, x, ×
+➰️	bucle, lazo, muyusqa
+➿️	bucle, iskay, iskay bucle, lazo
 〽️	alternancia patma unancha, chimpu, patma
 ✳️	*, asterisco, pusaq siqiwan asterisco
 ✴️	*, pusaq ñawpikunawan quyllur, quyllur
@@ -3497,6 +3654,8 @@ _	rakichikuq, siqi, siqichay, uran rakichikuq, uran rakichikuqpi, uran siqi
 🏴	qinquykachay, yana whipala
 🏳️	qinquykachay, yuraq whipala
 🏳‍🌈	k’uychi whipala
+🏳‍⚧	llamka, transgenero, transgenero whipala, whipala, yuraq, yuraq anqas
+🏴‍☠	Jolly Roger, chanin, pirata, pirata whipala, suway
 ¤	Mana riqsisqa Qullqi
 ¢	centavo
 $	USD, dolar, peso, qullqi
